@@ -207,11 +207,18 @@ jobs:
           (cd web-stories-dev && zip -mrT web-stories-dev.zip web-stories && mv web-stories-dev.zip ../ )
         working-directory: ${{ github.ref }}
 
-      - name: Setup Cloud SDK
+      # Install gcloud, do not specify authentication.
+      - name: Set up Google Clooud SDK
         uses: google-github-actions/setup-gcloud@v0.6.0
         with:
           project_id: ${{ secrets.GCP_PROJECT_ID }}
-          service_account_key: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Authenticate to Google Cloud
+        uses: google-github-actions/auth@v0
+        with:
+          #service_account_key:# ${{ secrets.GCP_SA_KEY }}
+          workload_identity_provider: 'projects/123456789/locations/global/workloadIdentityPools/my-pool/providers/my-provider'
+          service_account: 'my-service-account@my-project.iam.gserviceaccount.com'
 
       - name: Upload dev build to GCS
         run: gsutil cp -r web-stories-dev.zip gs://web-stories-wp-github-artifacts/${{ github.ref }}/web-stories-dev.zip
