@@ -14,11 +14,14 @@
  * limitations under the License.
  */
 
-export const PAGE_RATIO: number = 2 / 3;
-export const PAGE_WIDTH = 412;
-export const PAGE_HEIGHT = 618;
+// ANKIT HORIZONTAL 
 
-export const FULLBLEED_RATIO: number = 9 / 16;
+export const PAGE_RATIO: number = 16 / 9;
+export const PAGE_WIDTH = 1280;
+export const PAGE_HEIGHT = 720;
+
+// Aspect ratio change horizontal
+export const FULLBLEED_RATIO: number = 16 / 9;
 
 export const FULLBLEED_HEIGHT: number = PAGE_WIDTH / FULLBLEED_RATIO;
 export const DANGER_ZONE_HEIGHT: number = (FULLBLEED_HEIGHT - PAGE_HEIGHT) / 2;
@@ -27,4 +30,4 @@ export const DANGER_ZONE_HEIGHT: number = (FULLBLEED_HEIGHT - PAGE_HEIGHT) / 2;
 export const DEFAULT_EM: number = PAGE_HEIGHT * 0.02186;
 
 // Default device pixel ratio.
-export const DEFAULT_DPR = 0.5;
+export const DEFAULT_DPR = 0.1;
