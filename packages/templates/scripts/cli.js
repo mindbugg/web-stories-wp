@@ -85,7 +85,7 @@ fs.mkdirSync(screenshotsPath, { recursive: true });
     const storyId = editorUrl.split('post=')[1].split('&')[0];
 
     const previewUrl = `http://localhost:8899/?post_type=web-story&p=${storyId}&preview=true`;
-
+    console.log(`Preview URL: ${previewUrl}`);
     // Need to click preview for the story to save and be loadable in a second window.
     // This is because the "Save" button is disabled at this point.
     // Also not using the tab opened by the preview button and instead assembling `pagePreview`
@@ -97,8 +97,8 @@ fs.mkdirSync(screenshotsPath, { recursive: true });
     // the viewport height decides the size of the preview, we're aiming to maintain our recommended 853px height, we get the closest to this by setting the viewport height to 1145
     const pagePreview = await browser.newPage();
     await pagePreview.setViewport({
-      width: 640,
-      height: 854, // 853 is a breakpoint and will shrink the preview to height of 630px
+      width: 1280,
+      height: 720, // 853 is a breakpoint and will shrink the preview to height of 630px
       deviceScaleFactor: 1,
     });
     // set prefers-reduced-motion to get story without animations so screenshots are complete page views
@@ -122,9 +122,9 @@ fs.mkdirSync(screenshotsPath, { recursive: true });
         `amp-story-page:nth-child(${currentPage}) .page-safe-area`
       );
       // Speed up animations, this in tandem with emulating reduced motion will account for fade in content
-      await pagePreview._client.send('Animation.setPlaybackRate', {
-        playbackRate: 2,
-      });
+      // await pagePreview._client.send('Animation.setPlaybackRate', {
+      //   playbackRate: 2,
+      // });
 
       await templatePageSafeArea.screenshot({
         path: `${screenshotsPath}${templateName}/${currentPage}.png`,

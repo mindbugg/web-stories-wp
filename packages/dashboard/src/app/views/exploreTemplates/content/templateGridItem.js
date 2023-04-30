@@ -104,18 +104,7 @@ const TemplateGridItem = forwardRef(
               data-template-slug={slug}
             >
               <TemplateDisplayContent>
-                <SeeDetailsButton
-                  ariaLabel={sprintf(
-                    /* translators: %s: template title.*/
-                    __('Go to detail view of %s', 'web-stories'),
-                    title
-                  )}
-                  onClick={() => onSeeDetailsClick(id, title)}
-                  className={FOCUS_TEMPLATE_CLASS}
-                  tabIndex={tabIndex}
-                >
-                  {TEMPLATES_GALLERY_ITEM_CENTER_ACTION_LABELS[status]}
-                </SeeDetailsButton>
+                
 
                 {onCreateStory && (
                   <Button
