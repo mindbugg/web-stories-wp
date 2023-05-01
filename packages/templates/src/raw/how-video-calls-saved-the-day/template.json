@@ -1,23 +1,18 @@
 {
-  "version": 46,
+  "version": 47,
   "pages": [
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "isDefaultBackground": true,
           "type": "shape",
@@ -25,106 +20,34 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -146,20 +69,10 @@
             }
           },
           "fontSize": 56,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"font-weight: 500; color: #3a3a3a\">How</span>\n<span style=\"font-weight: 500; color: #3a3a3a\">Video Calls</span>\n<span style=\"font-weight: 500; color: #3a3a3a\">Saved the Day</span>",
           "borderRadius": {
@@ -169,72 +82,87 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 521,
-          "y": 12,
+          "x": 43,
+          "y": 10,
           "width": 317,
           "height": 236,
           "id": "fa12a7c8-c985-459f-9c8e-401a76007576"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 183,
-          "y": 259,
-          "width": 372,
-          "height": 264,
-          "sticker": {
-            "type": "videoCallsBrowserIcon"
-          },
+          "x": -231,
+          "y": 295,
+          "width": 287,
+          "height": 204,
+          "sticker": { "type": "videoCallsBrowserIcon" },
           "id": "aecd13c7-4abe-420c-bff8-1723d0adb3e0",
           "groupId": "f3f8ba78-47a0-4c12-8e45-a55263db974d"
         },
         {
+          "x": -224,
+          "y": 322,
+          "id": "323e1d16-d1b6-4256-beb8-facf11a6a2df",
+          "basedOn": "d10b538c-f14a-4c98-81c1-29a7d82e687c",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "type": "image",
+          "resource": {
+            "type": "image",
+            "mimeType": "image/png",
+            "creationDate": "2021-05-25T10:30:56",
+            "baseColor": "#c3b4b4",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page01_image02.jpg",
+            "width": 677,
+            "height": 720,
+            "posterId": 0,
+            "id": 0,
+            "alt": "Woman using macbook",
+            "sizes": [],
+            "isOptimized": false,
+            "isExternal": true
           },
+          "width": 278,
+          "height": 175,
+          "scale": 100,
+          "focalX": 49.94290127731412,
+          "focalY": 43.36426077894482,
+          "mask": { "type": "rectangle" },
+          "groupId": "f3f8ba78-47a0-4c12-8e45-a55263db974d"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 733,
-          "y": 259,
-          "width": 363,
-          "height": 264,
-          "sticker": {
-            "type": "videoCallsBrowserIcon"
-          },
+          "x": 194,
+          "y": 295,
+          "width": 280,
+          "height": 204,
+          "sticker": { "type": "videoCallsBrowserIcon" },
           "id": "35934601-79e9-450b-94f2-72a239dee8ff",
           "groupId": "6af439e2-d568-4f3a-b21a-ac7bf4b1a0d2"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-05-25T10:27:52",
             "baseColor": "#d4d0cf",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page01_image01.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page01_image01.jpg",
             "width": 1280,
             "height": 720,
             "posterId": 0,
@@ -244,125 +172,51 @@
             "isOptimized": false,
             "isExternal": true
           },
-          "x": 736,
-          "y": 294,
-          "width": 360,
-          "height": 227,
+          "x": 196,
+          "y": 322,
+          "width": 278,
+          "height": 175,
           "scale": 142,
           "focalX": 51.87177988223175,
           "focalY": 45.341347848667645,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "id": "d10b538c-f14a-4c98-81c1-29a7d82e687c",
           "groupId": "6af439e2-d568-4f3a-b21a-ac7bf4b1a0d2"
         },
         {
-          "x": 203,
-          "y": 602,
+          "x": 48,
+          "y": 559,
           "id": "46740eba-44b0-4afb-96d3-d8c645de91b6",
           "basedOn": "fa12a7c8-c985-459f-9c8e-401a76007576",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "HIGHLIGHT",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -383,14 +237,8 @@
               "lGap": 0
             }
           },
-          "fontSize": 25,
-          "backgroundColor": {
-            "color": {
-              "r": 58,
-              "g": 58,
-              "b": 58
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 58, "g": 58, "b": 58 } },
           "lineHeight": 1.4,
           "textAlign": "left",
           "padding": {
@@ -409,147 +257,115 @@
             "bottomLeft": 2
           },
           "width": 317,
-          "height": 82
-        },
-        {
-          "x": 192,
-          "y": 294,
-          "id": "323e1d16-d1b6-4256-beb8-facf11a6a2df",
-          "basedOn": "d10b538c-f14a-4c98-81c1-29a7d82e687c",
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "type": "image",
-          "resource": {
-            "type": "image",
-            "mimeType": "image/png",
-            "creationDate": "2021-05-25T10:30:56",
-            "baseColor": "#c3b4b4",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page01_image02.jpg",
-            "width": 677,
-            "height": 720,
-            "posterId": 0,
-            "id": 0,
-            "alt": "Woman using macbook",
-            "sizes": [],
-            "isOptimized": false,
-            "isExternal": true
-          },
-          "width": 360,
-          "height": 227,
-          "scale": 100,
-          "focalX": 49.94290127731412,
-          "focalY": 43.36426077894482,
-          "mask": {
-            "type": "rectangle"
-          },
-          "groupId": "f3f8ba78-47a0-4c12-8e45-a55263db974d"
+          "height": 58
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 662,
-          "y": 333,
-          "width": 145,
-          "height": 65,
-          "sticker": {
-            "type": "videoCallsTooltip"
-          },
+          "x": 139,
+          "y": 352,
+          "width": 112,
+          "height": 50,
+          "sticker": { "type": "videoCallsTooltip" },
           "id": "40a6f116-13f9-4091-b364-9ae673d43f60",
           "groupId": "a75a32db-67d1-4071-b7da-7d39b8f28830"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Roboto",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              300,
-              400,
-              500,
-              700,
-              900
-            ],
-            "styles": [
-              "italic",
-              "regular"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 300, 400, 500, 700, 900],
+            "styles": ["italic", "regular"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [1, 100],
+              [0, 300],
+              [1, 300],
+              [0, 400],
+              [1, 400],
+              [0, 500],
+              [1, 500],
+              [0, 700],
+              [1, 700],
+              [0, 900],
+              [1, 900]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 2048,
+              "asc": 1900,
+              "des": -500,
+              "tAsc": 1536,
+              "tDes": -512,
+              "tLGap": 102,
+              "wAsc": 1946,
+              "wDes": 512,
+              "xH": 1082,
+              "capH": 1456,
+              "yMin": -555,
+              "yMax": 2163,
+              "hAsc": 1900,
+              "hDes": -500,
+              "lGap": 0
+            }
+          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "lineHeight": 1.5,
+          "textAlign": "center",
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
+          "type": "text",
+          "content": "<span style=\"text-transform: uppercase\">Hey!!!</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "x": 151,
+          "y": 365,
+          "width": 44,
+          "height": 19,
+          "id": "e8c24d48-b29d-4948-9cbd-dbc0c9b3fbc3",
+          "groupId": "a75a32db-67d1-4071-b7da-7d39b8f28830"
+        },
+        {
+          "x": 216,
+          "y": 363,
+          "id": "587f4a17-7803-45a3-8edf-eb12dd3a704b",
+          "basedOn": "e8c24d48-b29d-4948-9cbd-dbc0c9b3fbc3",
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Roboto",
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 300, 400, 500, 700, 900],
+            "styles": ["italic", "regular"],
+            "variants": [
+              [0, 100],
+              [1, 100],
+              [0, 300],
+              [1, 300],
+              [0, 400],
+              [1, 400],
+              [0, 500],
+              [1, 500],
+              [0, 700],
+              [1, 700],
+              [0, 900],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -571,151 +387,10 @@
             }
           },
           "fontSize": 20,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.5,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
-          "type": "text",
-          "content": "<span style=\"text-transform: uppercase\">Hey!!!</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "x": 677,
-          "y": 349,
-          "width": 57,
-          "height": 25,
-          "id": "e8c24d48-b29d-4948-9cbd-dbc0c9b3fbc3",
-          "groupId": "a75a32db-67d1-4071-b7da-7d39b8f28830",
-          "marginOffset": 6.5625
-        },
-        {
-          "x": 762,
-          "y": 347,
-          "id": "587f4a17-7803-45a3-8edf-eb12dd3a704b",
-          "basedOn": "e8c24d48-b29d-4948-9cbd-dbc0c9b3fbc3",
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Roboto",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              300,
-              400,
-              500,
-              700,
-              900
-            ],
-            "styles": [
-              "italic",
-              "regular"
-            ],
-            "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                900
-              ]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 2048,
-              "asc": 1900,
-              "des": -500,
-              "tAsc": 1536,
-              "tDes": -512,
-              "tLGap": 102,
-              "wAsc": 1946,
-              "wDes": 512,
-              "xH": 1082,
-              "capH": 1456,
-              "yMin": -555,
-              "yMax": 2163,
-              "hAsc": 1900,
-              "hDes": -500,
-              "lGap": 0
-            }
-          },
-          "fontSize": 25,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "lineHeight": 1.5,
-          "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "🙂",
           "borderRadius": {
@@ -725,43 +400,16 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 26,
-          "height": 30,
-          "marginOffset": 8.203125,
+          "width": 20,
+          "height": 23,
+          "marginOffset": 6.5625,
           "groupId": "a75a32db-67d1-4071-b7da-7d39b8f28830"
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 191,
-          "b": 11
-        }
-      },
+      "animations": [],
+      "backgroundColor": { "color": { "r": 255, "g": 191, "b": 11 } },
       "type": "page",
       "id": "a2b16ddc-2786-458a-a8e3-8ad0cd34aa31",
-      "animations": [
-        {
-          "id": "4bc1e1cb-57cf-4bb6-896a-808668dfcc97",
-          "type": "effect-fly-in",
-          "targets": [
-            "fa12a7c8-c985-459f-9c8e-401a76007576"
-          ],
-          "flyInDir": "topToBottom",
-          "duration": 1000,
-          "delay": 0
-        },
-        {
-          "id": "5a071c19-c3b1-422d-a515-04888bf6c834",
-          "type": "effect-fly-in",
-          "targets": [
-            "46740eba-44b0-4afb-96d3-d8c645de91b6"
-          ],
-          "flyInDir": "bottomToTop",
-          "duration": 1000,
-          "delay": 0
-        }
-      ],
       "pageTemplateType": "cover",
       "groups": {
         "a75a32db-67d1-4071-b7da-7d39b8f28830": {
@@ -785,19 +433,14 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "isDefaultBackground": true,
           "type": "shape",
@@ -805,106 +448,34 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -925,14 +496,8 @@
               "lGap": 0
             }
           },
-          "fontSize": 33,
-          "backgroundColor": {
-            "color": {
-              "r": 58,
-              "g": 58,
-              "b": 58
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 58, "g": 58, "b": 58 } },
           "lineHeight": 1.4,
           "textAlign": "left",
           "padding": {
@@ -950,121 +515,48 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 482,
-          "height": 326,
+          "width": 314,
+          "height": 212,
           "basedOn": "29b95b5f-9249-4899-bd3c-491f83973861",
           "id": "67c004c2-88a9-40d3-9273-d6b32a77559e",
-          "x": 145,
-          "y": 55,
-          "tagName": "p",
-          "marginOffset": 6.153999999999989
+          "x": 50,
+          "y": 10,
+          "tagName": "p"
         },
         {
-          "x": 810,
-          "y": 344,
+          "x": 178,
+          "y": 414,
           "id": "89645e1e-02df-4a6a-9534-8194a0ddcf3e",
           "basedOn": "29b95b5f-9249-4899-bd3c-491f83973861",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": -8,
           "lockAspectRatio": true,
           "backgroundTextMode": "FILL",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1085,14 +577,8 @@
               "lGap": 0
             }
           },
-          "fontSize": 46,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "lineHeight": 1.4,
           "textAlign": "left",
           "padding": {
@@ -1110,118 +596,45 @@
             "bottomRight": 0,
             "bottomLeft": 0
           },
-          "width": 154,
-          "height": 81,
+          "width": 97,
+          "height": 51,
           "groupId": "d9144810-2fe1-4198-98cc-e27ed5b5a51f",
-          "tagName": "p",
-          "marginOffset": 8.50699999999999
+          "tagName": "p"
         },
         {
-          "x": 885,
-          "y": 422,
+          "x": 225,
+          "y": 463,
           "id": "fc0ef842-cf31-4532-8c72-fec00cc8e938",
           "basedOn": "29b95b5f-9249-4899-bd3c-491f83973861",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 8,
           "lockAspectRatio": true,
           "backgroundTextMode": "FILL",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1242,14 +655,8 @@
               "lGap": 0
             }
           },
-          "fontSize": 46,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "lineHeight": 1.4,
           "textAlign": "left",
           "padding": {
@@ -1267,118 +674,45 @@
             "bottomRight": 0,
             "bottomLeft": 0
           },
-          "width": 150,
-          "height": 81,
+          "width": 94,
+          "height": 51,
           "groupId": "d9144810-2fe1-4198-98cc-e27ed5b5a51f",
-          "tagName": "p",
-          "marginOffset": 8.50699999999999
+          "tagName": "p"
         },
         {
-          "x": 775,
-          "y": 513,
+          "x": 156,
+          "y": 520,
           "id": "18861eb7-26b1-4d67-a28f-6660e0b2718a",
           "basedOn": "29b95b5f-9249-4899-bd3c-491f83973861",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": -8,
           "lockAspectRatio": true,
           "backgroundTextMode": "FILL",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1399,14 +733,8 @@
               "lGap": 0
             }
           },
-          "fontSize": 40,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 191,
-              "b": 11
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 255, "g": 191, "b": 11 } },
           "lineHeight": 1.4,
           "textAlign": "left",
           "padding": {
@@ -1424,18 +752,14 @@
             "bottomRight": 0,
             "bottomLeft": 0
           },
-          "width": 304,
-          "height": 81,
+          "width": 191,
+          "height": 51,
           "groupId": "d9144810-2fe1-4198-98cc-e27ed5b5a51f",
-          "tagName": "p",
-          "marginOffset": 7.239999999999995
+          "tagName": "p"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "scale": 100,
@@ -1446,7 +770,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-05-26T12:13:29",
             "baseColor": "#ffffff",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page02_image01.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page02_image01.png",
             "width": 88,
             "height": 46,
             "posterId": 0,
@@ -1457,10 +781,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 1038,
-          "y": 627,
-          "width": 70,
-          "height": 37,
+          "x": 321,
+          "y": 592,
+          "width": 44,
+          "height": 23,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -1472,54 +796,40 @@
           "id": "00c0c07e-ce38-41ec-88b7-5bb7c62a2dab"
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 58,
-          "g": 58,
-          "b": 58
-        }
-      },
-      "type": "page",
-      "id": "eafd228f-ca60-4d9a-a0d8-621a0c64f000",
       "animations": [
         {
           "id": "10be46a9-c9c3-4fed-81b2-cf74dfb14b73",
           "type": "effect-fade-in",
-          "targets": [
-            "89645e1e-02df-4a6a-9534-8194a0ddcf3e"
-          ],
+          "targets": ["89645e1e-02df-4a6a-9534-8194a0ddcf3e"],
           "duration": 1600,
           "delay": 300
         },
         {
           "id": "a897580a-1cf2-449b-a4b6-17c4184ccc6f",
           "type": "effect-fade-in",
-          "targets": [
-            "fc0ef842-cf31-4532-8c72-fec00cc8e938"
-          ],
+          "targets": ["fc0ef842-cf31-4532-8c72-fec00cc8e938"],
           "duration": 1600,
           "delay": 450
         },
         {
           "id": "bfa5a820-9da6-4c26-bef8-475460bf598d",
           "type": "effect-fade-in",
-          "targets": [
-            "18861eb7-26b1-4d67-a28f-6660e0b2718a"
-          ],
+          "targets": ["18861eb7-26b1-4d67-a28f-6660e0b2718a"],
           "duration": 1600,
           "delay": 600
         },
         {
           "id": "940c266f-43d5-4ef1-991e-6dd681bf5e27",
           "type": "effect-whoosh-in",
-          "targets": [
-            "00c0c07e-ce38-41ec-88b7-5bb7c62a2dab"
-          ],
+          "targets": ["00c0c07e-ce38-41ec-88b7-5bb7c62a2dab"],
           "whooshInDir": "leftToRight",
           "duration": 1000,
           "delay": 400
         }
       ],
+      "backgroundColor": { "color": { "r": 58, "g": 58, "b": 58 } },
+      "type": "page",
+      "id": "eafd228f-ca60-4d9a-a0d8-621a0c64f000",
       "pageTemplateType": "editorial",
       "groups": {
         "d9144810-2fe1-4198-98cc-e27ed5b5a51f": {
@@ -1533,19 +843,14 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "isDefaultBackground": true,
           "type": "shape",
@@ -1553,125 +858,34 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "type": "sticker",
-          "x": 676,
-          "y": 87,
-          "width": 473,
-          "height": 346,
-          "sticker": {
-            "type": "videoCallsBrowserIcon"
-          },
-          "id": "1020e519-5e8f-4dbc-98c6-2d6cc2ba5b3b",
-          "groupId": "aba13638-ddf4-4ee3-ace9-c6784a3beb62"
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1692,21 +906,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 69,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 56,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"font-weight: 500; color: #3a3a3a\">Miss the</span>\n<span style=\"font-weight: 500; color: #3a3a3a\">real thing:</span>\n<span style=\"font-weight: 500; color: #3a3a3a\">68</span>",
           "borderRadius": {
@@ -1716,122 +920,49 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 396,
-          "height": 225,
+          "width": 317,
+          "height": 180,
           "basedOn": "fa12a7c8-c985-459f-9c8e-401a76007576",
           "id": "cd4fb90a-54b2-4fa6-83fd-865e13fbdbfa",
-          "x": 134,
-          "y": 343,
+          "x": 53,
+          "y": 119,
           "groupId": "4320a8bc-318d-4567-999f-50d5d8e8b9f6",
-          "tagName": "p",
-          "marginOffset": -15.330000000000013
+          "tagName": "p"
         },
         {
-          "x": 224,
-          "y": 512,
+          "x": 125,
+          "y": 254,
           "id": "c897e972-cb32-476a-8748-18871821aaab",
           "basedOn": "fa12a7c8-c985-459f-9c8e-401a76007576",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1852,21 +983,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 37,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 30,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"font-weight: 500; color: #3a3a3a\">%</span>",
           "borderRadius": {
@@ -1876,34 +997,38 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 45,
-          "height": 46,
+          "width": 36,
+          "height": 37,
           "groupId": "4320a8bc-318d-4567-999f-50d5d8e8b9f6",
-          "tagName": "p",
-          "marginOffset": -8.103000000000002
+          "tagName": "p"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "type": "sticker",
+          "x": -3,
+          "y": 393,
+          "width": 419,
+          "height": 306,
+          "sticker": { "type": "videoCallsBrowserIcon" },
+          "id": "1020e519-5e8f-4dbc-98c6-2d6cc2ba5b3b",
+          "groupId": "aba13638-ddf4-4ee3-ace9-c6784a3beb62"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-05-25T10:32:20",
             "baseColor": "#dad3d0",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page03_image01.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page03_image01.jpg",
             "width": 720,
             "height": 1080,
             "posterId": 0,
@@ -1913,114 +1038,56 @@
             "isOptimized": false,
             "isExternal": true
           },
-          "x": 679,
-          "y": 132,
-          "width": 465,
-          "height": 279,
+          "x": 0,
+          "y": 433,
+          "width": 412,
+          "height": 247,
           "scale": 104,
           "focalX": 50,
           "focalY": 40.23199023199023,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "id": "9209a9f3-71ec-4f2e-b5fa-80b1a10a56b3",
           "groupId": "aba13638-ddf4-4ee3-ace9-c6784a3beb62"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "width": 126,
-          "height": 56,
-          "sticker": {
-            "type": "videoCallsTooltip"
-          },
+          "width": 112,
+          "height": 50,
+          "sticker": { "type": "videoCallsTooltip" },
           "basedOn": "40a6f116-13f9-4091-b364-9ae673d43f60",
           "id": "a01f052e-152a-4f8b-a47b-64142265abff",
-          "x": 932,
-          "y": 106,
+          "x": 224,
+          "y": 410,
           "groupId": "993bd94e-33f1-4407-a78c-d601f60d4040"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Roboto",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              300,
-              400,
-              500,
-              700,
-              900
-            ],
-            "styles": [
-              "italic",
-              "regular"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 300, 400, 500, 700, 900],
+            "styles": ["italic", "regular"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [1, 100],
+              [0, 300],
+              [1, 300],
+              [0, 400],
+              [1, 400],
+              [0, 500],
+              [1, 500],
+              [0, 700],
+              [1, 700],
+              [0, 900],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2041,21 +1108,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 17,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.5,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"text-transform: uppercase\">Nooo!!</span>",
           "borderRadius": {
@@ -2065,90 +1122,38 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 62,
-          "height": 21,
+          "width": 55,
+          "height": 19,
           "basedOn": "e8c24d48-b29d-4948-9cbd-dbc0c9b3fbc3",
           "id": "4a218b08-a654-42d7-9a0d-b54c57c531c1",
-          "x": 947,
-          "y": 121,
-          "groupId": "993bd94e-33f1-4407-a78c-d601f60d4040",
-          "marginOffset": 5.578125
+          "x": 237,
+          "y": 423,
+          "groupId": "993bd94e-33f1-4407-a78c-d601f60d4040"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Roboto",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              300,
-              400,
-              500,
-              700,
-              900
-            ],
-            "styles": [
-              "italic",
-              "regular"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 300, 400, 500, 700, 900],
+            "styles": ["italic", "regular"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [1, 100],
+              [0, 300],
+              [1, 300],
+              [0, 400],
+              [1, 400],
+              [0, 500],
+              [1, 500],
+              [0, 700],
+              [1, 700],
+              [0, 900],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2169,21 +1174,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 23,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 21,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.5,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "🙁",
           "borderRadius": {
@@ -2193,24 +1188,15 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 1017,
-          "y": 117,
-          "width": 30,
-          "height": 28,
+          "x": 299,
+          "y": 420,
+          "width": 27,
+          "height": 25,
           "id": "10df4f4e-1153-4106-963d-1d13ce047dc7",
-          "marginOffset": 7.546875,
+          "marginOffset": 7.21875,
           "groupId": "993bd94e-33f1-4407-a78c-d601f60d4040"
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 191,
-          "b": 11
-        }
-      },
-      "type": "page",
-      "id": "8ce91ead-121e-4e39-a8dd-a0302b660873",
       "animations": [
         {
           "id": "ae0f38d3-cbcf-4ea9-936b-004f027f302e",
@@ -2218,9 +1204,7 @@
           "whooshInDir": "leftToRight",
           "duration": 600,
           "delay": 0,
-          "targets": [
-            "9209a9f3-71ec-4f2e-b5fa-80b1a10a56b3"
-          ]
+          "targets": ["9209a9f3-71ec-4f2e-b5fa-80b1a10a56b3"]
         },
         {
           "id": "c58b6986-7aac-412b-9d24-224d21f719e2",
@@ -2228,16 +1212,12 @@
           "whooshInDir": "leftToRight",
           "duration": 600,
           "delay": 0,
-          "targets": [
-            "1020e519-5e8f-4dbc-98c6-2d6cc2ba5b3b"
-          ]
+          "targets": ["1020e519-5e8f-4dbc-98c6-2d6cc2ba5b3b"]
         },
         {
           "id": "9bfbb48c-5ae9-49ca-9825-7a3d4995070b",
           "type": "effect-zoom",
-          "targets": [
-            "4a218b08-a654-42d7-9a0d-b54c57c531c1"
-          ],
+          "targets": ["4a218b08-a654-42d7-9a0d-b54c57c531c1"],
           "scaleDirection": "scaleIn",
           "duration": 500,
           "delay": 400
@@ -2245,9 +1225,7 @@
         {
           "id": "e63de2d8-4195-48a7-a361-49d25e26eef1",
           "type": "effect-zoom",
-          "targets": [
-            "a01f052e-152a-4f8b-a47b-64142265abff"
-          ],
+          "targets": ["a01f052e-152a-4f8b-a47b-64142265abff"],
           "scaleDirection": "scaleIn",
           "duration": 500,
           "delay": 400
@@ -2255,14 +1233,15 @@
         {
           "id": "106861ac-ab8e-4616-b2a6-0e8fd32c63b5",
           "type": "effect-zoom",
-          "targets": [
-            "10df4f4e-1153-4106-963d-1d13ce047dc7"
-          ],
+          "targets": ["10df4f4e-1153-4106-963d-1d13ce047dc7"],
           "scaleDirection": "scaleIn",
           "duration": 500,
           "delay": 400
         }
       ],
+      "backgroundColor": { "color": { "r": 255, "g": 191, "b": 11 } },
+      "type": "page",
+      "id": "8ce91ead-121e-4e39-a8dd-a0302b660873",
       "pageTemplateType": "section",
       "groups": {
         "993bd94e-33f1-4407-a78c-d601f60d4040": {
@@ -2286,19 +1265,14 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "isDefaultBackground": true,
           "type": "shape",
@@ -2306,131 +1280,48 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "type": "shape",
-          "x": 739,
-          "y": 425,
-          "width": 107,
-          "height": 41,
-          "mask": {
-            "type": "rectangle"
-          },
+          "x": 47,
+          "y": 438,
+          "width": 79,
+          "height": 30,
+          "mask": { "type": "rectangle" },
           "id": "7c280353-ec99-4412-96fe-92a2c8e49bae"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2451,14 +1342,8 @@
               "lGap": 0
             }
           },
-          "fontSize": 28,
-          "backgroundColor": {
-            "color": {
-              "r": 58,
-              "g": 58,
-              "b": 58
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 58, "g": 58, "b": 58 } },
           "lineHeight": 1.4,
           "textAlign": "left",
           "padding": {
@@ -2468,7 +1353,7 @@
             "vertical": 0
           },
           "type": "text",
-          "content": "<span style=\"font-weight: 500; color: #3a3a3a\">“I hate &nbsp;</span><span style=\"font-weight: 500; color: #fff\">&nbsp;commuting. 😩😩😩</span>\n<span style=\"font-weight: 500; color: #fff\">Now it takes me 5 seconds from the bedroom to my office. 😀😀😀”</span>",
+          "content": "<span style=\"font-weight: 500; color: #3a3a3a\">“I hate</span><span style=\"font-weight: 500; color: #fff\"> commuting. 😩😩😩</span>\n<span style=\"font-weight: 500; color: #fff\">Now it takes me 5 seconds from the bedroom to my office. 😀😀😀”</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -2476,121 +1361,48 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 424,
-          "height": 152,
+          "width": 314,
+          "height": 113,
           "basedOn": "55bcfb5d-944a-40fc-b0f2-f1f8658e6881",
           "id": "42d44268-ecf9-4285-b6a3-b700eb086d1b",
-          "x": 743,
-          "y": 425,
-          "tagName": "p",
-          "marginOffset": 5.067999999999991
+          "x": 50,
+          "y": 438,
+          "tagName": "p"
         },
         {
-          "x": 1083,
-          "y": 644,
+          "x": 302,
+          "y": 600,
           "id": "960fd66e-51f8-470c-a4ae-b91f55e1c91c",
           "basedOn": "55bcfb5d-944a-40fc-b0f2-f1f8658e6881",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2611,14 +1423,8 @@
               "lGap": 0
             }
           },
-          "fontSize": 21,
-          "backgroundColor": {
-            "color": {
-              "r": 58,
-              "g": 58,
-              "b": 58
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 58, "g": 58, "b": 58 } },
           "lineHeight": 1.4,
           "textAlign": "left",
           "padding": {
@@ -2636,16 +1442,12 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 93,
-          "height": 27,
-          "marginOffset": 3.8009999999999984
+          "width": 69,
+          "height": 20
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "scale": 100,
@@ -2656,7 +1458,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-05-25T11:22:57",
             "baseColor": "#f7bf26",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page04_image02.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page04_image02.png",
             "width": 1080,
             "height": 973,
             "posterId": 0,
@@ -2667,10 +1469,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 99,
-          "y": 95,
-          "width": 589,
-          "height": 530,
+          "x": 0,
+          "y": 3,
+          "width": 412,
+          "height": 371,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -2683,45 +1485,31 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 235,
-          "y": 138,
-          "width": 226,
-          "height": 161,
-          "sticker": {
-            "type": "videoCallsBrowserIcon"
-          },
+          "x": 95,
+          "y": 33,
+          "width": 158,
+          "height": 112,
+          "sticker": { "type": "videoCallsBrowserIcon" },
           "id": "8aeb3479-a7c1-4fd4-9d35-516208f07f59",
           "groupId": "21f64464-a4ba-4dd7-b8f9-8f98e75c0c92"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-05-26T11:13:31",
             "baseColor": "#b7b4b0",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page04_image01.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page04_image01.jpg",
             "width": 1080,
             "height": 720,
             "posterId": 0,
@@ -2731,78 +1519,38 @@
             "isOptimized": false,
             "isExternal": true
           },
-          "width": 224,
-          "height": 138,
+          "width": 156,
+          "height": 97,
           "scale": 137,
           "focalX": 49.844271414312914,
           "focalY": 37.216274150177156,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "basedOn": "188df79a-bb3a-4c94-9faa-4200fe2e5dfe",
           "id": "262d7bbe-7dcf-4776-aef6-d5138c612d8e",
-          "x": 236,
-          "y": 158,
+          "x": 96,
+          "y": 47,
           "groupId": "21f64464-a4ba-4dd7-b8f9-8f98e75c0c92"
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 58,
-          "g": 58,
-          "b": 58
-        }
-      },
-      "type": "page",
-      "id": "fe31b57a-485e-4584-b7e7-1a0108e865e3",
       "animations": [
         {
           "id": "caecc005-5805-4cde-8782-4548bfe53830",
           "type": "effect-fly-in",
-          "targets": [
-            "960fd66e-51f8-470c-a4ae-b91f55e1c91c"
-          ],
+          "targets": ["960fd66e-51f8-470c-a4ae-b91f55e1c91c"],
           "flyInDir": "rightToLeft",
           "duration": 600,
           "delay": 500
-        },
-        {
-          "id": "1b9f322a-4539-48ed-807f-24965d773366",
-          "type": "effect-fly-in",
-          "targets": [
-            "9e862542-9498-4e41-840b-4b528e39ab7a"
-          ],
-          "flyInDir": "leftToRight",
-          "duration": 2000,
-          "delay": 0
-        },
-        {
-          "id": "264fe08c-b758-4a5d-b430-4ffd335148cb",
-          "type": "effect-fly-in",
-          "targets": [
-            "262d7bbe-7dcf-4776-aef6-d5138c612d8e"
-          ],
-          "flyInDir": "leftToRight",
-          "duration": 2000,
-          "delay": 0
-        },
-        {
-          "id": "be40bb06-2bd9-4325-a109-f15dd55dc1f6",
-          "type": "effect-fly-in",
-          "targets": [
-            "8aeb3479-a7c1-4fd4-9d35-516208f07f59"
-          ],
-          "flyInDir": "leftToRight",
-          "duration": 2000,
-          "delay": 0
         }
       ],
+      "backgroundColor": { "color": { "r": 58, "g": 58, "b": 58 } },
+      "type": "page",
+      "id": "fe31b57a-485e-4584-b7e7-1a0108e865e3",
       "pageTemplateType": null,
       "groups": {
         "21f64464-a4ba-4dd7-b8f9-8f98e75c0c92": {
           "name": "Image",
           "isLocked": false,
-          "isCollapsed": false
+          "isCollapsed": true
         }
       }
     },
@@ -2810,19 +1558,14 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "isDefaultBackground": true,
           "id": "38f9046f-73ad-4669-933c-5d6e0de0607e",
@@ -2830,132 +1573,49 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "type": "shape",
-          "width": 392,
-          "height": 44,
-          "mask": {
-            "type": "rectangle"
-          },
+          "width": 268,
+          "height": 30,
+          "mask": { "type": "rectangle" },
           "basedOn": "7c280353-ec99-4412-96fe-92a2c8e49bae",
           "id": "f6009e6a-abcc-4be4-8896-2a1dcd250781",
-          "x": 122,
-          "y": 112
+          "x": 48,
+          "y": 438
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2976,14 +1636,8 @@
               "lGap": 0
             }
           },
-          "fontSize": 23,
-          "backgroundColor": {
-            "color": {
-              "r": 58,
-              "g": 58,
-              "b": 58
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 58, "g": 58, "b": 58 } },
           "lineHeight": 1.4,
           "textAlign": "left",
           "padding": {
@@ -2992,8 +1646,8 @@
             "horizontal": 0,
             "vertical": 0
           },
-          "x": 493,
-          "y": 349,
+          "x": 302,
+          "y": 600,
           "id": "f9cb1694-8c47-480b-81e5-bffaa16f2c8f",
           "basedOn": "55bcfb5d-944a-40fc-b0f2-f1f8658e6881",
           "content": "<span style=\"color: #fff\">John L.</span>",
@@ -3004,17 +1658,13 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 101,
-          "height": 29,
-          "type": "text",
-          "marginOffset": 4.162999999999993
+          "width": 69,
+          "height": 20,
+          "type": "text"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "scale": 100,
@@ -3025,7 +1675,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-05-25T11:23:52",
             "baseColor": "#1d1515",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page05_image02.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page05_image02.png",
             "width": 724,
             "height": 1029,
             "posterId": 0,
@@ -3036,10 +1686,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 727,
-          "y": 154,
-          "width": 378,
-          "height": 535,
+          "x": 68,
+          "y": 0,
+          "width": 276,
+          "height": 391,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -3052,45 +1702,31 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 808,
-          "y": 350,
-          "width": 216,
-          "height": 153,
-          "sticker": {
-            "type": "videoCallsBrowserIcon"
-          },
+          "x": 127,
+          "y": 143,
+          "width": 158,
+          "height": 112,
+          "sticker": { "type": "videoCallsBrowserIcon" },
           "id": "4e7397b4-8b9d-409b-9ff2-619c7483d5fc",
           "groupId": "f4d9f51a-0d82-4f3d-9993-3b4252075da8"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-05-26T11:12:27",
             "baseColor": "#c1cfcb",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page05_image01.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page05_image01.jpg",
             "width": 1080,
             "height": 720,
             "posterId": 0,
@@ -3100,122 +1736,48 @@
             "isOptimized": false,
             "isExternal": true
           },
-          "width": 214,
-          "height": 133,
+          "width": 156,
+          "height": 97,
           "scale": 155,
           "focalX": 46.554028628380415,
           "focalY": 55.324648535062806,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "basedOn": "188df79a-bb3a-4c94-9faa-4200fe2e5dfe",
           "id": "d7a6a69f-f2d4-4596-bceb-dad85a9cba8d",
-          "x": 809,
-          "y": 369,
+          "x": 128,
+          "y": 157,
           "groupId": "f4d9f51a-0d82-4f3d-9993-3b4252075da8"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -3236,22 +1798,13 @@
               "lGap": 0
             }
           },
-          "fontSize": 31,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
-          "textAlign": "initial",
-          "padding": {
-            "locked": true,
-            "hasHiddenPadding": false
-          },
+          "textAlign": "left",
+          "padding": { "locked": true, "hasHiddenPadding": false },
           "type": "text",
-          "content": "<span style=\"font-weight: 500; color: #3a3a3a\">“Enabling remote work. &nbsp;&nbsp;</span><span style=\"font-weight: 500; color: #fff\">One minute I could be in NY, one minute in Italy. </span><span style=\"color: #fff\">✈️✈️✈️ </span><span style=\"font-weight: 500; color: #fff\">Theoretically, anyway.”</span>",
+          "content": "<span style=\"font-weight: 500; color: #3a3a3a\">“Enabling remote work. </span><span style=\"font-weight: 500; color: #fff\">One minute I could be in NY, one minute in Italy. </span><span style=\"color: #fff\">✈️✈️✈️ </span><span style=\"font-weight: 500; color: #fff\">Theoretically, anyway.”</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -3259,64 +1812,25 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 120,
-          "y": 114,
-          "width": 456,
-          "height": 168,
+          "x": 47,
+          "y": 439,
+          "width": 312,
+          "height": 117,
           "id": "5e5712fb-53ae-4f87-b882-28d86929fb73",
-          "tagName": "p",
-          "marginOffset": 5.610999999999997
+          "tagName": "p"
         }
       ],
       "animations": [
         {
           "id": "51f7b690-52a9-446d-9ee4-a94660b7084e",
           "type": "effect-fly-in",
-          "targets": [
-            "f9cb1694-8c47-480b-81e5-bffaa16f2c8f"
-          ],
+          "targets": ["f9cb1694-8c47-480b-81e5-bffaa16f2c8f"],
           "flyInDir": "rightToLeft",
           "duration": 600,
           "delay": 500
-        },
-        {
-          "id": "f2046b93-b797-425b-9dd5-7ee7df7ad762",
-          "type": "effect-fly-in",
-          "targets": [
-            "84c56f81-98f3-4ee1-911d-a207fb7a4bd1"
-          ],
-          "flyInDir": "topToBottom",
-          "duration": 3000,
-          "delay": 0
-        },
-        {
-          "id": "683ffd3b-3dfb-4a9f-a581-2492ae99b393",
-          "type": "effect-fly-in",
-          "targets": [
-            "4e7397b4-8b9d-409b-9ff2-619c7483d5fc"
-          ],
-          "flyInDir": "topToBottom",
-          "duration": 3000,
-          "delay": 0
-        },
-        {
-          "id": "6119873e-5bff-4a4a-8d7b-c7ddc141d1dc",
-          "type": "effect-fly-in",
-          "targets": [
-            "d7a6a69f-f2d4-4596-bceb-dad85a9cba8d"
-          ],
-          "flyInDir": "topToBottom",
-          "duration": 3000,
-          "delay": 0
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 58,
-          "g": 58,
-          "b": 58
-        }
-      },
+      "backgroundColor": { "color": { "r": 58, "g": 58, "b": 58 } },
       "type": "page",
       "id": "e67b0451-5a65-4802-8308-1341c1bc9a9e",
       "pageTemplateType": "quote",
@@ -3324,7 +1838,7 @@
         "f4d9f51a-0d82-4f3d-9993-3b4252075da8": {
           "name": "Image",
           "isLocked": false,
-          "isCollapsed": false
+          "isCollapsed": true
         }
       }
     },
@@ -3332,19 +1846,14 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "isDefaultBackground": true,
           "id": "3554988d-224d-4e73-83e6-58c7d1dd381e",
@@ -3352,125 +1861,34 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 133.5,
-          "y": 307,
-          "width": 516,
-          "height": 377,
-          "sticker": {
-            "type": "videoCallsBrowserIcon"
-          },
-          "id": "7ba63f7e-1ada-4388-9d2d-f599c1e77d21",
-          "type": "sticker",
-          "groupId": "198c77cb-26f1-41cf-a54f-f4a55521eeae"
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -3491,21 +1909,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 70,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 56,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 500; color: #3a3a3a\">People</span>\n<span style=\"font-weight: 500; color: #3a3a3a\">use plants</span>\n<span style=\"font-weight: 500; color: #3a3a3a\">89</span>",
           "borderRadius": {
             "locked": true,
@@ -3514,119 +1922,46 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 401,
-          "height": 227,
+          "width": 317,
+          "height": 180,
           "basedOn": "fa12a7c8-c985-459f-9c8e-401a76007576",
           "id": "cb9cdccc-75a4-42e9-b374-434741e4e136",
-          "x": 772,
-          "y": 88,
+          "x": 53,
+          "y": 119,
           "type": "text",
           "groupId": "0818554c-bcab-414c-ab5c-7dae86c15717",
-          "tagName": "p",
-          "marginOffset": -15.330000000000013
+          "tagName": "p"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -3647,23 +1982,13 @@
               "lGap": 0
             }
           },
-          "fontSize": 38,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 30,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
-          "x": 864,
-          "y": 259,
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
+          "x": 125,
+          "y": 254,
           "id": "b6b7be67-5810-4210-b2fd-1daa0c2a010d",
           "basedOn": "fa12a7c8-c985-459f-9c8e-401a76007576",
           "content": "<span style=\"font-weight: 500; color: #3a3a3a\">%</span>",
@@ -3674,153 +1999,117 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 45,
-          "height": 47,
+          "width": 36,
+          "height": 37,
           "type": "text",
           "groupId": "0818554c-bcab-414c-ab5c-7dae86c15717",
-          "tagName": "p",
-          "marginOffset": -8.541000000000004
+          "tagName": "p"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "type": "image",
-          "resource": {
-            "type": "image",
-            "mimeType": "image/png",
-            "creationDate": "2021-05-25T10:39:17",
-            "baseColor": "#e6e6ed",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page06_image01.jpg",
-            "width": 1080,
-            "height": 720,
-            "posterId": 0,
-            "id": 0,
-            "alt": "Photo Of Woman Wearing White Shirt",
-            "sizes": [],
-            "isOptimized": false,
-            "isExternal": true
-          },
-          "width": 508,
-          "height": 308,
-          "scale": 130,
-          "focalX": 40.51069703243616,
-          "focalY": 47.412008281573506,
-          "mask": {
-            "type": "rectangle"
-          },
-          "basedOn": "9209a9f3-71ec-4f2e-b5fa-80b1a10a56b3",
-          "id": "5e8ed5b0-173f-4c71-ade7-fc3c0d0b358e",
-          "x": 139,
-          "y": 357,
-          "groupId": "198c77cb-26f1-41cf-a54f-f4a55521eeae"
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "width": 138,
-          "height": 62,
-          "sticker": {
-            "type": "videoCallsTooltip"
-          },
+          "width": 112,
+          "height": 50,
+          "sticker": { "type": "videoCallsTooltip" },
           "basedOn": "a01f052e-152a-4f8b-a47b-64142265abff",
           "id": "c7952817-a99a-4022-b60d-2d63a640939e",
-          "x": 415,
-          "y": 329,
+          "x": 224,
+          "y": 410,
           "groupId": "2a4108b1-14db-4fc2-9a60-1a9069aed787"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Roboto",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              300,
-              400,
-              500,
-              700,
-              900
-            ],
-            "styles": [
-              "italic",
-              "regular"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 300, 400, 500, 700, 900],
+            "styles": ["italic", "regular"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [1, 100],
+              [0, 300],
+              [1, 300],
+              [0, 400],
+              [1, 400],
+              [0, 500],
+              [1, 500],
+              [0, 700],
+              [1, 700],
+              [0, 900],
+              [1, 900]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 2048,
+              "asc": 1900,
+              "des": -500,
+              "tAsc": 1536,
+              "tDes": -512,
+              "tLGap": 102,
+              "wAsc": 1946,
+              "wDes": 512,
+              "xH": 1082,
+              "capH": 1456,
+              "yMin": -555,
+              "yMax": 2163,
+              "hAsc": 1900,
+              "hDes": -500,
+              "lGap": 0
+            }
+          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "lineHeight": 1.5,
+          "textAlign": "center",
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
+          "type": "text",
+          "content": "<span style=\"text-transform: uppercase\">Aloha!!</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 61,
+          "height": 19,
+          "basedOn": "4a218b08-a654-42d7-9a0d-b54c57c531c1",
+          "id": "914656ba-28ae-411c-aa0e-439fb2b3aea9",
+          "x": 237,
+          "y": 423,
+          "groupId": "2a4108b1-14db-4fc2-9a60-1a9069aed787"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Roboto",
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 300, 400, 500, 700, 900],
+            "styles": ["italic", "regular"],
+            "variants": [
+              [0, 100],
+              [1, 100],
+              [0, 300],
+              [1, 300],
+              [0, 400],
+              [1, 400],
+              [0, 500],
+              [1, 500],
+              [0, 700],
+              [1, 700],
+              [0, 900],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -3842,148 +2131,10 @@
             }
           },
           "fontSize": 19,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.5,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
-          "type": "text",
-          "content": "<span style=\"text-transform: uppercase\">Aloha!!</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 75,
-          "height": 23,
-          "basedOn": "4a218b08-a654-42d7-9a0d-b54c57c531c1",
-          "id": "914656ba-28ae-411c-aa0e-439fb2b3aea9",
-          "x": 431,
-          "y": 345,
-          "groupId": "2a4108b1-14db-4fc2-9a60-1a9069aed787",
-          "marginOffset": 6.5625
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Roboto",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              300,
-              400,
-              500,
-              700,
-              900
-            ],
-            "styles": [
-              "italic",
-              "regular"
-            ],
-            "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                900
-              ]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 2048,
-              "asc": 1900,
-              "des": -500,
-              "tAsc": 1536,
-              "tDes": -512,
-              "tLGap": 102,
-              "wAsc": 1946,
-              "wDes": 512,
-              "xH": 1082,
-              "capH": 1456,
-              "yMin": -555,
-              "yMax": 2163,
-              "hAsc": 1900,
-              "hDes": -500,
-              "lGap": 0
-            }
-          },
-          "fontSize": 23,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "lineHeight": 1.5,
-          "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "😃",
           "borderRadius": {
@@ -3993,20 +2144,65 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 514,
-          "y": 341,
-          "width": 25,
-          "height": 28,
+          "x": 304,
+          "y": 420,
+          "width": 20,
+          "height": 23,
           "id": "14eb0c30-651b-4dfa-aea1-794c3d8df75f",
-          "marginOffset": 7.546875,
+          "marginOffset": 6.5625,
           "groupId": "2a4108b1-14db-4fc2-9a60-1a9069aed787"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "x": -4.5,
+          "y": 392,
+          "width": 419,
+          "height": 306,
+          "sticker": { "type": "videoCallsBrowserIcon" },
+          "id": "7ba63f7e-1ada-4388-9d2d-f599c1e77d21",
+          "type": "sticker",
+          "groupId": "198c77cb-26f1-41cf-a54f-f4a55521eeae"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "type": "image",
+          "resource": {
+            "type": "image",
+            "mimeType": "image/png",
+            "creationDate": "2021-05-25T10:39:17",
+            "baseColor": "#e6e6ed",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page06_image01.jpg",
+            "width": 1080,
+            "height": 720,
+            "posterId": 0,
+            "id": 0,
+            "alt": "Photo Of Woman Wearing White Shirt",
+            "sizes": [],
+            "isOptimized": false,
+            "isExternal": true
           },
+          "width": 412,
+          "height": 250,
+          "scale": 130,
+          "focalX": 40.51069703243616,
+          "focalY": 47.412008281573506,
+          "mask": { "type": "rectangle" },
+          "basedOn": "9209a9f3-71ec-4f2e-b5fa-80b1a10a56b3",
+          "id": "5e8ed5b0-173f-4c71-ade7-fc3c0d0b358e",
+          "x": 0,
+          "y": 433,
+          "groupId": "198c77cb-26f1-41cf-a54f-f4a55521eeae"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "scale": 100,
@@ -4017,7 +2213,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-05-26T11:20:06",
             "baseColor": "#fab911",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page06_image02.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page06_image02.png",
             "width": 152,
             "height": 195,
             "posterId": 0,
@@ -4028,10 +2224,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 161,
-          "y": 535,
-          "width": 94,
-          "height": 121,
+          "x": 18,
+          "y": 577,
+          "width": 76,
+          "height": 98,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -4048,9 +2244,7 @@
         {
           "id": "3523d305-e8fc-41d0-9bb7-9800781cdfda",
           "type": "effect-fly-in",
-          "targets": [
-            "5e8ed5b0-173f-4c71-ade7-fc3c0d0b358e"
-          ],
+          "targets": ["5e8ed5b0-173f-4c71-ade7-fc3c0d0b358e"],
           "flyInDir": "bottomToTop",
           "duration": 1000,
           "delay": 0
@@ -4058,9 +2252,7 @@
         {
           "id": "c22f74d3-b1d7-4b82-82c7-1f4b33e41628",
           "type": "effect-fly-in",
-          "targets": [
-            "7ba63f7e-1ada-4388-9d2d-f599c1e77d21"
-          ],
+          "targets": ["7ba63f7e-1ada-4388-9d2d-f599c1e77d21"],
           "flyInDir": "bottomToTop",
           "duration": 1000,
           "delay": 0
@@ -4068,9 +2260,7 @@
         {
           "id": "572188c7-8e3a-4167-b40d-c940529f8ec1",
           "type": "effect-zoom",
-          "targets": [
-            "c7952817-a99a-4022-b60d-2d63a640939e"
-          ],
+          "targets": ["c7952817-a99a-4022-b60d-2d63a640939e"],
           "scaleDirection": "scaleIn",
           "duration": 500,
           "delay": 200
@@ -4078,9 +2268,7 @@
         {
           "id": "e6e78946-8758-4952-a475-3d4bb06e22ee",
           "type": "effect-zoom",
-          "targets": [
-            "914656ba-28ae-411c-aa0e-439fb2b3aea9"
-          ],
+          "targets": ["914656ba-28ae-411c-aa0e-439fb2b3aea9"],
           "scaleDirection": "scaleIn",
           "duration": 500,
           "delay": 200
@@ -4088,9 +2276,7 @@
         {
           "id": "76d132de-aca4-4747-b29c-cc384cc7bdcb",
           "type": "effect-zoom",
-          "targets": [
-            "14eb0c30-651b-4dfa-aea1-794c3d8df75f"
-          ],
+          "targets": ["14eb0c30-651b-4dfa-aea1-794c3d8df75f"],
           "scaleDirection": "scaleIn",
           "duration": 500,
           "delay": 200
@@ -4098,21 +2284,13 @@
         {
           "id": "c0362077-befd-42f2-bc99-49c84f554624",
           "type": "effect-fly-in",
-          "targets": [
-            "4cb28cb9-618b-47d2-bcf8-96b5409e5af6"
-          ],
+          "targets": ["4cb28cb9-618b-47d2-bcf8-96b5409e5af6"],
           "flyInDir": "bottomToTop",
           "duration": 1300,
           "delay": 0
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 191,
-          "b": 11
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 191, "b": 11 } },
       "type": "page",
       "id": "962fdc9c-994a-4368-afdc-b526e6c4cf5c",
       "pageTemplateType": null,
@@ -4138,19 +2316,14 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "isDefaultBackground": true,
           "id": "dc205837-f6f5-46df-84bc-205e74d63e60",
@@ -4158,132 +2331,49 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "type": "shape",
-          "width": 114,
-          "height": 43,
-          "mask": {
-            "type": "rectangle"
-          },
+          "width": 79,
+          "height": 30,
+          "mask": { "type": "rectangle" },
           "basedOn": "f6009e6a-abcc-4be4-8896-2a1dcd250781",
           "id": "a37f8a3e-a953-45d0-9cb1-e00335c66657",
-          "x": 647,
-          "y": 87
+          "x": 47,
+          "y": 436
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -4304,14 +2394,8 @@
               "lGap": 0
             }
           },
-          "fontSize": 30,
-          "backgroundColor": {
-            "color": {
-              "r": 58,
-              "g": 58,
-              "b": 58
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 58, "g": 58, "b": 58 } },
           "lineHeight": 1.4,
           "textAlign": "left",
           "padding": {
@@ -4320,7 +2404,7 @@
             "horizontal": 0,
             "vertical": 0
           },
-          "content": "<span style=\"font-weight: 500; color: #3a3a3a\">“Video</span><span style=\"font-weight: 500; color: #fff\"> &nbsp;&nbsp;allows me to have meetings from the sofa. My ass is very happy 👌👌👌.”</span>",
+          "content": "<span style=\"font-weight: 500; color: #3a3a3a\">“Video</span><span style=\"font-weight: 500; color: #fff\"> allows me to have meetings from the sofa. My ass is very happy 👌👌👌.”</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -4328,118 +2412,45 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 452,
-          "height": 121,
+          "width": 314,
+          "height": 84,
           "basedOn": "55bcfb5d-944a-40fc-b0f2-f1f8658e6881",
           "id": "79adf470-d2c9-4fa9-bffb-06581df0d3d6",
-          "x": 648,
-          "y": 88,
+          "x": 48,
+          "y": 437,
           "type": "text",
-          "tagName": "p",
-          "marginOffset": 5.610999999999997
+          "tagName": "p"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -4460,14 +2471,8 @@
               "lGap": 0
             }
           },
-          "fontSize": 23,
-          "backgroundColor": {
-            "color": {
-              "r": 58,
-              "g": 58,
-              "b": 58
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 58, "g": 58, "b": 58 } },
           "lineHeight": 1.4,
           "textAlign": "left",
           "padding": {
@@ -4476,8 +2481,8 @@
             "horizontal": 0,
             "vertical": 0
           },
-          "x": 1014,
-          "y": 323,
+          "x": 302,
+          "y": 600,
           "id": "0eedd59f-eef0-485b-a10e-615123c184eb",
           "basedOn": "55bcfb5d-944a-40fc-b0f2-f1f8658e6881",
           "content": "<span style=\"color: #fff\">John L.</span>",
@@ -4488,17 +2493,13 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 99,
-          "height": 29,
-          "type": "text",
-          "marginOffset": 4.162999999999993
+          "width": 69,
+          "height": 20,
+          "type": "text"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "scale": 100,
@@ -4509,7 +2510,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-05-25T11:28:10",
             "baseColor": "#fab911",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page07_image02.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page07_image02.png",
             "width": 944,
             "height": 528,
             "posterId": 0,
@@ -4520,10 +2521,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 141,
-          "y": 396,
-          "width": 555,
-          "height": 310,
+          "x": 26,
+          "y": 164,
+          "width": 360,
+          "height": 201,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -4536,44 +2537,30 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 206,
-          "y": 316,
-          "width": 244,
-          "height": 172,
-          "sticker": {
-            "type": "videoCallsBrowserIcon"
-          },
+          "x": 68,
+          "y": 112,
+          "width": 158,
+          "height": 112,
+          "sticker": { "type": "videoCallsBrowserIcon" },
           "id": "5e1ff880-11f0-4fd1-b04d-2d1ebd6af7cd",
           "groupId": "c1a168fa-f682-44f8-8eb1-02d3a7e80279"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-05-26T11:10:31",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page07_image01.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page07_image01.jpg",
             "width": 1080,
             "height": 720,
             "posterId": 0,
@@ -4584,18 +2571,16 @@
             "baseColor": "#646f6f",
             "isExternal": true
           },
-          "width": 241,
-          "height": 150,
+          "width": 156,
+          "height": 97,
           "scale": 170,
           "focalX": 55.77992130255349,
           "focalY": 50.127591590182355,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "basedOn": "de91ce5b-8a1b-4603-ad3e-350cb916fc17",
           "id": "188df79a-bb3a-4c94-9faa-4200fe2e5dfe",
-          "x": 207,
-          "y": 338,
+          "x": 69,
+          "y": 126,
           "groupId": "c1a168fa-f682-44f8-8eb1-02d3a7e80279"
         }
       ],
@@ -4603,51 +2588,13 @@
         {
           "id": "ad12b20a-a287-4a2b-98f3-45b7368b03be",
           "type": "effect-fly-in",
-          "targets": [
-            "0eedd59f-eef0-485b-a10e-615123c184eb"
-          ],
+          "targets": ["0eedd59f-eef0-485b-a10e-615123c184eb"],
           "flyInDir": "rightToLeft",
           "duration": 600,
           "delay": 500
-        },
-        {
-          "id": "ff7aff81-ff55-4530-a819-0a8701ca608c",
-          "type": "effect-fly-in",
-          "targets": [
-            "aa81639d-2331-4148-90ab-0e7806898404"
-          ],
-          "flyInDir": "bottomToTop",
-          "duration": 1500,
-          "delay": 0
-        },
-        {
-          "id": "daac6846-3125-40d6-9370-451f2a96a93c",
-          "type": "effect-fly-in",
-          "targets": [
-            "188df79a-bb3a-4c94-9faa-4200fe2e5dfe"
-          ],
-          "flyInDir": "bottomToTop",
-          "duration": 1500,
-          "delay": 0
-        },
-        {
-          "id": "19a624b0-0a1a-4673-9b29-09bd9e667a51",
-          "type": "effect-fly-in",
-          "targets": [
-            "5e1ff880-11f0-4fd1-b04d-2d1ebd6af7cd"
-          ],
-          "flyInDir": "bottomToTop",
-          "duration": 1500,
-          "delay": 0
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 58,
-          "g": 58,
-          "b": 58
-        }
-      },
+      "backgroundColor": { "color": { "r": 58, "g": 58, "b": 58 } },
       "type": "page",
       "id": "b593ab98-1efc-4567-9fcc-2e14fc1e10d6",
       "pageTemplateType": null,
@@ -4662,19 +2609,14 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "isDefaultBackground": true,
           "id": "6d96520f-8d5f-458e-a168-017bcc515ef4",
@@ -4682,132 +2624,49 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "type": "shape",
-          "width": 218,
-          "height": 45,
-          "mask": {
-            "type": "rectangle"
-          },
+          "width": 145,
+          "height": 30,
+          "mask": { "type": "rectangle" },
           "basedOn": "f6009e6a-abcc-4be4-8896-2a1dcd250781",
           "id": "73c5174a-1816-4e3b-abe3-1b0434901d1b",
-          "x": 140,
-          "y": 406
+          "x": 48,
+          "y": 438
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -4828,14 +2687,8 @@
               "lGap": 0
             }
           },
-          "fontSize": 24,
-          "backgroundColor": {
-            "color": {
-              "r": 58,
-              "g": 58,
-              "b": 58
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 58, "g": 58, "b": 58 } },
           "lineHeight": 1.4,
           "textAlign": "left",
           "padding": {
@@ -4844,8 +2697,8 @@
             "horizontal": 0,
             "vertical": 0
           },
-          "x": 523,
-          "y": 650,
+          "x": 302,
+          "y": 600,
           "id": "f09bd595-d63d-4474-b173-e74fc7d5df9a",
           "basedOn": "55bcfb5d-944a-40fc-b0f2-f1f8658e6881",
           "content": "<span style=\"color: #fff\">John L.</span>",
@@ -4856,113 +2709,40 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 104,
-          "height": 30,
-          "type": "text",
-          "marginOffset": 4.524999999999999
+          "width": 69,
+          "height": 20,
+          "type": "text"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -4983,23 +2763,13 @@
               "lGap": 0
             }
           },
-          "fontSize": 32,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
-          "content": "<span style=\"font-weight: 500; color: #3a3a3a\">“Sometimes, &nbsp;</span><span style=\"font-weight: 500; color: #fff\">&nbsp;I use video calls as a virtual bar to reunite with my friends 🍺🍺🍺.”</span>",
+          "content": "<span style=\"font-weight: 500; color: #3a3a3a\">“Sometimes,</span><span style=\"font-weight: 500; color: #fff\"> I use video calls as a virtual bar to reunite with my friends 🍺🍺🍺.”</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -5007,55 +2777,40 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 140,
-          "y": 408,
-          "width": 431,
-          "height": 173,
+          "x": 48,
+          "y": 439,
+          "width": 286,
+          "height": 116,
           "id": "ef5f8776-7ec3-45ca-8745-ba312d632244",
-          "tagName": "p",
-          "marginOffset": 5.7919999999999945
+          "tagName": "p"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 675,
-          "y": 52,
-          "width": 530,
-          "height": 377,
-          "sticker": {
-            "type": "videoCallsBrowserIcon"
-          },
+          "x": 0,
+          "y": 33,
+          "width": 412,
+          "height": 293,
+          "sticker": { "type": "videoCallsBrowserIcon" },
           "id": "df124319-286a-4426-bd31-76a1a2058dd2",
           "groupId": "bfc16459-4693-4003-8d25-30d83ba69471"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-05-26T10:55:49",
             "baseColor": "#c7b7a8",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page08_image01.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page08_image01.jpg",
             "width": 1080,
             "height": 720,
             "posterId": 0,
@@ -5065,44 +2820,33 @@
             "isOptimized": false,
             "isExternal": true
           },
-          "x": 679,
-          "y": 102,
-          "width": 265,
-          "height": 161,
+          "x": 3,
+          "y": 72,
+          "width": 206,
+          "height": 125,
           "scale": 115,
           "focalX": 53.252667549161046,
           "focalY": 48.23597487592704,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "id": "0363b1f6-4874-4ce8-93fc-8c049b692f37",
           "groupId": "bfc16459-4693-4003-8d25-30d83ba69471"
         },
         {
-          "x": 679,
-          "y": 263,
+          "x": 3,
+          "y": 197,
           "id": "9a077340-22b0-48ef-b837-35e3a0cfc3c4",
           "basedOn": "0363b1f6-4874-4ce8-93fc-8c049b692f37",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-05-26T10:59:17",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page08_image03.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page08_image03.jpg",
             "width": 1280,
             "height": 720,
             "posterId": 0,
@@ -5113,42 +2857,31 @@
             "baseColor": "#bcad9f",
             "isExternal": true
           },
-          "width": 265,
-          "height": 162,
+          "width": 206,
+          "height": 126,
           "scale": 170,
           "focalX": 40.315526285558704,
           "focalY": 53.99585425836172,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "groupId": "bfc16459-4693-4003-8d25-30d83ba69471"
         },
         {
-          "x": 943,
-          "y": 102,
+          "x": 208,
+          "y": 72,
           "id": "afe56b0a-19a4-4b3a-8994-56b34f1cb4a2",
           "basedOn": "0363b1f6-4874-4ce8-93fc-8c049b692f37",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-05-26T10:57:56",
             "baseColor": "#c9ad95",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page08_image02.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page08_image02.jpg",
             "width": 1280,
             "height": 720,
             "posterId": 0,
@@ -5158,42 +2891,31 @@
             "isOptimized": false,
             "isExternal": true
           },
-          "width": 259,
-          "height": 161,
+          "width": 201,
+          "height": 125,
           "scale": 150,
           "focalX": 54.5441175650865,
           "focalY": 56.07565348517123,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "groupId": "bfc16459-4693-4003-8d25-30d83ba69471"
         },
         {
-          "x": 943,
-          "y": 263,
+          "x": 208,
+          "y": 197,
           "id": "7d9642a4-0f1e-4b10-baba-d45517d0a35f",
           "basedOn": "0363b1f6-4874-4ce8-93fc-8c049b692f37",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-05-26T11:00:35",
             "baseColor": "#bf9979",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page08_image04.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page08_image04.jpg",
             "width": 1280,
             "height": 720,
             "posterId": 0,
@@ -5203,14 +2925,12 @@
             "isOptimized": false,
             "isExternal": true
           },
-          "width": 259,
-          "height": 162,
+          "width": 201,
+          "height": 126,
           "scale": 230,
           "focalX": 49.975499710944504,
           "focalY": 48.60620577817605,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "groupId": "bfc16459-4693-4003-8d25-30d83ba69471"
         }
       ],
@@ -5218,40 +2938,12 @@
         {
           "id": "e002dfcc-1be2-4ace-a7c8-f2de3ae9a61d",
           "type": "effect-fade-in",
-          "targets": [
-            "f09bd595-d63d-4474-b173-e74fc7d5df9a"
-          ],
+          "targets": ["f09bd595-d63d-4474-b173-e74fc7d5df9a"],
           "duration": 2000,
           "delay": 500
-        },
-        {
-          "id": "4a74c0b2-00b0-485f-b641-b58b7f8087a4",
-          "type": "effect-fly-in",
-          "targets": [
-            "ef5f8776-7ec3-45ca-8745-ba312d632244"
-          ],
-          "flyInDir": "leftToRight",
-          "duration": 1500,
-          "delay": 0
-        },
-        {
-          "id": "9a6b20ff-d1cf-439d-9820-b8eb62b16ef9",
-          "type": "effect-fly-in",
-          "targets": [
-            "73c5174a-1816-4e3b-abe3-1b0434901d1b"
-          ],
-          "flyInDir": "leftToRight",
-          "duration": 1500,
-          "delay": 0
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 58,
-          "g": 58,
-          "b": 58
-        }
-      },
+      "backgroundColor": { "color": { "r": 58, "g": 58, "b": 58 } },
       "type": "page",
       "id": "a7fcb1b4-6ddc-4a2c-94b6-43df3674422d",
       "pageTemplateType": null,
@@ -5267,19 +2959,14 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "isDefaultBackground": true,
           "id": "897975dc-47d5-457a-964f-adfa87a337e1",
@@ -5287,106 +2974,34 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -5407,21 +3022,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 79,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 56,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 500; color: #3a3a3a\">Other stories</span>",
           "borderRadius": {
             "locked": true,
@@ -5430,121 +3035,48 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 447,
-          "height": 176,
+          "width": 317,
+          "height": 125,
           "basedOn": "fa12a7c8-c985-459f-9c8e-401a76007576",
           "id": "8856d246-2f4b-456f-9e65-381c402385bb",
-          "x": 72,
-          "y": 117,
-          "type": "text",
-          "marginOffset": -17.301000000000002
+          "x": 47,
+          "y": 13,
+          "type": "text"
         },
         {
-          "x": 846,
-          "y": 605,
+          "x": 160,
+          "y": 546,
           "id": "762e82bf-a5b7-499f-96ba-0163bd782b36",
           "basedOn": "89645e1e-02df-4a6a-9534-8194a0ddcf3e",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "FILL",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -5565,14 +3097,8 @@
               "lGap": 0
             }
           },
-          "fontSize": 33,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "lineHeight": 1.4,
           "textAlign": "left",
           "padding": {
@@ -5590,112 +3116,39 @@
             "bottomRight": 0,
             "bottomLeft": 0
           },
-          "width": 267,
-          "height": 64,
-          "marginOffset": 6.153999999999989
+          "width": 193,
+          "height": 51
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "FILL",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -5716,14 +3169,8 @@
               "lGap": 0
             }
           },
-          "fontSize": 34,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "lineHeight": 1.4,
           "textAlign": "left",
           "padding": {
@@ -5741,69 +3188,26 @@
             "bottomRight": 0,
             "bottomLeft": 0
           },
-          "width": 265,
-          "height": 65,
+          "width": 189,
+          "height": 51,
           "basedOn": "89645e1e-02df-4a6a-9534-8194a0ddcf3e",
           "id": "95830244-e5c6-46ec-aeab-c07ae0f8679f",
-          "x": 658,
-          "y": 305,
-          "marginOffset": 6.153999999999989
+          "x": 160,
+          "y": 356
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "type": "sticker",
-          "x": 502,
-          "y": 149,
-          "width": 222,
-          "height": 157,
-          "sticker": {
-            "type": "videoCallsBrowserIcon"
-          },
-          "id": "d0d37097-15ae-4a55-b377-60d87b617440",
-          "groupId": "d57fa946-aff5-4b21-852a-d13fba941faf"
-        },
-        {
-          "x": 690,
-          "y": 450,
-          "id": "fbd645f5-bac7-40e6-8c24-14af1220eafd",
-          "basedOn": "d0d37097-15ae-4a55-b377-60d87b617440",
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "type": "sticker",
-          "width": 219,
-          "height": 155,
-          "sticker": {
-            "type": "videoCallsBrowserIcon"
-          },
-          "groupId": "db10a96c-253b-4b41-be0d-33524c304eef"
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "scale": 100,
-          "focalX": 49.70449172576832,
-          "focalY": 49.62632850076746,
+          "focalX": 50,
+          "focalY": 50,
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-05-26T13:37:14",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page09_image03.png",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page09_image03.png",
             "width": 478,
             "height": 479,
             "posterId": 0,
@@ -5815,8 +3219,8 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 905,
-          "y": 96,
+          "x": 250,
+          "y": 123,
           "width": 120,
           "height": 120,
           "mask": {
@@ -5831,26 +3235,31 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "type": "sticker",
+          "x": 49,
+          "y": 244,
+          "width": 158,
+          "height": 112,
+          "sticker": { "type": "videoCallsBrowserIcon" },
+          "id": "d0d37097-15ae-4a55-b377-60d87b617440",
+          "groupId": "d57fa946-aff5-4b21-852a-d13fba941faf"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-05-26T11:23:50",
             "baseColor": "#4f4b42",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page09_image01.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page09_image01.jpg",
             "width": 1080,
             "height": 720,
             "posterId": 0,
@@ -5860,45 +3269,49 @@
             "isOptimized": false,
             "isExternal": true
           },
-          "x": 503,
-          "y": 168,
-          "width": 219,
-          "height": 136,
+          "x": 50,
+          "y": 258,
+          "width": 156,
+          "height": 97,
           "scale": 110,
           "focalX": 50.14806509174784,
           "focalY": 42.448680320860255,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "id": "de91ce5b-8a1b-4603-ad3e-350cb916fc17",
           "groupId": "d57fa946-aff5-4b21-852a-d13fba941faf"
         },
         {
-          "x": 692,
-          "y": 470,
+          "x": 48,
+          "y": 434,
+          "id": "fbd645f5-bac7-40e6-8c24-14af1220eafd",
+          "basedOn": "d0d37097-15ae-4a55-b377-60d87b617440",
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "type": "sticker",
+          "width": 158,
+          "height": 112,
+          "sticker": { "type": "videoCallsBrowserIcon" },
+          "groupId": "db10a96c-253b-4b41-be0d-33524c304eef"
+        },
+        {
+          "x": 49,
+          "y": 449,
           "id": "16c995f7-1bdb-4e70-8ac9-d6fa4a60cb18",
           "basedOn": "de91ce5b-8a1b-4603-ad3e-350cb916fc17",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-05-26T11:06:37",
             "baseColor": "#e0e5e4",
-            "src": "https://wp.stories.google/static/19/images/templates/how-video-calls-saved-the-day/page09_image02.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/how-video-calls-saved-the-day/page09_image02.jpg",
             "width": 1280,
             "height": 720,
             "posterId": 0,
@@ -5908,14 +3321,12 @@
             "isOptimized": false,
             "isExternal": true
           },
-          "width": 213,
-          "height": 133,
+          "width": 155,
+          "height": 96,
           "scale": 135,
           "focalX": 47.49654155128561,
           "focalY": 55.08018645780306,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "groupId": "db10a96c-253b-4b41-be0d-33524c304eef"
         }
       ],
@@ -5923,18 +3334,14 @@
         {
           "id": "da4ca752-c834-4374-bacd-0082f8252840",
           "type": "effect-twirl-in",
-          "targets": [
-            "f2fd77e4-6129-40b2-9af7-6857975153ae"
-          ],
+          "targets": ["f2fd77e4-6129-40b2-9af7-6857975153ae"],
           "duration": 2500,
           "delay": 0
         },
         {
           "id": "7420f15d-939d-407f-a034-2b8e1b5ef38a",
           "type": "effect-fly-in",
-          "targets": [
-            "de91ce5b-8a1b-4603-ad3e-350cb916fc17"
-          ],
+          "targets": ["de91ce5b-8a1b-4603-ad3e-350cb916fc17"],
           "flyInDir": "leftToRight",
           "duration": 2000,
           "delay": 0
@@ -5942,9 +3349,7 @@
         {
           "id": "bc2f2deb-6339-4434-ab25-4d660bd107a6",
           "type": "effect-fly-in",
-          "targets": [
-            "d0d37097-15ae-4a55-b377-60d87b617440"
-          ],
+          "targets": ["d0d37097-15ae-4a55-b377-60d87b617440"],
           "flyInDir": "leftToRight",
           "duration": 2000,
           "delay": 0
@@ -5952,9 +3357,7 @@
         {
           "id": "56821d7d-c2c0-43d2-b7ef-533d41e2cf3e",
           "type": "effect-fly-in",
-          "targets": [
-            "16c995f7-1bdb-4e70-8ac9-d6fa4a60cb18"
-          ],
+          "targets": ["16c995f7-1bdb-4e70-8ac9-d6fa4a60cb18"],
           "flyInDir": "leftToRight",
           "duration": 2000,
           "delay": 300
@@ -5962,9 +3365,7 @@
         {
           "id": "73b8711d-c3a3-41b7-9ecf-80f60c174352",
           "type": "effect-fly-in",
-          "targets": [
-            "fbd645f5-bac7-40e6-8c24-14af1220eafd"
-          ],
+          "targets": ["fbd645f5-bac7-40e6-8c24-14af1220eafd"],
           "flyInDir": "leftToRight",
           "duration": 2000,
           "delay": 300
@@ -5972,9 +3373,7 @@
         {
           "id": "496de04c-e2e7-4e95-89b7-12172b4ac6e6",
           "type": "effect-fly-in",
-          "targets": [
-            "762e82bf-a5b7-499f-96ba-0163bd782b36"
-          ],
+          "targets": ["762e82bf-a5b7-499f-96ba-0163bd782b36"],
           "flyInDir": "rightToLeft",
           "duration": 2000,
           "delay": 300
@@ -5982,21 +3381,13 @@
         {
           "id": "6e8cb3fb-3527-4e70-a27e-cdfcb1e605d4",
           "type": "effect-fly-in",
-          "targets": [
-            "95830244-e5c6-46ec-aeab-c07ae0f8679f"
-          ],
+          "targets": ["95830244-e5c6-46ec-aeab-c07ae0f8679f"],
           "flyInDir": "rightToLeft",
           "duration": 2000,
           "delay": 0
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 191,
-          "b": 11
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 191, "b": 11 } },
       "type": "page",
       "id": "4f916886-a771-4cf4-a294-62678347399d",
       "pageTemplateType": "list",

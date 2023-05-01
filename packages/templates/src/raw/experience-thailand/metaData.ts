@@ -27,7 +27,6 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'experience-thailand',
   creationDate: '2021-05-29T00:00:00.000Z',
-  permission:'pro',
   title: _x('Experience Thailand', 'template name', 'web-stories'),
   tags: [
     _x('Explore', 'template keyword', 'web-stories'),

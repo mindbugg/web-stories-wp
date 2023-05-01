@@ -1,143 +1,53 @@
 {
-  "version": 46,
+  "version": 47,
   "pages": [
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 48,
-          "y": 0,
-          "width": 245,
-          "height": 245,
-          "mask": {
-            "type": "rectangle"
-          },
+          "x": 1,
+          "y": 1,
+          "width": 1,
+          "height": 1,
+          "mask": { "type": "rectangle" },
           "isBackground": true,
-          "type": "image",
-          "id": "519e3414-c33d-4833-81cd-9672b9fa52d2",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "width": 2448,
-            "height": 2448,
-            "sizes": {
-              "full": {
-                "file": "media/unsplash:_Yc7OtfFn-0",
-                "sourceUrl": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwYWludGJydXNoJTIwYmFja2dyb3VuZHxlbnwwfHx8fDE2ODIwOTczMzg&ixlib=rb-4.0.3&fm=jpg&w=2448&h=2448&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 2448,
-                "height": 2448
-              },
-              "large": {
-                "file": "media/unsplash:_Yc7OtfFn-0",
-                "sourceUrl": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwYWludGJydXNoJTIwYmFja2dyb3VuZHxlbnwwfHx8fDE2ODIwOTczMzg&ixlib=rb-4.0.3&fm=jpg&w=1958&h=1958&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1958,
-                "height": 1958
-              },
-              "1468_1468": {
-                "file": "media/unsplash:_Yc7OtfFn-0",
-                "sourceUrl": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwYWludGJydXNoJTIwYmFja2dyb3VuZHxlbnwwfHx8fDE2ODIwOTczMzg&ixlib=rb-4.0.3&fm=jpg&w=1468&h=1468&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1468,
-                "height": 1468
-              },
-              "979_979": {
-                "file": "media/unsplash:_Yc7OtfFn-0",
-                "sourceUrl": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwYWludGJydXNoJTIwYmFja2dyb3VuZHxlbnwwfHx8fDE2ODIwOTczMzg&ixlib=rb-4.0.3&fm=jpg&w=979&h=979&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 979,
-                "height": 979
-              },
-              "489_489": {
-                "file": "media/unsplash:_Yc7OtfFn-0",
-                "sourceUrl": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwYWludGJydXNoJTIwYmFja2dyb3VuZHxlbnwwfHx8fDE2ODIwOTczMzg&ixlib=rb-4.0.3&fm=jpg&w=489&h=489&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 489,
-                "height": 489
-              },
-              "web_stories_thumbnail": {
-                "file": "media/unsplash:_Yc7OtfFn-0",
-                "sourceUrl": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwYWludGJydXNoJTIwYmFja2dyb3VuZHxlbnwwfHx8fDE2ODIwOTczMzg&ixlib=rb-4.0.3&fm=jpg&w=340&h=340&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 340,
-                "height": 340
-              }
-            },
-            "isPlaceholder": false,
-            "isExternal": true,
-            "needsProxy": false,
-            "id": "media/unsplash:_Yc7OtfFn-0",
-            "baseColor": "#260c0c",
-            "blurHash": "LaF$CZ8{~VaR$ebwS~j=xtNZX8Sd",
-            "creationDate": "2016-04-14T19:17:46Z",
-            "src": "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwYWludGJydXNoJTIwYmFja2dyb3VuZHxlbnwwfHx8fDE2ODIwOTczMzg&ixlib=rb-4.0.3&fm=jpg&w=2448&h=2448&fit=max",
-            "alt": "assorted-color paintbrushes",
-            "attribution": {
-              "author": {
-                "displayName": "RhondaK Native Florida Folk Artist",
-                "url": "https://unsplash.com/@rhondak?utm_source=web_stories_wordpress&utm_medium=referral"
-              },
-              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfHDh%2BvvKjsbemgHlF0Isk2FY3WeBnCPFS10%2Brbyvgcgj52dBLUe/ib/VijgnBoaCLLjNscQg0Bdfi/ikbjiWJa1A//TSMuuUGaQSrmCCCDFWspuREpo6n4TEkBXJXWHGtXUkC3gcs%2Bod6XwJAYflKzM0UQ11k4xQKMAw1nVafNYP51xwgZ9WSZfMaVXurV56ZhkDo0kEHWGl7c70g8NIfWOFyS57Az0mm/arzUpzAdOuPZcOXqv4qLunUimJyjaB3FGUQ%3D%3D"
-            }
-          }
+          "isDefaultBackground": true,
+          "type": "shape",
+          "id": "519e3414-c33d-4833-81cd-9672b9fa52d2"
         },
         {
-          "x": 281,
-          "y": -15,
+          "x": 71,
+          "y": -58,
           "id": "55d8dd3d-34b0-47ab-a2fe-342cee96b734",
           "basedOn": "c6b0da80-454c-42e5-ae27-0203c0689ea5",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "width": 342,
           "height": 735,
           "scale": 100,
           "focalX": 58.46253698272626,
           "focalY": 50.203001531865,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "border": {
             "left": 0,
             "right": 0,
             "top": 0,
             "bottom": 0,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
           },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-14T11:33:06",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page1_bg.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page1_bg.jpg",
             "width": 1080,
             "height": 1920,
             "id": 0,
@@ -151,97 +61,55 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "width": 313,
           "height": 255,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "border": {
             "left": 0,
             "right": 0,
             "top": 0,
             "bottom": 0,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
           },
           "type": "shape",
           "basedOn": "c6b0da80-454c-42e5-ae27-0203c0689ea5",
           "id": "56b3420e-ee0a-472f-9b3a-23452b35ee20",
-          "x": 281,
-          "y": 415
+          "x": 71,
+          "y": 372
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": -131,
-          "y": 489,
+          "x": -341,
+          "y": 446,
           "width": 799,
           "height": 443,
-          "sticker": {
-            "type": "baquosBrushStroke"
-          },
+          "sticker": { "type": "baquosBrushStroke" },
           "id": "fd4219e8-f495-48c7-9b72-f6538f71daa8"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Libre Baskerville",
-            "fallbacks": [
-              "serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                700
-              ]
+              [0, 400],
+              [1, 400],
+              [0, 700]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -263,20 +131,10 @@
             }
           },
           "fontSize": 28,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.2,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"font-weight: 700; color: #2a2a2a\">Why Baquo’s Paintings Are His Most Sought After Works</span>",
           "borderRadius": {
@@ -286,8 +144,8 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 299,
-          "y": 448,
+          "x": 89,
+          "y": 405,
           "width": 247,
           "height": 135,
           "id": "58c85b5a-60d0-4039-9738-692025552474",
@@ -295,106 +153,34 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -416,20 +202,10 @@
             }
           },
           "fontSize": 16,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.5,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"color: #2b2b2b; letter-spacing: 0.01em\">By: Mary Jones</span>",
           "borderRadius": {
@@ -439,118 +215,46 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 299,
-          "y": 620,
+          "x": 89,
+          "y": 577,
           "width": 165,
           "height": 20,
           "id": "84a98cb9-3a36-4fbe-b7e7-2f77f58c9fab"
         },
         {
-          "x": 192,
-          "y": 156,
+          "x": -58,
+          "y": 144,
           "id": "7e59b671-7185-4686-a937-a51913442919",
           "basedOn": "84a98cb9-3a36-4fbe-b7e7-2f77f58c9fab",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 270,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -572,22 +276,12 @@
             }
           },
           "fontSize": 15,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.5,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
-          "content": "<span style=\"font-weight: 700; color: #2a2a2a; letter-spacing: 0.65em; text-transform: uppercase\">Artist Story</span>",
+          "content": "<span style=\"font-weight: 600; color: #2a2a2a; letter-spacing: 0.65em; text-transform: uppercase\">Artist Story</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -599,175 +293,54 @@
           "height": 18
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "animations": [],
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "58d5729f-4584-4416-8c59-938c142f4fe6",
-      "animations": [
-        {
-          "id": "f6af8285-80c4-4274-a2ef-e46e2150a873",
-          "type": "effect-background-zoom",
-          "zoomDirection": "scaleOut",
-          "duration": 2000,
-          "delay": 0,
-          "targets": [
-            "519e3414-c33d-4833-81cd-9672b9fa52d2"
-          ]
-        }
-      ],
-      "pageTemplateType": "cover",
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "type": "shape",
-        "id": "db26e12f-e360-4e7b-89a4-1ccd23c68d0b"
-      }
+      "pageTemplateType": "cover"
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 48,
-          "y": 0,
-          "width": 460,
-          "height": 600,
-          "mask": {
-            "type": "rectangle"
-          },
+          "x": 1,
+          "y": 1,
+          "width": 1,
+          "height": 1,
+          "mask": { "type": "rectangle" },
           "isBackground": true,
+          "isDefaultBackground": true,
           "id": "e442e9a6-3816-417d-b0b1-954fa96a6dc7",
-          "type": "image",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "width": 4596,
-            "height": 6000,
-            "sizes": {
-              "full": {
-                "file": "media/unsplash:5TK1F5VfdIk",
-                "sourceUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=4596&h=6000&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 4596,
-                "height": 6000
-              },
-              "large": {
-                "file": "media/unsplash:5TK1F5VfdIk",
-                "sourceUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=3676&h=4799&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 3676,
-                "height": 4799
-              },
-              "2757_3599": {
-                "file": "media/unsplash:5TK1F5VfdIk",
-                "sourceUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=2757&h=3599&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 2757,
-                "height": 3599
-              },
-              "1838_2399": {
-                "file": "media/unsplash:5TK1F5VfdIk",
-                "sourceUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=1838&h=2399&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1838,
-                "height": 2399
-              },
-              "919_1200": {
-                "file": "media/unsplash:5TK1F5VfdIk",
-                "sourceUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=919&h=1200&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 919,
-                "height": 1200
-              },
-              "web_stories_thumbnail": {
-                "file": "media/unsplash:5TK1F5VfdIk",
-                "sourceUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=340&h=444&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 340,
-                "height": 444
-              }
-            },
-            "isPlaceholder": false,
-            "isExternal": true,
-            "needsProxy": false,
-            "id": "media/unsplash:5TK1F5VfdIk",
-            "baseColor": "#26260c",
-            "blurHash": "LA9Pl:oy0}IpenNaODxZ9bR+%1xZ",
-            "creationDate": "2020-01-23T13:00:29Z",
-            "src": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=4596&h=6000&fit=max",
-            "alt": "red blue and white flowers",
-            "attribution": {
-              "author": {
-                "displayName": "Europeana",
-                "url": "https://unsplash.com/@europeana?utm_source=web_stories_wordpress&utm_medium=referral"
-              },
-              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfGjHE5zwNWCHQ1sk2Ozw0rFEc7bDXRy80bbcuPC28l5rX075x8T%2BRCoHN9IAAQjVl%2Bkh6Gtkal4MiI/8BhcH71osI6LcRNC5QFxkys9inK5hv2Sg9YGGaf47P2dY2AcU68xnoyA%2BcQpogGDrD4B7zbqBkotO6TwolgZq3tcgV48c3%2BTGCmAEx2Zfgkw3Mdn28b3DDG3QM7llblC3oJ45WmAyhKtc07g42ZATo8Xt5EllUZZWCRkj0CIUgcFOH6QxhmAdzhteSxXYYtvg4AHhAX2oXtR"
-            }
-          }
+          "type": "shape"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "type": "video",
-          "x": 766,
-          "y": 75,
+          "x": 0,
+          "y": 31,
           "width": 412,
           "height": 645,
           "scale": 100,
           "focalX": 50,
           "focalY": 50,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "id": "512176ef-9821-4fff-9cb2-0d5c9b622cbf",
           "resource": {
             "type": "video",
             "mimeType": "video/mp4",
             "creationDate": "2021-08-05T11:07:18",
             "baseColor": "#453e39",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page2_bg.mp4",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page2_bg.mp4",
             "width": 768,
             "height": 406,
-            "poster": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page2_bg-poster.jpg",
+            "poster": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page2_bg-poster.jpg",
             "posterId": 0,
             "id": 0,
             "length": 20,
@@ -784,57 +357,32 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": -28,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": -151,
-          "y": -147,
+          "x": -120,
+          "y": -236,
           "width": 799,
           "height": 443,
-          "sticker": {
-            "type": "baquosBrushStroke"
-          },
+          "sticker": { "type": "baquosBrushStroke" },
           "id": "162dbae3-99c0-4cd5-b0a7-68e6e35a00dc"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Libre Baskerville",
-            "fallbacks": [
-              "serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                700
-              ]
+              [0, 400],
+              [1, 400],
+              [0, 700]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -855,21 +403,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 24,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 20,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.27,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #2a2a2a\">Amy Hansson</span>",
           "borderRadius": {
             "locked": true,
@@ -878,1035 +416,43 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 131.5,
-          "y": 86,
-          "width": 296,
-          "height": 30,
+          "x": 82.5,
+          "y": 6,
+          "width": 247,
+          "height": 25,
           "id": "42fb6d1e-aec6-4f02-8e8e-2f553feb2162",
-          "type": "text",
-          "marginOffset": 0.75
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
-            "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 968,
-              "des": -251,
-              "tAsc": 968,
-              "tDes": -251,
-              "tLGap": 0,
-              "wAsc": 1109,
-              "wDes": 270,
-              "xH": 517,
-              "capH": 700,
-              "yMin": -259,
-              "yMax": 1021,
-              "hAsc": 968,
-              "hDes": -251,
-              "lGap": 0
-            }
-          },
-          "fontSize": 19,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "lineHeight": 1.4,
-          "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
-          "content": "<span style=\"color: #2a2a2a\">Art Critic, Gagosian Gallery</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "x": 139,
-          "y": 121,
-          "width": 278,
-          "height": 24,
-          "id": "4f283010-af09-4bc0-b1bd-b3e0c8bbf4ca",
-          "type": "text",
-          "marginOffset": 3.6199999999999974
-        }
-      ],
-      "animations": [
-        {
-          "id": "18fe175a-ba16-4745-ad6e-42aad9ce77c2",
-          "type": "effect-fade-in",
-          "targets": [
-            "162dbae3-99c0-4cd5-b0a7-68e6e35a00dc"
-          ],
-          "duration": 1500,
-          "delay": 0
-        },
-        {
-          "id": "66677cc7-ea6d-4e53-8e98-1fc02e0af8b1",
-          "type": "effect-fade-in",
-          "targets": [
-            "42fb6d1e-aec6-4f02-8e8e-2f553feb2162"
-          ],
-          "duration": 1500,
-          "delay": 250
-        },
-        {
-          "id": "b072a13f-bdb2-43cb-8cb8-62bb7e253ddb",
-          "type": "effect-fade-in",
-          "targets": [
-            "4f283010-af09-4bc0-b1bd-b3e0c8bbf4ca"
-          ],
-          "duration": 1500,
-          "delay": 250
-        },
-        {
-          "id": "19b5f48d-d838-4ff0-9c16-9f1efed691de",
-          "type": "effect-background-pan",
-          "panDir": "topToBottom",
-          "duration": 2000,
-          "delay": 0,
-          "targets": [
-            "e442e9a6-3816-417d-b0b1-954fa96a6dc7"
-          ]
-        }
-      ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
-      "type": "page",
-      "id": "1e6c5855-8613-4cc7-9f53-ceb7db19bcf5",
-      "pageTemplateType": null,
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "id": "2f8db576-a828-4551-bd61-edcaa42be7c0",
-        "type": "shape"
-      }
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 48,
-          "y": 0,
-          "width": 400,
-          "height": 239,
-          "mask": {
-            "type": "rectangle"
-          },
-          "isBackground": true,
-          "id": "1d1f95f4-9a99-4523-9454-49708764b009",
-          "type": "image",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 52.994311601615316,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "width": 3999,
-            "height": 2392,
-            "sizes": {
-              "full": {
-                "file": "media/unsplash:JZdPBgU6Nik",
-                "sourceUrl": "https://images.unsplash.com/photo-1577083552792-a0d461cb1dd6?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=3999&h=2392&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 3999,
-                "height": 2392
-              },
-              "large": {
-                "file": "media/unsplash:JZdPBgU6Nik",
-                "sourceUrl": "https://images.unsplash.com/photo-1577083552792-a0d461cb1dd6?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=3199&h=1913&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 3199,
-                "height": 1913
-              },
-              "2399_1435": {
-                "file": "media/unsplash:JZdPBgU6Nik",
-                "sourceUrl": "https://images.unsplash.com/photo-1577083552792-a0d461cb1dd6?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=2399&h=1435&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 2399,
-                "height": 1435
-              },
-              "1599_956": {
-                "file": "media/unsplash:JZdPBgU6Nik",
-                "sourceUrl": "https://images.unsplash.com/photo-1577083552792-a0d461cb1dd6?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=1599&h=956&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1599,
-                "height": 956
-              },
-              "799_478": {
-                "file": "media/unsplash:JZdPBgU6Nik",
-                "sourceUrl": "https://images.unsplash.com/photo-1577083552792-a0d461cb1dd6?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=799&h=478&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 799,
-                "height": 478
-              },
-              "web_stories_thumbnail": {
-                "file": "media/unsplash:JZdPBgU6Nik",
-                "sourceUrl": "https://images.unsplash.com/photo-1577083552792-a0d461cb1dd6?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=340&h=203&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 340,
-                "height": 203
-              }
-            },
-            "isPlaceholder": false,
-            "isExternal": true,
-            "needsProxy": false,
-            "id": "media/unsplash:JZdPBgU6Nik",
-            "baseColor": "#40738c",
-            "blurHash": "LI9*=a%#yZV?%gx]t8jDtlozoLad",
-            "creationDate": "2019-12-23T06:50:38Z",
-            "src": "https://images.unsplash.com/photo-1577083552792-a0d461cb1dd6?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxhcnQlMjBjcml0aWMlMkMlMjBnYWdvc2lhbiUyMGdhbGxlcnl8ZW58MHx8fHwxNjgyMDk3NTQ2&ixlib=rb-4.0.3&fm=jpg&w=3999&h=2392&fit=max",
-            "alt": "angel in blue dress painting",
-            "attribution": {
-              "author": {
-                "displayName": "Birmingham Museums Trust",
-                "url": "https://unsplash.com/@birminghammuseumstrust?utm_source=web_stories_wordpress&utm_medium=referral"
-              },
-              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfEZCssp0AkEcqx7dwcoirzAJVjQHe%2BvSnKs2afJ73w6RUnWWj%2BAxsp1ZPwhWKVeHTyvNCXEayt0PhOQn%2B0K6iRFIcQMHrnAVFCMGak1V3uQXGM4uaYJLwXvSkejnunwggvl6gCF1qcnytNDxOw64FVJgPCjWMavG5gLkyVHs2Kz7izFAzac5KBAyka9L00nU/lhce8H7ISOSkferkRaE4KNlvr8eTlxx3uKT87J/WsAxpP0hgasZoNlrpavS5OaymbEwo7rAE93AN76Jx/c1Nc7vafG"
-            }
-          }
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "type": "sticker",
-          "x": -142,
-          "y": 302,
-          "width": 1078,
-          "height": 599,
-          "sticker": {
-            "type": "baquosBrushStroke"
-          },
-          "id": "6ba0f089-8003-46c3-be8e-1203b29b05cd"
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "x": 276,
-          "y": 0,
-          "width": 463,
-          "height": 491,
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "mask": {
-            "type": "rectangle"
-          },
-          "id": "52f7a6bb-b25f-41ae-84ac-89655cd977da",
-          "type": "image",
-          "resource": {
-            "type": "image",
-            "mimeType": "image/png",
-            "creationDate": "2021-07-14T11:34:13",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page3_image1.jpg",
-            "width": 720,
-            "height": 693,
-            "id": 0,
-            "alt": "Blue Abstract Painting",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": false,
-            "baseColor": "#063d81",
-            "isExternal": true
-          }
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Libre Baskerville",
-            "fallbacks": [
-              "serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
-            "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                700
-              ]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 970,
-              "des": -270,
-              "tAsc": 970,
-              "tDes": -270,
-              "tLGap": 0,
-              "wAsc": 970,
-              "wDes": 270,
-              "xH": 530,
-              "capH": 770,
-              "yMin": -260,
-              "yMax": 970,
-              "hAsc": 970,
-              "hDes": -270,
-              "lGap": 0
-            }
-          },
-          "fontSize": 26,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "lineHeight": 1.27,
-          "textAlign": "left",
-          "padding": {
-            "locked": true,
-            "horizontal": 0,
-            "vertical": 0
-          },
-          "content": "<span style=\"font-weight: 700; color: #2a2a2a\">Baquo’s Abstract Blues</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "x": 345,
-          "y": 570,
-          "width": 326,
-          "height": 32,
-          "id": "d2c10282-a056-4755-a4ed-d3f61b98f6e5",
-          "type": "text",
-          "tagName": "h2",
-          "marginOffset": 0.7800000000000011
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
-            "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 968,
-              "des": -251,
-              "tAsc": 968,
-              "tDes": -251,
-              "tLGap": 0,
-              "wAsc": 1109,
-              "wDes": 270,
-              "xH": 517,
-              "capH": 700,
-              "yMin": -259,
-              "yMax": 1021,
-              "hAsc": 968,
-              "hDes": -251,
-              "lGap": 0
-            }
-          },
-          "fontSize": 20,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
-          "content": "<span style=\"font-weight: 300; color: #2a2a2a; letter-spacing: 0.01em\">For Baquo, these blues are gestures toward cultural reclamation.</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "x": 345,
-          "y": 624,
-          "width": 306,
-          "height": 84,
-          "id": "adf0c2be-e12c-44bb-92d3-19fbed164835",
-          "type": "text",
-          "marginOffset": 3.6199999999999974
-        }
-      ],
-      "animations": [
-        {
-          "id": "509df064-626b-4862-877c-4d60477a3db4",
-          "type": "effect-fly-in",
-          "targets": [
-            "52f7a6bb-b25f-41ae-84ac-89655cd977da"
-          ],
-          "flyInDir": "topToBottom",
-          "duration": 2400,
-          "delay": 0
-        },
-        {
-          "id": "cef3c838-f0d1-4e63-b0c6-66277b89d31b",
-          "type": "effect-background-pan",
-          "panDir": "bottomToTop",
-          "duration": 2000,
-          "delay": 0,
-          "targets": [
-            "1d1f95f4-9a99-4523-9454-49708764b009"
-          ]
-        }
-      ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
-      "type": "page",
-      "id": "c223180e-8f00-4ed2-af45-13a58b622458",
-      "pageTemplateType": null,
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "id": "24cb64fa-1ccd-40bd-ae50-c087bd80eec4",
-        "type": "shape"
-      }
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 48,
-          "y": 0,
-          "width": 276,
-          "height": 369,
-          "mask": {
-            "type": "rectangle"
-          },
-          "isBackground": true,
-          "id": "a51aadba-4d5c-477e-b168-86a82e7e0cd9",
-          "type": "image",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "width": 2762,
-            "height": 3685,
-            "sizes": {
-              "full": {
-                "file": "media/unsplash:pfSNx3Z12K8",
-                "sourceUrl": "https://images.unsplash.com/photo-1535673774336-ef95d2851cf3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0M3x8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=2762&h=3685&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 2762,
-                "height": 3685
-              },
-              "large": {
-                "file": "media/unsplash:pfSNx3Z12K8",
-                "sourceUrl": "https://images.unsplash.com/photo-1535673774336-ef95d2851cf3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0M3x8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=2209&h=2947&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 2209,
-                "height": 2947
-              },
-              "1657_2211": {
-                "file": "media/unsplash:pfSNx3Z12K8",
-                "sourceUrl": "https://images.unsplash.com/photo-1535673774336-ef95d2851cf3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0M3x8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=1657&h=2211&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1657,
-                "height": 2211
-              },
-              "1104_1473": {
-                "file": "media/unsplash:pfSNx3Z12K8",
-                "sourceUrl": "https://images.unsplash.com/photo-1535673774336-ef95d2851cf3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0M3x8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=1104&h=1473&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1104,
-                "height": 1473
-              },
-              "552_736": {
-                "file": "media/unsplash:pfSNx3Z12K8",
-                "sourceUrl": "https://images.unsplash.com/photo-1535673774336-ef95d2851cf3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0M3x8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=552&h=736&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 552,
-                "height": 736
-              },
-              "web_stories_thumbnail": {
-                "file": "media/unsplash:pfSNx3Z12K8",
-                "sourceUrl": "https://images.unsplash.com/photo-1535673774336-ef95d2851cf3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0M3x8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=340&h=454&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 340,
-                "height": 454
-              }
-            },
-            "isPlaceholder": false,
-            "isExternal": true,
-            "needsProxy": false,
-            "id": "media/unsplash:pfSNx3Z12K8",
-            "baseColor": "#d9d9d9",
-            "blurHash": "LTL44?*J-:VEpJ-nIpR-E4xCafTJ",
-            "creationDate": "2018-08-31T00:04:01Z",
-            "src": "https://images.unsplash.com/photo-1535673774336-ef95d2851cf3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0M3x8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=2762&h=3685&fit=max",
-            "alt": "assorted-color paints and paintbrushes on white tarp",
-            "attribution": {
-              "author": {
-                "displayName": "Taelynn Christopher",
-                "url": "https://unsplash.com/de/@taelynnmaephoto?utm_source=web_stories_wordpress&utm_medium=referral"
-              },
-              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfH0dlWzhetIjb5cJMfHVv0NIn24WFQal/bFrJMOxL9A6YeQp0kezgEf0AxoP44iM1242dj42u%2BaZwXBAssutfZXjzLRp/a2Ve%2BP2v9e9XZr4Zb0JSyOY7KioOedPrhPyWJDkBfLGEmh6/f1vo%2BF1nqQuBaNIiTf/XDWgsFNNKiLcKympWJbxfQpC3NddjEsrMDT/DMnqJwszar/AbX4mhBjtU%2B1gtO2eYxnBgu2Nej7mAnAfIZe/uxyHq1wmZdIODhSQYmNHYaqbrSRiSSpA7B8FIvW/FQ%3D"
-            }
-          }
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": -105,
-          "lockAspectRatio": true,
-          "type": "sticker",
-          "x": -101,
-          "y": 105,
-          "width": 799,
-          "height": 443,
-          "sticker": {
-            "type": "baquosBrushStroke"
-          },
-          "id": "d3947d2e-879b-4079-8e16-f7d0479c4469"
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "x": 744,
-          "y": 80,
-          "width": 187,
-          "height": 385,
-          "scale": 110,
-          "focalX": 50.68850267064677,
-          "focalY": 50,
-          "mask": {
-            "type": "rectangle"
-          },
-          "id": "a014bb66-2837-4b53-92bb-c860100028f0",
-          "type": "image",
-          "border": {
-            "left": 16,
-            "right": 16,
-            "top": 16,
-            "bottom": 16,
-            "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
-          },
-          "resource": {
-            "type": "image",
-            "mimeType": "image/png",
-            "creationDate": "2021-07-14T11:34:53",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page4_image1.jpg",
-            "width": 480,
-            "height": 720,
-            "id": 0,
-            "alt": "Multicolored Abstract Painting",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": false,
-            "baseColor": "#ccc5d8",
-            "isExternal": true
-          }
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Libre Baskerville",
-            "fallbacks": [
-              "serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
-            "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                700
-              ]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 970,
-              "des": -270,
-              "tAsc": 970,
-              "tDes": -270,
-              "tLGap": 0,
-              "wAsc": 970,
-              "wDes": 270,
-              "xH": 530,
-              "capH": 770,
-              "yMin": -260,
-              "yMax": 970,
-              "hAsc": 970,
-              "hDes": -270,
-              "lGap": 0
-            }
-          },
-          "fontSize": 20,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "lineHeight": 1.3,
-          "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
-          "content": "<span style=\"font-weight: 700; color: #2a2a2a\">“These paintings are t</span><span style=\"font-weight: 700; color: #2a2a2a\">he most raw in form, color, expression and have become icons in their own right.”</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "x": 32,
-          "y": 428,
-          "width": 258,
-          "height": 129,
-          "id": "1095e103-e8a3-474a-8ecf-f171de5d5b46",
           "type": "text"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1928,20 +474,438 @@
             }
           },
           "fontSize": 16,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "lineHeight": 1.4,
+          "textAlign": "center",
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
+          "content": "<span style=\"color: #2a2a2a\">Art Critic, Gagosian Gallery</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "x": 89,
+          "y": 35,
+          "width": 232,
+          "height": 20,
+          "id": "4f283010-af09-4bc0-b1bd-b3e0c8bbf4ca",
+          "type": "text"
+        }
+      ],
+      "animations": [
+        {
+          "id": "18fe175a-ba16-4745-ad6e-42aad9ce77c2",
+          "type": "effect-fade-in",
+          "targets": ["162dbae3-99c0-4cd5-b0a7-68e6e35a00dc"],
+          "duration": 1500,
+          "delay": 0
+        },
+        {
+          "id": "66677cc7-ea6d-4e53-8e98-1fc02e0af8b1",
+          "type": "effect-fade-in",
+          "targets": ["42fb6d1e-aec6-4f02-8e8e-2f553feb2162"],
+          "duration": 1500,
+          "delay": 250
+        },
+        {
+          "id": "b072a13f-bdb2-43cb-8cb8-62bb7e253ddb",
+          "type": "effect-fade-in",
+          "targets": ["4f283010-af09-4bc0-b1bd-b3e0c8bbf4ca"],
+          "duration": 1500,
+          "delay": 250
+        }
+      ],
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      "type": "page",
+      "id": "1e6c5855-8613-4cc7-9f53-ceb7db19bcf5",
+      "pageTemplateType": null
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "x": 1,
+          "y": 1,
+          "width": 1,
+          "height": 1,
+          "mask": { "type": "rectangle" },
+          "isBackground": true,
+          "isDefaultBackground": true,
+          "id": "1d1f95f4-9a99-4523-9454-49708764b009",
+          "type": "shape"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "type": "sticker",
+          "x": -321,
+          "y": 162,
+          "width": 799,
+          "height": 443,
+          "sticker": { "type": "baquosBrushStroke" },
+          "id": "6ba0f089-8003-46c3-be8e-1203b29b05cd"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "x": 0,
+          "y": -59,
+          "width": 412,
+          "height": 437,
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "mask": { "type": "rectangle" },
+          "id": "52f7a6bb-b25f-41ae-84ac-89655cd977da",
+          "type": "image",
+          "resource": {
+            "type": "image",
+            "mimeType": "image/png",
+            "creationDate": "2021-07-14T11:34:13",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page3_image1.jpg",
+            "width": 720,
+            "height": 693,
+            "id": 0,
+            "alt": "Blue Abstract Painting",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": false,
+            "baseColor": "#063d81",
+            "isExternal": true
+          }
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Libre Baskerville",
+            "fallbacks": ["serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
+            "variants": [
+              [0, 400],
+              [1, 400],
+              [0, 700]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 970,
+              "des": -270,
+              "tAsc": 970,
+              "tDes": -270,
+              "tLGap": 0,
+              "wAsc": 970,
+              "wDes": 270,
+              "xH": 530,
+              "capH": 770,
+              "yMin": -260,
+              "yMax": 970,
+              "hAsc": 970,
+              "hDes": -270,
+              "lGap": 0
             }
           },
+          "fontSize": 20,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "lineHeight": 1.27,
+          "textAlign": "left",
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
+          "content": "<span style=\"font-weight: 700; color: #2a2a2a\">Baquo’s Abs</span><span style=\"font-weight: 700; color: #2a2a2a\">tract Blues</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "x": 78,
+          "y": 483,
+          "width": 247,
+          "height": 25,
+          "id": "d2c10282-a056-4755-a4ed-d3f61b98f6e5",
+          "type": "text",
+          "tagName": "h2"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Montserrat",
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
+            "variants": [
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 968,
+              "des": -251,
+              "tAsc": 968,
+              "tDes": -251,
+              "tLGap": 0,
+              "wAsc": 1109,
+              "wDes": 270,
+              "xH": 517,
+              "capH": 700,
+              "yMin": -259,
+              "yMax": 1021,
+              "hAsc": 968,
+              "hDes": -251,
+              "lGap": 0
+            }
+          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
+          "content": "<span style=\"font-weight: 300; color: #2a2a2a; letter-spacing: 0.01em\">For Baquo, these blues are gestures toward cultural reclamation.</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
           },
+          "x": 78,
+          "y": 524,
+          "width": 232,
+          "height": 64,
+          "id": "adf0c2be-e12c-44bb-92d3-19fbed164835",
+          "type": "text"
+        }
+      ],
+      "animations": [
+        {
+          "id": "509df064-626b-4862-877c-4d60477a3db4",
+          "type": "effect-fly-in",
+          "targets": ["52f7a6bb-b25f-41ae-84ac-89655cd977da"],
+          "flyInDir": "topToBottom",
+          "duration": 2400,
+          "delay": 0
+        }
+      ],
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      "type": "page",
+      "id": "c223180e-8f00-4ed2-af45-13a58b622458",
+      "pageTemplateType": null
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "x": 1,
+          "y": 1,
+          "width": 1,
+          "height": 1,
+          "mask": { "type": "rectangle" },
+          "isBackground": true,
+          "isDefaultBackground": true,
+          "id": "a51aadba-4d5c-477e-b168-86a82e7e0cd9",
+          "type": "shape"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": -105,
+          "lockAspectRatio": true,
+          "type": "sticker",
+          "x": -53,
+          "y": 80,
+          "width": 799,
+          "height": 443,
+          "sticker": { "type": "baquosBrushStroke" },
+          "id": "d3947d2e-879b-4079-8e16-f7d0479c4469"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "x": 38,
+          "y": 7,
+          "width": 142,
+          "height": 300,
+          "scale": 110,
+          "focalX": 50.68850267064677,
+          "focalY": 50,
+          "mask": { "type": "rectangle" },
+          "id": "a014bb66-2837-4b53-92bb-c860100028f0",
+          "type": "image",
+          "border": {
+            "left": 16,
+            "right": 16,
+            "top": 16,
+            "bottom": 16,
+            "lockedWidth": true,
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
+          },
+          "resource": {
+            "type": "image",
+            "mimeType": "image/png",
+            "creationDate": "2021-07-14T11:34:53",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page4_image1.jpg",
+            "width": 480,
+            "height": 720,
+            "id": 0,
+            "alt": "Multicolored Abstract Painting",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": false,
+            "baseColor": "#ccc5d8",
+            "isExternal": true
+          }
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Libre Baskerville",
+            "fallbacks": ["serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
+            "variants": [
+              [0, 400],
+              [1, 400],
+              [0, 700]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 970,
+              "des": -270,
+              "tAsc": 970,
+              "tDes": -270,
+              "tLGap": 0,
+              "wAsc": 970,
+              "wDes": 270,
+              "xH": 530,
+              "capH": 770,
+              "yMin": -260,
+              "yMax": 970,
+              "hAsc": 970,
+              "hDes": -270,
+              "lGap": 0
+            }
+          },
+          "fontSize": 20,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "lineHeight": 1.3,
+          "textAlign": "left",
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
+          "content": "<span style=\"font-weight: 700; color: #2a2a2a\">“These paintings are t</span><span style=\"font-weight: 700; color: #2a2a2a\">he most raw in form, color, expression and have become icons in their own right.”</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "x": 80,
+          "y": 403,
+          "width": 258,
+          "height": 129,
+          "id": "1095e103-e8a3-474a-8ecf-f171de5d5b46",
+          "type": "text"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Montserrat",
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
+            "variants": [
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 968,
+              "des": -251,
+              "tAsc": 968,
+              "tDes": -251,
+              "tLGap": 0,
+              "wAsc": 1109,
+              "wDes": 270,
+              "xH": 517,
+              "capH": 700,
+              "yMin": -259,
+              "yMax": 1021,
+              "hAsc": 968,
+              "hDes": -251,
+              "lGap": 0
+            }
+          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "lineHeight": 1.4,
+          "textAlign": "left",
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"color: #2a2a2a\">Emily Smith, Art Historian</span>",
           "borderRadius": {
             "locked": true,
@@ -1950,40 +914,29 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 32,
-          "y": 593,
+          "x": 80,
+          "y": 568,
           "width": 232,
           "height": 20,
           "id": "fcbb196e-9ce4-466d-97d9-569671d3aafa",
           "type": "text"
         },
         {
-          "x": 976,
-          "y": 80,
+          "x": 223,
+          "y": 7,
           "id": "11836dc9-014d-43bc-8ba5-b11b8129bea1",
           "basedOn": "a014bb66-2837-4b53-92bb-c860100028f0",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "width": 187,
-          "height": 385,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "width": 142,
+          "height": 300,
           "scale": 120,
           "focalX": 50,
           "focalY": 53.32859470519992,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "type": "image",
           "border": {
             "left": 16,
@@ -1991,19 +944,13 @@
             "top": 16,
             "bottom": 16,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
           },
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-14T11:35:06",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page4_image2.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page4_image2.jpg",
             "width": 480,
             "height": 720,
             "id": 0,
@@ -2020,83 +967,34 @@
         {
           "id": "8836eff1-0513-4ffc-92fa-ce5f6593b337",
           "type": "effect-fly-in",
-          "targets": [
-            "d3947d2e-879b-4079-8e16-f7d0479c4469"
-          ],
+          "targets": ["d3947d2e-879b-4079-8e16-f7d0479c4469"],
           "flyInDir": "bottomToTop",
           "duration": 7000,
           "delay": 0
-        },
-        {
-          "id": "26f52d62-1aa7-4a29-a003-855eae84d37e",
-          "type": "effect-background-pan",
-          "panDir": "topToBottom",
-          "duration": 2000,
-          "delay": 0,
-          "targets": [
-            "a51aadba-4d5c-477e-b168-86a82e7e0cd9"
-          ]
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "af637476-c85e-4fa6-8630-8cd306c8acfa",
-      "pageTemplateType": "quote",
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "id": "651fe74a-cf6a-4b48-a6c8-1faf1de86179",
-        "type": "shape"
-      }
+      "pageTemplateType": "quote"
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "x": -154,
           "y": -51,
           "width": 720,
           "height": 720,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "type": "video",
           "id": "0976b5a0-9c23-412d-a253-c9f85f2ffdd8",
-          "scale": 100,
+          "scale": 110,
           "focalX": 50,
           "focalY": 50,
           "resource": {
@@ -2104,10 +1002,10 @@
             "mimeType": "video/mp4",
             "creationDate": "2021-08-05T11:07:40",
             "baseColor": "#393635",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page5_bg.mp4",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page5_bg.mp4",
             "width": 720,
             "height": 720,
-            "poster": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page5_bg-poster.jpg",
+            "poster": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page5_bg-poster.jpg",
             "posterId": 0,
             "id": 0,
             "length": 20,
@@ -2123,189 +1021,72 @@
           "loop": true
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "animations": [],
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "7f6c6215-168f-45cc-849b-e72489c97c61",
       "defaultBackgroundElement": {
         "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
+        "flip": { "vertical": false, "horizontal": false },
         "rotationAngle": 0,
         "lockAspectRatio": true,
-        "backgroundColor": {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          }
-        },
+        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
         "x": 1,
         "y": 1,
         "width": 1,
         "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
+        "mask": { "type": "rectangle" },
         "isBackground": true,
         "isDefaultBackground": true,
         "type": "shape",
         "id": "ff058f0e-fe37-4ae4-8638-b02676b27ea2"
       },
-      "animations": [
-        {
-          "id": "40c7579d-54b9-4ced-a6cd-bf5a62796590",
-          "type": "effect-background-zoom",
-          "zoomDirection": "scaleOut",
-          "duration": 2000,
-          "delay": 0,
-          "targets": [
-            "0976b5a0-9c23-412d-a253-c9f85f2ffdd8"
-          ]
-        }
-      ],
       "pageTemplateType": null
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 48,
-          "y": 0,
-          "width": 519,
-          "height": 346,
-          "mask": {
-            "type": "rectangle"
-          },
+          "x": 1,
+          "y": 1,
+          "width": 1,
+          "height": 1,
+          "mask": { "type": "rectangle" },
           "isBackground": true,
+          "isDefaultBackground": true,
           "id": "f3d225e0-b95d-45d3-a896-d7fc5fb61118",
-          "type": "image",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "width": 5194,
-            "height": 3463,
-            "sizes": {
-              "full": {
-                "file": "media/unsplash:X6CZGpJBi8U",
-                "sourceUrl": "https://images.unsplash.com/photo-1497048679117-1a29644559e3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=5194&h=3463&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 5194,
-                "height": 3463
-              },
-              "large": {
-                "file": "media/unsplash:X6CZGpJBi8U",
-                "sourceUrl": "https://images.unsplash.com/photo-1497048679117-1a29644559e3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=4155&h=2770&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 4155,
-                "height": 2770
-              },
-              "3116_2078": {
-                "file": "media/unsplash:X6CZGpJBi8U",
-                "sourceUrl": "https://images.unsplash.com/photo-1497048679117-1a29644559e3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=3116&h=2078&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 3116,
-                "height": 2078
-              },
-              "2077_1385": {
-                "file": "media/unsplash:X6CZGpJBi8U",
-                "sourceUrl": "https://images.unsplash.com/photo-1497048679117-1a29644559e3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=2077&h=1385&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 2077,
-                "height": 1385
-              },
-              "1038_692": {
-                "file": "media/unsplash:X6CZGpJBi8U",
-                "sourceUrl": "https://images.unsplash.com/photo-1497048679117-1a29644559e3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=1038&h=692&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1038,
-                "height": 692
-              },
-              "web_stories_thumbnail": {
-                "file": "media/unsplash:X6CZGpJBi8U",
-                "sourceUrl": "https://images.unsplash.com/photo-1497048679117-1a29644559e3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 340,
-                "height": 227
-              }
-            },
-            "isPlaceholder": false,
-            "isExternal": true,
-            "needsProxy": false,
-            "id": "media/unsplash:X6CZGpJBi8U",
-            "baseColor": "#f3f3f3",
-            "blurHash": "LPJj;z4nMxDi0LbcXnNbS%IUw]xu",
-            "creationDate": "2017-06-09T22:51:44Z",
-            "src": "https://images.unsplash.com/photo-1497048679117-1a29644559e3?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw0NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5Nzg4Nw&ixlib=rb-4.0.3&fm=jpg&w=5194&h=3463&fit=max",
-            "alt": "person holding book with sketch",
-            "attribution": {
-              "author": {
-                "displayName": "Rachael Gorjestani",
-                "url": "https://unsplash.com/es/@rachaelgorjestani?utm_source=web_stories_wordpress&utm_medium=referral"
-              },
-              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfGsDnHR0gQ71rhIYKRZibPqNo7cBaAav1F0dJHtJtBH7vD6KBJpfJA1tV2BKj%2BWRq009WHsySt4iPlt/rnNsNIpXxQxAQ0r/M6hYYP7UiGDi2D8aPXqiRySyYqjWkAaoYsiV/8h3%2B4NsojoMNmea4TG3t/9goGBFQlHx26u/k%2BxMZMVgefhfFZcnu3coqaQi1bYIXi54MIe98PHZ32c0RDPmHv7HOT2EH3Osx3jSQu75SjnQivXoja5pkTuTIOJqj8TRYT2HjA6bTkRhtOOsJ3SRNE6vNs%3D"
-            }
-          }
+          "type": "shape"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": -51,
-          "y": 115,
+          "x": -193,
+          "y": 81,
           "width": 799,
           "height": 443,
-          "sticker": {
-            "type": "baquosBrushStroke"
-          },
+          "sticker": { "type": "baquosBrushStroke" },
           "id": "08962ab1-2548-4e58-9d5e-90eadd68276f"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "x": 191,
-          "y": 487,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "x": 49,
+          "y": 453,
           "width": 363,
           "height": 297,
           "scale": 123,
           "focalX": 56.05387665409452,
           "focalY": 55.344511782929885,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "id": "1c88b0f5-223a-4fe5-a09d-1ead8409c1e2",
           "border": {
             "left": 16,
@@ -2313,13 +1094,7 @@
             "top": 16,
             "bottom": 16,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
           },
           "type": "image",
           "resource": {
@@ -2327,7 +1102,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-07-14T11:44:21",
             "baseColor": "#16252d",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page6_image2.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page6_image2.jpg",
             "width": 717,
             "height": 480,
             "id": 0,
@@ -2340,21 +1115,12 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "x": 141,
-          "y": -40,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "x": -1,
+          "y": -74,
           "id": "9f539e27-524a-4f0c-905d-9d3d7a4c661e",
           "basedOn": "a014bb66-2837-4b53-92bb-c860100028f0",
           "width": 364,
@@ -2362,29 +1128,21 @@
           "scale": 179,
           "focalX": 29.93402946298555,
           "focalY": 39.692917607065375,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "border": {
             "left": 16,
             "right": 16,
             "top": 16,
             "bottom": 16,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
           },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-14T11:41:59",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page6_image1.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page6_image1.jpg",
             "width": 683,
             "height": 480,
             "id": 0,
@@ -2398,106 +1156,34 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2519,20 +1205,10 @@
             }
           },
           "fontSize": 16,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"color: #2a2a2a; letter-spacing: 0.01em\">Most of his work is seen as largely autobiographical and personal work.&nbsp;</span>",
           "borderRadius": {
             "locked": true,
@@ -2541,8 +1217,8 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 210,
-          "y": 326,
+          "x": 68,
+          "y": 292,
           "width": 243,
           "height": 64,
           "id": "6b5e3870-dec7-4316-b14b-1f13aa423ac8",
@@ -2550,39 +1226,19 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Libre Baskerville",
-            "fallbacks": [
-              "serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                700
-              ]
+              [0, 400],
+              [1, 400],
+              [0, 700]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2604,20 +1260,10 @@
             }
           },
           "fontSize": 20,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.3,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #2a2a2a\">A personal take</span>",
           "borderRadius": {
             "locked": true,
@@ -2626,8 +1272,8 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 210,
-          "y": 285,
+          "x": 68,
+          "y": 251,
           "width": 258,
           "height": 25,
           "id": "86418af7-9d5e-4ee6-94e5-c6f403108dbe",
@@ -2639,9 +1285,7 @@
         {
           "id": "1c7cc646-f850-4093-946c-02f369d7f669",
           "type": "effect-whoosh-in",
-          "targets": [
-            "9f539e27-524a-4f0c-905d-9d3d7a4c661e"
-          ],
+          "targets": ["9f539e27-524a-4f0c-905d-9d3d7a4c661e"],
           "whooshInDir": "leftToRight",
           "duration": 4000,
           "delay": 0
@@ -2649,189 +1293,61 @@
         {
           "id": "abd097d5-0cbe-4379-b908-722e3da67c18",
           "type": "effect-whoosh-in",
-          "targets": [
-            "1c88b0f5-223a-4fe5-a09d-1ead8409c1e2"
-          ],
+          "targets": ["1c88b0f5-223a-4fe5-a09d-1ead8409c1e2"],
           "whooshInDir": "rightToLeft",
           "duration": 4000,
           "delay": 0
-        },
-        {
-          "id": "2ca2e154-bee7-4923-b619-ed982d2c9c70",
-          "type": "effect-background-pan-and-zoom",
-          "panDir": "topToBottom",
-          "duration": 2000,
-          "delay": 0,
-          "zoomDirection": "scaleOut",
-          "targets": [
-            "f3d225e0-b95d-45d3-a896-d7fc5fb61118"
-          ]
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "2d7ff090-413a-4a18-9cca-0d422b004b59",
-      "pageTemplateType": null,
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "id": "eb341df6-9e51-4eb3-b5c9-bf1e8da7ff1e",
-        "type": "shape"
-      }
+      "pageTemplateType": null
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 48,
-          "y": 0,
-          "width": 302,
-          "height": 403,
-          "mask": {
-            "type": "rectangle"
-          },
+          "x": 1,
+          "y": 1,
+          "width": 1,
+          "height": 1,
+          "mask": { "type": "rectangle" },
           "isBackground": true,
+          "isDefaultBackground": true,
           "id": "963f13a2-8069-4114-9cb2-3ac42720a85e",
-          "type": "image",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "width": 3024,
-            "height": 4032,
-            "sizes": {
-              "full": {
-                "file": "media/unsplash:d2Q0ZXnWI_c",
-                "sourceUrl": "https://images.unsplash.com/photo-1542772144-515ddfae17e9?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=3024&h=4032&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 3024,
-                "height": 4032
-              },
-              "large": {
-                "file": "media/unsplash:d2Q0ZXnWI_c",
-                "sourceUrl": "https://images.unsplash.com/photo-1542772144-515ddfae17e9?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=2419&h=3225&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 2419,
-                "height": 3225
-              },
-              "1814_2419": {
-                "file": "media/unsplash:d2Q0ZXnWI_c",
-                "sourceUrl": "https://images.unsplash.com/photo-1542772144-515ddfae17e9?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=1814&h=2419&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1814,
-                "height": 2419
-              },
-              "1209_1612": {
-                "file": "media/unsplash:d2Q0ZXnWI_c",
-                "sourceUrl": "https://images.unsplash.com/photo-1542772144-515ddfae17e9?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=1209&h=1612&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1209,
-                "height": 1612
-              },
-              "604_805": {
-                "file": "media/unsplash:d2Q0ZXnWI_c",
-                "sourceUrl": "https://images.unsplash.com/photo-1542772144-515ddfae17e9?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=604&h=805&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 604,
-                "height": 805
-              },
-              "web_stories_thumbnail": {
-                "file": "media/unsplash:d2Q0ZXnWI_c",
-                "sourceUrl": "https://images.unsplash.com/photo-1542772144-515ddfae17e9?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=340&h=453&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 340,
-                "height": 453
-              }
-            },
-            "isPlaceholder": false,
-            "isExternal": true,
-            "needsProxy": false,
-            "id": "media/unsplash:d2Q0ZXnWI_c",
-            "baseColor": "#0c2626",
-            "blurHash": "LFCP|#9a0z^j?aI9E1^k~WIUE1.8",
-            "creationDate": "2018-11-21T04:16:10Z",
-            "src": "https://images.unsplash.com/photo-1542772144-515ddfae17e9?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=3024&h=4032&fit=max",
-            "alt": "high-rise buildings",
-            "attribution": {
-              "author": {
-                "displayName": "Vlad Bunu",
-                "url": "https://unsplash.com/@vladbunu?utm_source=web_stories_wordpress&utm_medium=referral"
-              },
-              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfEC6YyEI6kn7XheHrv33ltoyMPcOOpOhbLs0jtwL2ww29Q62M9tGJc7dO89UgZ7c7zIdW7%2Bi3u4lChjhexOe6tf9038KTsFEWcrQwqRJfNqCa73It1SgIKRuAkOelUWHHb1ukAaDuO2qXjnGH1aR1fEdlaM%2BQS3qkEaMonZQT0DZYbYaNxyEU%2B7ADYKonyp%2BQtAEwSkfmG0T4k7XFIRXgpGDYuTJgDDnqFUQdwYJ%2BvT9xXyzAhMEo/w3W07/qS4MZA6H191CYK69inpFJN3inaOgUyBT%2BU%3D"
-            }
-          }
+          "type": "shape"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 120,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": -141,
-          "y": -175,
+          "x": -292,
+          "y": -245,
           "width": 799,
           "height": 443,
-          "sticker": {
-            "type": "baquosBrushStroke"
-          },
+          "sticker": { "type": "baquosBrushStroke" },
           "id": "3a5dffd4-75a3-4039-984c-493eb5dc2d9b"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "x": 189,
-          "y": 376,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "x": 38,
+          "y": 306,
           "width": 142,
           "height": 300,
           "scale": 105,
           "focalX": 50,
           "focalY": 42.454212633874036,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "id": "4eaaf4cd-7b60-4d44-a76e-edf357b37434",
           "border": {
             "left": 16,
@@ -2839,20 +1355,14 @@
             "top": 16,
             "bottom": 16,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
           },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-14T11:46:31",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page7_image1.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page7_image1.jpg",
             "width": 480,
             "height": 720,
             "id": 0,
@@ -2866,39 +1376,19 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Libre Baskerville",
-            "fallbacks": [
-              "serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                700
-              ]
+              [0, 400],
+              [1, 400],
+              [0, 700]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2920,20 +1410,10 @@
             }
           },
           "fontSize": 20,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.3,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #2a2a2a\">“These paintings are the most raw in form, color, expression and have become icons in their own right.”</span>",
           "borderRadius": {
             "locked": true,
@@ -2942,8 +1422,8 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 231,
-          "y": 107,
+          "x": 80,
+          "y": 37,
           "width": 258,
           "height": 130,
           "id": "9821d4c7-518e-46f8-bfeb-154a15809934",
@@ -2951,106 +1431,34 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -3071,21 +1479,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 21,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"color: #2a2a2a\">Paul Sons, Art Historian &nbsp;</span>",
           "borderRadius": {
             "locked": true,
@@ -3094,31 +1492,21 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 231,
-          "y": 272,
-          "width": 293,
-          "height": 26,
+          "x": 80,
+          "y": 202,
+          "width": 232,
+          "height": 20,
           "id": "d6f91338-78d1-4c5f-bbb3-4eab30dc5360",
-          "type": "text",
-          "marginOffset": 3.8009999999999984
+          "type": "text"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "x": 374,
-          "y": 376,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "x": 223,
+          "y": 306,
           "id": "5d728e16-96e3-46f1-9f75-ed036c350109",
           "basedOn": "a014bb66-2837-4b53-92bb-c860100028f0",
           "width": 142,
@@ -3126,29 +1514,21 @@
           "scale": 106,
           "focalX": 39.33070686013986,
           "focalY": 47.50922803424667,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "border": {
             "left": 16,
             "right": 16,
             "top": 16,
             "bottom": 16,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
           },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-14T11:47:54",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page7_image2.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page7_image2.jpg",
             "width": 480,
             "height": 720,
             "id": 0,
@@ -3165,265 +1545,77 @@
         {
           "id": "f320aeb7-8535-4568-9988-726e3920761d",
           "type": "effect-fly-in",
-          "targets": [
-            "3a5dffd4-75a3-4039-984c-493eb5dc2d9b"
-          ],
+          "targets": ["3a5dffd4-75a3-4039-984c-493eb5dc2d9b"],
           "flyInDir": "topToBottom",
           "duration": 4000,
           "delay": 0
-        },
-        {
-          "id": "55e754cb-8778-4e88-bbf2-b324a7e5dcb8",
-          "type": "effect-background-zoom",
-          "zoomDirection": "scaleOut",
-          "duration": 2000,
-          "delay": 0,
-          "targets": [
-            "963f13a2-8069-4114-9cb2-3ac42720a85e"
-          ]
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "e8bcbd70-cf90-4b65-b517-482c3ab09dc6",
-      "pageTemplateType": null,
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "id": "f8345351-8096-47f6-ad42-32e9db9554b2",
-        "type": "shape"
-      }
+      "pageTemplateType": null
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 48,
-          "y": 0,
-          "width": 302,
-          "height": 302,
-          "mask": {
-            "type": "rectangle"
-          },
+          "x": 1,
+          "y": 1,
+          "width": 1,
+          "height": 1,
+          "mask": { "type": "rectangle" },
           "isBackground": true,
+          "isDefaultBackground": true,
           "id": "03d7d88e-3266-4533-a6d3-7a57e89771d3",
-          "type": "image",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 65.447695035461,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "width": 3024,
-            "height": 3024,
-            "sizes": {
-              "full": {
-                "file": "media/unsplash:V6Qd6zA85ck",
-                "sourceUrl": "https://images.unsplash.com/photo-1512413914633-b5043f4041ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3OHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=3024&h=3024&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 3024,
-                "height": 3024
-              },
-              "large": {
-                "file": "media/unsplash:V6Qd6zA85ck",
-                "sourceUrl": "https://images.unsplash.com/photo-1512413914633-b5043f4041ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3OHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=2419&h=2419&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 2419,
-                "height": 2419
-              },
-              "1814_1814": {
-                "file": "media/unsplash:V6Qd6zA85ck",
-                "sourceUrl": "https://images.unsplash.com/photo-1512413914633-b5043f4041ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3OHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=1814&h=1814&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1814,
-                "height": 1814
-              },
-              "1209_1209": {
-                "file": "media/unsplash:V6Qd6zA85ck",
-                "sourceUrl": "https://images.unsplash.com/photo-1512413914633-b5043f4041ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3OHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=1209&h=1209&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1209,
-                "height": 1209
-              },
-              "604_604": {
-                "file": "media/unsplash:V6Qd6zA85ck",
-                "sourceUrl": "https://images.unsplash.com/photo-1512413914633-b5043f4041ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3OHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=604&h=604&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 604,
-                "height": 604
-              },
-              "web_stories_thumbnail": {
-                "file": "media/unsplash:V6Qd6zA85ck",
-                "sourceUrl": "https://images.unsplash.com/photo-1512413914633-b5043f4041ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3OHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=340&h=340&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 340,
-                "height": 340
-              }
-            },
-            "isPlaceholder": false,
-            "isExternal": true,
-            "needsProxy": false,
-            "id": "media/unsplash:V6Qd6zA85ck",
-            "baseColor": "#262626",
-            "blurHash": "LNFPpP-;D%pH_MozIoR+RPoyxtja",
-            "creationDate": "2017-12-04T19:01:53Z",
-            "src": "https://images.unsplash.com/photo-1512413914633-b5043f4041ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw3OHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODA5Nw&ixlib=rb-4.0.3&fm=jpg&w=3024&h=3024&fit=max",
-            "alt": "black, white, and teal abstract painting",
-            "attribution": {
-              "author": {
-                "displayName": "Henrik Dønnestad",
-                "url": "https://unsplash.com/fr/@spaceboy?utm_source=web_stories_wordpress&utm_medium=referral"
-              },
-              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfH6AxSoBjACMORSwwJny3VEhbu%2Bld25GelHi00dRVYGPXq/%2BapC8O4SWOHgHyRLk3JJaCmrHKIuevmgBXMaNS2SoSjPjs1z%2BFDp6rVaK5OX2YotjobD2n6XfXltCvicHbVnoy7mN9u8ge1gEV2Mu8cqHLbqfDI/XDhFFoFqlyX9sT3/8kV8w1zIPpEGBh3WBTGZ%2BYXoeo9wNS1yHywErJi1oE6GGX4QUlXr1c3B%2Ba3bMMnTFRiXLBxonDBjHxdnAlsIU%2BL9IIDrzyOVHiXYcz5yfZ496dA%3D"
-            }
-          }
+          "type": "shape"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 336,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 310,
-          "y": 438,
-          "width": 850,
-          "height": 471,
-          "sticker": {
-            "type": "baquosBrushStroke"
-          },
+          "x": 120,
+          "y": 600,
+          "width": 799,
+          "height": 443,
+          "sticker": { "type": "baquosBrushStroke" },
           "id": "3ba82cbc-c901-42e7-a3da-1b3e1bc35e54"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -3444,21 +1636,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 19,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 300; color: #2a2a2a\">He depicts himself as victim and victor,</span>\n<span style=\"font-weight: 300\">a new concept for art of the time.</span>",
           "borderRadius": {
             "locked": true,
@@ -3467,31 +1649,21 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 428,
-          "y": 575,
-          "width": 384,
-          "height": 50,
+          "x": 48,
+          "y": 567,
+          "width": 322,
+          "height": 42,
           "id": "bf183e1a-f2a3-4015-96d8-9b32c85f747f",
-          "type": "text",
-          "marginOffset": 3.6199999999999974
+          "type": "text"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "x": 371,
-          "y": -51,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "x": 0,
+          "y": -60,
           "id": "c6b0da80-454c-42e5-ae27-0203c0689ea5",
           "basedOn": "a014bb66-2837-4b53-92bb-c860100028f0",
           "width": 412,
@@ -3499,29 +1671,21 @@
           "scale": 100,
           "focalX": 50,
           "focalY": 44.441964285714306,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "border": {
             "left": 0,
             "right": 0,
             "top": 0,
             "bottom": 0,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
           },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-14T11:49:38",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page8_image1.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page8_image1.jpg",
             "width": 720,
             "height": 1280,
             "id": 0,
@@ -3538,180 +1702,55 @@
         {
           "id": "d6476081-087f-4db0-9909-f7b2959000b4",
           "type": "effect-fly-in",
-          "targets": [
-            "3ba82cbc-c901-42e7-a3da-1b3e1bc35e54"
-          ],
+          "targets": ["3ba82cbc-c901-42e7-a3da-1b3e1bc35e54"],
           "flyInDir": "bottomToTop",
           "duration": 4000,
           "delay": 0
-        },
-        {
-          "id": "44d19d4c-1d56-4b45-8ffc-73f65ba7e2c1",
-          "type": "effect-background-zoom",
-          "zoomDirection": "scaleOut",
-          "duration": 2000,
-          "delay": 0,
-          "targets": [
-            "03d7d88e-3266-4533-a6d3-7a57e89771d3"
-          ]
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "d5c9fb2a-994c-4ee3-93e0-6625757ec878",
-      "pageTemplateType": null,
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "id": "e0bbe7ff-4429-443c-b4fc-8627b92c0a42",
-        "type": "shape"
-      }
+      "pageTemplateType": null
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 48,
-          "y": 0,
-          "width": 576,
-          "height": 289,
-          "mask": {
-            "type": "rectangle"
-          },
+          "x": 1,
+          "y": 1,
+          "width": 1,
+          "height": 1,
+          "mask": { "type": "rectangle" },
           "isBackground": true,
+          "isDefaultBackground": true,
           "id": "8a64cef8-3d11-4002-a54b-d80ae96b80bc",
-          "type": "image",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "width": 5760,
-            "height": 2889,
-            "sizes": {
-              "full": {
-                "file": "media/unsplash:3DkouQeZjp4",
-                "sourceUrl": "https://images.unsplash.com/photo-1511980725567-b9b7f0358905?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=5760&h=2889&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 5760,
-                "height": 2889
-              },
-              "large": {
-                "file": "media/unsplash:3DkouQeZjp4",
-                "sourceUrl": "https://images.unsplash.com/photo-1511980725567-b9b7f0358905?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=4608&h=2311&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 4608,
-                "height": 2311
-              },
-              "3456_1733": {
-                "file": "media/unsplash:3DkouQeZjp4",
-                "sourceUrl": "https://images.unsplash.com/photo-1511980725567-b9b7f0358905?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=3456&h=1733&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 3456,
-                "height": 1733
-              },
-              "2304_1156": {
-                "file": "media/unsplash:3DkouQeZjp4",
-                "sourceUrl": "https://images.unsplash.com/photo-1511980725567-b9b7f0358905?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=2304&h=1156&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 2304,
-                "height": 1156
-              },
-              "1152_578": {
-                "file": "media/unsplash:3DkouQeZjp4",
-                "sourceUrl": "https://images.unsplash.com/photo-1511980725567-b9b7f0358905?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=1152&h=578&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1152,
-                "height": 578
-              },
-              "web_stories_thumbnail": {
-                "file": "media/unsplash:3DkouQeZjp4",
-                "sourceUrl": "https://images.unsplash.com/photo-1511980725567-b9b7f0358905?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=340&h=171&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 340,
-                "height": 171
-              }
-            },
-            "isPlaceholder": false,
-            "isExternal": true,
-            "needsProxy": false,
-            "id": "media/unsplash:3DkouQeZjp4",
-            "baseColor": "#c0c0c0",
-            "blurHash": "LPJH,UQ,bXh1}PwbnfR$pcTH-j$j",
-            "creationDate": "2017-11-29T18:42:15Z",
-            "src": "https://images.unsplash.com/photo-1511980725567-b9b7f0358905?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5NHx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=5760&h=2889&fit=max",
-            "alt": "brush on watercolor paint",
-            "attribution": {
-              "author": {
-                "displayName": "Denise Johnson",
-                "url": "https://unsplash.com/@auntneecey?utm_source=web_stories_wordpress&utm_medium=referral"
-              },
-              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfHmi%2BO8UkNfF2nDk6wBw0sSrnf1MnyotxlcBe%2BduqrDX1W8dN2XFFy7JJTBzrtpb94G41dtSGdVMX1HXQoxWcAcC0KE7qv/cM1vFcRGP/NooGFRGTazIjaXStr62Wt0NXW7yKmQ69w0f4xrHTgtP58x2kr2f3Ppfhi74fFrf0mXOMvQ2u1JJNUJE9nvkXyjPGxxEdCH0rTUJWzZpdPAaTnb3JaB2DKguLT%2BznJyZWCUEaThPH5JR/qQkdr%2BipTwNZ2jxT3sFGVFmGqnWZedCGkhDHMztyc%3D"
-            }
-          }
+          "type": "shape"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 334,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 213,
-          "y": -101,
+          "x": -154,
+          "y": -409,
           "width": 799,
           "height": 443,
-          "sticker": {
-            "type": "baquosBrushStroke"
-          },
+          "sticker": { "type": "baquosBrushStroke" },
           "id": "f7bbe32c-124c-4c3e-b66c-b263d6b23d9d"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "x": 402,
-          "y": 137,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "x": 0,
+          "y": 91,
           "id": "aeb15097-42eb-4407-9f48-75fafbf35b73",
           "basedOn": "a014bb66-2837-4b53-92bb-c860100028f0",
           "width": 412,
@@ -3719,22 +1758,14 @@
           "scale": 105,
           "focalX": 50,
           "focalY": 50.04177167641248,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "border": {
             "left": 0,
             "right": 0,
             "top": 0,
             "bottom": 0,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
           },
           "type": "image",
           "resource": {
@@ -3742,7 +1773,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-07-14T11:50:52",
             "baseColor": "#e0c2a1",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page9_image1.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page9_image1.jpg",
             "width": 720,
             "height": 1054,
             "id": 0,
@@ -3755,106 +1786,34 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -3875,21 +1834,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 18,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 300; color: #2a2a2a\">His themes tackle, head-on, perceptions of what a Black artist can represent.</span>",
           "borderRadius": {
             "locked": true,
@@ -3898,92 +1847,42 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 417,
-          "y": 36,
-          "width": 362,
-          "height": 48,
+          "x": 50,
+          "y": 1,
+          "width": 322,
+          "height": 42,
           "id": "18018daf-65f2-4dc6-aabc-096c39afd655",
-          "type": "text",
-          "marginOffset": 3.257999999999999
+          "type": "text"
         }
       ],
       "animations": [
         {
           "id": "b0f88498-3842-4b6c-9ac7-86cf5fd87b41",
           "type": "effect-fly-in",
-          "targets": [
-            "f7bbe32c-124c-4c3e-b66c-b263d6b23d9d"
-          ],
+          "targets": ["f7bbe32c-124c-4c3e-b66c-b263d6b23d9d"],
           "flyInDir": "topToBottom",
           "duration": 4000,
           "delay": 0
-        },
-        {
-          "id": "67b8617a-cb0b-4f0c-8060-1e571be91eb6",
-          "type": "effect-background-pan",
-          "panDir": "leftToRight",
-          "duration": 2000,
-          "delay": 0,
-          "targets": [
-            "8a64cef8-3d11-4002-a54b-d80ae96b80bc"
-          ]
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "af58829b-e56d-4bf4-86c7-9604830d7814",
-      "pageTemplateType": null,
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "id": "60efd471-7e4e-46c1-8d78-b89bfef35570",
-        "type": "shape"
-      }
+      "pageTemplateType": null
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "x": -154,
           "y": -51,
           "width": 720,
           "height": 720,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "type": "video",
           "id": "aa6d2399-570e-49d7-91e9-79c3560611fc",
@@ -3995,10 +1894,10 @@
             "mimeType": "video/mp4",
             "creationDate": "2021-08-05T11:07:43",
             "baseColor": "#433f3c",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page10_bg.mp4",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page10_bg.mp4",
             "width": 720,
             "height": 720,
-            "poster": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page10_bg-poster.jpg",
+            "poster": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page10_bg-poster.jpg",
             "posterId": 0,
             "id": 0,
             "length": 20,
@@ -4014,189 +1913,72 @@
           "loop": true
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "animations": [],
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "7ef150ba-e6c4-4dc8-9c93-87694725bda6",
       "defaultBackgroundElement": {
         "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
+        "flip": { "vertical": false, "horizontal": false },
         "rotationAngle": 0,
         "lockAspectRatio": true,
-        "backgroundColor": {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          }
-        },
+        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
         "x": 1,
         "y": 1,
         "width": 1,
         "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
+        "mask": { "type": "rectangle" },
         "isBackground": true,
         "isDefaultBackground": true,
         "type": "shape",
         "id": "0b861cc1-6d8a-4fb1-8acc-2e67a36cfd03"
       },
-      "animations": [
-        {
-          "id": "d3a8912d-9874-452a-a449-51937d5db57d",
-          "type": "effect-background-pan",
-          "panDir": "topToBottom",
-          "duration": 2000,
-          "delay": 0,
-          "targets": [
-            "aa6d2399-570e-49d7-91e9-79c3560611fc"
-          ]
-        }
-      ],
       "pageTemplateType": null
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 48,
-          "y": 0,
-          "width": 290,
-          "height": 399,
-          "mask": {
-            "type": "rectangle"
-          },
+          "x": 1,
+          "y": 1,
+          "width": 1,
+          "height": 1,
+          "mask": { "type": "rectangle" },
           "isBackground": true,
+          "isDefaultBackground": true,
           "id": "4b10dd30-d087-447e-b134-c765a50cd9ad",
-          "type": "image",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 47.36052128015251,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "width": 2896,
-            "height": 3988,
-            "sizes": {
-              "full": {
-                "file": "media/unsplash:LlqdLp6KU0U",
-                "sourceUrl": "https://images.unsplash.com/photo-1522167428-d603a1d62f26?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMjJ8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=2896&h=3988&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 2896,
-                "height": 3988
-              },
-              "large": {
-                "file": "media/unsplash:LlqdLp6KU0U",
-                "sourceUrl": "https://images.unsplash.com/photo-1522167428-d603a1d62f26?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMjJ8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=2316&h=3189&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 2316,
-                "height": 3189
-              },
-              "1737_2392": {
-                "file": "media/unsplash:LlqdLp6KU0U",
-                "sourceUrl": "https://images.unsplash.com/photo-1522167428-d603a1d62f26?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMjJ8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=1737&h=2392&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1737,
-                "height": 2392
-              },
-              "1158_1595": {
-                "file": "media/unsplash:LlqdLp6KU0U",
-                "sourceUrl": "https://images.unsplash.com/photo-1522167428-d603a1d62f26?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMjJ8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=1158&h=1595&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1158,
-                "height": 1595
-              },
-              "579_797": {
-                "file": "media/unsplash:LlqdLp6KU0U",
-                "sourceUrl": "https://images.unsplash.com/photo-1522167428-d603a1d62f26?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMjJ8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=579&h=797&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 579,
-                "height": 797
-              },
-              "web_stories_thumbnail": {
-                "file": "media/unsplash:LlqdLp6KU0U",
-                "sourceUrl": "https://images.unsplash.com/photo-1522167428-d603a1d62f26?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMjJ8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=340&h=468&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 340,
-                "height": 468
-              }
-            },
-            "isPlaceholder": false,
-            "isExternal": true,
-            "needsProxy": false,
-            "id": "media/unsplash:LlqdLp6KU0U",
-            "baseColor": "#8c8c8c",
-            "blurHash": "LGJHz8004ot7?a%3IUNGRP%fnhIo",
-            "creationDate": "2018-03-27T16:21:59Z",
-            "src": "https://images.unsplash.com/photo-1522167428-d603a1d62f26?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMjJ8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=2896&h=3988&fit=max",
-            "alt": "paint brush beside cup",
-            "attribution": {
-              "author": {
-                "displayName": "sydney Rae",
-                "url": "https://unsplash.com/@srz?utm_source=web_stories_wordpress&utm_medium=referral"
-              },
-              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfGeBTahQBRNXMTiLBFdrBIW62c7FpcC2bPAh9KzdI4nKVLH4MW9nJ51vDVbY%2B4X%2Bc1mwHbzF6/7me5mmBzzL55FPu72f/U5WRD/GWP5U21kJ2eEF7e6JyMt6mrK9gZZdKDEpF2Yh%2BAlMqImGPMqnI9SQ6z/BjNZTqwguawpxcZ6d7jGxtGN16UjXyvPWoRMLb/GcJMlTnWASPoMlmXBPEoRlHJcyB9uEE6qeEN1U4TowHED5GLXCEvuGxG1Sa2U10c8RZaFs17W/kLNq4pSvd2GPhWqK16d"
-            }
-          }
+          "type": "shape"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 60,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 165,
-          "y": 139,
+          "x": -375,
+          "y": 91,
           "width": 799,
           "height": 443,
-          "sticker": {
-            "type": "baquosBrushStroke"
-          },
+          "sticker": { "type": "baquosBrushStroke" },
           "id": "df560e0d-8d0d-4a60-bb0e-f6538f8182a9"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "x": 589,
-          "y": 501,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "x": 49,
+          "y": 453,
           "width": 363,
           "height": 222,
           "scale": 100,
           "focalX": 50,
           "focalY": 50,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "id": "d648ffa0-6e43-46d8-b60d-f64f68af74c2",
           "border": {
             "left": 16,
@@ -4204,13 +1986,7 @@
             "top": 16,
             "bottom": 16,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
           },
           "type": "image",
           "resource": {
@@ -4218,7 +1994,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-07-14T11:52:26",
             "baseColor": "#cc9b92",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page11_image2.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page11_image2.jpg",
             "width": 640,
             "height": 480,
             "id": 0,
@@ -4231,39 +2007,19 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Libre Baskerville",
-            "fallbacks": [
-              "serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                700
-              ]
+              [0, 400],
+              [1, 400],
+              [0, 700]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -4285,20 +2041,10 @@
             }
           },
           "fontSize": 20,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.3,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #2a2a2a\">Radical by Choice</span>",
           "borderRadius": {
             "locked": true,
@@ -4307,8 +2053,8 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 608,
-          "y": 299,
+          "x": 68,
+          "y": 251,
           "width": 258,
           "height": 25,
           "id": "645342e7-78b6-43cc-8896-fbe61c4d0d47",
@@ -4317,106 +2063,34 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -4437,21 +2111,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 19,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 300; color: #2a2a2a; letter-spacing: 0.01em\">There’s an inherent rejection of the mainstream culture in favor of stories that are more raw, emotional and moving.&nbsp;</span>",
           "borderRadius": {
             "locked": true,
@@ -4460,31 +2124,21 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 602,
-          "y": 341,
-          "width": 319,
-          "height": 107,
+          "x": 68,
+          "y": 292,
+          "width": 258,
+          "height": 87,
           "id": "374546c6-e836-4891-a017-284c484dbedd",
-          "type": "text",
-          "marginOffset": 3.6199999999999974
+          "type": "text"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "x": 539,
-          "y": -26,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "x": -1,
+          "y": -74,
           "id": "f8e9b469-5e50-4e41-9bee-9b81f5f6e6b9",
           "basedOn": "a014bb66-2837-4b53-92bb-c860100028f0",
           "width": 364,
@@ -4492,29 +2146,21 @@
           "scale": 100,
           "focalX": 50.08103695864728,
           "focalY": 50.442559038564546,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "border": {
             "left": 16,
             "right": 16,
             "top": 16,
             "bottom": 16,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
           },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-14T11:52:01",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page11_image1.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page11_image1.jpg",
             "width": 720,
             "height": 480,
             "id": 0,
@@ -4531,187 +2177,60 @@
         {
           "id": "f8be47b7-0aa5-481c-a15a-92072c3d7304",
           "type": "effect-fade-in",
-          "targets": [
-            "df560e0d-8d0d-4a60-bb0e-f6538f8182a9"
-          ],
+          "targets": ["df560e0d-8d0d-4a60-bb0e-f6538f8182a9"],
           "duration": 4000,
           "delay": 0
-        },
-        {
-          "id": "cc937808-1cb0-4a50-a107-6252bd894c7c",
-          "type": "effect-background-pan",
-          "panDir": "bottomToTop",
-          "duration": 2000,
-          "delay": 0,
-          "targets": [
-            "4b10dd30-d087-447e-b134-c765a50cd9ad"
-          ]
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "0895c1db-e538-4a4b-8247-2c22cc6dbb26",
-      "pageTemplateType": "editorial",
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "id": "6210355b-f6e4-43ea-8905-dfe12d9d801f",
-        "type": "shape"
-      }
+      "pageTemplateType": "editorial"
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 48,
-          "y": 0,
-          "width": 400,
-          "height": 600,
-          "mask": {
-            "type": "rectangle"
-          },
+          "x": 1,
+          "y": 1,
+          "width": 1,
+          "height": 1,
+          "mask": { "type": "rectangle" },
           "isBackground": true,
+          "isDefaultBackground": true,
           "id": "9c9ab3d1-941a-4201-939c-8d8b735f107a",
-          "type": "image",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "width": 4000,
-            "height": 6000,
-            "sizes": {
-              "full": {
-                "file": "media/unsplash:OG44d93iNJk",
-                "sourceUrl": "https://images.unsplash.com/photo-1556139943-4bdca53adf1e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMzN8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=4000&h=6000&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 4000,
-                "height": 6000
-              },
-              "large": {
-                "file": "media/unsplash:OG44d93iNJk",
-                "sourceUrl": "https://images.unsplash.com/photo-1556139943-4bdca53adf1e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMzN8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=3200&h=4800&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 3200,
-                "height": 4800
-              },
-              "2400_3600": {
-                "file": "media/unsplash:OG44d93iNJk",
-                "sourceUrl": "https://images.unsplash.com/photo-1556139943-4bdca53adf1e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMzN8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=2400&h=3600&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 2400,
-                "height": 3600
-              },
-              "1600_2400": {
-                "file": "media/unsplash:OG44d93iNJk",
-                "sourceUrl": "https://images.unsplash.com/photo-1556139943-4bdca53adf1e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMzN8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=1600&h=2400&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1600,
-                "height": 2400
-              },
-              "800_1200": {
-                "file": "media/unsplash:OG44d93iNJk",
-                "sourceUrl": "https://images.unsplash.com/photo-1556139943-4bdca53adf1e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMzN8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=800&h=1200&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 800,
-                "height": 1200
-              },
-              "web_stories_thumbnail": {
-                "file": "media/unsplash:OG44d93iNJk",
-                "sourceUrl": "https://images.unsplash.com/photo-1556139943-4bdca53adf1e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMzN8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=340&h=510&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 340,
-                "height": 510
-              }
-            },
-            "isPlaceholder": false,
-            "isExternal": true,
-            "needsProxy": false,
-            "id": "media/unsplash:OG44d93iNJk",
-            "baseColor": "#f3f3f3",
-            "blurHash": "LORoy|D,KhVuD7JRPSVtn5t*k:ix",
-            "creationDate": "2019-04-24T21:05:47Z",
-            "src": "https://images.unsplash.com/photo-1556139943-4bdca53adf1e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMzN8fGFydCUyMGNyaXRpYyUyQyUyMGdhZ29zaWFuJTIwZ2FsbGVyeXxlbnwwfHx8fDE2ODIwOTg0NjI&ixlib=rb-4.0.3&fm=jpg&w=4000&h=6000&fit=max",
-            "alt": "media/unsplash:OG44d93iNJk",
-            "attribution": {
-              "author": {
-                "displayName": "Pawel Czerwinski",
-                "url": "https://unsplash.com/@pawel_czerwinski?utm_source=web_stories_wordpress&utm_medium=referral"
-              },
-              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfHjEp61s2rN24bGBTw7v4XvbHixpMvGkLR1C1sQ6LmZurX8a46hYI2r9JkTXv4HoPbbLHy9n7cJChOa65TKGxaio8wLEHKcGgu3kj8DD7XcaPnInsKfxzpGRUesoua9OE5mFOucKeiVm/jxagpibCVbG5w6qH8qHxTdelqCuyzY3v5fDZuruDyB3rQ%2BB%2BZXFfuptOjrFdRXUHMWKgEtu54UE30qwj7C4BCcVbq8UcgpuJeaT9GJJP/A%2BgsmiW2QK6tQMxEoL5P86uOltjfcphTgPsnYCcwU"
-            }
-          }
+          "type": "shape"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": -30,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 79,
-          "y": -199,
+          "x": -193,
+          "y": -272,
           "width": 799,
           "height": 443,
-          "sticker": {
-            "type": "baquosBrushStroke"
-          },
+          "sticker": { "type": "baquosBrushStroke" },
           "id": "8cf07bd4-4672-44fa-a05f-58c725a39769"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "x": 702,
-          "y": 259,
-          "width": 193,
-          "height": 395,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "x": 38,
+          "y": 306,
+          "width": 142,
+          "height": 300,
           "scale": 100,
           "focalX": 50,
           "focalY": 50,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "id": "c385ba2e-1fa0-42f7-ab06-c3d1753f7cfb",
           "border": {
             "left": 16,
@@ -4719,20 +2238,14 @@
             "top": 16,
             "bottom": 16,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
           },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-14T11:54:20",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page12_image1.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page12_image1.jpg",
             "width": 480,
             "height": 803,
             "id": 0,
@@ -4746,39 +2259,19 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Libre Baskerville",
-            "fallbacks": [
-              "serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                700
-              ]
+              [0, 400],
+              [1, 400],
+              [0, 700]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -4800,20 +2293,10 @@
             }
           },
           "fontSize": 20,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.3,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #2a2a2a\">“These were groundbreaking when artists of the 1980s were largely white.”</span>",
           "borderRadius": {
             "locked": true,
@@ -4822,8 +2305,8 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 304,
-          "y": 45,
+          "x": 80,
+          "y": 36,
           "width": 258,
           "height": 103,
           "id": "f46e7209-c2ee-43f6-8fab-250187995c92",
@@ -4831,106 +2314,34 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -4951,21 +2362,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 19,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"color: #2a2a2a\">James Doe, Art Historian</span>",
           "borderRadius": {
             "locked": true,
@@ -4974,61 +2375,43 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 304,
-          "y": 182,
-          "width": 270,
-          "height": 24,
+          "x": 80,
+          "y": 177,
+          "width": 232,
+          "height": 20,
           "id": "80568020-8dc8-492c-8956-f5a6aef620b9",
-          "type": "text",
-          "marginOffset": 3.6199999999999974
+          "type": "text"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "x": 940,
-          "y": 259,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "x": 223,
+          "y": 306,
           "id": "f01dd2e3-4169-41a5-8dc0-077537ad6e81",
           "basedOn": "a014bb66-2837-4b53-92bb-c860100028f0",
-          "width": 193,
-          "height": 395,
+          "width": 142,
+          "height": 300,
           "scale": 110,
           "focalX": 50,
           "focalY": 50.40885029089077,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "border": {
             "left": 16,
             "right": 16,
             "top": 16,
             "bottom": 16,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 234,
-                "g": 238,
-                "b": 244
-              }
-            }
+            "color": { "color": { "r": 234, "g": 238, "b": 244 } }
           },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-14T11:54:40",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page12_image2.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page12_image2.jpg",
             "width": 480,
             "height": 840,
             "id": 0,
@@ -5045,247 +2428,64 @@
         {
           "id": "2e410325-a6cb-4ca4-a92f-1c1ecab25991",
           "type": "effect-fly-in",
-          "targets": [
-            "8cf07bd4-4672-44fa-a05f-58c725a39769"
-          ],
+          "targets": ["8cf07bd4-4672-44fa-a05f-58c725a39769"],
           "flyInDir": "topToBottom",
           "duration": 4000,
           "delay": 0
-        },
-        {
-          "id": "d890a177-9ceb-4a23-9f05-0ae83f03cd8c",
-          "type": "effect-background-zoom",
-          "zoomDirection": "scaleOut",
-          "duration": 2000,
-          "delay": 0,
-          "targets": [
-            "9c9ab3d1-941a-4201-939c-8d8b735f107a"
-          ]
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "0aba4a1d-6661-4a88-8f8c-1390df577c6f",
-      "pageTemplateType": null,
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "id": "3ebae335-d13b-41ca-84a0-9d357ed05e66",
-        "type": "shape"
-      }
+      "pageTemplateType": null
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 48,
-          "y": 0,
-          "width": 604,
-          "height": 464,
-          "mask": {
-            "type": "rectangle"
-          },
+          "x": 1,
+          "y": 1,
+          "width": 1,
+          "height": 1,
+          "mask": { "type": "rectangle" },
           "isBackground": true,
-          "type": "image",
-          "id": "41ff3c29-7ea1-45f5-8d90-527385631729",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "width": 6044,
-            "height": 4636,
-            "sizes": {
-              "full": {
-                "file": "media/unsplash:K1sovnK_WZs",
-                "sourceUrl": "https://images.unsplash.com/photo-1574787930560-ac549eabaa20?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4NXx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=6044&h=4636&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 6044,
-                "height": 4636
-              },
-              "large": {
-                "file": "media/unsplash:K1sovnK_WZs",
-                "sourceUrl": "https://images.unsplash.com/photo-1574787930560-ac549eabaa20?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4NXx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=4835&h=3709&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 4835,
-                "height": 3709
-              },
-              "3626_2781": {
-                "file": "media/unsplash:K1sovnK_WZs",
-                "sourceUrl": "https://images.unsplash.com/photo-1574787930560-ac549eabaa20?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4NXx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=3626&h=2781&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 3626,
-                "height": 2781
-              },
-              "2417_1854": {
-                "file": "media/unsplash:K1sovnK_WZs",
-                "sourceUrl": "https://images.unsplash.com/photo-1574787930560-ac549eabaa20?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4NXx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=2417&h=1854&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 2417,
-                "height": 1854
-              },
-              "1208_927": {
-                "file": "media/unsplash:K1sovnK_WZs",
-                "sourceUrl": "https://images.unsplash.com/photo-1574787930560-ac549eabaa20?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4NXx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=1208&h=927&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 1208,
-                "height": 927
-              },
-              "web_stories_thumbnail": {
-                "file": "media/unsplash:K1sovnK_WZs",
-                "sourceUrl": "https://images.unsplash.com/photo-1574787930560-ac549eabaa20?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4NXx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=340&h=261&fit=max",
-                "mimeType": "image/jpeg",
-                "width": 340,
-                "height": 261
-              }
-            },
-            "isPlaceholder": false,
-            "isExternal": true,
-            "needsProxy": false,
-            "id": "media/unsplash:K1sovnK_WZs",
-            "baseColor": "#404040",
-            "blurHash": "LBDbvM0$E2%0XUEN-SWBrqNHxtae",
-            "creationDate": "2019-11-26T17:09:09Z",
-            "src": "https://images.unsplash.com/photo-1574787930560-ac549eabaa20?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4NXx8YXJ0JTIwY3JpdGljJTJDJTIwZ2Fnb3NpYW4lMjBnYWxsZXJ5fGVufDB8fHx8MTY4MjA5ODE0MQ&ixlib=rb-4.0.3&fm=jpg&w=6044&h=4636&fit=max",
-            "alt": "burning house painting",
-            "attribution": {
-              "author": {
-                "displayName": "British Library",
-                "url": "https://unsplash.com/ja/@britishlibrary?utm_source=web_stories_wordpress&utm_medium=referral"
-              },
-              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfH35vm%2BoZR5liUOaK0FyPT7/9dKjsu3tok56E31U28ib1LpTWxL0oR1YSlxldk1TBMJKVFaDrDs95vkvgZ76ra2ILvOrDwByTNzTaTY3ictYTTjtbVZtu%2BYSkpHHXLynPcOFgbU9muSbbcDauX%2B9nr0CSYV37/RMNRRt997ziluYqNfVJDWxpEt7t8c2xY7LNtbNXyTuYTBvDh3y6h9czXGLckMWesbBhTKt14D0C7Y4lXJQBXLA/ig%2BqVLZqjz8%2BtQOAvtOsTUzWXWSgATC5KZHHOH54k%3D"
-            }
-          }
+          "isDefaultBackground": true,
+          "type": "shape",
+          "id": "41ff3c29-7ea1-45f5-8d90-527385631729"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Montserrat",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              100,
-              200,
-              300,
-              400,
-              500,
-              600,
-              700,
-              800,
-              900
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [100, 200, 300, 400, 500, 600, 700, 800, 900],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                100
-              ],
-              [
-                0,
-                200
-              ],
-              [
-                0,
-                300
-              ],
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                500
-              ],
-              [
-                0,
-                600
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                0,
-                800
-              ],
-              [
-                0,
-                900
-              ],
-              [
-                1,
-                100
-              ],
-              [
-                1,
-                200
-              ],
-              [
-                1,
-                300
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                500
-              ],
-              [
-                1,
-                600
-              ],
-              [
-                1,
-                700
-              ],
-              [
-                1,
-                800
-              ],
-              [
-                1,
-                900
-              ]
+              [0, 100],
+              [0, 200],
+              [0, 300],
+              [0, 400],
+              [0, 500],
+              [0, 600],
+              [0, 700],
+              [0, 800],
+              [0, 900],
+              [1, 100],
+              [1, 200],
+              [1, 300],
+              [1, 400],
+              [1, 500],
+              [1, 600],
+              [1, 700],
+              [1, 800],
+              [1, 900]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -5306,21 +2506,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 21,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 400; color: #fff; letter-spacing: 0.01em\">Born in 1959 in New York City, Baquo was born to parents of Haitian and Dominican descent.</span>\n\n<span style=\"font-weight: 400; color: #fff; letter-spacing: 0.01em\">He enrolled as an apprentice at the BK Museum of Art.&nbsp;</span>",
           "borderRadius": {
             "locked": true,
@@ -5329,63 +2519,45 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 433,
-          "height": 178,
+          "width": 322,
+          "height": 132,
           "type": "text",
           "basedOn": "bf183e1a-f2a3-4015-96d8-9b32c85f747f",
           "id": "77e32ad0-40dc-4fbe-8e6c-75b7192e66fa",
-          "x": 436,
-          "y": 505,
-          "marginOffset": 3.8009999999999984
+          "x": 50,
+          "y": 308
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "width": 469,
-          "height": 329,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "width": 339,
+          "height": 235,
           "scale": 105,
           "focalX": 48.72139615399921,
           "focalY": 55.758233127535796,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "border": {
             "left": 16,
             "right": 16,
             "top": 16,
             "bottom": 16,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 85,
-                "g": 85,
-                "b": 85
-              }
-            }
+            "color": { "color": { "r": 85, "g": 85, "b": 85 } }
           },
           "type": "image",
           "basedOn": "c6b0da80-454c-42e5-ae27-0203c0689ea5",
           "id": "4054b2ae-3547-4110-b4d3-8615d805a2ae",
-          "x": 430,
-          "y": 29,
+          "x": 50,
+          "y": -41,
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-14T11:56:26",
             "baseColor": "#7b6a60",
-            "src": "https://wp.stories.google/static/19/images/templates/an-artists-legacy/page13_image1.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/an-artists-legacy/page13_image1.jpg",
             "width": 640,
             "height": 480,
             "id": 0,
@@ -5398,39 +2570,19 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Libre Baskerville",
-            "fallbacks": [
-              "serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                0,
-                700
-              ]
+              [0, 400],
+              [1, 400],
+              [0, 700]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -5451,21 +2603,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 37,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 28,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.2,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"font-weight: 700; color: #fff\">About Baquo</span>",
           "borderRadius": {
@@ -5475,67 +2617,28 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 332,
-          "height": 47,
+          "width": 247,
+          "height": 35,
           "basedOn": "258abf02-b54b-496e-9ccf-7e356430b07d",
           "id": "95c3589a-2f3b-42cc-bb5d-f8e8b361d092",
-          "x": 436,
-          "y": 437,
-          "marginOffset": -1.480000000000004
+          "x": 50,
+          "y": 258
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 30,
-          "g": 32,
-          "b": 31
-        }
-      },
-      "type": "page",
-      "id": "d17aab13-a4b3-4f06-9767-12a334a42c2e",
       "animations": [
         {
           "id": "0110d5ae-804c-4bbb-8acd-e85673b6614b",
           "type": "effect-fly-in",
-          "targets": [
-            "4054b2ae-3547-4110-b4d3-8615d805a2ae"
-          ],
+          "targets": ["4054b2ae-3547-4110-b4d3-8615d805a2ae"],
           "flyInDir": "leftToRight",
           "duration": 4000,
           "delay": 0
-        },
-        {
-          "id": "2b732370-b790-417a-9ca1-e5676a50c5ad",
-          "type": "effect-background-zoom",
-          "zoomDirection": "scaleOut",
-          "duration": 2000,
-          "delay": 0,
-          "targets": [
-            "41ff3c29-7ea1-45f5-8d90-527385631729"
-          ]
         }
       ],
-      "pageTemplateType": null,
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "type": "shape",
-        "id": "0d204857-4650-4809-a98c-422a5a57ceca"
-      }
+      "backgroundColor": { "color": { "r": 30, "g": 32, "b": 31 } },
+      "type": "page",
+      "id": "d17aab13-a4b3-4f06-9767-12a334a42c2e",
+      "pageTemplateType": null
     }
   ],
   "current": null,

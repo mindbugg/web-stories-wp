@@ -1,30 +1,19 @@
 {
-  "version": 46,
+  "version": 47,
   "pages": [
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "x": -334,
           "y": -501,
           "width": 1080,
           "height": 1620,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "type": "image",
           "id": "e1ad4031-41f3-46c8-8dfd-ff7cc349f27f",
@@ -36,7 +25,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-05-12T12:44:07",
             "baseColor": "#523c34",
-            "src": "https://wp.stories.google/static/19/images/templates/pizzas-in-nyc/page1_bg.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/pizzas-in-nyc/page1_bg.jpg",
             "width": 1080,
             "height": 1620,
             "posterId": 0,
@@ -49,67 +38,29 @@
           "overlay": {
             "type": "linear",
             "stops": [
-              {
-                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0
-                },
-                "position": 0
-              },
-              {
-                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 0
-                },
-                "position": 0.5
-              }
+              { "color": { "r": 0, "g": 0, "b": 0 }, "position": 0 },
+              { "color": { "r": 0, "g": 0, "b": 0, "a": 0 }, "position": 0.5 }
             ],
             "alpha": 0.7
           }
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -129,21 +80,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 53,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 36,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"font-weight: 700; color: #f8bc63\">I ate 30 pizzas to find the best pizza in NYC</span>",
           "borderRadius": {
@@ -153,57 +94,33 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 48,
-          "y": 7,
-          "width": 449,
-          "height": 190,
-          "id": "6384cc8c-0cac-4709-9dfb-661f571a3328",
-          "marginOffset": -13.876269531249996
+          "x": 58,
+          "y": -2,
+          "width": 292,
+          "height": 123,
+          "id": "6384cc8c-0cac-4709-9dfb-661f571a3328"
         },
         {
-          "x": 48,
-          "y": 213,
+          "x": 59,
+          "y": 144,
           "id": "3c6c91e1-8bb6-4934-830d-1d2e09ae22f0",
           "basedOn": "6384cc8c-0cac-4709-9dfb-661f571a3328",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -223,21 +140,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 20,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 17,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.2,
           "textAlign": "left",
-          "padding": {
-            "locked": true,
-            "horizontal": 0,
-            "vertical": 0
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"color: #f8bc63\">By: Chris Don</span>\n<span style=\"color: #f8bc63\">Internet Celebrity</span>",
           "borderRadius": {
@@ -248,72 +155,44 @@
             "bottomLeft": 2
           },
           "width": 292,
-          "height": 51
+          "height": 44
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "animations": [],
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "622df19a-39be-43de-9b02-e94449d0988d",
       "defaultBackgroundElement": {
         "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
+        "flip": { "vertical": false, "horizontal": false },
         "rotationAngle": 0,
         "lockAspectRatio": true,
-        "backgroundColor": {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          }
-        },
+        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
         "x": 1,
         "y": 1,
         "width": 1,
         "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
+        "mask": { "type": "rectangle" },
         "isBackground": true,
         "isDefaultBackground": true,
         "type": "shape",
         "id": "bbdc08c8-4ad8-4ed6-8040-f87a30b56f16"
       },
-      "animations": [],
       "pageTemplateType": "cover"
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "x": -154,
           "y": 106,
           "width": 720,
           "height": 406,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "type": "video",
           "id": "acb48bd0-f108-475f-bc8d-9ba658749b0f",
@@ -324,11 +203,11 @@
             "type": "video",
             "mimeType": "video/mp4",
             "creationDate": "2021-05-19T10:50:03",
-            "src": "https://wp.stories.google/static/19/images/templates/pizzas-in-nyc/page2_bg.mp4",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/pizzas-in-nyc/page2_bg.mp4",
             "width": 720,
             "height": 1283,
             "baseColor": "#9a7453",
-            "poster": "https://wp.stories.google/static/19/images/templates/pizzas-in-nyc/page2_bg-poster.jpg",
+            "poster": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/pizzas-in-nyc/page2_bg-poster.jpg",
             "posterId": 0,
             "id": 0,
             "length": 18,
@@ -340,74 +219,39 @@
             "isExternal": true
           },
           "tracks": [],
-          "overlay": {
-            "color": {
-              "r": 0,
-              "g": 0,
-              "b": 0,
-              "a": 0.08
-            }
-          }
+          "overlay": { "color": { "r": 0, "g": 0, "b": 0, "a": 0.08 } }
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 673,
-          "y": 0,
-          "width": 559,
-          "height": 260,
-          "sticker": {
-            "type": "nycThickBrush"
-          },
+          "x": -7,
+          "y": 433,
+          "width": 426,
+          "height": 198,
+          "sticker": { "type": "nycThickBrush" },
           "id": "5abdcde8-f807-494e-9b67-05d2ce6fe69e",
           "groupId": "9ec8f4c2-5acd-4485-87b1-8a83b9d10e30"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -427,21 +271,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 39,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 30,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"font-weight: 700; color: #262626\">Chris Don</span>",
           "borderRadius": {
@@ -451,55 +285,31 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 228,
-          "height": 54,
+          "width": 174,
+          "height": 41,
           "basedOn": "141d53bc-61f1-4cec-a683-49ecfbed7167",
           "id": "f090cc50-af7f-4bb3-aae7-4a3635278181",
-          "x": 838,
-          "y": 82,
-          "groupId": "9ec8f4c2-5acd-4485-87b1-8a83b9d10e30",
-          "marginOffset": -10.210839843749994
+          "x": 119,
+          "y": 495,
+          "groupId": "9ec8f4c2-5acd-4485-87b1-8a83b9d10e30"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -519,21 +329,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 22,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 18,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"color: #262626\">Internet Celebrity</span>",
           "borderRadius": {
@@ -543,63 +343,43 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 204,
-          "height": 30,
+          "width": 155,
+          "height": 23,
           "basedOn": "fc8d37f1-7dc3-41a8-b109-5d970ac8df40",
           "id": "bb1dd937-9734-4d5e-8b60-68e45a56cc1f",
-          "x": 853,
-          "y": 137,
-          "groupId": "9ec8f4c2-5acd-4485-87b1-8a83b9d10e30",
-          "marginOffset": -8.32177734375
+          "x": 130,
+          "y": 537,
+          "groupId": "9ec8f4c2-5acd-4485-87b1-8a83b9d10e30"
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
+      "animations": [
+        {
+          "id": "341259c4-cf2c-46fa-b608-31570784981a",
+          "type": "effect-fade-in",
+          "targets": ["bb1dd937-9734-4d5e-8b60-68e45a56cc1f"],
+          "duration": 2000,
+          "delay": 200
         }
-      },
+      ],
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "cd007a53-4d9d-4363-82ec-8f334f64ac6f",
       "defaultBackgroundElement": {
         "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
+        "flip": { "vertical": false, "horizontal": false },
         "rotationAngle": 0,
         "lockAspectRatio": true,
-        "backgroundColor": {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          }
-        },
+        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
         "x": 1,
         "y": 1,
         "width": 1,
         "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
+        "mask": { "type": "rectangle" },
         "isBackground": true,
         "isDefaultBackground": true,
         "type": "shape",
         "id": "8f9e6993-c98f-4fc7-90bc-212fa10036bd"
       },
-      "animations": [
-        {
-          "id": "341259c4-cf2c-46fa-b608-31570784981a",
-          "type": "effect-fade-in",
-          "targets": [
-            "bb1dd937-9734-4d5e-8b60-68e45a56cc1f"
-          ],
-          "duration": 2000,
-          "delay": 200
-        }
-      ],
       "pageTemplateType": null,
       "groups": {
         "9ec8f4c2-5acd-4485-87b1-8a83b9d10e30": {
@@ -613,19 +393,14 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "isDefaultBackground": true,
           "type": "shape",
@@ -633,44 +408,21 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -690,21 +442,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 50,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 30,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"font-weight: 700; color: #f8bc63\">So what makes a really good pizza?</span>",
           "borderRadius": {
@@ -714,54 +456,30 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 467,
-          "height": 125,
+          "width": 277,
+          "height": 74,
           "basedOn": "f090cc50-af7f-4bb3-aae7-4a3635278181",
           "id": "93ab7171-4cea-407c-b67e-d6a9f0807b1c",
-          "x": 54,
-          "y": 112,
-          "marginOffset": -13.090820312499993
+          "x": 59,
+          "y": 174
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -781,21 +499,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 30,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 18,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"color: #f8bc63\">It's a simple formula, really. A perfectly crispy crust, a good red or white base, and fresh toppings.</span>",
           "borderRadius": {
@@ -805,58 +513,34 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 469,
-          "height": 169,
+          "width": 278,
+          "height": 100,
           "basedOn": "bb1dd937-9734-4d5e-8b60-68e45a56cc1f",
           "id": "3e78f1a7-1047-46ca-9841-16520b2a1922",
-          "x": 54,
-          "y": 312,
-          "marginOffset": 1.1836914062499986
+          "x": 59,
+          "y": 292
         },
         {
-          "x": 54,
-          "y": 523,
+          "x": 59,
+          "y": 417,
           "id": "172b812a-c744-4885-822a-b01e31cfca64",
           "basedOn": "bb1dd937-9734-4d5e-8b60-68e45a56cc1f",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -876,21 +560,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 30,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 18,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "type": "text",
           "content": "<span style=\"color: #f8bc63\">Don't forget about the ambience!</span>",
           "borderRadius": {
@@ -900,116 +574,84 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 469,
-          "height": 83,
-          "marginOffset": 1.1836914062499986
+          "width": 278,
+          "height": 50
         },
         {
           "opacity": 20,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 754,
-          "y": 630,
-          "width": 228,
-          "height": 228,
-          "sticker": {
-            "type": "nycTomatoes"
-          },
+          "x": 28,
+          "y": 501,
+          "width": 195,
+          "height": 195,
+          "sticker": { "type": "nycTomatoes" },
           "id": "0fdbd60e-58c7-40e0-b2d6-e4411e43d075",
           "groupId": "1573a2c0-1bf1-4d21-8a69-15a355dccfef"
         },
         {
           "opacity": 20,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 150,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 731,
-          "y": -102,
-          "width": 221,
-          "height": 240,
-          "sticker": {
-            "type": "nycVeggies"
-          },
+          "x": 8,
+          "y": -128,
+          "width": 190,
+          "height": 206,
+          "sticker": { "type": "nycVeggies" },
           "id": "6ad3b8d4-6173-4ac9-aafd-1ac50538501d",
           "groupId": "1573a2c0-1bf1-4d21-8a69-15a355dccfef"
         },
         {
           "opacity": 20,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 1101,
-          "y": 9,
-          "width": 162,
-          "height": 126,
-          "sticker": {
-            "type": "nycOnion"
-          },
+          "x": 326,
+          "y": -33,
+          "width": 139,
+          "height": 108,
+          "sticker": { "type": "nycOnion" },
           "id": "a045a19f-414c-43de-b055-f88332181481",
           "groupId": "1573a2c0-1bf1-4d21-8a69-15a355dccfef"
         },
         {
           "opacity": 20,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 988,
-          "y": 108,
-          "width": 74,
-          "height": 79,
-          "sticker": {
-            "type": "nycChili"
-          },
+          "x": 229,
+          "y": 53,
+          "width": 63,
+          "height": 68,
+          "sticker": { "type": "nycChili" },
           "id": "370ab2af-ecea-438b-be40-44406adeaa4e",
           "groupId": "1573a2c0-1bf1-4d21-8a69-15a355dccfef"
         },
         {
           "opacity": 20,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 1100,
-          "y": 584,
-          "width": 123,
-          "height": 93,
-          "sticker": {
-            "type": "nycCheese"
-          },
+          "x": 325,
+          "y": 461,
+          "width": 106,
+          "height": 80,
+          "sticker": { "type": "nycCheese" },
           "id": "d5ae66ef-593c-4cee-a2f6-11530804990b",
           "groupId": "1573a2c0-1bf1-4d21-8a69-15a355dccfef"
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
+      "animations": [],
+      "backgroundColor": { "color": { "r": 0, "g": 0, "b": 0 } },
       "type": "page",
       "id": "19bcb726-8666-4323-8c64-c684699d0a41",
-      "animations": [],
       "pageTemplateType": "editorial",
       "groups": {
         "1573a2c0-1bf1-4d21-8a69-15a355dccfef": {
@@ -1023,26 +665,15 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "x": -334,
           "y": -501,
           "width": 1080,
           "height": 1620,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "id": "86afccec-f4b8-451f-b6bc-6bddeb877cb1",
           "type": "image",
@@ -1054,7 +685,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-05-12T12:45:36",
             "baseColor": "#cc9568",
-            "src": "https://wp.stories.google/static/19/images/templates/pizzas-in-nyc/page4_bg.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/pizzas-in-nyc/page4_bg.jpg",
             "width": 1080,
             "height": 1620,
             "posterId": 0,
@@ -1067,63 +698,35 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": -80,
-          "y": 323,
-          "width": 641,
-          "height": 507,
-          "sticker": {
-            "type": "nycTiltedBrush"
-          },
+          "y": 385,
+          "width": 563,
+          "height": 445,
+          "sticker": { "type": "nycTiltedBrush" },
           "id": "302bdac3-fa06-494e-b7b5-a8406aef1c77",
           "type": "sticker",
           "groupId": "9e50a2ee-593f-4ea6-a122-a65449c5a64a"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -1143,21 +746,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 36,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 30,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "locked": true,
-            "horizontal": 0,
-            "vertical": 0
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #262626\">The crust</span>",
           "borderRadius": {
             "locked": true,
@@ -1166,56 +759,32 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 198,
-          "height": 49,
+          "width": 174,
+          "height": 41,
           "basedOn": "f090cc50-af7f-4bb3-aae7-4a3635278181",
           "id": "ed117c88-8375-41e1-b767-cd64cd0cbaaa",
-          "x": 141,
-          "y": 482,
+          "x": 119,
+          "y": 496,
           "type": "text",
-          "groupId": "9e50a2ee-593f-4ea6-a122-a65449c5a64a",
-          "marginOffset": -8.901757812499994
+          "groupId": "9e50a2ee-593f-4ea6-a122-a65449c5a64a"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -1235,21 +804,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 22,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 18,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "center",
-          "padding": {
-            "locked": true,
-            "horizontal": 0,
-            "vertical": 0
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"color: #262626\">The last satisfying mouthful of slightly crunchy, doughy goodness.</span>",
           "borderRadius": {
             "locked": true,
@@ -1258,60 +817,40 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 296,
-          "height": 92,
+          "width": 260,
+          "height": 75,
           "basedOn": "bb1dd937-9734-4d5e-8b60-68e45a56cc1f",
           "id": "e6df3ee2-a880-4378-84b6-a3f32f7c9232",
-          "x": 105,
-          "y": 531,
+          "x": 75,
+          "y": 537,
           "type": "text",
-          "groupId": "9e50a2ee-593f-4ea6-a122-a65449c5a64a",
-          "marginOffset": 0.763671875
+          "groupId": "9e50a2ee-593f-4ea6-a122-a65449c5a64a"
         }
       ],
       "animations": [
         {
           "id": "453dd7f4-34df-4dee-8999-4fec9939797e",
           "type": "effect-background-zoom",
-          "targets": [
-            "86afccec-f4b8-451f-b6bc-6bddeb877cb1"
-          ],
+          "targets": ["86afccec-f4b8-451f-b6bc-6bddeb877cb1"],
           "zoomDirection": "scaleIn",
           "duration": 3000,
           "delay": 0
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "16d6b837-81e8-4c33-9441-7e0ecc7d3a37",
       "defaultBackgroundElement": {
         "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
+        "flip": { "vertical": false, "horizontal": false },
         "rotationAngle": 0,
         "lockAspectRatio": true,
-        "backgroundColor": {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          }
-        },
+        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
         "x": 1,
         "y": 1,
         "width": 1,
         "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
+        "mask": { "type": "rectangle" },
         "isBackground": true,
         "isDefaultBackground": true,
         "id": "6e157aba-a731-4a10-9930-508c49cba4d3",
@@ -1322,7 +861,7 @@
         "9e50a2ee-593f-4ea6-a122-a65449c5a64a": {
           "name": "Info",
           "isLocked": false,
-          "isCollapsed": false
+          "isCollapsed": true
         }
       }
     },
@@ -1330,26 +869,15 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "x": -334,
           "y": -506.5,
           "width": 1080,
           "height": 1631,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "type": "image",
           "id": "96134eee-b383-4fde-869f-53c57ce6c307",
@@ -1361,7 +889,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-05-12T12:47:00",
             "baseColor": "#ccb0a8",
-            "src": "https://wp.stories.google/static/19/images/templates/pizzas-in-nyc/page5_bg.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/pizzas-in-nyc/page5_bg.jpg",
             "width": 1080,
             "height": 1631,
             "posterId": 0,
@@ -1374,63 +902,35 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": true,
-            "horizontal": false
-          },
+          "flip": { "vertical": true, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": -96,
-          "y": -72,
-          "width": 647,
-          "height": 323,
-          "sticker": {
-            "type": "nycMediumBrush"
-          },
+          "x": -76,
+          "y": -83,
+          "width": 538,
+          "height": 269,
+          "sticker": { "type": "nycMediumBrush" },
           "id": "286d00f9-3c42-406f-910c-055a307d5b36",
           "groupId": "1bbe0d93-915e-4b8a-80dd-e90112fabe6c"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -1450,21 +950,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 36,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 30,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "locked": true,
-            "horizontal": 0,
-            "vertical": 0
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #262626\">The base</span>",
           "borderRadius": {
             "locked": true,
@@ -1473,56 +963,32 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 209,
-          "height": 50,
+          "width": 174,
+          "height": 41,
           "type": "text",
           "basedOn": "ed117c88-8375-41e1-b767-cd64cd0cbaaa",
           "id": "7f1c95fe-7584-450a-a89a-369d21de63e2",
-          "x": 139,
-          "y": 28,
-          "groupId": "1bbe0d93-915e-4b8a-80dd-e90112fabe6c",
-          "marginOffset": -9.425390624999999
+          "x": 119,
+          "y": 1,
+          "groupId": "1bbe0d93-915e-4b8a-80dd-e90112fabe6c"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -1542,21 +1008,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 22,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 18,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "center",
-          "padding": {
-            "locked": true,
-            "horizontal": 0,
-            "vertical": 0
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"color: #262626\">A homemade base is a must. A secret recipe? Even better!</span>",
           "borderRadius": {
             "locked": true,
@@ -1565,53 +1021,16 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 313,
-          "height": 62,
+          "width": 260,
+          "height": 50,
           "type": "text",
           "basedOn": "e6df3ee2-a880-4378-84b6-a3f32f7c9232",
           "id": "15d5f0a0-6550-4191-b682-836656cbdb9e",
-          "x": 87,
-          "y": 81,
-          "groupId": "1bbe0d93-915e-4b8a-80dd-e90112fabe6c",
-          "marginOffset": 0.8782226562499957
+          "x": 76,
+          "y": 44,
+          "groupId": "1bbe0d93-915e-4b8a-80dd-e90112fabe6c"
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
-      "type": "page",
-      "id": "b047a2c1-00bb-4421-9e63-381b6dc23ad6",
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "backgroundColor": {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          }
-        },
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "type": "shape",
-        "id": "65f27998-4542-4af5-9793-80a0fab0b074"
-      },
       "animations": [
         {
           "id": "dc8a2e9f-dcd2-4009-b1b2-6c248e0e8f79",
@@ -1619,11 +1038,28 @@
           "zoomDirection": "scaleIn",
           "duration": 4000,
           "delay": 0,
-          "targets": [
-            "96134eee-b383-4fde-869f-53c57ce6c307"
-          ]
+          "targets": ["96134eee-b383-4fde-869f-53c57ce6c307"]
         }
       ],
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      "type": "page",
+      "id": "b047a2c1-00bb-4421-9e63-381b6dc23ad6",
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": { "vertical": false, "horizontal": false },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": { "type": "rectangle" },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "65f27998-4542-4af5-9793-80a0fab0b074"
+      },
       "pageTemplateType": null,
       "groups": {
         "1bbe0d93-915e-4b8a-80dd-e90112fabe6c": {
@@ -1637,26 +1073,15 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "x": 48,
           "y": 0,
           "width": 330,
           "height": 468,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "type": "image",
           "id": "65f27998-4542-4af5-9793-80a0fab0b074",
@@ -1667,7 +1092,7 @@
             "type": "image",
             "mimeType": "image/jpeg",
             "creationDate": "2021-05-18T01:23:30",
-            "src": "https://wp.stories.google/static/19/images/templates/pizzas-in-nyc/page6_bg.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/pizzas-in-nyc/page6_bg.jpg",
             "width": 330,
             "height": 468,
             "posterId": 0,
@@ -1681,63 +1106,35 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 5,
           "lockAspectRatio": true,
-          "x": -74,
-          "y": 6,
-          "width": 624,
-          "height": 312,
-          "sticker": {
-            "type": "nycMediumBrush"
-          },
+          "x": -86,
+          "y": 155,
+          "width": 541,
+          "height": 270,
+          "sticker": { "type": "nycMediumBrush" },
           "id": "e993190f-f960-4251-88a7-4b4812dc8722",
           "type": "sticker",
           "groupId": "a366a44b-ab3d-4547-86cb-d98481e7530c"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -1757,21 +1154,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 36,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 30,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "locked": true,
-            "horizontal": 0,
-            "vertical": 0
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #262626\">The toppings</span>",
           "borderRadius": {
             "locked": true,
@@ -1780,56 +1167,32 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 252,
-          "height": 49,
+          "width": 218,
+          "height": 41,
           "basedOn": "ed117c88-8375-41e1-b767-cd64cd0cbaaa",
           "id": "d75e3812-8de5-4549-8b62-c56c5e83b2d8",
-          "x": 137,
-          "y": 85,
+          "x": 97,
+          "y": 224,
           "type": "text",
-          "groupId": "a366a44b-ab3d-4547-86cb-d98481e7530c",
-          "marginOffset": -8.901757812499994
+          "groupId": "a366a44b-ab3d-4547-86cb-d98481e7530c"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -1849,21 +1212,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 22,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 18,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "center",
-          "padding": {
-            "locked": true,
-            "horizontal": 0,
-            "vertical": 0
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"color: #262626\">They say keep it simple for a reason. A few fresh ingredients go a long way.</span>",
           "borderRadius": {
             "locked": true,
@@ -1872,60 +1225,40 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 312,
-          "height": 92,
+          "width": 270,
+          "height": 75,
           "basedOn": "e6df3ee2-a880-4378-84b6-a3f32f7c9232",
           "id": "c570dc78-a9d6-450a-9e75-62b5b515cea4",
-          "x": 107,
-          "y": 135,
+          "x": 71,
+          "y": 267,
           "type": "text",
-          "groupId": "a366a44b-ab3d-4547-86cb-d98481e7530c",
-          "marginOffset": 0.763671875
+          "groupId": "a366a44b-ab3d-4547-86cb-d98481e7530c"
         }
       ],
       "animations": [
         {
           "id": "ecf1743d-3d67-4577-9756-00d0ef8bfa4f",
           "type": "effect-background-zoom",
-          "targets": [
-            "65f27998-4542-4af5-9793-80a0fab0b074"
-          ],
+          "targets": ["65f27998-4542-4af5-9793-80a0fab0b074"],
           "zoomDirection": "scaleIn",
           "duration": 4000,
           "delay": 0
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "a00ae530-ca51-4c5c-b4b3-79d9f6f84106",
       "defaultBackgroundElement": {
         "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
+        "flip": { "vertical": false, "horizontal": false },
         "rotationAngle": 0,
         "lockAspectRatio": true,
-        "backgroundColor": {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          }
-        },
+        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
         "x": 1,
         "y": 1,
         "width": 1,
         "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
+        "mask": { "type": "rectangle" },
         "isBackground": true,
         "isDefaultBackground": true,
         "type": "shape",
@@ -1944,10 +1277,7 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "scale": 117,
@@ -1958,7 +1288,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-05-12T12:48:19",
             "baseColor": "#3e281a",
-            "src": "https://wp.stories.google/static/19/images/templates/pizzas-in-nyc/page7_bg.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/pizzas-in-nyc/page7_bg.jpg",
             "width": 1080,
             "height": 1620,
             "posterId": 0,
@@ -1968,83 +1298,47 @@
             "isOptimized": false,
             "isExternal": true
           },
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "x": -334,
           "y": -501,
           "width": 1080,
           "height": 1620,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "id": "cdf2d077-deb0-416d-b8bf-c84cf2ce715f",
           "type": "image"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 10,
           "lockAspectRatio": true,
-          "x": -42,
-          "y": 401,
-          "width": 637,
-          "height": 318,
-          "sticker": {
-            "type": "nycMediumBrush"
-          },
+          "x": -16,
+          "y": 427,
+          "width": 499,
+          "height": 249,
+          "sticker": { "type": "nycMediumBrush" },
           "id": "54476660-3aa7-4472-af49-63b9ccafa96c",
           "type": "sticker",
           "groupId": "7866007b-b710-4c7f-92c3-6fcea78a3193"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -2064,21 +1358,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 38,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 30,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #262626\">The environment</span>",
           "borderRadius": {
             "locked": true,
@@ -2087,56 +1371,32 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 332,
-          "height": 52,
+          "width": 260,
+          "height": 41,
           "basedOn": "ed117c88-8375-41e1-b767-cd64cd0cbaaa",
           "id": "b98989c6-593e-4c61-8777-ffa12fece779",
-          "x": 75,
-          "y": 486,
+          "x": 76,
+          "y": 494,
           "type": "text",
-          "groupId": "7866007b-b710-4c7f-92c3-6fcea78a3193",
-          "marginOffset": -10.210839843749994
+          "groupId": "7866007b-b710-4c7f-92c3-6fcea78a3193"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -2156,21 +1416,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 23,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 18,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"color: #262626\">The restaurant's vibe should match your soaring spirits.</span>",
           "borderRadius": {
             "locked": true,
@@ -2179,15 +1429,14 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 344,
-          "height": 64,
+          "width": 270,
+          "height": 50,
           "basedOn": "e6df3ee2-a880-4378-84b6-a3f32f7c9232",
           "id": "3f654768-f856-4e3d-981e-c8f88f19bb2c",
-          "x": 69,
-          "y": 541,
+          "x": 71,
+          "y": 537,
           "type": "text",
-          "groupId": "7866007b-b710-4c7f-92c3-6fcea78a3193",
-          "marginOffset": 0.8782226562499957
+          "groupId": "7866007b-b710-4c7f-92c3-6fcea78a3193"
         }
       ],
       "animations": [
@@ -2197,42 +1446,23 @@
           "zoomDirection": "scaleIn",
           "duration": 4000,
           "delay": 0,
-          "targets": [
-            "cdf2d077-deb0-416d-b8bf-c84cf2ce715f"
-          ]
+          "targets": ["cdf2d077-deb0-416d-b8bf-c84cf2ce715f"]
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "8aaa0e15-4e11-4965-92f1-72727089dbcd",
       "defaultBackgroundElement": {
         "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
+        "flip": { "vertical": false, "horizontal": false },
         "rotationAngle": 0,
         "lockAspectRatio": true,
-        "backgroundColor": {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          }
-        },
+        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
         "x": 1,
         "y": 1,
         "width": 1,
         "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
+        "mask": { "type": "rectangle" },
         "isBackground": true,
         "isDefaultBackground": true,
         "type": "shape",
@@ -2251,26 +1481,15 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "x": -334,
           "y": -411,
           "width": 1080,
           "height": 1440,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "type": "image",
           "id": "69fc7d58-253e-4765-a1bc-3d47dabdccdd",
@@ -2282,7 +1501,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-05-12T12:48:58",
             "baseColor": "#b5c7cc",
-            "src": "https://wp.stories.google/static/19/images/templates/pizzas-in-nyc/page8_bg.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/pizzas-in-nyc/page8_bg.jpg",
             "width": 1080,
             "height": 1440,
             "posterId": 0,
@@ -2296,87 +1515,43 @@
             "type": "linear",
             "rotation": 0,
             "stops": [
-              {
-                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 0
-                },
-                "position": 0.4
-              },
-              {
-                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 1
-                },
-                "position": 1
-              }
+              { "color": { "r": 0, "g": 0, "b": 0, "a": 0 }, "position": 0.4 },
+              { "color": { "r": 0, "g": 0, "b": 0, "a": 1 }, "position": 1 }
             ],
             "alpha": 0.6
           }
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 0,
-          "y": 11,
-          "width": 558,
-          "height": 259,
-          "sticker": {
-            "type": "nycThickBrush"
-          },
+          "x": -6,
+          "y": 58,
+          "width": 426,
+          "height": 198,
+          "sticker": { "type": "nycThickBrush" },
           "id": "c3d5dbfa-8686-4444-981c-35de73796b92",
           "groupId": "3cf7b9b0-4373-4675-bfdd-90c9774d7e7d"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -2396,21 +1571,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 38,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 30,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #262626\">The best pizza\ncrust winner</span>",
           "borderRadius": {
             "locked": true,
@@ -2419,60 +1584,36 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 341,
-          "height": 96,
+          "width": 260,
+          "height": 73,
           "type": "text",
           "basedOn": "b98989c6-593e-4c61-8777-ffa12fece779",
           "id": "7e8aef49-21f8-422b-8158-5b6762d52aed",
-          "x": 107,
-          "y": 61,
-          "groupId": "3cf7b9b0-4373-4675-bfdd-90c9774d7e7d",
-          "marginOffset": -10.210839843749994
+          "x": 76,
+          "y": 96,
+          "groupId": "3cf7b9b0-4373-4675-bfdd-90c9774d7e7d"
         },
         {
-          "x": 107,
-          "y": 180,
+          "x": 76,
+          "y": 187,
           "id": "407bf12a-cb90-40d9-8682-1f631cd7e592",
           "basedOn": "b98989c6-593e-4c61-8777-ffa12fece779",
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -2492,21 +1633,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 26,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #262626\">Joe’s Pizza</span>",
           "borderRadius": {
             "locked": true,
@@ -2515,72 +1646,43 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 341,
-          "height": 37,
+          "width": 260,
+          "height": 28,
           "type": "text",
-          "groupId": "3cf7b9b0-4373-4675-bfdd-90c9774d7e7d",
-          "marginOffset": -6.807226562499999
+          "groupId": "3cf7b9b0-4373-4675-bfdd-90c9774d7e7d"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "width": 24,
-          "height": 24,
-          "sticker": {
-            "type": "nycArrowRight"
-          },
+          "width": 20,
+          "height": 20,
+          "sticker": { "type": "nycArrowRight" },
           "type": "sticker",
           "basedOn": "e4323d9f-887f-4cc0-9ae9-bb7f413678b3",
           "id": "755bf31d-5ecd-47f0-abce-95938e285635",
-          "x": 550,
-          "y": 641,
+          "x": 132,
+          "y": 586,
           "groupId": "c27a215d-d7b5-4d87-9d46-c5f877506125"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -2600,21 +1702,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 23,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.28,
           "textAlign": "right",
-          "padding": {
-            "locked": false,
-            "horizontal": 22,
-            "vertical": 8
-          },
+          "padding": { "locked": false, "horizontal": 22, "vertical": 8 },
           "content": "<span style=\"color: #fff\">Get Directions</span>",
           "borderRadius": {
             "locked": true,
@@ -2623,12 +1715,12 @@
             "bottomRight": 0,
             "bottomLeft": 0
           },
-          "width": 220,
-          "height": 47,
+          "width": 179,
+          "height": 38,
           "type": "text",
           "basedOn": "57149a11-36a9-4612-9bfb-e1d6fca70aa2",
-          "x": 530,
-          "y": 632,
+          "x": 116,
+          "y": 579,
           "groupId": "c27a215d-d7b5-4d87-9d46-c5f877506125",
           "border": {
             "left": 1,
@@ -2636,80 +1728,52 @@
             "top": 1,
             "bottom": 1,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 255,
-                "g": 255,
-                "b": 255
-              }
-            }
+            "color": { "color": { "r": 255, "g": 255, "b": 255 } }
           },
-          "id": "d53839a4-51b4-4e0c-9aae-19f7b9b8f061",
-          "marginOffset": -1.8817773437499987
+          "id": "d53839a4-51b4-4e0c-9aae-19f7b9b8f061"
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
-      "type": "page",
-      "id": "15071bca-99eb-4d5d-b978-5942860fdf69",
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "backgroundColor": {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          }
-        },
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "type": "shape",
-        "id": "47621367-6c30-4f3d-89e5-240c6e0cd13b"
-      },
       "animations": [
         {
           "id": "b5f32c5b-85bc-43e7-aa87-daeac1c80ddc",
           "type": "effect-fade-in",
-          "targets": [
-            "755bf31d-5ecd-47f0-abce-95938e285635"
-          ],
+          "targets": ["755bf31d-5ecd-47f0-abce-95938e285635"],
           "duration": 2000,
           "delay": 0
         },
         {
-          "targets": [
-            "d53839a4-51b4-4e0c-9aae-19f7b9b8f061"
-          ],
+          "targets": ["d53839a4-51b4-4e0c-9aae-19f7b9b8f061"],
           "id": "93876a65-3343-491d-99d9-9681711c55f1",
           "type": "effect-fade-in",
           "duration": 2000,
           "delay": 0
         }
       ],
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      "type": "page",
+      "id": "15071bca-99eb-4d5d-b978-5942860fdf69",
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": { "vertical": false, "horizontal": false },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": { "type": "rectangle" },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "47621367-6c30-4f3d-89e5-240c6e0cd13b"
+      },
       "pageTemplateType": null,
       "groups": {
         "3cf7b9b0-4373-4675-bfdd-90c9774d7e7d": {
           "name": "Info",
           "isLocked": false,
-          "isCollapsed": false
+          "isCollapsed": true
         },
         "c27a215d-d7b5-4d87-9d46-c5f877506125": {
           "name": "Action",
@@ -2726,10 +1790,7 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "scale": 142,
@@ -2740,7 +1801,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-05-12T12:49:33",
             "baseColor": "#1e1a15",
-            "src": "https://wp.stories.google/static/19/images/templates/pizzas-in-nyc/page9_bg.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/pizzas-in-nyc/page9_bg.jpg",
             "width": 1080,
             "height": 1920,
             "posterId": 0,
@@ -2750,106 +1811,55 @@
             "isOptimized": false,
             "isExternal": true
           },
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "x": -334,
           "y": -651,
           "width": 1080,
           "height": 1920,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "id": "740d0f75-3140-49bf-958f-69583015dbd3",
           "type": "image",
           "overlay": {
             "type": "linear",
             "stops": [
-              {
-                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 0
-                },
-                "position": 0.53
-              },
-              {
-                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0
-                },
-                "position": 1
-              }
+              { "color": { "r": 0, "g": 0, "b": 0, "a": 0 }, "position": 0.53 },
+              { "color": { "r": 0, "g": 0, "b": 0 }, "position": 1 }
             ],
             "alpha": 0.6
           }
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 0,
-          "y": 18,
-          "width": 510,
-          "height": 237,
-          "sticker": {
-            "type": "nycThickBrush"
-          },
+          "x": -14,
+          "y": 23,
+          "width": 426,
+          "height": 198,
+          "sticker": { "type": "nycThickBrush" },
           "id": "619a4653-c867-4bfa-9dcc-12d71f2f21f3",
           "type": "sticker",
           "groupId": "7d123ae5-fef6-4186-9098-af0434204212"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -2869,21 +1879,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 36,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 30,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "locked": true,
-            "horizontal": 0,
-            "vertical": 0
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #262626\">The best red sauce</span>",
           "borderRadius": {
             "locked": true,
@@ -2892,56 +1892,32 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 311,
-          "height": 89,
+          "width": 260,
+          "height": 73,
           "basedOn": "b98989c6-593e-4c61-8777-ffa12fece779",
           "id": "b4d74646-c7aa-46a4-ae0d-931372c5a306",
-          "x": 108,
-          "y": 64,
+          "x": 76,
+          "y": 61,
           "type": "text",
-          "groupId": "7d123ae5-fef6-4186-9098-af0434204212",
-          "marginOffset": -9.425390624999999
+          "groupId": "7d123ae5-fef6-4186-9098-af0434204212"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -2961,23 +1937,13 @@
               "lGap": 0
             }
           },
-          "fontSize": 26,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
-          "x": 108,
-          "y": 171,
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
+          "x": 76,
+          "y": 151,
           "id": "f6854320-08b8-4ce7-a6fe-7cb48b0598ce",
           "basedOn": "b98989c6-593e-4c61-8777-ffa12fece779",
           "content": "<span style=\"font-weight: 700; color: #262626\">Artichoke’s Pizza</span>",
@@ -2988,72 +1954,43 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 311,
-          "height": 36,
+          "width": 260,
+          "height": 30,
           "type": "text",
-          "groupId": "7d123ae5-fef6-4186-9098-af0434204212",
-          "marginOffset": -6.807226562499999
+          "groupId": "7d123ae5-fef6-4186-9098-af0434204212"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "width": 23,
-          "height": 23,
-          "sticker": {
-            "type": "nycArrowRight"
-          },
+          "width": 20,
+          "height": 20,
+          "sticker": { "type": "nycArrowRight" },
           "type": "sticker",
           "basedOn": "755bf31d-5ecd-47f0-abce-95938e285635",
           "id": "4e4e3e92-d4bf-408e-a1a2-9bad3f41d189",
-          "x": 554,
-          "y": 644,
+          "x": 132,
+          "y": 586,
           "groupId": "a900af27-4a6e-479f-ae08-d71ce869dc6d"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -3073,21 +2010,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 21,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.28,
           "textAlign": "right",
-          "padding": {
-            "locked": false,
-            "horizontal": 22,
-            "vertical": 8
-          },
+          "padding": { "locked": false, "horizontal": 22, "vertical": 8 },
           "content": "<span style=\"color: #fff\">Get Directions</span>",
           "borderRadius": {
             "locked": true,
@@ -3096,12 +2023,12 @@
             "bottomRight": 0,
             "bottomLeft": 0
           },
-          "width": 209,
-          "height": 45,
+          "width": 179,
+          "height": 38,
           "type": "text",
           "basedOn": "39f9cfdc-6996-448a-9303-481f8031599d",
-          "x": 536,
-          "y": 635,
+          "x": 116,
+          "y": 579,
           "groupId": "a900af27-4a6e-479f-ae08-d71ce869dc6d",
           "border": {
             "left": 1,
@@ -3109,69 +2036,41 @@
             "top": 1,
             "bottom": 1,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 255,
-                "g": 255,
-                "b": 255
-              }
-            }
+            "color": { "color": { "r": 255, "g": 255, "b": 255 } }
           },
-          "id": "57149a11-36a9-4612-9bfb-e1d6fca70aa2",
-          "marginOffset": -1.718144531250001
+          "id": "57149a11-36a9-4612-9bfb-e1d6fca70aa2"
         }
       ],
       "animations": [
         {
           "id": "24a71109-3b25-49c4-816a-719d4bf8c269",
           "type": "effect-fade-in",
-          "targets": [
-            "4e4e3e92-d4bf-408e-a1a2-9bad3f41d189"
-          ],
+          "targets": ["4e4e3e92-d4bf-408e-a1a2-9bad3f41d189"],
           "duration": 2000,
           "delay": 0
         },
         {
-          "targets": [
-            "57149a11-36a9-4612-9bfb-e1d6fca70aa2"
-          ],
+          "targets": ["57149a11-36a9-4612-9bfb-e1d6fca70aa2"],
           "id": "789fe504-62cc-4735-8fcc-1c18d493045a",
           "type": "effect-fade-in",
           "duration": 2000,
           "delay": 0
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "82bb3486-640b-46c9-8a84-1ce438a53c3c",
       "defaultBackgroundElement": {
         "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
+        "flip": { "vertical": false, "horizontal": false },
         "rotationAngle": 0,
         "lockAspectRatio": true,
-        "backgroundColor": {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          }
-        },
+        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
         "x": 1,
         "y": 1,
         "width": 1,
         "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
+        "mask": { "type": "rectangle" },
         "isBackground": true,
         "isDefaultBackground": true,
         "type": "shape",
@@ -3195,26 +2094,15 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "x": -334,
           "y": -501,
           "width": 1080,
           "height": 1620,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "type": "image",
           "id": "47621367-6c30-4f3d-89e5-240c6e0cd13b",
@@ -3226,7 +2114,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-05-12T12:50:42",
             "baseColor": "#cc8d52",
-            "src": "https://wp.stories.google/static/19/images/templates/pizzas-in-nyc/page10_bg.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/pizzas-in-nyc/page10_bg.jpg",
             "width": 1080,
             "height": 1620,
             "posterId": 0,
@@ -3239,86 +2127,43 @@
           "overlay": {
             "type": "linear",
             "stops": [
-              {
-                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 0
-                },
-                "position": 0.43
-              },
-              {
-                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0
-                },
-                "position": 1
-              }
+              { "color": { "r": 0, "g": 0, "b": 0, "a": 0 }, "position": 0.43 },
+              { "color": { "r": 0, "g": 0, "b": 0 }, "position": 1 }
             ],
             "alpha": 0.6
           }
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": -14,
           "y": 181,
-          "width": 508,
-          "height": 236,
-          "sticker": {
-            "type": "nycThickBrush"
-          },
+          "width": 426,
+          "height": 198,
+          "sticker": { "type": "nycThickBrush" },
           "id": "c81a5ffa-27e8-4b4b-9a0d-e33747310f1e",
           "type": "sticker",
           "groupId": "ca4c057e-321c-44e8-ab3b-af0ad98da8e5"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -3338,21 +2183,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 35,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 30,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #262626\">The best topping winner</span>",
           "borderRadius": {
             "locked": true,
@@ -3361,56 +2196,32 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 310,
-          "height": 87,
+          "width": 260,
+          "height": 73,
           "basedOn": "b98989c6-593e-4c61-8777-ffa12fece779",
           "id": "dc318dfc-6f02-4890-8f93-f6f031debff9",
-          "x": 93,
-          "y": 226,
+          "x": 76,
+          "y": 219,
           "type": "text",
-          "groupId": "ca4c057e-321c-44e8-ab3b-af0ad98da8e5",
-          "marginOffset": -9.425390624999999
+          "groupId": "ca4c057e-321c-44e8-ab3b-af0ad98da8e5"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -3430,23 +2241,13 @@
               "lGap": 0
             }
           },
-          "fontSize": 26,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
-          "x": 93,
-          "y": 334,
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
+          "x": 76,
+          "y": 309,
           "id": "7ca69d71-2970-461d-97c9-82ace04043d8",
           "basedOn": "b98989c6-593e-4c61-8777-ffa12fece779",
           "content": "<span style=\"font-weight: 700; color: #262626\">Trattoria</span>",
@@ -3457,72 +2258,43 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 310,
-          "height": 36,
+          "width": 260,
+          "height": 30,
           "type": "text",
-          "groupId": "ca4c057e-321c-44e8-ab3b-af0ad98da8e5",
-          "marginOffset": -6.807226562499999
+          "groupId": "ca4c057e-321c-44e8-ab3b-af0ad98da8e5"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "width": 24,
-          "height": 24,
-          "sticker": {
-            "type": "nycArrowRight"
-          },
+          "width": 20,
+          "height": 20,
+          "sticker": { "type": "nycArrowRight" },
           "type": "sticker",
           "basedOn": "755bf31d-5ecd-47f0-abce-95938e285635",
           "id": "7155f312-5345-4c81-877d-b155d8962c97",
-          "x": 551,
-          "y": 647,
+          "x": 132,
+          "y": 586,
           "groupId": "ea319746-4536-4240-96ac-febdf13e5e49"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -3542,21 +2314,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 23,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.28,
           "textAlign": "right",
-          "padding": {
-            "locked": false,
-            "horizontal": 22,
-            "vertical": 8
-          },
+          "padding": { "locked": false, "horizontal": 22, "vertical": 8 },
           "content": "<span style=\"color: #fff\">Get Directions</span>",
           "borderRadius": {
             "locked": true,
@@ -3565,12 +2327,12 @@
             "bottomRight": 0,
             "bottomLeft": 0
           },
-          "width": 217,
-          "height": 47,
+          "width": 179,
+          "height": 38,
           "type": "text",
           "basedOn": "57149a11-36a9-4612-9bfb-e1d6fca70aa2",
-          "x": 532,
-          "y": 638,
+          "x": 116,
+          "y": 579,
           "groupId": "ea319746-4536-4240-96ac-febdf13e5e49",
           "border": {
             "left": 1,
@@ -3578,69 +2340,41 @@
             "top": 1,
             "bottom": 1,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 255,
-                "g": 255,
-                "b": 255
-              }
-            }
+            "color": { "color": { "r": 255, "g": 255, "b": 255 } }
           },
-          "id": "d3e34964-ce81-4418-9308-aae32194d4b1",
-          "marginOffset": -1.8817773437499987
+          "id": "d3e34964-ce81-4418-9308-aae32194d4b1"
         }
       ],
       "animations": [
         {
           "id": "e970ea99-896d-4036-8c7e-c913df657260",
           "type": "effect-fade-in",
-          "targets": [
-            "7155f312-5345-4c81-877d-b155d8962c97"
-          ],
+          "targets": ["7155f312-5345-4c81-877d-b155d8962c97"],
           "duration": 2000,
           "delay": 0
         },
         {
-          "targets": [
-            "d3e34964-ce81-4418-9308-aae32194d4b1"
-          ],
+          "targets": ["d3e34964-ce81-4418-9308-aae32194d4b1"],
           "id": "fc9325dd-767d-42ef-8d97-3f787837d905",
           "type": "effect-fade-in",
           "duration": 2000,
           "delay": 0
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "93126d0c-c037-494a-bcd2-b80f9a823d1f",
       "defaultBackgroundElement": {
         "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
+        "flip": { "vertical": false, "horizontal": false },
         "rotationAngle": 0,
         "lockAspectRatio": true,
-        "backgroundColor": {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          }
-        },
+        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
         "x": 1,
         "y": 1,
         "width": 1,
         "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
+        "mask": { "type": "rectangle" },
         "isBackground": true,
         "isDefaultBackground": true,
         "type": "shape",
@@ -3664,26 +2398,15 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": {
-            "color": {
-              "r": 255,
-              "g": 255,
-              "b": 255
-            }
-          },
+          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
           "x": -334,
           "y": -501,
           "width": 1080,
           "height": 1620,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "type": "image",
           "id": "47621367-6c30-4f3d-89e5-240c6e0cd13b",
@@ -3695,7 +2418,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-05-12T12:52:15",
             "baseColor": "#bea787",
-            "src": "https://wp.stories.google/static/19/images/templates/pizzas-in-nyc/page11_bg.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/pizzas-in-nyc/page11_bg.jpg",
             "width": 1080,
             "height": 1620,
             "posterId": 0,
@@ -3708,86 +2431,43 @@
           "overlay": {
             "type": "linear",
             "stops": [
-              {
-                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0,
-                  "a": 0
-                },
-                "position": 0.47
-              },
-              {
-                "color": {
-                  "r": 0,
-                  "g": 0,
-                  "b": 0
-                },
-                "position": 1
-              }
+              { "color": { "r": 0, "g": 0, "b": 0, "a": 0 }, "position": 0.47 },
+              { "color": { "r": 0, "g": 0, "b": 0 }, "position": 1 }
             ],
             "alpha": 0.6
           }
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": -23,
-          "y": 241,
-          "width": 528,
-          "height": 244,
-          "sticker": {
-            "type": "nycThickBrush"
-          },
+          "x": -14,
+          "y": 228,
+          "width": 426,
+          "height": 198,
+          "sticker": { "type": "nycThickBrush" },
           "id": "36be4aec-f421-44fe-a4f9-3e8a711f205e",
           "type": "sticker",
           "groupId": "47d0a7c3-f739-4979-ba88-47ec1ed53446"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -3807,21 +2487,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 37,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 30,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "locked": true,
-            "horizontal": 0,
-            "vertical": 0
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #262626\">The best place to\neat pizza winner</span>",
           "borderRadius": {
             "locked": true,
@@ -3830,168 +2500,32 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 316,
-          "height": 91,
+          "width": 260,
+          "height": 73,
           "basedOn": "b98989c6-593e-4c61-8777-ffa12fece779",
           "id": "3c3ee984-c4ac-45ea-99c3-6b1da119fc4c",
-          "x": 83,
-          "y": 272,
+          "x": 76,
+          "y": 270,
           "type": "text",
-          "groupId": "47d0a7c3-f739-4979-ba88-47ec1ed53446",
-          "marginOffset": -9.687207031249997
+          "groupId": "47d0a7c3-f739-4979-ba88-47ec1ed53446"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
-            ],
-            "metrics": {
-              "upm": 2048,
-              "asc": 2189,
-              "des": -600,
-              "tAsc": 2189,
-              "tDes": -600,
-              "tLGap": 0,
-              "wAsc": 2189,
-              "wDes": 600,
-              "xH": 1098,
-              "capH": 1462,
-              "yMin": -806,
-              "yMax": 2146,
-              "hAsc": 2189,
-              "hDes": -600,
-              "lGap": 0
-            }
-          },
-          "fontSize": 26,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
-          "lineHeight": 1.1,
-          "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
-          "x": 93,
-          "y": 383,
-          "id": "7d799651-a5d5-4520-819d-0ab32348bac4",
-          "basedOn": "b98989c6-593e-4c61-8777-ffa12fece779",
-          "content": "<span style=\"font-weight: 700; color: #262626\">Di Fara Pizza</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 307,
-          "height": 36,
-          "type": "text",
-          "groupId": "47d0a7c3-f739-4979-ba88-47ec1ed53446",
-          "marginOffset": -6.807226562499999
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "width": 23,
-          "height": 23,
-          "sticker": {
-            "type": "nycArrowRight"
-          },
-          "type": "sticker",
-          "basedOn": "755bf31d-5ecd-47f0-abce-95938e285635",
-          "id": "d979e4d6-52e0-4f77-90f3-2e5a55b45eae",
-          "x": 552,
-          "y": 645,
-          "groupId": "b4fa7401-2904-444e-8f7b-d8d54e6af73f"
-        },
-        {
-          "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Noto Sans",
-            "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
-            "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -4012,20 +2546,83 @@
             }
           },
           "fontSize": 22,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "lineHeight": 1.1,
+          "textAlign": "center",
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
+          "x": 76,
+          "y": 360,
+          "id": "7d799651-a5d5-4520-819d-0ab32348bac4",
+          "basedOn": "b98989c6-593e-4c61-8777-ffa12fece779",
+          "content": "<span style=\"font-weight: 700; color: #262626\">Di Fara Pizza</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 260,
+          "height": 30,
+          "type": "text",
+          "groupId": "47d0a7c3-f739-4979-ba88-47ec1ed53446"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "width": 20,
+          "height": 20,
+          "sticker": { "type": "nycArrowRight" },
+          "type": "sticker",
+          "basedOn": "755bf31d-5ecd-47f0-abce-95938e285635",
+          "id": "d979e4d6-52e0-4f77-90f3-2e5a55b45eae",
+          "x": 132,
+          "y": 586,
+          "groupId": "b4fa7401-2904-444e-8f7b-d8d54e6af73f"
+        },
+        {
+          "opacity": 100,
+          "flip": { "vertical": false, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Noto Sans",
+            "service": "fonts.google.com",
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
+            "variants": [
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
+            ],
+            "metrics": {
+              "upm": 2048,
+              "asc": 2189,
+              "des": -600,
+              "tAsc": 2189,
+              "tDes": -600,
+              "tLGap": 0,
+              "wAsc": 2189,
+              "wDes": 600,
+              "xH": 1098,
+              "capH": 1462,
+              "yMin": -806,
+              "yMax": 2146,
+              "hAsc": 2189,
+              "hDes": -600,
+              "lGap": 0
             }
           },
+          "fontSize": 16,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.28,
           "textAlign": "right",
-          "padding": {
-            "locked": false,
-            "horizontal": 22,
-            "vertical": 8
-          },
+          "padding": { "locked": false, "horizontal": 22, "vertical": 8 },
           "content": "<span style=\"color: #fff\">Get Directions</span>",
           "borderRadius": {
             "locked": true,
@@ -4034,12 +2631,12 @@
             "bottomRight": 0,
             "bottomLeft": 0
           },
-          "width": 213,
-          "height": 46,
+          "width": 179,
+          "height": 38,
           "type": "text",
           "basedOn": "57149a11-36a9-4612-9bfb-e1d6fca70aa2",
-          "x": 533,
-          "y": 636,
+          "x": 116,
+          "y": 579,
           "groupId": "b4fa7401-2904-444e-8f7b-d8d54e6af73f",
           "border": {
             "left": 1,
@@ -4047,69 +2644,41 @@
             "top": 1,
             "bottom": 1,
             "lockedWidth": true,
-            "color": {
-              "color": {
-                "r": 255,
-                "g": 255,
-                "b": 255
-              }
-            }
+            "color": { "color": { "r": 255, "g": 255, "b": 255 } }
           },
-          "id": "fa1cad59-5395-4264-97a6-7878c98abfde",
-          "marginOffset": -1.8817773437499987
+          "id": "fa1cad59-5395-4264-97a6-7878c98abfde"
         }
       ],
       "animations": [
         {
           "id": "a05185a3-462c-452e-953a-dc93ee5731bc",
           "type": "effect-fade-in",
-          "targets": [
-            "d979e4d6-52e0-4f77-90f3-2e5a55b45eae"
-          ],
+          "targets": ["d979e4d6-52e0-4f77-90f3-2e5a55b45eae"],
           "duration": 2000,
           "delay": 0
         },
         {
-          "targets": [
-            "fa1cad59-5395-4264-97a6-7878c98abfde"
-          ],
+          "targets": ["fa1cad59-5395-4264-97a6-7878c98abfde"],
           "id": "59b549e4-6b40-4f19-bb4e-287c5f0ab5a7",
           "type": "effect-fade-in",
           "duration": 2000,
           "delay": 0
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 255,
-          "g": 255,
-          "b": 255
-        }
-      },
+      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
       "type": "page",
       "id": "adb9041d-188d-4bd7-a457-e93544be0b4e",
       "defaultBackgroundElement": {
         "opacity": 100,
-        "flip": {
-          "vertical": false,
-          "horizontal": false
-        },
+        "flip": { "vertical": false, "horizontal": false },
         "rotationAngle": 0,
         "lockAspectRatio": true,
-        "backgroundColor": {
-          "color": {
-            "r": 255,
-            "g": 255,
-            "b": 255
-          }
-        },
+        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
         "x": 1,
         "y": 1,
         "width": 1,
         "height": 1,
-        "mask": {
-          "type": "rectangle"
-        },
+        "mask": { "type": "rectangle" },
         "isBackground": true,
         "isDefaultBackground": true,
         "type": "shape",
@@ -4133,19 +2702,14 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": {
-            "type": "rectangle"
-          },
+          "mask": { "type": "rectangle" },
           "isBackground": true,
           "isDefaultBackground": true,
           "id": "0bc85caf-a774-4d5e-b69a-e40ba1cce02a",
@@ -4153,94 +2717,82 @@
         },
         {
           "opacity": 20,
-          "flip": {
-            "vertical": true,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 409,
-          "y": 204,
-          "width": 102,
-          "height": 110,
-          "sticker": {
-            "type": "nycVeggies"
-          },
+          "x": 177,
+          "y": 543,
+          "width": 175,
+          "height": 175,
+          "sticker": { "type": "nycTomatoes" },
+          "id": "7e1fbdf4-e3fa-48e1-aa99-425ba6c602c5",
+          "type": "sticker",
+          "groupId": "c2eca49f-eaaf-43a1-b699-eab439e06f7c"
+        },
+        {
+          "opacity": 20,
+          "flip": { "vertical": true, "horizontal": false },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "x": 335,
+          "y": 119,
+          "width": 104,
+          "height": 113,
+          "sticker": { "type": "nycVeggies" },
           "id": "c1396685-2622-4ff3-ab15-b5c16b7c2a7f",
           "type": "sticker",
           "groupId": "c2eca49f-eaaf-43a1-b699-eab439e06f7c"
         },
         {
           "opacity": 20,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 105,
           "lockAspectRatio": true,
-          "x": 113,
-          "y": 11,
-          "width": 148,
-          "height": 160,
-          "sticker": {
-            "type": "nycChili"
-          },
+          "x": 32,
+          "y": -79,
+          "width": 151,
+          "height": 164,
+          "sticker": { "type": "nycChili" },
           "id": "8ac3218e-27dc-4eef-a005-fcb81f585b21",
           "type": "sticker",
           "groupId": "c2eca49f-eaaf-43a1-b699-eab439e06f7c"
         },
         {
           "opacity": 20,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 34,
-          "y": 580,
-          "width": 80,
-          "height": 61,
-          "sticker": {
-            "type": "nycCheese"
-          },
+          "x": -49,
+          "y": 504,
+          "width": 82,
+          "height": 62,
+          "sticker": { "type": "nycCheese" },
           "id": "c0762083-ebdc-44d2-81f8-90c908063332",
           "type": "sticker",
           "groupId": "c2eca49f-eaaf-43a1-b699-eab439e06f7c"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "type": "image",
-          "x": 692,
-          "y": 48,
-          "width": 545,
-          "height": 545,
+          "x": 55,
+          "y": 179,
+          "width": 298,
+          "height": 298,
           "scale": 129,
           "focalX": 62.76459430110698,
           "focalY": 60.80117477280089,
-          "mask": {
-            "type": "circle"
-          },
+          "mask": { "type": "circle" },
           "id": "1749e90c-3a88-48ef-b753-ed2c785eed61",
           "resource": {
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-05-12T12:53:08",
             "baseColor": "#312d2d",
-            "src": "https://wp.stories.google/static/19/images/templates/pizzas-in-nyc/page12_image1.jpg",
+            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/pizzas-in-nyc/page12_image1.jpg",
             "width": 640,
             "height": 480,
             "posterId": 0,
@@ -4253,44 +2805,21 @@
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -4310,21 +2839,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 47,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 30,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #f8bc63\">More stories like this</span>",
           "borderRadius": {
             "locked": true,
@@ -4333,75 +2852,46 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 521,
-          "height": 64,
+          "width": 240,
+          "height": 74,
           "type": "text",
           "basedOn": "1a999efe-598d-412c-b0db-8f9fea3910b6",
           "id": "e31ab540-e2cc-4779-ab41-67afc7210336",
-          "x": 34,
-          "y": 75,
-          "marginOffset": -12.305371093749997
+          "x": 86,
+          "y": 67
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": -6,
           "lockAspectRatio": true,
-          "width": 529,
-          "height": 246,
-          "sticker": {
-            "type": "nycThickBrush"
-          },
+          "width": 289,
+          "height": 134,
+          "sticker": { "type": "nycThickBrush" },
           "type": "sticker",
           "basedOn": "36be4aec-f421-44fe-a4f9-3e8a711f205e",
           "id": "e9847403-aa9f-4cdb-b1dd-bea51f9d76c6",
-          "x": 704.5,
-          "y": 428,
+          "x": 61.5,
+          "y": 387,
           "groupId": "0e53105d-437f-4522-b3c3-2554fecd0bac"
         },
         {
           "opacity": 100,
-          "flip": {
-            "vertical": false,
-            "horizontal": false
-          },
+          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Sans",
             "service": "fonts.google.com",
-            "fallbacks": [
-              "sans-serif"
-            ],
-            "weights": [
-              400,
-              700
-            ],
-            "styles": [
-              "regular",
-              "italic"
-            ],
+            "fallbacks": ["sans-serif"],
+            "weights": [400, 700],
+            "styles": ["regular", "italic"],
             "variants": [
-              [
-                0,
-                400
-              ],
-              [
-                0,
-                700
-              ],
-              [
-                1,
-                400
-              ],
-              [
-                1,
-                700
-              ]
+              [0, 400],
+              [0, 700],
+              [1, 400],
+              [1, 700]
             ],
             "metrics": {
               "upm": 2048,
@@ -4421,21 +2911,11 @@
               "lGap": 0
             }
           },
-          "fontSize": 39,
-          "backgroundColor": {
-            "color": {
-              "r": 196,
-              "g": 196,
-              "b": 196
-            }
-          },
+          "fontSize": 22,
+          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.1,
           "textAlign": "center",
-          "padding": {
-            "vertical": 0,
-            "horizontal": 0,
-            "locked": true
-          },
+          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
           "content": "<span style=\"font-weight: 700; color: #202325\">7 Best Restaurants in Brooklyn</span>",
           "borderRadius": {
             "locked": true,
@@ -4444,24 +2924,29 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 283,
-          "height": 142,
+          "width": 154,
+          "height": 78,
           "type": "text",
           "basedOn": "3c3ee984-c4ac-45ea-99c3-6b1da119fc4c",
           "id": "5fae2cab-6229-424d-801f-7a019fc65f87",
-          "x": 827,
-          "y": 480,
-          "groupId": "0e53105d-437f-4522-b3c3-2554fecd0bac",
-          "marginOffset": -10.210839843749994
+          "x": 129,
+          "y": 415,
+          "groupId": "0e53105d-437f-4522-b3c3-2554fecd0bac"
         }
       ],
       "animations": [
         {
+          "id": "0dd9b324-c010-4808-aaa0-e5392804dae1",
+          "type": "effect-whoosh-in",
+          "targets": ["7e1fbdf4-e3fa-48e1-aa99-425ba6c602c5"],
+          "whooshInDir": "leftToRight",
+          "duration": 2000,
+          "delay": 0
+        },
+        {
           "id": "382947db-b7a2-445e-8b8b-6c2d881297d8",
           "type": "effect-whoosh-in",
-          "targets": [
-            "c1396685-2622-4ff3-ab15-b5c16b7c2a7f"
-          ],
+          "targets": ["c1396685-2622-4ff3-ab15-b5c16b7c2a7f"],
           "whooshInDir": "rightToLeft",
           "duration": 2000,
           "delay": 0
@@ -4469,9 +2954,7 @@
         {
           "id": "f9535eb8-d1f4-48f3-9e29-86fec7d44c5e",
           "type": "effect-whoosh-in",
-          "targets": [
-            "8ac3218e-27dc-4eef-a005-fcb81f585b21"
-          ],
+          "targets": ["8ac3218e-27dc-4eef-a005-fcb81f585b21"],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 0
@@ -4479,50 +2962,13 @@
         {
           "id": "098b165f-5b98-4fa8-8c56-1478b0120d19",
           "type": "effect-whoosh-in",
-          "targets": [
-            "c0762083-ebdc-44d2-81f8-90c908063332"
-          ],
+          "targets": ["c0762083-ebdc-44d2-81f8-90c908063332"],
           "whooshInDir": "rightToLeft",
           "duration": 2000,
           "delay": 0
-        },
-        {
-          "id": "aa5f6399-56ab-4442-ae8b-aab52785362c",
-          "type": "effect-fade-in",
-          "targets": [
-            "1749e90c-3a88-48ef-b753-ed2c785eed61"
-          ],
-          "duration": 1000,
-          "delay": 0
-        },
-        {
-          "id": "22a9b533-fe6d-424c-bfef-a8e18be6545b",
-          "type": "effect-fly-in",
-          "targets": [
-            "5fae2cab-6229-424d-801f-7a019fc65f87"
-          ],
-          "flyInDir": "rightToLeft",
-          "duration": 1000,
-          "delay": 0
-        },
-        {
-          "id": "e580a2bb-7141-4d2a-a095-f5129c9a460c",
-          "type": "effect-fly-in",
-          "targets": [
-            "e9847403-aa9f-4cdb-b1dd-bea51f9d76c6"
-          ],
-          "flyInDir": "rightToLeft",
-          "duration": 1000,
-          "delay": 0
         }
       ],
-      "backgroundColor": {
-        "color": {
-          "r": 0,
-          "g": 0,
-          "b": 0
-        }
-      },
+      "backgroundColor": { "color": { "r": 0, "g": 0, "b": 0 } },
       "type": "page",
       "id": "8cb30a3a-7dc1-4705-8a77-63edee73555c",
       "pageTemplateType": null,
@@ -4535,7 +2981,7 @@
         "0e53105d-437f-4522-b3c3-2554fecd0bac": {
           "name": "Info",
           "isLocked": false,
-          "isCollapsed": false
+          "isCollapsed": true
         }
       }
     }

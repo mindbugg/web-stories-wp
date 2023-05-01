@@ -27,7 +27,6 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'doers-get-more-done',
   creationDate: '2021-05-29T00:00:00.000Z',
-  permission:'pro',
   title: _x('Doers Get More Done', 'template name', 'web-stories'),
   tags: [
     _x('Doers', 'template keyword', 'web-stories'),

@@ -27,7 +27,6 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'art-books-gift-guide',
   creationDate: '2021-08-09T00:00:00.000Z',
-  permission:'pro',
   title: _x('Art Books Gift Guide', 'template name', 'web-stories'),
   tags: [
     _x('Art', 'template keyword', 'web-stories'),

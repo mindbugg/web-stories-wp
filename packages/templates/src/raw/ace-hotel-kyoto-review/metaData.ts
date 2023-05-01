@@ -27,7 +27,6 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'ace-hotel-kyoto-review',
   creationDate: '2021-07-29T00:00:00.000Z',
-  permission:'pro',
   title: _x('Ace Hotel Kyoto Review', 'template name', 'web-stories'),
   tags: [
     _x('Travel', 'template keyword', 'web-stories'),

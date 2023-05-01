@@ -27,7 +27,6 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'celebrity-q-and-a',
   creationDate: '2021-08-03T00:00:00.000Z',
-  permission:'pro',
   title: _x('Celebrity Q & A', 'template name', 'web-stories'),
   tags: [
     _x('Entertainment', 'template keyword', 'web-stories'),

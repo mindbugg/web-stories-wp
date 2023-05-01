@@ -27,7 +27,6 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'belly-fat-workout',
   creationDate: '2021-07-12T00:00:00.000Z',
-  permission:'pro',
   title: _x('Belly Fat Workout', 'template name', 'web-stories'),
   tags: [
     _x('Health', 'template keyword', 'web-stories'),

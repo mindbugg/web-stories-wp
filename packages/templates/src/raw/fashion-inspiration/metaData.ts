@@ -27,7 +27,6 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'fashion-inspiration',
   creationDate: '2021-08-09T00:00:00.000Z',
-  permission:'pro',
   title: _x('Fashion Inspiration', 'template name', 'web-stories'),
   tags: [
     _x('Fashion', 'template keyword', 'web-stories'),

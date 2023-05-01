@@ -26,7 +26,6 @@ import type { MetaData } from '../../types';
 export default {
   slug: '12-hours-in-barcelona',
   creationDate: '2021-07-12T00:00:00.000Z',
-  permission:'pro',
   title: _x('12 Hours in Barcelona', 'template name', 'web-stories'),
   tags: [
     _x('Travel', 'template keyword', 'web-stories'),
