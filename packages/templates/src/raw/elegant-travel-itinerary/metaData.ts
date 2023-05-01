@@ -27,6 +27,7 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'elegant-travel-itinerary',
   creationDate: '2021-08-09T00:00:00.000Z',
+  permission:'pro',
   title: _x('Elegant Travel Itinerary', 'template name', 'web-stories'),
   tags: [
     _x('Travel', 'template keyword', 'web-stories'),

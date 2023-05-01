@@ -27,6 +27,7 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'buying-art-on-the-internet',
   creationDate: '2021-08-03T00:00:00.000Z',
+  permission:'pro',
   title: _x('Buying Art on the Internet', 'template name', 'web-stories'),
   tags: [
     _x('Arts & Craft', 'template keyword', 'web-stories'),

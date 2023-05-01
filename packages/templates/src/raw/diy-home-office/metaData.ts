@@ -27,6 +27,7 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'diy-home-office',
   creationDate: '2021-07-29T00:00:00.000Z',
+  permission:'pro',
   title: _x('DIY Home Office', 'template name', 'web-stories'),
   tags: [
     _x('Arts & Craft', 'template keyword', 'web-stories'),

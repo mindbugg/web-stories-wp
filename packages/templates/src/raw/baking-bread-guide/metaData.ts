@@ -27,6 +27,7 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'baking-bread-guide',
   creationDate: '2021-07-13T00:00:00.000Z',
+  permission:'pro',
   title: _x('Baking Bread Guide', 'template name', 'web-stories'),
   tags: [
     _x('Food', 'template keyword', 'web-stories'),

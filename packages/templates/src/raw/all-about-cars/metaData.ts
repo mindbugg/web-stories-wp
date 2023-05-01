@@ -27,6 +27,7 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'all-about-cars',
   creationDate: '2021-09-01T00:00:00.000Z',
+  permission:'pro',
   title: _x('All About Cars', 'template name', 'web-stories'),
   tags: [
     _x('Technology', 'template keyword', 'web-stories'),

@@ -27,6 +27,7 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'celebrity-life-story',
   creationDate: '2021-08-25T00:00:00.000Z',
+  permission:'pro',
   title: _x('Celebrity Life Story', 'template name', 'web-stories'),
   tags: [
     _x('Entertainment', 'template keyword', 'web-stories'),

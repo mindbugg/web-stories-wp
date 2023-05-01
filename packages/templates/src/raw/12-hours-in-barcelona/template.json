@@ -1,8 +1,5 @@
 {
-  "current": null,
-  "selection": [],
-  "story": {},
-  "version": 47,
+  "version": 46,
   "pages": [
     {
       "elements": [
@@ -39,15 +36,58 @@
             "mimeType": "image/jpeg",
             "width": 3901,
             "height": 2194,
-            "sizes": [],
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:q_TzfAt4NQ8",
+                "sourceUrl": "https://images.unsplash.com/photo-1529551739587-e242c564f727?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxiYXJjZWxvbmF8ZW58MHx8fHwxNjgyMDYxNjQ3&ixlib=rb-4.0.3&fm=jpg&w=3901&h=2194&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3901,
+                "height": 2194
+              },
+              "large": {
+                "file": "media/unsplash:q_TzfAt4NQ8",
+                "sourceUrl": "https://images.unsplash.com/photo-1529551739587-e242c564f727?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxiYXJjZWxvbmF8ZW58MHx8fHwxNjgyMDYxNjQ3&ixlib=rb-4.0.3&fm=jpg&w=3120&h=1755&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3120,
+                "height": 1755
+              },
+              "2340_1316": {
+                "file": "media/unsplash:q_TzfAt4NQ8",
+                "sourceUrl": "https://images.unsplash.com/photo-1529551739587-e242c564f727?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxiYXJjZWxvbmF8ZW58MHx8fHwxNjgyMDYxNjQ3&ixlib=rb-4.0.3&fm=jpg&w=2340&h=1316&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2340,
+                "height": 1316
+              },
+              "1560_877": {
+                "file": "media/unsplash:q_TzfAt4NQ8",
+                "sourceUrl": "https://images.unsplash.com/photo-1529551739587-e242c564f727?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxiYXJjZWxvbmF8ZW58MHx8fHwxNjgyMDYxNjQ3&ixlib=rb-4.0.3&fm=jpg&w=1560&h=877&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1560,
+                "height": 877
+              },
+              "780_439": {
+                "file": "media/unsplash:q_TzfAt4NQ8",
+                "sourceUrl": "https://images.unsplash.com/photo-1529551739587-e242c564f727?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxiYXJjZWxvbmF8ZW58MHx8fHwxNjgyMDYxNjQ3&ixlib=rb-4.0.3&fm=jpg&w=780&h=439&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 780,
+                "height": 439
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:q_TzfAt4NQ8",
+                "sourceUrl": "https://images.unsplash.com/photo-1529551739587-e242c564f727?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxiYXJjZWxvbmF8ZW58MHx8fHwxNjgyMDYxNjQ3&ixlib=rb-4.0.3&fm=jpg&w=340&h=191&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 191
+              }
+            },
             "isPlaceholder": false,
             "isExternal": true,
             "needsProxy": false,
-            "id": 0,
+            "id": "media/unsplash:q_TzfAt4NQ8",
             "baseColor": "#0c4059",
             "blurHash": "LlF6;1%1j]WV_Nj[kCkC?Hoza{ae",
             "creationDate": "2018-06-21T03:32:09Z",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/photo-1529551739587-e242c564f727",
+            "src": "https://images.unsplash.com/photo-1529551739587-e242c564f727?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxiYXJjZWxvbmF8ZW58MHx8fHwxNjgyMDYxNjQ3&ixlib=rb-4.0.3&fm=jpg&w=3901&h=2194&fit=max",
             "alt": "clear glass building near sea under grey sky",
             "attribution": {
               "author": {
@@ -566,7 +606,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page2_img1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page2_img1.jpg",
             "width": 330,
             "height": 186,
             "id": 0,
@@ -885,7 +925,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page2_route_1.png",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page2_route_1.png",
             "width": 330,
             "height": 205,
             "id": 0,
@@ -1403,15 +1443,58 @@
             "mimeType": "image/jpeg",
             "width": 7952,
             "height": 5304,
-            "sizes": [],
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:f-DvU93UhTs",
+                "sourceUrl": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8YmFyY2Vsb25hJTIwam91cm5leXxlbnwwfHx8fDE2ODIwODc2NjE&ixlib=rb-4.0.3&fm=jpg&w=7952&h=5304&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 7952,
+                "height": 5304
+              },
+              "large": {
+                "file": "media/unsplash:f-DvU93UhTs",
+                "sourceUrl": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8YmFyY2Vsb25hJTIwam91cm5leXxlbnwwfHx8fDE2ODIwODc2NjE&ixlib=rb-4.0.3&fm=jpg&w=6361&h=4243&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 6361,
+                "height": 4243
+              },
+              "4771_3182": {
+                "file": "media/unsplash:f-DvU93UhTs",
+                "sourceUrl": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8YmFyY2Vsb25hJTIwam91cm5leXxlbnwwfHx8fDE2ODIwODc2NjE&ixlib=rb-4.0.3&fm=jpg&w=4771&h=3182&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4771,
+                "height": 3182
+              },
+              "3180_2121": {
+                "file": "media/unsplash:f-DvU93UhTs",
+                "sourceUrl": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8YmFyY2Vsb25hJTIwam91cm5leXxlbnwwfHx8fDE2ODIwODc2NjE&ixlib=rb-4.0.3&fm=jpg&w=3180&h=2121&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3180,
+                "height": 2121
+              },
+              "1590_1061": {
+                "file": "media/unsplash:f-DvU93UhTs",
+                "sourceUrl": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8YmFyY2Vsb25hJTIwam91cm5leXxlbnwwfHx8fDE2ODIwODc2NjE&ixlib=rb-4.0.3&fm=jpg&w=1590&h=1061&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1590,
+                "height": 1061
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:f-DvU93UhTs",
+                "sourceUrl": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8YmFyY2Vsb25hJTIwam91cm5leXxlbnwwfHx8fDE2ODIwODc2NjE&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 227
+              }
+            },
             "isPlaceholder": false,
             "isExternal": true,
             "needsProxy": false,
-            "id": 0,
+            "id": "media/unsplash:f-DvU93UhTs",
             "baseColor": "#c0d9f3",
             "blurHash": "L@Ir?d$xNLf*tpofWBa#RQbIt6az",
             "creationDate": "2016-06-01T14:20:20Z",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/photo-1464790719320-516ecd75af6c",
+            "src": "https://images.unsplash.com/photo-1464790719320-516ecd75af6c?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8YmFyY2Vsb25hJTIwam91cm5leXxlbnwwfHx8fDE2ODIwODc2NjE&ixlib=rb-4.0.3&fm=jpg&w=7952&h=5304&fit=max",
             "alt": "bird's eyeview photo of high rise buildings",
             "attribution": {
               "author": {
@@ -1949,7 +2032,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page3_route_1.png",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page3_route_1.png",
             "width": 330,
             "height": 167,
             "id": 0,
@@ -2344,7 +2427,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page4_img1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page4_img1.jpg",
             "width": 330,
             "height": 412,
             "id": 0,
@@ -2638,7 +2721,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page4_route_1.png",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page4_route_1.png",
             "width": 330,
             "height": 32,
             "id": 0,
@@ -2969,7 +3052,7 @@
         "type": "shape",
         "id": "1da06749-7c4f-4f85-9197-4e207659e74b"
       },
-      "pageTemplateType": "",
+      "pageTemplateType": null,
       "groups": {
         "4eb0f819-8cd8-44b7-891b-d473a0e9b3de": {
           "name": "Header",
@@ -3016,7 +3099,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page5_img1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page5_img1.jpg",
             "width": 330,
             "height": 494,
             "id": 0,
@@ -3294,7 +3377,7 @@
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-04-27T11:03:18",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page5_route_1.png",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page5_route_1.png",
             "width": 330,
             "height": 216,
             "posterId": 0,
@@ -3627,7 +3710,7 @@
         "type": "shape",
         "id": "2c3f3035-aea0-460c-aba0-7ab8d2521135"
       },
-      "pageTemplateType": "",
+      "pageTemplateType": null,
       "groups": {
         "bb4c28dd-988d-44a0-8af8-430ba633138d": {
           "name": "Header",
@@ -3674,7 +3757,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page6_img1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page6_img1.jpg",
             "width": 330,
             "height": 494,
             "id": 0,
@@ -3951,7 +4034,7 @@
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-04-27T11:14:43",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page6_route_1.png",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page6_route_1.png",
             "width": 330,
             "height": 168,
             "posterId": 0,
@@ -4331,7 +4414,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page7_img1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page7_img1.jpg",
             "width": 330,
             "height": 544,
             "id": 0,
@@ -4380,7 +4463,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page7_route_1.png",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page7_route_1.png",
             "width": 330,
             "height": 110,
             "id": 0,
@@ -4940,7 +5023,7 @@
         "type": "shape",
         "id": "e65879b8-1394-4055-b1e8-f22a4bf63447"
       },
-      "pageTemplateType": "",
+      "pageTemplateType": null,
       "groups": {
         "9d24f16f-eaa8-4f13-8c68-65e3e26e9fa0": {
           "name": "Header",
@@ -4975,7 +5058,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page8_img1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page8_img1.jpg",
             "width": 330,
             "height": 494,
             "id": 0,
@@ -5269,7 +5352,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page8_route_1.png",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page8_route_1.png",
             "width": 330,
             "height": 103,
             "id": 0,
@@ -5601,7 +5684,7 @@
         "type": "shape",
         "id": "2946e472-ae6e-4317-9661-913b0493e7b9"
       },
-      "pageTemplateType": "",
+      "pageTemplateType": null,
       "groups": {
         "bad5dba2-1ffa-40f4-a5d6-e5a4f5b1df66": {
           "name": "Info",
@@ -5653,7 +5736,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page9_img1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page9_img1.jpg",
             "width": 330,
             "height": 439,
             "id": 0,
@@ -5929,7 +6012,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page9_route_1.png",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page9_route_1.png",
             "width": 330,
             "height": 46,
             "id": 0,
@@ -6261,7 +6344,7 @@
         "type": "shape",
         "id": "9ee6c38a-c279-47cd-a6a4-8aa32340aa2b"
       },
-      "pageTemplateType": "",
+      "pageTemplateType": null,
       "groups": {
         "eeb19136-ea34-4a36-ae0a-8fa47a588959": {
           "name": "Time",
@@ -6308,7 +6391,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page10_img1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page10_img1.jpg",
             "width": 330,
             "height": 247,
             "id": 0,
@@ -6333,7 +6416,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page10_route_1.png",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page10_route_1.png",
             "width": 330,
             "height": 211,
             "id": 0,
@@ -6655,7 +6738,7 @@
         "type": "shape",
         "id": "a9562766-122d-4f05-b2db-8bb10b1647e4"
       },
-      "pageTemplateType": "",
+      "pageTemplateType": null,
       "groups": {
         "8ccea118-49f8-4978-989f-2e9329648e61": {
           "name": "End",
@@ -6692,15 +6775,58 @@
             "mimeType": "image/jpeg",
             "width": 5760,
             "height": 3840,
-            "sizes": [],
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:h0Vxgz5tyXA",
+                "sourceUrl": "https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjA1ODIzNg&ixlib=rb-4.0.3&fm=jpg&w=5760&h=3840&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 5760,
+                "height": 3840
+              },
+              "large": {
+                "file": "media/unsplash:h0Vxgz5tyXA",
+                "sourceUrl": "https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjA1ODIzNg&ixlib=rb-4.0.3&fm=jpg&w=4608&h=3072&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4608,
+                "height": 3072
+              },
+              "3456_2304": {
+                "file": "media/unsplash:h0Vxgz5tyXA",
+                "sourceUrl": "https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjA1ODIzNg&ixlib=rb-4.0.3&fm=jpg&w=3456&h=2304&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3456,
+                "height": 2304
+              },
+              "2304_1536": {
+                "file": "media/unsplash:h0Vxgz5tyXA",
+                "sourceUrl": "https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjA1ODIzNg&ixlib=rb-4.0.3&fm=jpg&w=2304&h=1536&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2304,
+                "height": 1536
+              },
+              "1152_768": {
+                "file": "media/unsplash:h0Vxgz5tyXA",
+                "sourceUrl": "https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjA1ODIzNg&ixlib=rb-4.0.3&fm=jpg&w=1152&h=768&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1152,
+                "height": 768
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:h0Vxgz5tyXA",
+                "sourceUrl": "https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjA1ODIzNg&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 227
+              }
+            },
             "isPlaceholder": false,
             "isExternal": true,
             "needsProxy": false,
-            "id": 0,
+            "id": "media/unsplash:h0Vxgz5tyXA",
             "baseColor": "#594040",
             "blurHash": "LaH0ePNb0~soj[oLWVayJ7azsoj@",
             "creationDate": "2014-04-07T19:40:59Z",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg",
+            "src": "https://images.unsplash.com/32/Mc8kW4x9Q3aRR3RkP5Im_IMG_4417.jpg?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjA1ODIzNg&ixlib=rb-4.0.3&fm=jpg&w=5760&h=3840&fit=max",
             "alt": "brown wooden board",
             "attribution": {
               "author": {
@@ -6741,7 +6867,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page11_route_1.png",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page11_route_1.png",
             "width": 330,
             "height": 581,
             "id": 0,
@@ -7251,7 +7377,7 @@
             "type": "image",
             "mimeType": "image/png",
             "baseColor": "#ccd1db",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/polaroids_bg.png",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/polaroids_bg.png",
             "width": 121,
             "height": 160,
             "id": 0,
@@ -7307,7 +7433,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page11_img1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page11_img1.jpg",
             "width": 320,
             "height": 427,
             "id": 0,
@@ -7590,7 +7716,7 @@
             "type": "image",
             "mimeType": "image/png",
             "baseColor": "#ccd1db",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/polaroids_bg.png",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/polaroids_bg.png",
             "width": 121,
             "height": 160,
             "id": 0,
@@ -7646,7 +7772,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/%%templateName%%/page11_img2.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/12-hours-in-barcelona/page11_img2.jpg",
             "width": 320,
             "height": 213,
             "id": 0,
@@ -7818,5 +7944,8 @@
         }
       }
     }
-  ]
+  ],
+  "current": null,
+  "selection": [],
+  "story": {}
 }

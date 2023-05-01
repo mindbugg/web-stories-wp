@@ -1,34 +1,118 @@
 {
-  "version": 47,
+  "version": 46,
   "pages": [
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 468,
+          "height": 327,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
-          "type": "shape",
-          "id": "022ce6ae-e8ef-4c37-a65a-512cdbd2fa39"
+          "type": "image",
+          "id": "022ce6ae-e8ef-4c37-a65a-512cdbd2fa39",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 4683,
+            "height": 3267,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:241bwQl2uWE",
+                "sourceUrl": "https://images.unsplash.com/photo-1664575262619-b28fef7a40a4?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=4683&h=3267&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4683,
+                "height": 3267
+              },
+              "large": {
+                "file": "media/unsplash:241bwQl2uWE",
+                "sourceUrl": "https://images.unsplash.com/photo-1664575262619-b28fef7a40a4?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=3746&h=2613&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3746,
+                "height": 2613
+              },
+              "2809_1960": {
+                "file": "media/unsplash:241bwQl2uWE",
+                "sourceUrl": "https://images.unsplash.com/photo-1664575262619-b28fef7a40a4?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=2809&h=1960&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2809,
+                "height": 1960
+              },
+              "1873_1307": {
+                "file": "media/unsplash:241bwQl2uWE",
+                "sourceUrl": "https://images.unsplash.com/photo-1664575262619-b28fef7a40a4?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=1873&h=1307&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1873,
+                "height": 1307
+              },
+              "936_653": {
+                "file": "media/unsplash:241bwQl2uWE",
+                "sourceUrl": "https://images.unsplash.com/photo-1664575262619-b28fef7a40a4?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=936&h=653&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 936,
+                "height": 653
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:241bwQl2uWE",
+                "sourceUrl": "https://images.unsplash.com/photo-1664575262619-b28fef7a40a4?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=340&h=237&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 237
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:241bwQl2uWE",
+            "baseColor": "#8c8c8c",
+            "blurHash": "LPH_*..88^4n~qtR8_RjRPRPbvof",
+            "creationDate": "2022-09-30T22:01:10Z",
+            "src": "https://images.unsplash.com/photo-1664575262619-b28fef7a40a4?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=4683&h=3267&fit=max",
+            "alt": "a person sitting at a desk with a laptop and papers",
+            "attribution": {
+              "author": {
+                "displayName": "Windows",
+                "url": "https://unsplash.com/@windows?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfFhrSAN6e%2B5UhSG47N0dWCP1Z6hn/0P5g6c%2B1mEiebSODmAclHQMYH6sF0cedP9x0iID49Y4xjFRCqIyR9GskIRXOG4UHv3PstGvBcfO0qd/fAANynXMAYxpelp8dI2HZNiLzxJ9Olk698Esc%2BNQ7Pu7eZ0YiNq2iEf9j4oDBI1wUOViVBVAuyUDdYjmmkerJAE6MUEbmSE7%2BUaEeU809Cdw/vu05yupbznk3Nq1ucHRLtUs3cE"
+            }
+          }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-          "x": -9,
-          "y": -248,
+          "backgroundColor": {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255
+            }
+          },
+          "x": 73,
+          "y": 0,
           "width": 421,
           "height": 632,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "type": "image",
           "id": "616582fc-2bd7-46e5-b273-4afb28c63750",
           "scale": 100,
@@ -37,7 +121,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page01_12_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page01_12_image01.jpg",
             "width": 1707,
             "height": 2560,
             "id": 0,
@@ -51,7 +135,10 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "scale": 100,
@@ -61,7 +148,7 @@
             "type": "image",
             "mimeType": "image/png",
             "baseColor": "#3c3434",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page01_image02.png",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page01_image02.png",
             "width": 133,
             "height": 132,
             "id": 0,
@@ -71,8 +158,8 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 47,
-          "y": 3,
+          "x": 118,
+          "y": 49,
           "width": 66,
           "height": 65,
           "mask": {
@@ -87,34 +174,68 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 61, "g": 55, "b": 48 } },
+          "backgroundColor": {
+            "color": {
+              "r": 61,
+              "g": 55,
+              "b": 48
+            }
+          },
           "type": "shape",
-          "x": 0,
-          "y": 224,
+          "x": 758,
+          "y": 220,
           "width": 412,
           "height": 450,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "caf5d5c5-55ac-4ff8-9c13-740c5e2b4cbc"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Serif",
-            "fallbacks": ["serif"],
-            "weights": [400, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -136,12 +257,21 @@
             }
           },
           "fontSize": 56,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.1,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "type": "text",
-          "content": "<span style=\"color: #f6f2ed\">DIY</span>\n<span style=\"color: #f6f2ed\">Budget</span>\n<span style=\"color: #f6f2ed\">Friendly</span>\n<span style=\"color: #ffb555\">at-home</span>\n<span style=\"color: #ffb555\">office</span>",
+          "content": "<span style=\"color: #f6f2ed\">DIY</span>\n<span style=\"color: #f6f2ed\">Budget</span>\n<span style=\"color: #f6f2ed\">Friendly</span>\n<span style=\"color: #ffb555\">at-</span><span style=\"color: #ffb555\">home</span>\n<span style=\"color: #ffb555\">office</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -149,34 +279,78 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 47,
-          "y": 270,
+          "x": 805,
+          "y": 266,
           "width": 246,
-          "height": 320,
+          "height": 322,
           "id": "e0dcbf6e-c26f-4509-bb08-8aacfc57fa40"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lato",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 300, 400, 700, 900],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              300,
+              400,
+              700,
+              900
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700],
-              [0, 900],
-              [1, 900]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                0,
+                900
+              ],
+              [
+                1,
+                900
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -198,10 +372,19 @@
             }
           },
           "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.2,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "type": "text",
           "content": "<span style=\"color: #ffb555\">Sylvia Tribel · 31 Aug, 2020</span>",
           "borderRadius": {
@@ -211,55 +394,152 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 47,
-          "y": 598,
+          "x": 805,
+          "y": 594,
           "width": 203,
           "height": 19,
           "id": "e1df29f5-2ec4-4bcc-85aa-d136b15122e6"
         }
       ],
-      "animations": [],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
       "type": "page",
       "id": "a2ac85f3-e76c-4d6d-9664-2b9311857b1e",
       "defaultBackgroundElement": {
         "opacity": 100,
-        "flip": { "vertical": false, "horizontal": false },
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
         "rotationAngle": 0,
         "lockAspectRatio": true,
-        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
         "x": 1,
         "y": 1,
         "width": 1,
         "height": 1,
-        "mask": { "type": "rectangle" },
+        "mask": {
+          "type": "rectangle"
+        },
         "isBackground": true,
         "isDefaultBackground": true,
         "type": "shape",
-        "id": "022ce6ae-e8ef-4c37-a65a-512cdbd2fa39"
+        "id": "4c4b169e-ddda-41c7-812b-704aea55eefc"
       },
+      "animations": [
+        {
+          "id": "22883f00-cced-4bc5-881f-1d2121542e60",
+          "type": "effect-background-pan",
+          "panDir": "bottomToTop",
+          "duration": 2000,
+          "delay": 0,
+          "targets": [
+            "022ce6ae-e8ef-4c37-a65a-512cdbd2fa39"
+          ]
+        }
+      ],
       "pageTemplateType": "cover"
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 305,
+          "height": 452,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
-          "type": "shape",
-          "id": "5f3803d2-5a26-481b-b698-af6e286ce27c"
+          "type": "image",
+          "id": "5f3803d2-5a26-481b-b698-af6e286ce27c",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 67.762712342683,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 3052,
+            "height": 4524,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:mY3_bvR74fI",
+                "sourceUrl": "https://images.unsplash.com/photo-1526657782461-9fe13402a841?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=3052&h=4524&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3052,
+                "height": 4524
+              },
+              "large": {
+                "file": "media/unsplash:mY3_bvR74fI",
+                "sourceUrl": "https://images.unsplash.com/photo-1526657782461-9fe13402a841?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=2441&h=3618&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2441,
+                "height": 3618
+              },
+              "1831_2714": {
+                "file": "media/unsplash:mY3_bvR74fI",
+                "sourceUrl": "https://images.unsplash.com/photo-1526657782461-9fe13402a841?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=1831&h=2714&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1831,
+                "height": 2714
+              },
+              "1220_1808": {
+                "file": "media/unsplash:mY3_bvR74fI",
+                "sourceUrl": "https://images.unsplash.com/photo-1526657782461-9fe13402a841?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=1220&h=1808&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1220,
+                "height": 1808
+              },
+              "610_904": {
+                "file": "media/unsplash:mY3_bvR74fI",
+                "sourceUrl": "https://images.unsplash.com/photo-1526657782461-9fe13402a841?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=610&h=904&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 610,
+                "height": 904
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:mY3_bvR74fI",
+                "sourceUrl": "https://images.unsplash.com/photo-1526657782461-9fe13402a841?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=340&h=504&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 504
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:mY3_bvR74fI",
+            "baseColor": "#c0c0c0",
+            "blurHash": "LgKxC*?bxuIU~qoMt7bHV[xuV@a{",
+            "creationDate": "2018-05-18T15:37:34Z",
+            "src": "https://images.unsplash.com/photo-1526657782461-9fe13402a841?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw5fHxob21lJTIwb2ZmaWNlfGVufDB8fHx8MTY4MjE2NTQxNA&ixlib=rb-4.0.3&fm=jpg&w=3052&h=4524&fit=max",
+            "alt": "turned off laptop computer with near wall",
+            "attribution": {
+              "author": {
+                "displayName": "Dillon Shook",
+                "url": "https://unsplash.com/@dillonjshook?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfGvop2RHJn5pUwB5PKgWDPpXs5GM5xdP7rH%2BSaGVvFe5Z3DjhjWVUXpno9ZVksD7iwYq81VVsZffWlJFjXp6pUrXVdSaJkNa8p4s9BGd6J5NMgSLzOAMQsQtBItiCSLanyWTYHziXl0beq2Utu9oTRLsImbJRiTcl06KLREralivgKFbQ8A6DR2jDXSEipAnkjk9T311g09rlLn0mS1/eQ6ZDQDAz6buCfryCiegVvuZevsgDmZ"
+            }
+          }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "scale": 100,
@@ -269,7 +549,7 @@
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#c8c3c0",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page02_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page02_image01.jpg",
             "width": 1280,
             "height": 1920,
             "id": 0,
@@ -279,10 +559,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 263,
-          "y": 0,
-          "width": 102,
-          "height": 153,
+          "x": 820,
+          "y": 254,
+          "width": 244,
+          "height": 365,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -295,34 +575,68 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 255, "g": 181, "b": 85 } },
+          "backgroundColor": {
+            "color": {
+              "r": 255,
+              "g": 181,
+              "b": 85
+            }
+          },
           "type": "shape",
-          "x": 0,
-          "y": 263,
+          "x": 133,
+          "y": 72,
           "width": 6,
-          "height": 91,
-          "mask": { "type": "rectangle" },
+          "height": 100,
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "c9814697-7f72-45d1-a9f0-a956c6e16bc5"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Serif",
-            "fallbacks": ["serif"],
-            "weights": [400, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -343,11 +657,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 44,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 61,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.2,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "type": "text",
           "content": "<span style=\"color: #373737\">What \nwe need</span>",
           "borderRadius": {
@@ -357,20 +680,32 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 246,
-          "height": 111,
+          "width": 349,
+          "height": 157,
           "basedOn": "e0dcbf6e-c26f-4509-bb08-8aacfc57fa40",
           "id": "fb36525e-6494-4ed9-8868-60a27afeb4c1",
-          "x": 47,
-          "y": 256,
-          "tagName": "h2"
+          "x": 200,
+          "y": 62,
+          "tagName": "h2",
+          "marginOffset": -10.032617187500009
         }
       ],
+      "backgroundColor": {
+        "color": {
+          "r": 246,
+          "g": 242,
+          "b": 237
+        }
+      },
+      "type": "page",
+      "id": "b1ffaed7-d622-45bd-9225-67205ffccb1d",
       "animations": [
         {
           "id": "893722cb-2a8d-4e59-b3e2-3ff40d2793ed",
           "type": "effect-fly-in",
-          "targets": ["c9814697-7f72-45d1-a9f0-a956c6e16bc5"],
+          "targets": [
+            "c9814697-7f72-45d1-a9f0-a956c6e16bc5"
+          ],
           "flyInDir": "bottomToTop",
           "duration": 2000,
           "delay": 0
@@ -378,29 +713,53 @@
         {
           "id": "fb76032f-ee0d-4499-ae06-39b54e7e71d5",
           "type": "effect-fly-in",
-          "targets": ["10ceb109-edf0-4ecb-8a74-77034ce61db9"],
+          "targets": [
+            "10ceb109-edf0-4ecb-8a74-77034ce61db9"
+          ],
           "flyInDir": "rightToLeft",
           "duration": 2500,
           "delay": 200
         }
       ],
-      "backgroundColor": { "color": { "r": 246, "g": 242, "b": 237 } },
-      "type": "page",
-      "id": "b1ffaed7-d622-45bd-9225-67205ffccb1d",
-      "pageTemplateType": "section"
+      "pageTemplateType": "section",
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "d8473eb5-78b3-45a0-9676-b5cecf232242"
+      }
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
           "isDefaultBackground": true,
           "id": "756e2128-0d13-4e13-95a4-402cc9cb0bb1",
@@ -408,15 +767,24 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page03_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page03_image01.jpg",
             "width": 1920,
             "height": 1265,
             "id": 0,
@@ -426,28 +794,39 @@
             "baseColor": "#c4c2c1",
             "isExternal": true
           },
-          "x": 48,
-          "y": 44,
-          "width": 365,
-          "height": 350,
+          "x": 649,
+          "y": 29,
+          "width": 514,
+          "height": 493,
           "scale": 100,
           "focalX": 34.46301279401976,
           "focalY": 50.05714374653969,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "c7b61b8e-e74a-4df5-99e0-0951fdd9ec23"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
             "creationDate": "2021-05-26T15:04:48",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page03_image02.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page03_image02.jpg",
             "width": 1280,
             "height": 1920,
             "posterId": 0,
@@ -458,38 +837,84 @@
             "baseColor": "#ccc2ba",
             "isExternal": true
           },
-          "x": 245,
-          "y": 359,
-          "width": 120,
-          "height": 155,
+          "x": 926,
+          "y": 473,
+          "width": 169,
+          "height": 218,
           "scale": 100,
           "focalX": 50.16666925756169,
           "focalY": 57.01851847789784,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "a5f80da0-02c5-40dd-9364-0f365c2168f3"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lato",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 300, 400, 700, 900],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              300,
+              400,
+              700,
+              900
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700],
-              [0, 900],
-              [1, 900]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                0,
+                900
+              ],
+              [
+                1,
+                900
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -510,11 +935,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 31,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #373737\">Look for a vintage, statement sofa for your seating area. Scour Ebay, or go to garage sales in your town!</span>",
           "borderRadius": {
             "locked": true,
@@ -523,26 +957,35 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 189,
-          "height": 107,
+          "width": 389,
+          "height": 217,
           "basedOn": "e0dcbf6e-c26f-4509-bb08-8aacfc57fa40",
           "id": "7a4c91ce-8adc-40bd-8846-9b56a3934c5e",
-          "x": 48,
-          "y": 499,
-          "type": "text"
+          "x": 126,
+          "y": 63,
+          "type": "text",
+          "marginOffset": 6.200000000000003
         }
       ],
       "animations": [
         {
           "id": "fbf3df4b-d044-4202-ae98-de1f50b13352",
           "type": "effect-fly-in",
-          "targets": ["a5f80da0-02c5-40dd-9364-0f365c2168f3"],
+          "targets": [
+            "a5f80da0-02c5-40dd-9364-0f365c2168f3"
+          ],
           "flyInDir": "rightToLeft",
           "duration": 2500,
           "delay": 400
         }
       ],
-      "backgroundColor": { "color": { "r": 246, "g": 242, "b": 237 } },
+      "backgroundColor": {
+        "color": {
+          "r": 246,
+          "g": 242,
+          "b": 237
+        }
+      },
       "type": "page",
       "id": "34800717-cf07-4188-9507-776d4f039b8f",
       "pageTemplateType": "editorial"
@@ -551,25 +994,36 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+          "backgroundColor": {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255
+            }
+          },
           "x": 48,
           "y": 0,
           "width": 330,
           "height": 494,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
           "type": "image",
           "id": "64f2d500-f5b6-40c9-a7ad-dc3c7c9c49c9",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
+          "scale": 126,
+          "focalX": 39.680393729595856,
+          "focalY": 43.697435272180996,
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page04_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page04_image01.jpg",
             "width": 805,
             "height": 1207,
             "id": 0,
@@ -582,40 +1036,95 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 246, "g": 242, "b": 237 } },
+          "backgroundColor": {
+            "color": {
+              "r": 246,
+              "g": 242,
+              "b": 237
+            }
+          },
           "type": "shape",
-          "x": 47,
-          "y": 389,
-          "width": 218,
-          "height": 138,
-          "mask": { "type": "rectangle" },
+          "x": 80,
+          "y": 69,
+          "width": 330,
+          "height": 209,
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "e0f8be22-180e-45b6-ae73-426cacf61c6a"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lato",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 300, 400, 700, 900],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              300,
+              400,
+              700,
+              900
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700],
-              [0, 900],
-              [1, 900]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                0,
+                900
+              ],
+              [
+                1,
+                900
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -636,11 +1145,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 23,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #373737\">Also consider unusual or minimalistic stools. Overstock sites are a great place to find affordable versions.</span>",
           "borderRadius": {
             "locked": true,
@@ -649,58 +1167,83 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 175,
-          "height": 107,
+          "width": 265,
+          "height": 162,
           "type": "text",
           "basedOn": "7a4c91ce-8adc-40bd-8846-9b56a3934c5e",
           "id": "c58c7605-2ce3-4023-9f7b-f69857b6acd7",
-          "x": 66,
-          "y": 402
+          "x": 109,
+          "y": 88,
+          "marginOffset": 4.599999999999998
         }
       ],
-      "animations": [
-        {
-          "id": "9bee326d-f612-407d-85b8-7a970119396d",
-          "type": "effect-background-pan",
-          "targets": ["64f2d500-f5b6-40c9-a7ad-dc3c7c9c49c9"],
-          "panDir": "leftToRight",
-          "duration": 3000,
-          "delay": 0
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
         }
-      ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      },
       "type": "page",
       "id": "d61744e3-eac7-4f14-8ebb-74ffc667b202",
       "defaultBackgroundElement": {
         "opacity": 100,
-        "flip": { "vertical": false, "horizontal": false },
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
         "rotationAngle": 0,
         "lockAspectRatio": true,
-        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+        "backgroundColor": {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          }
+        },
         "x": 1,
         "y": 1,
         "width": 1,
         "height": 1,
-        "mask": { "type": "rectangle" },
+        "mask": {
+          "type": "rectangle"
+        },
         "isBackground": true,
         "isDefaultBackground": true,
         "type": "shape",
         "id": "f0f5fc6e-1f9c-4d7c-bb76-243f67c77948"
       },
+      "animations": [
+        {
+          "id": "9bee326d-f612-407d-85b8-7a970119396d",
+          "type": "effect-background-pan",
+          "panDir": "topToBottom",
+          "duration": 2000,
+          "delay": 0,
+          "targets": [
+            "64f2d500-f5b6-40c9-a7ad-dc3c7c9c49c9"
+          ]
+        }
+      ],
       "pageTemplateType": null
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
           "isDefaultBackground": true,
           "id": "14c6800e-98ba-4d9d-829e-8717d5703754",
@@ -708,26 +1251,70 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lato",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 300, 400, 700, 900],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              300,
+              400,
+              700,
+              900
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700],
-              [0, 900],
-              [1, 900]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                0,
+                900
+              ],
+              [
+                1,
+                900
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -748,11 +1335,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 25,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #373737\">Vintage chairs are also a great choice. They usually become a focal piece of the office, not just a comfy place to sit.</span>",
           "borderRadius": {
             "locked": true,
@@ -761,36 +1357,48 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 268,
-          "height": 63,
+          "width": 432,
+          "height": 101,
           "type": "text",
           "basedOn": "7a4c91ce-8adc-40bd-8846-9b56a3934c5e",
           "id": "4232e1c5-431d-4e22-8bc7-b9f013f8b519",
-          "x": 51,
-          "y": 10
+          "x": 117,
+          "y": 123,
+          "marginOffset": 5
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": true },
+          "flip": {
+            "vertical": false,
+            "horizontal": true
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "type": "image",
-          "width": 368,
-          "height": 350,
+          "width": 444,
+          "height": 422,
           "scale": 100,
           "focalX": 50.14118961267398,
           "focalY": 62.062626018231846,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "basedOn": "8dfb4a66-1c4c-4967-9c52-6856c055307c",
           "id": "66ded9ac-538f-4f36-b87c-d620c3f3ab2d",
-          "x": 0,
-          "y": 325,
+          "x": 736,
+          "y": 262,
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
             "creationDate": "2021-05-26T15:12:14",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page05_image02.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page05_image02.jpg",
             "width": 1704,
             "height": 2560,
             "posterId": 0,
@@ -804,15 +1412,24 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page05_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page05_image01.jpg",
             "width": 1280,
             "height": 1746,
             "id": 0,
@@ -822,14 +1439,16 @@
             "baseColor": "#e1e0dc",
             "isExternal": true
           },
-          "x": 51,
-          "y": 138,
-          "width": 204,
-          "height": 228,
+          "x": 798,
+          "y": 36,
+          "width": 246,
+          "height": 275,
           "scale": 100,
           "focalX": 50.1034824602391,
           "focalY": 59.172916458484195,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "8dfb4a66-1c4c-4967-9c52-6856c055307c"
         }
       ],
@@ -837,13 +1456,30 @@
         {
           "id": "e08e18b3-a206-48f1-a2f2-0f25f691f453",
           "type": "effect-fly-in",
-          "targets": ["8dfb4a66-1c4c-4967-9c52-6856c055307c"],
+          "targets": [
+            "8dfb4a66-1c4c-4967-9c52-6856c055307c"
+          ],
           "flyInDir": "leftToRight",
+          "duration": 2500,
+          "delay": 400
+        },
+        {
+          "id": "b889827b-39cb-405a-8eb9-08122d3f4227",
+          "type": "effect-fade-in",
+          "targets": [
+            "4232e1c5-431d-4e22-8bc7-b9f013f8b519"
+          ],
           "duration": 2500,
           "delay": 400
         }
       ],
-      "backgroundColor": { "color": { "r": 246, "g": 242, "b": 237 } },
+      "backgroundColor": {
+        "color": {
+          "r": 246,
+          "g": 242,
+          "b": 237
+        }
+      },
       "type": "page",
       "id": "68080c3e-35ee-49aa-9e18-63e277dab649",
       "pageTemplateType": null
@@ -852,49 +1488,156 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 400,
+          "height": 267,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
           "id": "fea02842-08b8-481e-8c68-8f5d671d5071",
-          "type": "shape"
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 4000,
+            "height": 2672,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:KQ0C6WtEGlo",
+                "sourceUrl": "https://images.unsplash.com/photo-1511203466129-824e631920d7?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxOHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU0MTQ&ixlib=rb-4.0.3&fm=jpg&w=4000&h=2672&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4000,
+                "height": 2672
+              },
+              "large": {
+                "file": "media/unsplash:KQ0C6WtEGlo",
+                "sourceUrl": "https://images.unsplash.com/photo-1511203466129-824e631920d7?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxOHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU0MTQ&ixlib=rb-4.0.3&fm=jpg&w=3200&h=2138&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3200,
+                "height": 2138
+              },
+              "2400_1603": {
+                "file": "media/unsplash:KQ0C6WtEGlo",
+                "sourceUrl": "https://images.unsplash.com/photo-1511203466129-824e631920d7?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxOHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU0MTQ&ixlib=rb-4.0.3&fm=jpg&w=2400&h=1603&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2400,
+                "height": 1603
+              },
+              "1600_1069": {
+                "file": "media/unsplash:KQ0C6WtEGlo",
+                "sourceUrl": "https://images.unsplash.com/photo-1511203466129-824e631920d7?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxOHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU0MTQ&ixlib=rb-4.0.3&fm=jpg&w=1600&h=1069&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1600,
+                "height": 1069
+              },
+              "800_534": {
+                "file": "media/unsplash:KQ0C6WtEGlo",
+                "sourceUrl": "https://images.unsplash.com/photo-1511203466129-824e631920d7?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxOHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU0MTQ&ixlib=rb-4.0.3&fm=jpg&w=800&h=534&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 800,
+                "height": 534
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:KQ0C6WtEGlo",
+                "sourceUrl": "https://images.unsplash.com/photo-1511203466129-824e631920d7?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxOHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU0MTQ&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 227
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:KQ0C6WtEGlo",
+            "baseColor": "#d9d9d9",
+            "blurHash": "LrNTqH-p%gay~qs:RibHIURjt6of",
+            "creationDate": "2017-11-20T18:50:04Z",
+            "src": "https://images.unsplash.com/photo-1511203466129-824e631920d7?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxOHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU0MTQ&ixlib=rb-4.0.3&fm=jpg&w=4000&h=2672&fit=max",
+            "alt": "man holding his head while sitting on chair near computer desk",
+            "attribution": {
+              "author": {
+                "displayName": "Jason Strull",
+                "url": "https://unsplash.com/fr/@jasonstrull?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfFscnCG7dmk08X01MuhMMkQcPGvYCbT6IMHcMHXDYr1EQcPPC%2BZKKJcnYUpaVgwpGxCbJn8acIRj1JlXwkvj0z3iZ1hOmvCYmAoEJBgeD88%2B62NS95Lu7Xrx3SDcJbAbwfw39qnouVFjMUCo7cYpHxpuX1sOG5zM9zXz%2BvSwd96L5bOVD%2BxXHRKHpLruMmVVnHK1ARoEiEZuKVRh8e%2BZjWr%2Bcba%2BRa51zN8BBppKcJnDOhqQfugLA%3D%3D"
+            }
+          }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 255, "g": 181, "b": 85 } },
-          "x": 0,
-          "y": 267,
+          "backgroundColor": {
+            "color": {
+              "r": 255,
+              "g": 181,
+              "b": 85
+            }
+          },
+          "x": 134,
+          "y": 118,
           "width": 6,
-          "height": 91,
-          "mask": { "type": "rectangle" },
+          "height": 100,
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "cb51538e-bb28-41cf-9061-636c15b98e4f",
           "type": "shape"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Serif",
-            "fallbacks": ["serif"],
-            "weights": [400, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -915,11 +1658,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 44,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 48,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.2,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #373737\">Do it in just</span>\n<span style=\"color: #373737\">five steps</span>",
           "borderRadius": {
             "locked": true,
@@ -928,18 +1680,22 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 246,
-          "height": 111,
+          "width": 276,
+          "height": 125,
           "basedOn": "e0dcbf6e-c26f-4509-bb08-8aacfc57fa40",
           "id": "c49bbb0a-72ba-4388-bf64-94165b4b9164",
-          "x": 47,
-          "y": 256,
+          "x": 181,
+          "y": 107,
           "type": "text",
-          "tagName": "h2"
+          "tagName": "h2",
+          "marginOffset": -7.767187500000006
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "scale": 100,
@@ -949,7 +1705,7 @@
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#c3c1c0",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page06_08_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page06_08_image01.jpg",
             "width": 1280,
             "height": 1920,
             "id": 0,
@@ -959,10 +1715,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 47,
-          "y": 463,
-          "width": 103,
-          "height": 154,
+          "x": 786,
+          "y": 210,
+          "width": 278,
+          "height": 415,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -978,7 +1734,9 @@
         {
           "id": "e8879055-6166-459a-b3b8-d3a8d042ab3e",
           "type": "effect-fly-in",
-          "targets": ["cb51538e-bb28-41cf-9061-636c15b98e4f"],
+          "targets": [
+            "cb51538e-bb28-41cf-9061-636c15b98e4f"
+          ],
           "flyInDir": "bottomToTop",
           "duration": 2000,
           "delay": 0
@@ -986,45 +1744,155 @@
         {
           "id": "e6ffed00-9e6a-4396-b73c-bced413bf82b",
           "type": "effect-fly-in",
-          "targets": ["9fac00ef-227e-466a-a500-dc22e235ea5e"],
+          "targets": [
+            "9fac00ef-227e-466a-a500-dc22e235ea5e"
+          ],
           "flyInDir": "bottomToTop",
           "duration": 2500,
           "delay": 200
         }
       ],
-      "backgroundColor": { "color": { "r": 246, "g": 242, "b": 237 } },
+      "backgroundColor": {
+        "color": {
+          "r": 246,
+          "g": 242,
+          "b": 237
+        }
+      },
       "type": "page",
       "id": "ef9b90a1-634e-412b-b26b-4b0541cfd938",
-      "pageTemplateType": null
+      "pageTemplateType": null,
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "81432994-c2e4-4aa9-9e5d-9b82d750a891",
+        "type": "shape"
+      }
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 350,
+          "height": 233,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
           "id": "b3dd6be7-61ba-41e5-ae72-528b23cadde9",
-          "type": "shape"
+          "type": "image",
+          "scale": 127,
+          "focalX": 50.837661249790585,
+          "focalY": 61.833655675531375,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 3500,
+            "height": 2333,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:nvzvOPQW0gc",
+                "sourceUrl": "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=3500&h=2333&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3500,
+                "height": 2333
+              },
+              "large": {
+                "file": "media/unsplash:nvzvOPQW0gc",
+                "sourceUrl": "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=2800&h=1866&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2800,
+                "height": 1866
+              },
+              "2100_1400": {
+                "file": "media/unsplash:nvzvOPQW0gc",
+                "sourceUrl": "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=2100&h=1400&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2100,
+                "height": 1400
+              },
+              "1400_933": {
+                "file": "media/unsplash:nvzvOPQW0gc",
+                "sourceUrl": "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=1400&h=933&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1400,
+                "height": 933
+              },
+              "700_467": {
+                "file": "media/unsplash:nvzvOPQW0gc",
+                "sourceUrl": "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=700&h=467&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 700,
+                "height": 467
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:nvzvOPQW0gc",
+                "sourceUrl": "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 227
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:nvzvOPQW0gc",
+            "baseColor": "#f3f3f3",
+            "blurHash": "LEQ]$pxt_3t7_4WBD$oeIUj[xvay",
+            "creationDate": "2015-12-04T16:48:43Z",
+            "src": "https://images.unsplash.com/photo-1449247709967-d4461a6a6103?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=3500&h=2333&fit=max",
+            "alt": "white wooden table near brown chair",
+            "attribution": {
+              "author": {
+                "displayName": "Bench Accounting",
+                "url": "https://unsplash.com/@benchaccounting?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfE4E/gNWeAkuv0mrdu62cEfXxQr641Z2xSupLyyBBHg58JEsoaz6hswOXLjrCOXMORpo3mfCTcqrHcxt34IZlp5e1v3jXiQ1oG8GyEl/9pb4wtWPZHTMqvFStfgPxfHOwVxKGPc8ZvjuPPMowHuekLW1Fo/T/f5fMlvhxwXpIlQ4XAEBSHSXkDi5MCX09jMYHm5Yv4bh4dgv1MFLFGUwcA233QN2RqkJgcA8BJEUPMFJhM/MwLsvw%3D%3D"
+            }
+          }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page07_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page07_image01.jpg",
             "width": 1710,
             "height": 2560,
             "id": 0,
@@ -1034,32 +1902,57 @@
             "baseColor": "#d4d2cc",
             "isExternal": true
           },
-          "x": 0,
-          "y": -58,
+          "x": 110,
+          "y": 28,
           "width": 412,
           "height": 562,
           "scale": 110,
           "focalX": 47.16732542819499,
           "focalY": 57.23414754971591,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "228d2958-3614-4842-ab36-60b075813ddb"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "FILL",
           "font": {
             "family": "Noto Serif",
-            "fallbacks": ["serif"],
-            "weights": [400, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1081,7 +1974,13 @@
             }
           },
           "fontSize": 94,
-          "backgroundColor": { "color": { "r": 199, "g": 187, "b": 175 } },
+          "backgroundColor": {
+            "color": {
+              "r": 199,
+              "g": 187,
+              "b": 175
+            }
+          },
           "lineHeight": 1.1,
           "textAlign": "center",
           "padding": {
@@ -1103,33 +2002,77 @@
           "type": "text",
           "basedOn": "c49bbb0a-72ba-4388-bf64-94165b4b9164",
           "id": "8ed9f9db-812b-4a82-8244-0cf7e5a9a76a",
-          "x": 48,
-          "y": 397,
+          "x": 158,
+          "y": 483,
           "tagName": "p",
           "marginOffset": -24.872558593749986
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lato",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 300, 400, 700, 900],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              300,
+              400,
+              700,
+              900
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700],
-              [0, 900],
-              [1, 900]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                0,
+                900
+              ],
+              [
+                1,
+                900
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1150,11 +2093,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 23,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #373737\">Since all 3 of our design inspiration leans more minimal, we can gracefully incorporate all styles.</span>",
           "borderRadius": {
             "locked": true,
@@ -1163,70 +2115,219 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 317,
-          "height": 62,
+          "width": 482,
+          "height": 94,
           "type": "text",
           "basedOn": "4232e1c5-431d-4e22-8bc7-b9f013f8b519",
           "id": "4a91612c-4a90-4912-9e47-4bbd0642e7de",
-          "x": 48,
-          "y": 555
+          "x": 560,
+          "y": 504,
+          "marginOffset": 4.599999999999998
         }
       ],
       "animations": [
         {
           "id": "c505d065-e893-4a8e-9a83-5c376213ac85",
           "type": "effect-fly-in",
-          "targets": ["8ed9f9db-812b-4a82-8244-0cf7e5a9a76a"],
+          "targets": [
+            "8ed9f9db-812b-4a82-8244-0cf7e5a9a76a"
+          ],
           "flyInDir": "leftToRight",
           "duration": 2500,
           "delay": 0
+        },
+        {
+          "id": "98a36601-2fd3-4e21-8e70-52fe3791c618",
+          "type": "effect-background-zoom",
+          "zoomDirection": "scaleIn",
+          "duration": 2000,
+          "delay": 0,
+          "targets": [
+            "b3dd6be7-61ba-41e5-ae72-528b23cadde9"
+          ]
         }
       ],
-      "backgroundColor": { "color": { "r": 246, "g": 242, "b": 237 } },
+      "backgroundColor": {
+        "color": {
+          "r": 246,
+          "g": 242,
+          "b": 237
+        }
+      },
       "type": "page",
       "id": "2a5a97de-b4c8-467b-998d-8738614e45b4",
       "pageTemplateType": "steps",
-      "groups": {}
+      "groups": {},
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "bfb5ca43-c9aa-4de7-ad72-93a1f32c48bd",
+        "type": "shape"
+      }
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 154,
+          "height": 205,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
           "id": "8abc1bd7-7349-4a27-8a63-67653eccaff4",
-          "type": "shape"
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 1536,
+            "height": 2048,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:3d4sSUChunA",
+                "sourceUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMXx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU0MTQ&ixlib=rb-4.0.3&fm=jpg&w=1536&h=2048&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1536,
+                "height": 2048
+              },
+              "large": {
+                "file": "media/unsplash:3d4sSUChunA",
+                "sourceUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMXx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU0MTQ&ixlib=rb-4.0.3&fm=jpg&w=1228&h=1637&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1228,
+                "height": 1637
+              },
+              "921_1228": {
+                "file": "media/unsplash:3d4sSUChunA",
+                "sourceUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMXx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU0MTQ&ixlib=rb-4.0.3&fm=jpg&w=921&h=1228&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 921,
+                "height": 1228
+              },
+              "614_819": {
+                "file": "media/unsplash:3d4sSUChunA",
+                "sourceUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMXx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU0MTQ&ixlib=rb-4.0.3&fm=jpg&w=614&h=819&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 614,
+                "height": 819
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:3d4sSUChunA",
+                "sourceUrl": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMXx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU0MTQ&ixlib=rb-4.0.3&fm=jpg&w=340&h=453&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 453
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:3d4sSUChunA",
+            "baseColor": "#d9d9d9",
+            "blurHash": "LcKeAvRj%Mt7~qt7t7Rj?bt7oKt7",
+            "creationDate": "2018-02-12T17:07:46Z",
+            "src": "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMXx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU0MTQ&ixlib=rb-4.0.3&fm=jpg&w=1536&h=2048&fit=max",
+            "alt": "gray leather office rolling armchair beside white wooden computer desk",
+            "attribution": {
+              "author": {
+                "displayName": "James McDonald",
+                "url": "https://unsplash.com/ko/@jamesm?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfE%2BB2o4GHBPGCQUM3Zj%2BOMAaADI54mDd4YOYmV79CC7vPGzR6kTvaBKhcxXJDJcJ2mVfI29mNEKed5Rc62RsUTZniwVIVUHOiLPT8W3DGOYEp3rCQ%2BhB7lgJzrAkBHM29Gw2vfdvfKagxdm1TzOGWJSjkqCuX1%2BGXIibjin6Dq%2BYAT6d5RKX8k7XT6yEEwMH9%2BtnRmcjd9/nRh08Z3q%2BnmJjm80V9vEAjL5lNw1glxrvE3yuEL7ig%3D%3D"
+            }
+          }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lato",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 300, 400, 700, 900],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              300,
+              400,
+              700,
+              900
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700],
-              [0, 900],
-              [1, 900]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                0,
+                900
+              ],
+              [
+                1,
+                900
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1247,11 +2348,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 21,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #373737\">You can even incorporate comfortable seating. Who says a workspace has to be all work and no play?</span>",
           "borderRadius": {
             "locked": true,
@@ -1260,17 +2370,21 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 317,
-          "height": 62,
+          "width": 428,
+          "height": 84,
           "basedOn": "4232e1c5-431d-4e22-8bc7-b9f013f8b519",
           "id": "5caf6a6a-a8e6-4a23-8530-01d824fee4a4",
-          "x": 48,
-          "y": 0,
-          "type": "text"
+          "x": 193,
+          "y": 130,
+          "type": "text",
+          "marginOffset": 4.199999999999999
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 125,
@@ -1281,7 +2395,7 @@
             "mimeType": "image/jpeg",
             "creationDate": "2021-05-26T15:14:32",
             "baseColor": "#bfbdb9",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page06_08_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page06_08_image01.jpg",
             "width": 1280,
             "height": 1920,
             "posterId": 0,
@@ -1291,31 +2405,62 @@
             "isOptimized": false,
             "isExternal": true
           },
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "x": 0,
-          "y": 114,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "x": 748,
+          "y": 96,
           "width": 412,
           "height": 562,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "338075b0-fcbd-4902-b5f8-000e38b86fa2",
           "type": "image"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "FILL",
           "font": {
             "family": "Noto Serif",
-            "fallbacks": ["serif"],
-            "weights": [400, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1337,7 +2482,13 @@
             }
           },
           "fontSize": 94,
-          "backgroundColor": { "color": { "r": 199, "g": 187, "b": 175 } },
+          "backgroundColor": {
+            "color": {
+              "r": 199,
+              "g": 187,
+              "b": 175
+            }
+          },
           "lineHeight": 1.1,
           "textAlign": "center",
           "padding": {
@@ -1358,8 +2509,8 @@
           "height": 136,
           "type": "text",
           "basedOn": "8ed9f9db-812b-4a82-8244-0cf7e5a9a76a",
-          "x": 228,
-          "y": 80,
+          "x": 976,
+          "y": 62,
           "tagName": "p",
           "marginOffset": -24.872558593749986,
           "id": "85701ccb-a47a-41c1-9937-9b974d1039bf"
@@ -1367,40 +2518,153 @@
       ],
       "animations": [
         {
-          "targets": ["85701ccb-a47a-41c1-9937-9b974d1039bf"],
+          "targets": [
+            "85701ccb-a47a-41c1-9937-9b974d1039bf"
+          ],
           "id": "426d2f33-3daa-450b-8096-5406bb547886",
           "type": "effect-fly-in",
           "flyInDir": "leftToRight",
           "duration": 2500,
           "delay": 0
+        },
+        {
+          "id": "dd7c3920-e7c7-4f47-b256-50f915bd9bea",
+          "type": "effect-fade-in",
+          "targets": [
+            "5caf6a6a-a8e6-4a23-8530-01d824fee4a4"
+          ],
+          "duration": 2500,
+          "delay": 200
         }
       ],
-      "backgroundColor": { "color": { "r": 246, "g": 242, "b": 237 } },
+      "backgroundColor": {
+        "color": {
+          "r": 246,
+          "g": 242,
+          "b": 237
+        }
+      },
       "type": "page",
       "id": "9b0da8f6-4d20-4038-90eb-cb6e1a848297",
       "pageTemplateType": null,
-      "groups": {}
+      "groups": {},
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "7b545849-029e-4d93-b9ac-652b7d5c753d",
+        "type": "shape"
+      }
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 386,
+          "height": 599,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
           "id": "797d4998-9272-41cf-be3c-b8e249415c5e",
-          "type": "shape"
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 46.34540949511316,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 3857,
+            "height": 5988,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:UzPbvwqvKNE",
+                "sourceUrl": "https://images.unsplash.com/photo-1521649415036-659258dc424f?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=3857&h=5988&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3857,
+                "height": 5988
+              },
+              "large": {
+                "file": "media/unsplash:UzPbvwqvKNE",
+                "sourceUrl": "https://images.unsplash.com/photo-1521649415036-659258dc424f?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=3085&h=4789&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3085,
+                "height": 4789
+              },
+              "2314_3592": {
+                "file": "media/unsplash:UzPbvwqvKNE",
+                "sourceUrl": "https://images.unsplash.com/photo-1521649415036-659258dc424f?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=2314&h=3592&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2314,
+                "height": 3592
+              },
+              "1542_2394": {
+                "file": "media/unsplash:UzPbvwqvKNE",
+                "sourceUrl": "https://images.unsplash.com/photo-1521649415036-659258dc424f?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=1542&h=2394&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1542,
+                "height": 2394
+              },
+              "771_1197": {
+                "file": "media/unsplash:UzPbvwqvKNE",
+                "sourceUrl": "https://images.unsplash.com/photo-1521649415036-659258dc424f?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=771&h=1197&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 771,
+                "height": 1197
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:UzPbvwqvKNE",
+                "sourceUrl": "https://images.unsplash.com/photo-1521649415036-659258dc424f?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=340&h=528&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 528
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:UzPbvwqvKNE",
+            "baseColor": "#d9d9d9",
+            "blurHash": "LcJb57?aNFNH~XjGt7WVx^NGWBoJ",
+            "creationDate": "2018-03-21T16:25:17Z",
+            "src": "https://images.unsplash.com/photo-1521649415036-659258dc424f?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=3857&h=5988&fit=max",
+            "alt": "silver iMac with Apple Magic keyboard on top of white table",
+            "attribution": {
+              "author": {
+                "displayName": "Jessica Arends",
+                "url": "https://unsplash.com/@mydailydestinations?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfHegz7QFwjOLE098q5og2eEeQwQs7jUyL%2BSE24xl/Zc9X9GNx3DKzvmOyusUiEFTXmAJUoNe0Igoil/PThtAUGPrONKR7NLWVcWQ%2BCaro93Z2WgRKP1nfk30VrXeJSMfUFQ8whgXL9l/DoiIz6BnKlXgX7odQ5iqgXFlOMPTrWPDrwi28xw6vSFjTvIe7zfdp7v9w6iXrBrcZOiOcCMfCtn%2Bux44DFIGpNdm29rHLIFZckiOnG8zg%3D%3D"
+            }
+          }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 132,
@@ -1409,7 +2673,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page09_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page09_image01.jpg",
             "width": 1280,
             "height": 1706,
             "id": 0,
@@ -1419,37 +2683,89 @@
             "baseColor": "#988f85",
             "isExternal": true
           },
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "x": 0,
-          "y": -57,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "x": 742,
+          "y": 65,
           "width": 412,
           "height": 562,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "f4ab886d-30d8-4f0b-9fd1-d196b17331bf",
           "type": "image"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lato",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 300, 400, 700, 900],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              300,
+              400,
+              700,
+              900
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700],
-              [0, 900],
-              [1, 900]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                0,
+                900
+              ],
+              [
+                1,
+                900
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1470,11 +2786,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 22,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #373737\">Incorporate materials that are complementary. That can be woods, metals, or colors that are neutral.</span>",
           "borderRadius": {
             "locked": true,
@@ -1483,30 +2808,54 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 317,
-          "height": 62,
+          "width": 452,
+          "height": 89,
           "basedOn": "4232e1c5-431d-4e22-8bc7-b9f013f8b519",
           "id": "2b92d8b3-1992-4277-b533-79437eafc19c",
-          "x": 48,
-          "y": 555,
-          "type": "text"
+          "x": 188,
+          "y": 271,
+          "type": "text",
+          "marginOffset": 4.599999999999998
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "FILL",
           "font": {
             "family": "Noto Serif",
-            "fallbacks": ["serif"],
-            "weights": [400, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1528,7 +2877,13 @@
             }
           },
           "fontSize": 94,
-          "backgroundColor": { "color": { "r": 199, "g": 187, "b": 175 } },
+          "backgroundColor": {
+            "color": {
+              "r": 199,
+              "g": 187,
+              "b": 175
+            }
+          },
           "lineHeight": 1.1,
           "textAlign": "center",
           "padding": {
@@ -1549,8 +2904,8 @@
           "height": 136,
           "type": "text",
           "basedOn": "8ed9f9db-812b-4a82-8244-0cf7e5a9a76a",
-          "x": 48,
-          "y": 397,
+          "x": 674,
+          "y": 292,
           "tagName": "p",
           "marginOffset": -24.872558593749986,
           "id": "229841db-fecf-4e5c-9e43-bd33b7a1e342"
@@ -1558,59 +2913,213 @@
       ],
       "animations": [
         {
-          "targets": ["229841db-fecf-4e5c-9e43-bd33b7a1e342"],
+          "targets": [
+            "229841db-fecf-4e5c-9e43-bd33b7a1e342"
+          ],
           "id": "e50c01ea-f7ca-4087-9920-6777a8014ee2",
           "type": "effect-fly-in",
           "flyInDir": "leftToRight",
           "duration": 2500,
           "delay": 0
+        },
+        {
+          "id": "5b251bd6-645f-4b14-b8fd-d2277de8da0f",
+          "type": "effect-fade-in",
+          "targets": [
+            "2b92d8b3-1992-4277-b533-79437eafc19c"
+          ],
+          "duration": 2500,
+          "delay": 200
         }
       ],
-      "backgroundColor": { "color": { "r": 246, "g": 242, "b": 237 } },
+      "backgroundColor": {
+        "color": {
+          "r": 246,
+          "g": 242,
+          "b": 237
+        }
+      },
       "type": "page",
       "id": "cc74ccfa-71fb-4aaf-9703-cdcecbd0cd83",
       "pageTemplateType": null,
-      "groups": {}
+      "groups": {},
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "f4495a0b-6bbf-4cea-9d87-8b54b68dea38",
+        "type": "shape"
+      }
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 547,
+          "height": 365,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
           "id": "e93135a8-e67e-40f8-bc6c-0c2396e40ce9",
-          "type": "shape"
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 5472,
+            "height": 3648,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:9ZvuWg8deho",
+                "sourceUrl": "https://images.unsplash.com/photo-1519974719765-e6559eac2575?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzNHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=5472&h=3648&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 5472,
+                "height": 3648
+              },
+              "large": {
+                "file": "media/unsplash:9ZvuWg8deho",
+                "sourceUrl": "https://images.unsplash.com/photo-1519974719765-e6559eac2575?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzNHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=4377&h=2918&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4377,
+                "height": 2918
+              },
+              "3283_2189": {
+                "file": "media/unsplash:9ZvuWg8deho",
+                "sourceUrl": "https://images.unsplash.com/photo-1519974719765-e6559eac2575?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzNHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=3283&h=2189&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3283,
+                "height": 2189
+              },
+              "2188_1459": {
+                "file": "media/unsplash:9ZvuWg8deho",
+                "sourceUrl": "https://images.unsplash.com/photo-1519974719765-e6559eac2575?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzNHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=2188&h=1459&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2188,
+                "height": 1459
+              },
+              "1094_729": {
+                "file": "media/unsplash:9ZvuWg8deho",
+                "sourceUrl": "https://images.unsplash.com/photo-1519974719765-e6559eac2575?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzNHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=1094&h=729&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1094,
+                "height": 729
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:9ZvuWg8deho",
+                "sourceUrl": "https://images.unsplash.com/photo-1519974719765-e6559eac2575?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzNHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 227
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:9ZvuWg8deho",
+            "baseColor": "#c0c0c0",
+            "blurHash": "LBMtdW?bMyNa_Nx]IAt7IAIUtRfR",
+            "creationDate": "2018-03-02T07:15:32Z",
+            "src": "https://images.unsplash.com/photo-1519974719765-e6559eac2575?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzNHx8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=5472&h=3648&fit=max",
+            "alt": "empty desk near curtain",
+            "attribution": {
+              "author": {
+                "displayName": "Hutomo Abrianto",
+                "url": "https://unsplash.com/@hutomoabrianto?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfEKeQBt2Qw6I9aSCJUmskTzHMaDRnH7GXWAkI1V0IUFS/jyk9U48bp2%2B48YVKNNolm6mgqYwKd3mCrvQMT1RkVKTFwRnjCO5idM9YGTxpb7vfTNaMhlg2bojn0/zO1xXsn5uoLsYo0H7IhCu6N%2BmCBKkhqnZacJDKR2uGCXvTwdYcvCCGiF0JLccrlabP6iArXbwLQ/vEE4oaULXwLLq9wHUcVTqcKuDHzpySXOhMXQww4eSeQcKg%3D%3D"
+            }
+          }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lato",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 300, 400, 700, 900],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              300,
+              400,
+              700,
+              900
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700],
-              [0, 900],
-              [1, 900]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                0,
+                900
+              ],
+              [
+                1,
+                900
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1631,11 +3140,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 24,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #373737\">You can create your own desk with two sawhorse legs and simple plank of wood, or purchase a minimal wooden desk.</span>",
           "borderRadius": {
             "locked": true,
@@ -1644,17 +3162,21 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 317,
-          "height": 62,
+          "width": 503,
+          "height": 96,
           "basedOn": "4232e1c5-431d-4e22-8bc7-b9f013f8b519",
           "id": "cd02ebfb-ebad-413f-b6e4-e17b4350d0dd",
-          "x": 48,
-          "y": 0,
-          "type": "text"
+          "x": 169,
+          "y": 559,
+          "type": "text",
+          "marginOffset": 5
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 123,
@@ -1663,7 +3185,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page10_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page10_image01.jpg",
             "width": 1280,
             "height": 1917,
             "id": 0,
@@ -1673,31 +3195,62 @@
             "baseColor": "#bfc8c9",
             "isExternal": true
           },
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "x": 0,
-          "y": 114,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "x": 672,
+          "y": 96,
           "width": 412,
           "height": 562,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "85115cb6-75c3-4a66-ad3b-0ded6aa57836",
           "type": "image"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "FILL",
           "font": {
             "family": "Noto Serif",
-            "fallbacks": ["serif"],
-            "weights": [400, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1719,7 +3272,13 @@
             }
           },
           "fontSize": 94,
-          "backgroundColor": { "color": { "r": 199, "g": 187, "b": 175 } },
+          "backgroundColor": {
+            "color": {
+              "r": 199,
+              "g": 187,
+              "b": 175
+            }
+          },
           "lineHeight": 1.1,
           "textAlign": "center",
           "padding": {
@@ -1740,8 +3299,8 @@
           "height": 136,
           "type": "text",
           "basedOn": "85701ccb-a47a-41c1-9937-9b974d1039bf",
-          "x": 228,
-          "y": 80,
+          "x": 993,
+          "y": 62,
           "tagName": "p",
           "marginOffset": -24.872558593749986,
           "id": "66e68c40-bae0-4832-920a-39fed633261a"
@@ -1749,40 +3308,154 @@
       ],
       "animations": [
         {
-          "targets": ["66e68c40-bae0-4832-920a-39fed633261a"],
+          "targets": [
+            "66e68c40-bae0-4832-920a-39fed633261a"
+          ],
           "id": "8cea9f2d-6c1d-41b7-8606-66498dd0300e",
           "type": "effect-fly-in",
           "flyInDir": "leftToRight",
           "duration": 2500,
           "delay": 0
+        },
+        {
+          "id": "ce4d998c-b7f0-4db3-b5a3-08fae3c7b04c",
+          "type": "effect-background-zoom",
+          "zoomDirection": "scaleOut",
+          "duration": 2000,
+          "delay": 0,
+          "targets": [
+            "e93135a8-e67e-40f8-bc6c-0c2396e40ce9"
+          ]
         }
       ],
-      "backgroundColor": { "color": { "r": 246, "g": 242, "b": 237 } },
+      "backgroundColor": {
+        "color": {
+          "r": 246,
+          "g": 242,
+          "b": 237
+        }
+      },
       "type": "page",
       "id": "aff9c463-5644-4118-a447-39d726d06172",
       "pageTemplateType": null,
-      "groups": {}
+      "groups": {},
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "793dd9e1-f7a5-4295-b8be-433d7154d0f4",
+        "type": "shape"
+      }
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 339,
+          "height": 509,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
           "id": "ca884449-d7e3-41cf-8840-b655d62703c3",
-          "type": "shape"
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 3393,
+            "height": 5090,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:tOVmshavtoo",
+                "sourceUrl": "https://images.unsplash.com/photo-1486946255434-2466348c2166?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyM3x8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=3393&h=5090&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3393,
+                "height": 5090
+              },
+              "large": {
+                "file": "media/unsplash:tOVmshavtoo",
+                "sourceUrl": "https://images.unsplash.com/photo-1486946255434-2466348c2166?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyM3x8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=2714&h=4071&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2714,
+                "height": 4071
+              },
+              "2035_3053": {
+                "file": "media/unsplash:tOVmshavtoo",
+                "sourceUrl": "https://images.unsplash.com/photo-1486946255434-2466348c2166?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyM3x8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=2035&h=3053&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2035,
+                "height": 3053
+              },
+              "1357_2036": {
+                "file": "media/unsplash:tOVmshavtoo",
+                "sourceUrl": "https://images.unsplash.com/photo-1486946255434-2466348c2166?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyM3x8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=1357&h=2036&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1357,
+                "height": 2036
+              },
+              "678_1017": {
+                "file": "media/unsplash:tOVmshavtoo",
+                "sourceUrl": "https://images.unsplash.com/photo-1486946255434-2466348c2166?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyM3x8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=678&h=1017&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 678,
+                "height": 1017
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:tOVmshavtoo",
+                "sourceUrl": "https://images.unsplash.com/photo-1486946255434-2466348c2166?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyM3x8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=340&h=510&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 510
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:tOVmshavtoo",
+            "baseColor": "#d9d9d9",
+            "blurHash": "LML}1*IU?c-=~pt8M{t79HIUWAj=",
+            "creationDate": "2017-02-13T00:42:40Z",
+            "src": "https://images.unsplash.com/photo-1486946255434-2466348c2166?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyM3x8aG9tZSUyMG9mZmljZXxlbnwwfHx8fDE2ODIxNjU4MzU&ixlib=rb-4.0.3&fm=jpg&w=3393&h=5090&fit=max",
+            "alt": "black 2-light torchiere beside brown wooden-top desk with black steel frame",
+            "attribution": {
+              "author": {
+                "displayName": "Kari Shea",
+                "url": "https://unsplash.com/@karishea?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfHbMuftTKIqmP1Qb5r%2BkzqKliYNDtPoT2qugYJUbsBcbH5AU6jGEwJYcm9mxfcXbIYps19c/Kdmlo%2BReVDB4k82K7hY432gShE51pDpkyaDz8u7fZxoV4DYA1Q/wjL5iG0KXR4zFzxGf/d/254Zw6cX6%2BTdOpCJVpAUjPlFKFmKBXB%2BV8ZiysD1lTLqdffz6m/zKA8jp2RoS/P3NJDC0Kn5zoudVe04OvP9vG8%2Bw7l42JkyJyaO1Q%3D%3D"
+            }
+          }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 140,
@@ -1791,7 +3464,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page11_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page11_image01.jpg",
             "width": 1280,
             "height": 1919,
             "id": 0,
@@ -1801,37 +3474,89 @@
             "baseColor": "#cac2bb",
             "isExternal": true
           },
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "x": 0,
-          "y": -58,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "x": 764,
+          "y": 65,
           "width": 412,
           "height": 562,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "324004ab-f0f0-4ea7-8309-87fab679ae8c",
           "type": "image"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lato",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 300, 400, 700, 900],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              300,
+              400,
+              700,
+              900
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700],
-              [0, 900],
-              [1, 900]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                0,
+                900
+              ],
+              [
+                1,
+                900
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1852,11 +3577,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 25,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #373737\">Lastly, put the finishing touches on your workspace once all the furniture is assembled and put into place.</span>",
           "borderRadius": {
             "locked": true,
@@ -1865,30 +3599,54 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 317,
-          "height": 62,
+          "width": 520,
+          "height": 101,
           "basedOn": "4232e1c5-431d-4e22-8bc7-b9f013f8b519",
           "id": "64fc0a48-d0b4-41cb-8235-1518e3319c15",
-          "x": 48,
-          "y": 555,
-          "type": "text"
+          "x": 244,
+          "y": 64,
+          "type": "text",
+          "marginOffset": 5
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "FILL",
           "font": {
             "family": "Noto Serif",
-            "fallbacks": ["serif"],
-            "weights": [400, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1910,7 +3668,13 @@
             }
           },
           "fontSize": 94,
-          "backgroundColor": { "color": { "r": 199, "g": 187, "b": 175 } },
+          "backgroundColor": {
+            "color": {
+              "r": 199,
+              "g": 187,
+              "b": 175
+            }
+          },
           "lineHeight": 1.1,
           "textAlign": "center",
           "padding": {
@@ -1931,8 +3695,8 @@
           "height": 136,
           "type": "text",
           "basedOn": "8ed9f9db-812b-4a82-8244-0cf7e5a9a76a",
-          "x": 48,
-          "y": 397,
+          "x": 812,
+          "y": 520,
           "tagName": "p",
           "marginOffset": -24.872558593749986,
           "id": "8a74a479-1658-42ce-919c-922fe49b2a15"
@@ -1940,7 +3704,9 @@
       ],
       "animations": [
         {
-          "targets": ["8a74a479-1658-42ce-919c-922fe49b2a15"],
+          "targets": [
+            "8a74a479-1658-42ce-919c-922fe49b2a15"
+          ],
           "id": "fd442031-28a9-49e4-9b40-f0b245f1a5cf",
           "type": "effect-fly-in",
           "flyInDir": "leftToRight",
@@ -1948,25 +3714,62 @@
           "delay": 0
         }
       ],
-      "backgroundColor": { "color": { "r": 246, "g": 242, "b": 237 } },
+      "backgroundColor": {
+        "color": {
+          "r": 246,
+          "g": 242,
+          "b": 237
+        }
+      },
       "type": "page",
       "id": "71103bca-aa69-48a7-aa42-6bebcb12b0d8",
       "pageTemplateType": null,
-      "groups": {}
+      "groups": {},
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "a1e199a5-f433-4cc0-919d-95cfa313f08f",
+        "type": "shape"
+      }
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+          "backgroundColor": {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255
+            }
+          },
           "x": 48,
           "y": 0,
           "width": 330,
           "height": 494,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
           "type": "image",
           "id": "6b50fd48-cbee-4b05-a963-63f7d1f08028",
@@ -1977,7 +3780,7 @@
             "type": "image",
             "mimeType": "image/jpeg",
             "creationDate": "2021-05-26T14:55:13",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page01_12_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page01_12_image01.jpg",
             "width": 1707,
             "height": 2560,
             "posterId": 0,
@@ -1991,20 +3794,43 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Serif",
-            "fallbacks": ["serif"],
-            "weights": [400, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2025,11 +3851,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 24,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 37,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.2,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #373737\">The Result</span>",
           "borderRadius": {
             "locked": true,
@@ -2038,36 +3873,81 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 138,
-          "height": 32,
+          "width": 219,
+          "height": 51,
           "type": "text",
           "basedOn": "c49bbb0a-72ba-4388-bf64-94165b4b9164",
           "id": "68d6f3c3-7390-4122-9604-da058bc13a39",
-          "x": 225,
-          "y": 164
+          "x": 810,
+          "y": 81,
+          "marginOffset": -5.987207031250001
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lato",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 300, 400, 700, 900],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              300,
+              400,
+              700,
+              900
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700],
-              [0, 900],
-              [1, 900]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                0,
+                900
+              ],
+              [
+                1,
+                900
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2088,11 +3968,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 24,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #373737\">A well-rounded, minimal chic office space!</span>",
           "borderRadius": {
             "locked": true,
@@ -2101,45 +3990,81 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 138,
-          "height": 62,
+          "width": 219,
+          "height": 99,
           "type": "text",
           "basedOn": "64fc0a48-d0b4-41cb-8235-1518e3319c15",
           "id": "ae40221d-36f7-41aa-8762-22b5f8c00794",
-          "x": 226,
-          "y": 201
+          "x": 811,
+          "y": 140,
+          "marginOffset": 5
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 61, "g": 55, "b": 48 } },
+          "backgroundColor": {
+            "color": {
+              "r": 61,
+              "g": 55,
+              "b": 48
+            }
+          },
           "type": "shape",
-          "x": 226,
-          "y": 280,
-          "width": 128,
-          "height": 58,
-          "mask": { "type": "rectangle" },
+          "x": 811,
+          "y": 265,
+          "width": 203,
+          "height": 92,
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "b63d1755-32ee-436b-aef0-5cae6d0db50b",
           "groupId": "7e1e3b93-5644-4a34-9b24-338e9c9a9906"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": -6,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Caveat",
-            "fallbacks": ["cursive"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "cursive"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2160,11 +4085,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 42,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 66,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.2,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"font-weight: 700; color: #f6f2ed\">Voilá !</span>",
           "borderRadius": {
             "locked": true,
@@ -2173,67 +4107,110 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 138,
-          "height": 53,
+          "width": 219,
+          "height": 84,
           "type": "text",
           "basedOn": "68d6f3c3-7390-4122-9604-da058bc13a39",
           "id": "b282552a-c253-4393-a17f-f9689ec7fb7f",
-          "x": 234,
-          "y": 280,
+          "x": 825,
+          "y": 265,
           "groupId": "7e1e3b93-5644-4a34-9b24-338e9c9a9906",
-          "tagName": "p"
+          "tagName": "p",
+          "marginOffset": -3.9599999999999937
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 255, "g": 181, "b": 85 } },
+          "backgroundColor": {
+            "color": {
+              "r": 255,
+              "g": 181,
+              "b": 85
+            }
+          },
           "type": "shape",
-          "x": 0,
-          "y": 667,
+          "x": 133,
+          "y": 657,
           "width": 412,
           "height": 8,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "16bc4f8d-28dd-4793-9c0b-784078204ce1"
         }
       ],
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "type": "page",
+      "id": "34ff8fa6-6779-4404-8741-bdef70a62909",
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "backgroundColor": {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          }
+        },
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "aa302879-fe46-4d1c-8a4c-d31f7ef5c45b"
+      },
       "animations": [
         {
           "id": "83b11778-a27c-4634-bf67-a7b844a15dc9",
           "type": "effect-fade-in",
-          "targets": ["b282552a-c253-4393-a17f-f9689ec7fb7f"],
+          "targets": [
+            "b282552a-c253-4393-a17f-f9689ec7fb7f"
+          ],
           "duration": 2000,
           "delay": 300
         },
         {
           "id": "583a1769-306a-488f-b5ab-54165fdfdb1a",
           "type": "effect-fly-in",
-          "targets": ["16bc4f8d-28dd-4793-9c0b-784078204ce1"],
+          "targets": [
+            "16bc4f8d-28dd-4793-9c0b-784078204ce1"
+          ],
           "flyInDir": "leftToRight",
           "duration": 2500,
           "delay": 0
+        },
+        {
+          "id": "d5b9b992-e51f-4a04-879b-d0fcef4bc01e",
+          "type": "effect-background-zoom",
+          "zoomDirection": "scaleOut",
+          "duration": 2000,
+          "delay": 0,
+          "targets": [
+            "6b50fd48-cbee-4b05-a963-63f7d1f08028"
+          ]
         }
       ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "type": "page",
-      "id": "34ff8fa6-6779-4404-8741-bdef70a62909",
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": { "vertical": false, "horizontal": false },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": { "type": "rectangle" },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "type": "shape",
-        "id": "aa302879-fe46-4d1c-8a4c-d31f7ef5c45b"
-      },
       "pageTemplateType": null,
       "groups": {
         "7e1e3b93-5644-4a34-9b24-338e9c9a9906": {
@@ -2247,14 +4224,19 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
           "isDefaultBackground": true,
           "type": "shape",
@@ -2262,20 +4244,43 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Noto Serif",
-            "fallbacks": ["serif"],
-            "weights": [400, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2296,11 +4301,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 32,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 43,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.2,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #f6f2ed\">Next up</span>",
           "borderRadius": {
             "locked": true,
@@ -2309,25 +4323,35 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 165,
-          "height": 43,
+          "width": 231,
+          "height": 60,
           "type": "text",
           "basedOn": "68d6f3c3-7390-4122-9604-da058bc13a39",
           "id": "c89a1406-36c6-4fff-a53e-1afb70e4e056",
-          "x": 47,
-          "y": 32
+          "x": 107,
+          "y": 54,
+          "marginOffset": -6.958105468749999
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "type": "image",
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page13_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page13_image01.jpg",
             "width": 1280,
             "height": 1919,
             "id": 0,
@@ -2337,37 +4361,50 @@
             "baseColor": "#7c6f60",
             "isExternal": true
           },
-          "x": 44,
-          "y": 138,
-          "width": 368,
-          "height": 350,
+          "x": 594,
+          "y": 53,
+          "width": 483,
+          "height": 460,
           "scale": 100,
           "focalX": 50,
           "focalY": 50,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "b3ecdca4-ddaf-4d99-9796-9ae032783b86"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "type": "image",
-          "width": 120,
-          "height": 134,
+          "width": 158,
+          "height": 176,
           "scale": 100,
           "focalX": 50,
           "focalY": 50,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "basedOn": "b3ecdca4-ddaf-4d99-9796-9ae032783b86",
           "id": "74c63c75-03d6-4156-89d0-bf0d6ae37ba9",
-          "x": 245,
-          "y": 403,
+          "x": 858,
+          "y": 401,
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/diy-home-office/page13_image02.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/diy-home-office/page13_image02.jpg",
             "width": 1707,
             "height": 2560,
             "id": 0,
@@ -2380,26 +4417,70 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lato",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 300, 400, 700, 900],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              300,
+              400,
+              700,
+              900
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 700],
-              [1, 700],
-              [0, 900],
-              [1, 900]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                0,
+                900
+              ],
+              [
+                1,
+                900
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2420,11 +4501,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 20,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #f6f2ed\">Build a budget home spa in your bathroom</span>",
           "borderRadius": {
             "locked": true,
@@ -2433,34 +4523,51 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 184,
-          "height": 40,
+          "width": 242,
+          "height": 53,
           "type": "text",
           "basedOn": "64fc0a48-d0b4-41cb-8235-1518e3319c15",
           "id": "ab29bebd-17cd-409c-ab71-523ad8e04569",
-          "x": 47,
-          "y": 563,
-          "tagName": "h3"
+          "x": 598,
+          "y": 611,
+          "tagName": "h3",
+          "marginOffset": 4
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 251,
-          "y": 588,
-          "width": 107,
-          "height": 16,
-          "sticker": { "type": "atHomeOfficeArrow" },
+          "x": 866,
+          "y": 644,
+          "width": 141,
+          "height": 21,
+          "sticker": {
+            "type": "atHomeOfficeArrow"
+          },
           "id": "7102a86e-52d0-4ca2-a85c-6670406c2ea7"
         }
       ],
+      "backgroundColor": {
+        "color": {
+          "r": 61,
+          "g": 55,
+          "b": 48
+        }
+      },
+      "type": "page",
+      "id": "5c8c6848-3cb2-4e4d-8897-36870c4c3c83",
       "animations": [
         {
           "id": "6319fd8e-382a-456b-8dab-1f46d5dc0678",
           "type": "effect-fly-in",
-          "targets": ["74c63c75-03d6-4156-89d0-bf0d6ae37ba9"],
+          "targets": [
+            "74c63c75-03d6-4156-89d0-bf0d6ae37ba9"
+          ],
           "flyInDir": "leftToRight",
           "duration": 3000,
           "delay": 0
@@ -2468,15 +4575,14 @@
         {
           "id": "56a1693e-a365-4a09-b213-41bdfc8d861a",
           "type": "effect-fly-in",
-          "targets": ["7102a86e-52d0-4ca2-a85c-6670406c2ea7"],
+          "targets": [
+            "7102a86e-52d0-4ca2-a85c-6670406c2ea7"
+          ],
           "flyInDir": "leftToRight",
           "duration": 2000,
           "delay": 0
         }
       ],
-      "backgroundColor": { "color": { "r": 61, "g": 55, "b": 48 } },
-      "type": "page",
-      "id": "5c8c6848-3cb2-4e4d-8897-36870c4c3c83",
       "pageTemplateType": null
     }
   ],

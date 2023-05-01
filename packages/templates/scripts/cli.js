@@ -99,7 +99,7 @@ fs.mkdirSync(screenshotsPath, { recursive: true });
     await pagePreview.setViewport({
       width: 1280,
       height: 720, // 853 is a breakpoint and will shrink the preview to height of 630px
-      deviceScaleFactor: 3,
+      deviceScaleFactor: 2,
     });
     // set prefers-reduced-motion to get story without animations so screenshots are complete page views
     await pagePreview.emulateMediaFeatures([

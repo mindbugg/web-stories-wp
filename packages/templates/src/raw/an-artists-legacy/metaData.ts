@@ -27,6 +27,7 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'an-artists-legacy',
   creationDate: '2021-08-25T00:00:00.000Z',
+  permission:'pro',
   title: _x('An Artist’s Legacy', 'template name', 'web-stories'),
   tags: [
     _x('Arts & Crafts', 'template keyword', 'web-stories'),

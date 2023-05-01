@@ -27,6 +27,7 @@ import type { MetaData } from '../../types';
 export default {
   slug: 'a-day-in-the-life',
   creationDate: '2021-07-12T00:00:00.000Z',
+  permission:'pro',
   title: _x('A Day in the Life', 'template name', 'web-stories'),
   tags: [
     _x('Entertainment', 'template keyword', 'web-stories'),

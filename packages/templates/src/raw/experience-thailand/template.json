@@ -1,5 +1,5 @@
 {
-  "version": 47,
+  "version": 46,
   "pages": [
     {
       "elements": [
@@ -10,7 +10,10 @@
           "height": 138,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "scale": 140,
           "focalX": 51.403743315508024,
@@ -19,7 +22,7 @@
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#867068",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page1_bg.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page1_bg.jpg",
             "width": 220,
             "height": 147,
             "poster": "",
@@ -37,32 +40,104 @@
           },
           "id": "ca140433-52d1-4423-896f-2e5c856cb22f",
           "isBackground": true,
-          "overlay": null,
+          "overlay": {
+            "type": "linear",
+            "rotation": 0,
+            "stops": [
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0
+                },
+                "position": 0.4
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                },
+                "position": 1
+              }
+            ],
+            "alpha": 0.5
+          },
           "alt": "Close up of elephant's face"
         },
         {
-          "x": 0,
-          "y": 263,
-          "width": 412,
-          "height": 42,
+          "x": 331,
+          "y": 252,
+          "width": 621,
+          "height": 63,
           "font": {
             "family": "Playfair Display",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700, 800, 900],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700,
+              800,
+              900
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [0, 800],
-              [0, 900],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700],
-              [1, 800],
-              [1, 900]
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                0,
+                800
+              ],
+              [
+                0,
+                900
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                1,
+                800
+              ],
+              [
+                1,
+                900
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -85,35 +160,77 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
           "textAlign": "center",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "d5ca2488-668b-4e21-a7d8-05c17084742b",
           "content": "<span style=\"color: rgba(255, 255, 255, 1); text-transform: uppercase\">Experience</span>",
-          "fontSize": 42,
-          "padding": { "horizontal": 0, "vertical": 0 },
-          "tagName": "h1"
+          "fontSize": 47,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "tagName": "h1",
+          "marginOffset": -15.650999999999996
         },
         {
-          "x": -2,
-          "y": 309,
-          "width": 413,
-          "height": 98,
+          "x": 328,
+          "y": 321,
+          "width": 622,
+          "height": 148,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -136,34 +253,61 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
           "textAlign": "center",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "3c00f665-e2ff-4393-aef4-6ca790f599fd",
           "content": "<span style=\"font-weight: 700; color: #fff; text-transform: uppercase\">Thailand</span>",
           "fontSize": 99,
-          "padding": { "horizontal": 0, "vertical": 0 },
-          "tagName": "h1"
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "tagName": "h1",
+          "marginOffset": -47.71799999999999
         },
         {
-          "x": 20,
-          "y": 545,
-          "width": 128,
-          "height": 56,
+          "x": 169,
+          "y": 73,
+          "width": 193,
+          "height": 84,
           "type": "shape",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 9, "g": 66, "b": 40 } },
-          "mask": { "type": "rectangle" },
+          "backgroundColor": {
+            "color": {
+              "r": 9,
+              "g": 66,
+              "b": 40
+            }
+          },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "7de325ef-2490-4e19-9c9c-7031bffa4b05"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "scale": 100,
@@ -173,7 +317,7 @@
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2020-06-17T21:30:34",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/icon_logo.png",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/icon_logo.png",
             "width": 32,
             "height": 10,
             "posterId": 0,
@@ -184,10 +328,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 48,
-          "y": 563.5,
-          "width": 60,
-          "height": 19,
+          "x": 211,
+          "y": 100.5,
+          "width": 90,
+          "height": 29,
           "mask": {
             "type": "rectangle",
             "name": "Rectangle",
@@ -197,7 +341,18 @@
           "id": "a6b25c2c-a676-404b-ab44-5bd5b49598f5"
         }
       ],
-      "animations": [],
+      "animations": [
+        {
+          "id": "3254da64-82bb-42c9-96e9-6dc2125215c0",
+          "type": "effect-background-zoom",
+          "zoomDirection": "scaleIn",
+          "duration": 2000,
+          "delay": 0,
+          "targets": [
+            "ca140433-52d1-4423-896f-2e5c856cb22f"
+          ]
+        }
+      ],
       "type": "page",
       "id": "fca5c47a-e26f-4feb-b2a3-f6d8b6c68996",
       "defaultBackgroundElement": {
@@ -207,63 +362,190 @@
         "width": 1,
         "height": 1,
         "rotationAngle": 0,
-        "mask": { "type": "rectangle" },
+        "mask": {
+          "type": "rectangle"
+        },
         "backgroundColor": {
-          "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
         },
         "isBackground": true,
         "isDefaultBackground": true,
         "id": "e36e376f-3cdb-43f8-b1c7-cdf3a0098132"
       },
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255, "a": 1 } },
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        }
+      },
       "pageTemplateType": "cover"
     },
     {
       "elements": [
         {
-          "x": 43,
+          "x": 48,
           "y": 0,
-          "width": 137,
-          "height": 137,
-          "type": "shape",
+          "width": 326,
+          "height": 245,
+          "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
           "id": "143182cf-804b-4d71-93d8-d4a53c9e6ed6",
-          "isDefaultBackground": true
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 3264,
+            "height": 2448,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:m9BBVrPl87M",
+                "sourceUrl": "https://images.unsplash.com/photo-1506781961370-37a89d6b3095?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxNHx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxNzkx&ixlib=rb-4.0.3&fm=jpg&w=3264&h=2448&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3264,
+                "height": 2448
+              },
+              "large": {
+                "file": "media/unsplash:m9BBVrPl87M",
+                "sourceUrl": "https://images.unsplash.com/photo-1506781961370-37a89d6b3095?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxNHx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxNzkx&ixlib=rb-4.0.3&fm=jpg&w=2611&h=1958&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2611,
+                "height": 1958
+              },
+              "1958_1469": {
+                "file": "media/unsplash:m9BBVrPl87M",
+                "sourceUrl": "https://images.unsplash.com/photo-1506781961370-37a89d6b3095?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxNHx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxNzkx&ixlib=rb-4.0.3&fm=jpg&w=1958&h=1469&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1958,
+                "height": 1469
+              },
+              "1305_979": {
+                "file": "media/unsplash:m9BBVrPl87M",
+                "sourceUrl": "https://images.unsplash.com/photo-1506781961370-37a89d6b3095?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxNHx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxNzkx&ixlib=rb-4.0.3&fm=jpg&w=1305&h=979&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1305,
+                "height": 979
+              },
+              "652_489": {
+                "file": "media/unsplash:m9BBVrPl87M",
+                "sourceUrl": "https://images.unsplash.com/photo-1506781961370-37a89d6b3095?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxNHx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxNzkx&ixlib=rb-4.0.3&fm=jpg&w=652&h=489&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 652,
+                "height": 489
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:m9BBVrPl87M",
+                "sourceUrl": "https://images.unsplash.com/photo-1506781961370-37a89d6b3095?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxNHx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxNzkx&ixlib=rb-4.0.3&fm=jpg&w=340&h=255&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 255
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:m9BBVrPl87M",
+            "baseColor": "#262626",
+            "blurHash": "L8F~BP4m%is*~C_N0Lo$OI4o_2D%",
+            "creationDate": "2017-09-30T14:33:05Z",
+            "src": "https://images.unsplash.com/photo-1506781961370-37a89d6b3095?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxNHx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxNzkx&ixlib=rb-4.0.3&fm=jpg&w=3264&h=2448&fit=max",
+            "alt": "person wearing Asian conical hat",
+            "attribution": {
+              "author": {
+                "displayName": "Lisheng Chang",
+                "url": "https://unsplash.com/@changlisheng?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfHauGfSqP0VOZE6MGi%2BW94CsBkhJDbJJ1jfZJBNWWrH0fWDkdPb/msZ8VdYrhDfpkzdkTjvcCdXQ83EiaM8EN9gYtbKaQ1gHQuCpCx/1SBMLEibcSfd5NttpJeDSU9ocb/NsSZcStOmaFQmnFUi/PIqvZTngiqujqkT2MTdCLfLur68HG0ePcMekYPYTRCN%2BcV3pNu9iFPKUJ5WVRDTnJGI6u4qxjqGLjfuXfQBo8Vv"
+            }
+          }
         },
         {
-          "x": -4,
-          "y": -61,
+          "x": 263,
+          "y": 126,
           "width": 417,
           "height": 468,
           "type": "shape",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 9, "g": 66, "b": 40 } },
-          "mask": { "type": "rectangle" },
+          "backgroundColor": {
+            "color": {
+              "r": 9,
+              "g": 66,
+              "b": 40
+            }
+          },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "a81f2dcc-b5a3-4be6-8a06-bb42ac828ed0"
         },
         {
-          "x": 57,
-          "y": 17,
+          "x": 324,
+          "y": 205,
           "width": 265,
           "height": 265,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -286,35 +568,76 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "bfd53cf2-f8e8-41f0-8449-48772b5194bb",
           "content": "<span style=\"color: #fff; text-transform: uppercase\">I travel to find myself in the eyes and hearts of others”</span>",
           "fontSize": 53,
-          "padding": { "horizontal": 0, "vertical": 0 },
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
           "tagName": "p"
         },
         {
-          "x": 33,
-          "y": 16,
+          "x": 300,
+          "y": 204,
           "width": 19,
           "height": 51,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -337,36 +660,82 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "90e3970e-a7be-4ecb-91a6-4f6065f28de1",
           "content": "<span style=\"color: #fff\">“</span>",
           "fontSize": 52,
-          "padding": { "horizontal": 0, "vertical": 0 }
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          }
         },
         {
-          "x": 58,
-          "y": 351,
+          "x": 325,
+          "y": 539,
           "width": 206,
           "height": 23,
           "font": {
             "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -389,37 +758,60 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1.3,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "88df74ed-7334-4e91-957c-c48b8da344e4",
           "content": "<span style=\"color: #fff\">– Anonymous</span>",
           "fontSize": 18,
-          "padding": { "horizontal": 0, "vertical": 0 }
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          }
         },
         {
-          "x": 70,
-          "y": 333,
+          "x": 751,
+          "y": 152,
           "width": 272,
           "height": 416,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": true, "horizontal": false },
+          "flip": {
+            "vertical": true,
+            "horizontal": false
+          },
           "rotationAngle": 90,
-          "backgroundColor": { "color": { "r": 51, "g": 51, "b": 51 } },
+          "backgroundColor": {
+            "color": {
+              "r": 51,
+              "g": 51,
+              "b": 51
+            }
+          },
           "scale": 120,
           "focalX": 49.958297992927974,
           "focalY": 47.911921059829645,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "8a21c4e7-4e9b-4811-9b8b-f36d0297a9e4",
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#11242e",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page2_image1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page2_image1.jpg",
             "width": 220,
             "height": 331,
             "poster": "",
@@ -435,7 +827,9 @@
       "animations": [
         {
           "id": "d51e578e-e103-4e72-8f32-2c00e36d4f26",
-          "targets": ["90e3970e-a7be-4ecb-91a6-4f6065f28de1"],
+          "targets": [
+            "90e3970e-a7be-4ecb-91a6-4f6065f28de1"
+          ],
           "type": "move",
           "overflowHidden": false,
           "offsetX": 0,
@@ -448,7 +842,9 @@
         },
         {
           "id": "64648979-ec76-4ab0-abf5-874b238d948c",
-          "targets": ["90e3970e-a7be-4ecb-91a6-4f6065f28de1"],
+          "targets": [
+            "90e3970e-a7be-4ecb-91a6-4f6065f28de1"
+          ],
           "type": "fade",
           "fadeFrom": 0,
           "fadeTo": 1,
@@ -461,7 +857,9 @@
         {
           "id": "2428c2b8-e3fb-4a52-837d-fa877a4fdd25",
           "type": "effect-fly-in",
-          "targets": ["bfd53cf2-f8e8-41f0-8449-48772b5194bb"],
+          "targets": [
+            "bfd53cf2-f8e8-41f0-8449-48772b5194bb"
+          ],
           "flyInDir": "leftToRight",
           "duration": 600,
           "delay": 500
@@ -469,53 +867,174 @@
         {
           "id": "a3383e56-c185-406e-b848-fbbf5de39a2a",
           "type": "effect-fly-in",
-          "targets": ["88df74ed-7334-4e91-957c-c48b8da344e4"],
+          "targets": [
+            "88df74ed-7334-4e91-957c-c48b8da344e4"
+          ],
           "flyInDir": "leftToRight",
           "duration": 500,
           "delay": 800
+        },
+        {
+          "id": "4dd23d77-4549-4594-921f-49c657b527a3",
+          "type": "effect-fly-in",
+          "targets": [
+            "8a21c4e7-4e9b-4811-9b8b-f36d0297a9e4"
+          ],
+          "flyInDir": "rightToLeft",
+          "duration": 600,
+          "delay": 500
         }
       ],
       "type": "page",
       "id": "3cdf0fde-f515-477d-8688-472c4cc5a8b3",
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "pageTemplateType": "quote"
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "pageTemplateType": "quote",
+      "defaultBackgroundElement": {
+        "x": 43,
+        "y": 0,
+        "width": 137,
+        "height": 137,
+        "type": "shape",
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "id": "e9b7d803-8d54-4ea0-872b-d1e8445b2a82",
+        "isDefaultBackground": true
+      }
     },
     {
       "elements": [
         {
-          "x": 90,
-          "y": 86,
-          "width": 137,
-          "height": 137,
-          "type": "shape",
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "id": "b39e1373-e1d4-40ee-bd0c-298924b61a3e",
-          "isDefaultBackground": true
-        },
-        {
-          "x": 0,
-          "y": 284,
-          "width": 324,
-          "height": 392,
+          "x": 48,
+          "y": 0,
+          "width": 400,
+          "height": 600,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 51, "g": 51, "b": 51 } },
+          "mask": {
+            "type": "rectangle"
+          },
+          "isBackground": true,
+          "id": "b39e1373-e1d4-40ee-bd0c-298924b61a3e",
+          "scale": 124,
+          "focalX": 43.92301532830017,
+          "focalY": 21.196522534889045,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 4000,
+            "height": 6000,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:PcBmNPteF_0",
+                "sourceUrl": "https://images.unsplash.com/photo-1568882041008-c0954e91caba?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMHx8dGhhaWxhbmQlMjBmb29kfGVufDB8fHx8MTY4MjE3MDM0OA&ixlib=rb-4.0.3&fm=jpg&w=4000&h=6000&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4000,
+                "height": 6000
+              },
+              "large": {
+                "file": "media/unsplash:PcBmNPteF_0",
+                "sourceUrl": "https://images.unsplash.com/photo-1568882041008-c0954e91caba?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMHx8dGhhaWxhbmQlMjBmb29kfGVufDB8fHx8MTY4MjE3MDM0OA&ixlib=rb-4.0.3&fm=jpg&w=3200&h=4800&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3200,
+                "height": 4800
+              },
+              "2400_3600": {
+                "file": "media/unsplash:PcBmNPteF_0",
+                "sourceUrl": "https://images.unsplash.com/photo-1568882041008-c0954e91caba?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMHx8dGhhaWxhbmQlMjBmb29kfGVufDB8fHx8MTY4MjE3MDM0OA&ixlib=rb-4.0.3&fm=jpg&w=2400&h=3600&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2400,
+                "height": 3600
+              },
+              "1600_2400": {
+                "file": "media/unsplash:PcBmNPteF_0",
+                "sourceUrl": "https://images.unsplash.com/photo-1568882041008-c0954e91caba?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMHx8dGhhaWxhbmQlMjBmb29kfGVufDB8fHx8MTY4MjE3MDM0OA&ixlib=rb-4.0.3&fm=jpg&w=1600&h=2400&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1600,
+                "height": 2400
+              },
+              "800_1200": {
+                "file": "media/unsplash:PcBmNPteF_0",
+                "sourceUrl": "https://images.unsplash.com/photo-1568882041008-c0954e91caba?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMHx8dGhhaWxhbmQlMjBmb29kfGVufDB8fHx8MTY4MjE3MDM0OA&ixlib=rb-4.0.3&fm=jpg&w=800&h=1200&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 800,
+                "height": 1200
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:PcBmNPteF_0",
+                "sourceUrl": "https://images.unsplash.com/photo-1568882041008-c0954e91caba?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMHx8dGhhaWxhbmQlMjBmb29kfGVufDB8fHx8MTY4MjE3MDM0OA&ixlib=rb-4.0.3&fm=jpg&w=340&h=510&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 510
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:PcBmNPteF_0",
+            "baseColor": "#f3f3f3",
+            "blurHash": "LKKJYrTfK*0i_3A0pdF2ca^O-pAD",
+            "creationDate": "2019-09-19T08:42:22Z",
+            "src": "https://images.unsplash.com/photo-1568882041008-c0954e91caba?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyMHx8dGhhaWxhbmQlMjBmb29kfGVufDB8fHx8MTY4MjE3MDM0OA&ixlib=rb-4.0.3&fm=jpg&w=4000&h=6000&fit=max",
+            "alt": "beef on sticks display",
+            "attribution": {
+              "author": {
+                "displayName": "Markus Winkler",
+                "url": "https://unsplash.com/@markuswinkler?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfE2KLmA0iBe17qzB1XQPu4dfJnaQj9HLhy6jyrPOK%2BfQe40XPSdoKNyXIHDb6vO8Y/7BGiGw0CFA1PP4do6h9hwBanfGTK1B8xvR9ZOo5DQxufBVQipbCCfbMXh4CwhbjXhE4Ls2XV/dpIF9DRGRcbEpQZkkazy34jRtir8rM6f1/dnMwyXVTROURAAuWsttsOWhpTBy73Z23e2ESLJHqfj1Mkwt6yHCg7ZKyEJIbM1QfGiVtEFOBQ7Xw%3D%3D"
+            }
+          }
+        },
+        {
+          "x": 798,
+          "y": 233,
+          "width": 354,
+          "height": 428,
+          "type": "image",
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "backgroundColor": {
+            "color": {
+              "r": 51,
+              "g": 51,
+              "b": 51
+            }
+          },
           "scale": 100,
           "focalX": 49.81801455703381,
           "focalY": 44.55730329866608,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "4c694857-df14-4ba9-8791-9b13935dbbbe",
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#46382a",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page3_image1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page3_image1.jpg",
             "width": 220,
             "height": 275,
             "poster": "",
@@ -528,22 +1047,51 @@
           "alt": "Preparing a street food dish"
         },
         {
-          "x": 236,
-          "y": 284,
-          "width": 88,
-          "height": 88,
+          "x": 1056,
+          "y": 233,
+          "width": 96,
+          "height": 96,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -566,15 +1114,24 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "FILL",
           "lineHeight": 1,
           "textAlign": "left",
-          "backgroundColor": { "color": { "r": 0, "g": 0, "b": 0 } },
+          "backgroundColor": {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            }
+          },
           "id": "3cf17fb8-a5ae-4f32-8e5f-d3a0513215de",
           "content": "<span style=\"font-weight: 500; color: #fff; text-transform: uppercase\">Learn</span>\n<span style=\"font-weight: 500; color: #fff; text-transform: uppercase\">More</span>",
-          "fontSize": 20,
+          "fontSize": 23,
           "padding": {
             "hasHiddenPadding": true,
             "locked": false,
@@ -582,27 +1139,61 @@
             "vertical": 19
           },
           "lockAspectRatio": true,
-          "marginOffset": 0
+          "marginOffset": -11.085999999999999
         },
         {
-          "x": 41,
-          "y": 140,
-          "width": 247,
-          "height": 92,
+          "x": 127,
+          "y": 198,
+          "width": 302,
+          "height": 112,
           "font": {
             "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -625,34 +1216,76 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1.3,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "883808f1-b87b-4b35-b0f1-0945e0faef2e",
           "content": "<span style=\"color: rgba(9, 66, 40, 1)\">The cheapest and most authentic way to experience Thai life. Prepare yourself, some like it hot!</span>",
-          "fontSize": 18,
-          "padding": { "horizontal": 0, "vertical": 0 }
+          "fontSize": 21,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "marginOffset": 0.4200000000000017
         },
         {
-          "x": 41,
-          "y": 15,
-          "width": 143,
-          "height": 104,
+          "x": 127,
+          "y": 45,
+          "width": 175,
+          "height": 127,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -675,24 +1308,39 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "6258d646-a291-498f-81ab-3095f352bb26",
           "content": "<span style=\"color: rgba(9, 66, 40, 1); text-transform: uppercase\">Street</span>\n<span style=\"color: rgba(9, 66, 40, 1); text-transform: uppercase\">Food</span>",
-          "fontSize": 52,
-          "padding": { "horizontal": 0, "vertical": 0 },
-          "tagName": "h2"
+          "fontSize": 51,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "tagName": "h2",
+          "marginOffset": -24.581999999999994
         }
       ],
       "animations": [
         {
           "id": "a182062e-4c57-41c8-83cb-c44813cc025c",
           "type": "effect-fly-in",
-          "targets": ["6258d646-a291-498f-81ab-3095f352bb26"],
+          "targets": [
+            "6258d646-a291-498f-81ab-3095f352bb26"
+          ],
           "flyInDir": "leftToRight",
           "duration": 600,
           "delay": 400
@@ -700,7 +1348,9 @@
         {
           "id": "a0a9acaf-40d0-424f-b614-5754f613c979",
           "type": "effect-fly-in",
-          "targets": ["883808f1-b87b-4b35-b0f1-0945e0faef2e"],
+          "targets": [
+            "883808f1-b87b-4b35-b0f1-0945e0faef2e"
+          ],
           "flyInDir": "leftToRight",
           "duration": 600,
           "delay": 400
@@ -708,15 +1358,52 @@
         {
           "id": "a5e7c238-bf50-45b8-a4c4-eafc15e03fbc",
           "type": "effect-fade-in",
-          "targets": ["3cf17fb8-a5ae-4f32-8e5f-d3a0513215de"],
+          "targets": [
+            "3cf17fb8-a5ae-4f32-8e5f-d3a0513215de"
+          ],
           "duration": 600,
           "delay": 600
+        },
+        {
+          "id": "cd8ec29c-81b6-4011-a96f-12e964870a23",
+          "type": "effect-background-zoom",
+          "zoomDirection": "scaleOut",
+          "duration": 2000,
+          "delay": 0,
+          "targets": [
+            "b39e1373-e1d4-40ee-bd0c-298924b61a3e"
+          ]
         }
       ],
       "type": "page",
       "id": "80b4f7b3-c54a-4e40-9a75-c937cedfed4b",
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "pageTemplateType": "editorial"
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "pageTemplateType": "editorial",
+      "defaultBackgroundElement": {
+        "x": 90,
+        "y": 86,
+        "width": 137,
+        "height": 137,
+        "type": "shape",
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "id": "ac65d242-76b0-45f3-a171-ece984417963",
+        "isDefaultBackground": true
+      }
     },
     {
       "elements": [
@@ -727,7 +1414,10 @@
           "height": 138,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "scale": 100,
           "focalX": 50,
@@ -736,7 +1426,7 @@
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#2f342d",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page4_bg.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page4_bg.jpg",
             "width": 220,
             "height": 147,
             "poster": "",
@@ -757,35 +1447,75 @@
           "alt": "Aerial view of floating market boats"
         },
         {
-          "x": 39,
-          "y": 0,
-          "width": 334,
-          "height": 168,
+          "x": 113,
+          "y": 57,
+          "width": 449,
+          "height": 226,
           "type": "shape",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-          "mask": { "type": "rectangle" },
+          "backgroundColor": {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255
+            }
+          },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "3d3b38a3-d8db-4a86-a4e2-0be30e92b177"
         },
         {
-          "x": 67,
-          "y": 30,
-          "width": 139,
-          "height": 26,
+          "x": 150,
+          "y": 98,
+          "width": 187,
+          "height": 35,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -808,36 +1538,83 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1.3,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "1b892512-7510-4c09-a750-7dfd21ece74a",
           "content": "<span style=\"color: rgba(9, 66, 40, 1); text-transform: uppercase\">Floating Market</span>",
-          "fontSize": 20,
-          "padding": { "horizontal": 0, "vertical": 0 }
+          "fontSize": 23,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "marginOffset": -4.185999999999996
         },
         {
-          "x": 68,
-          "y": 66,
-          "width": 267,
-          "height": 69,
+          "x": 152,
+          "y": 146,
+          "width": 359,
+          "height": 93,
           "font": {
             "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -860,23 +1637,38 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1.3,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "d773e2ce-05a7-4195-a815-cfd66e93f66a",
           "content": "<span style=\"color: rgba(9, 66, 40, 1)\">Experience the unique floating market, where all goods are sold from boats.</span>",
-          "fontSize": 18,
-          "padding": { "horizontal": 0, "vertical": 0 }
+          "fontSize": 23,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "marginOffset": 0.46000000000000085
         }
       ],
       "animations": [
         {
           "id": "fd0a257e-a082-4e9f-a0b9-28bacb8b8e5f",
           "type": "effect-fly-in",
-          "targets": ["d773e2ce-05a7-4195-a815-cfd66e93f66a"],
+          "targets": [
+            "d773e2ce-05a7-4195-a815-cfd66e93f66a"
+          ],
           "flyInDir": "topToBottom",
           "duration": 600,
           "delay": 475
@@ -884,7 +1676,9 @@
         {
           "id": "48ba141a-41f7-43e7-ac32-9368af23ecfe",
           "type": "effect-fly-in",
-          "targets": ["1b892512-7510-4c09-a750-7dfd21ece74a"],
+          "targets": [
+            "1b892512-7510-4c09-a750-7dfd21ece74a"
+          ],
           "flyInDir": "topToBottom",
           "duration": 600,
           "delay": 450
@@ -892,7 +1686,9 @@
         {
           "id": "818b510f-3eb7-413d-829d-8cdb6a2cdfd9",
           "type": "effect-fly-in",
-          "targets": ["3d3b38a3-d8db-4a86-a4e2-0be30e92b177"],
+          "targets": [
+            "3d3b38a3-d8db-4a86-a4e2-0be30e92b177"
+          ],
           "flyInDir": "topToBottom",
           "duration": 600,
           "delay": 500
@@ -907,15 +1703,29 @@
         "width": 1,
         "height": 1,
         "rotationAngle": 0,
-        "mask": { "type": "rectangle" },
+        "mask": {
+          "type": "rectangle"
+        },
         "backgroundColor": {
-          "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
         },
         "isBackground": true,
         "isDefaultBackground": true,
         "id": "3769638a-e9e5-4ff0-96dc-9b3df5d78215"
       },
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255, "a": 1 } },
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        }
+      },
       "pageTemplateType": "editorial"
     },
     {
@@ -927,7 +1737,10 @@
           "height": 140,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "scale": 100,
           "focalX": 49.18364448416392,
@@ -936,7 +1749,7 @@
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#797a6e",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page5_bg.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page5_bg.jpg",
             "width": 220,
             "height": 149,
             "poster": "",
@@ -954,31 +1767,107 @@
           },
           "id": "3b0ede46-334e-4bc5-abb7-f09dec3d6d48",
           "isBackground": true,
-          "alt": "Tourist taking a photo"
+          "alt": "Tourist taking a photo",
+          "overlay": {
+            "type": "radial",
+            "size": {
+              "w": 0.67,
+              "h": 0.67
+            },
+            "stops": [
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0
+                },
+                "position": 0
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                },
+                "position": 1
+              }
+            ],
+            "alpha": 0.7
+          }
         },
         {
-          "x": 103,
-          "y": 13,
+          "x": 538,
+          "y": 7,
           "width": 206,
           "height": 42,
           "font": {
             "family": "Playfair Display",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700, 800, 900],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700,
+              800,
+              900
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [0, 800],
-              [0, 900],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700],
-              [1, 800],
-              [1, 900]
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                0,
+                800
+              ],
+              [
+                0,
+                900
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                1,
+                800
+              ],
+              [
+                1,
+                900
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1001,35 +1890,76 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
           "textAlign": "center",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "65283dae-40f2-4ace-8b0a-0d9f2066a38a",
           "content": "<span style=\"color: rgba(255, 255, 255, 1); text-transform: uppercase\">Capture</span>",
           "fontSize": 42,
-          "padding": { "horizontal": 0, "vertical": 0 },
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
           "tagName": "h2"
         },
         {
-          "x": 0,
-          "y": 55,
+          "x": 435,
+          "y": 49,
           "width": 411,
           "height": 97,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1052,37 +1982,83 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
           "textAlign": "center",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "95c08a42-48cd-4112-b0e2-f24362adc7bc",
           "content": "<span style=\"color: #fff; text-transform: uppercase\">Bangkok</span>",
           "fontSize": 98,
-          "padding": { "horizontal": 0, "vertical": 0 },
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
           "tagName": "h2"
         },
         {
-          "x": 74,
-          "y": 558,
-          "width": 264,
-          "height": 46,
+          "x": 99,
+          "y": 584,
+          "width": 388,
+          "height": 68,
           "font": {
             "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1105,16 +2081,29 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1.3,
           "textAlign": "center",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "7dae1bd9-9f88-4ae8-93eb-f3d908cace09",
           "content": "<span style=\"color: #fff\">Tips and tricks for capturing this iconic city in a day.</span>",
-          "fontSize": 18,
-          "padding": { "horizontal": 0, "vertical": 0 }
+          "fontSize": 26,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "marginOffset": 0.5200000000000031
         }
       ],
       "animations": [
@@ -1124,7 +2113,9 @@
           "zoomDirection": "scaleOut",
           "duration": 1000,
           "delay": 0,
-          "targets": ["3b0ede46-334e-4bc5-abb7-f09dec3d6d48"]
+          "targets": [
+            "3b0ede46-334e-4bc5-abb7-f09dec3d6d48"
+          ]
         }
       ],
       "type": "page",
@@ -1136,15 +2127,29 @@
         "width": 1,
         "height": 1,
         "rotationAngle": 0,
-        "mask": { "type": "rectangle" },
+        "mask": {
+          "type": "rectangle"
+        },
         "backgroundColor": {
-          "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
         },
         "isBackground": true,
         "isDefaultBackground": true,
         "id": "4d03120b-e736-4b71-b5bc-81159357f030"
       },
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255, "a": 1 } },
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        }
+      },
       "pageTemplateType": "section"
     },
     {
@@ -1156,7 +2161,10 @@
           "height": 116,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "scale": 130,
           "focalX": 31.508137400282983,
@@ -1165,7 +2173,7 @@
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#523c30",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page6_bg.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page6_bg.jpg",
             "width": 220,
             "height": 124,
             "poster": "",
@@ -1186,22 +2194,51 @@
           "alt": "Temples surrounded by greenery"
         },
         {
-          "x": 45,
-          "y": 404,
-          "width": 246,
-          "height": 108,
+          "x": 117,
+          "y": 49,
+          "width": 334,
+          "height": 147,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1224,26 +2261,43 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "c40c8eae-e683-4fa6-a632-e1d652279a37",
           "content": "<span style=\"color: rgba(255, 255, 255, 1); text-transform: uppercase\">Top 5</span>\n<span style=\"color: rgba(255, 255, 255, 1); text-transform: uppercase\">Chiang Mai</span>",
-          "fontSize": 54,
-          "padding": { "horizontal": 0, "vertical": 0 },
-          "tagName": "h2"
+          "fontSize": 59,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "tagName": "h2",
+          "marginOffset": -28.438000000000002
         },
         {
-          "x": 44,
-          "y": 521,
-          "width": 303,
-          "height": 84,
+          "x": 116,
+          "y": 207,
+          "width": 412,
+          "height": 114,
           "font": {
             "family": "Arial",
-            "fallbacks": ["Helvetica Neue", "Helvetica", "sans-serif"],
+            "fallbacks": [
+              "Helvetica Neue",
+              "Helvetica",
+              "sans-serif"
+            ],
             "metrics": {
               "upm": 2048,
               "asc": 1854,
@@ -1261,34 +2315,58 @@
               "hDes": -434,
               "lGap": 67
             },
-            "weights": [400, 700],
-            "styles": ["italic", "regular"],
+            "weights": [
+              400,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "service": "system"
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1.2,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "id": "ca20176a-3245-4735-9b1c-66017aa9e528",
           "content": "<span style=\"color: rgba(255, 255, 255, 1)\">If you only have one day to see as many sights as you can, we’ve compiled a list of walkable must-see destinations.</span>",
-          "fontSize": 18,
-          "padding": { "horizontal": 0, "vertical": 0 }
+          "fontSize": 24,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "marginOffset": 2.0703125
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 136,
-          "y": -56,
-          "width": 268,
-          "height": 451,
-          "sticker": { "type": "travelMap" },
+          "x": 834,
+          "y": 0,
+          "width": 348,
+          "height": 587,
+          "sticker": {
+            "type": "travelMap"
+          },
           "id": "a26880a7-7949-4522-8006-71a3be643a06"
         }
       ],
@@ -1296,7 +2374,9 @@
         {
           "id": "13a823a5-2e21-4a9d-80ca-36100b3b161e",
           "type": "effect-fly-in",
-          "targets": ["c40c8eae-e683-4fa6-a632-e1d652279a37"],
+          "targets": [
+            "c40c8eae-e683-4fa6-a632-e1d652279a37"
+          ],
           "flyInDir": "leftToRight",
           "duration": 600,
           "delay": 600
@@ -1304,7 +2384,9 @@
         {
           "id": "3b27a58f-ec23-4be9-bb5b-8557f0309e0b",
           "type": "effect-fly-in",
-          "targets": ["ca20176a-3245-4735-9b1c-66017aa9e528"],
+          "targets": [
+            "ca20176a-3245-4735-9b1c-66017aa9e528"
+          ],
           "flyInDir": "leftToRight",
           "duration": 600,
           "delay": 600
@@ -1312,7 +2394,9 @@
         {
           "id": "c706ce0e-80f8-4676-96f0-95fc3090022f",
           "type": "effect-fade-in",
-          "targets": ["a26880a7-7949-4522-8006-71a3be643a06"],
+          "targets": [
+            "a26880a7-7949-4522-8006-71a3be643a06"
+          ],
           "duration": 2000,
           "delay": 0
         }
@@ -1326,50 +2410,166 @@
         "width": 1,
         "height": 1,
         "rotationAngle": 0,
-        "mask": { "type": "rectangle" },
+        "mask": {
+          "type": "rectangle"
+        },
         "backgroundColor": {
-          "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
         },
         "isBackground": true,
         "isDefaultBackground": true,
         "id": "64ea1430-5f03-4155-be5d-16faaa4b098e"
       },
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255, "a": 1 } },
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        }
+      },
       "pageTemplateType": "editorial"
     },
     {
       "elements": [
         {
-          "x": 7,
-          "y": 62,
-          "width": 137,
-          "height": 137,
-          "type": "shape",
+          "x": 48,
+          "y": 0,
+          "width": 410,
+          "height": 273,
+          "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
           "id": "9012bef0-e5e3-4910-8412-a10ce18e23a6",
-          "isDefaultBackground": true
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 4095,
+            "height": 2730,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:M7SuAUcpai0",
+                "sourceUrl": "https://images.unsplash.com/photo-1619870973878-e953baf30700?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1Mnx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxODU5&ixlib=rb-4.0.3&fm=jpg&w=4095&h=2730&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4095,
+                "height": 2730
+              },
+              "large": {
+                "file": "media/unsplash:M7SuAUcpai0",
+                "sourceUrl": "https://images.unsplash.com/photo-1619870973878-e953baf30700?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1Mnx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxODU5&ixlib=rb-4.0.3&fm=jpg&w=3276&h=2184&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3276,
+                "height": 2184
+              },
+              "2457_1638": {
+                "file": "media/unsplash:M7SuAUcpai0",
+                "sourceUrl": "https://images.unsplash.com/photo-1619870973878-e953baf30700?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1Mnx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxODU5&ixlib=rb-4.0.3&fm=jpg&w=2457&h=1638&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2457,
+                "height": 1638
+              },
+              "1638_1092": {
+                "file": "media/unsplash:M7SuAUcpai0",
+                "sourceUrl": "https://images.unsplash.com/photo-1619870973878-e953baf30700?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1Mnx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxODU5&ixlib=rb-4.0.3&fm=jpg&w=1638&h=1092&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1638,
+                "height": 1092
+              },
+              "819_546": {
+                "file": "media/unsplash:M7SuAUcpai0",
+                "sourceUrl": "https://images.unsplash.com/photo-1619870973878-e953baf30700?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1Mnx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxODU5&ixlib=rb-4.0.3&fm=jpg&w=819&h=546&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 819,
+                "height": 546
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:M7SuAUcpai0",
+                "sourceUrl": "https://images.unsplash.com/photo-1619870973878-e953baf30700?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1Mnx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxODU5&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 227
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:M7SuAUcpai0",
+            "baseColor": "#26a6a6",
+            "blurHash": "LSFGg.:OJVKO3rPAv}wJE%KOofr?",
+            "creationDate": "2021-05-01T12:10:19Z",
+            "src": "https://images.unsplash.com/photo-1619870973878-e953baf30700?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1Mnx8dGhhaWxhbmR8ZW58MHx8fHwxNjgyMTMxODU5&ixlib=rb-4.0.3&fm=jpg&w=4095&h=2730&fit=max",
+            "alt": "white and red concrete building",
+            "attribution": {
+              "author": {
+                "displayName": "Anansit Angsooksiri",
+                "url": "https://unsplash.com/@sksafekungg?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfFETlj0vr8Ht6UpaWRk1zvjFBfdUxbxQCkdezD0rYydNqOU9jhNF98aB7ZABMmXSw4y9bH%2BnOn1P7b6YbZj7vhXFA9nuFXikgo9m3SMw1N2YX5NOmliJV9tJMAziaCgbWYkiQzIfXscQ4uQsIsuFFwXXuVk5tBTs7TtIUevoNqN37J/eo1wCNv1JHgILxrDjrGwecigSluXZ98I5UnNf10EG/YViQakCInP6V78YAM%2B"
+            }
+          }
         },
         {
-          "x": 42,
-          "y": 381,
-          "width": 152,
-          "height": 104,
+          "x": 820,
+          "y": 47,
+          "width": 187,
+          "height": 128,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1392,38 +2592,85 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "basedOn": "6258d646-a291-498f-81ab-3095f352bb26",
           "id": "3932eb5c-e456-43d8-988d-4aa01dd4a8bd",
           "content": "<span style=\"color: rgba(9, 66, 40, 1); text-transform: uppercase\">Temple</span>\n<span style=\"color: rgba(9, 66, 40, 1); text-transform: uppercase\">Name</span>",
-          "fontSize": 52,
-          "padding": { "horizontal": 0, "vertical": 0 },
-          "tagName": "h2"
+          "fontSize": 51,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "tagName": "h2",
+          "marginOffset": -24.581999999999994
         },
         {
-          "x": 42,
-          "y": 501,
-          "width": 300,
-          "height": 92,
+          "x": 820,
+          "y": 195,
+          "width": 370,
+          "height": 113,
           "font": {
             "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1446,38 +2693,62 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1.3,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "basedOn": "883808f1-b87b-4b35-b0f1-0945e0faef2e",
           "id": "bc7d8800-b421-4a19-9db0-f594e9b0bd8d",
           "content": "<span style=\"color: #094228\">The courtyard around the 3 Kings Monument is the best place to give early morning Alms to the Monks in Central Chiang Mai.</span>",
-          "fontSize": 18,
-          "padding": { "horizontal": 0, "vertical": 0 }
+          "fontSize": 21,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "marginOffset": 0.4200000000000017
         },
         {
-          "x": 0,
-          "y": -57,
-          "width": 327,
-          "height": 402,
+          "x": 157,
+          "y": 222,
+          "width": 347,
+          "height": 426,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 51, "g": 51, "b": 51 } },
+          "backgroundColor": {
+            "color": {
+              "r": 51,
+              "g": 51,
+              "b": 51
+            }
+          },
           "scale": 100,
           "focalX": 50.000000000000014,
           "focalY": 57.36776812717045,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "37a09535-568f-4dc6-a07d-57f3ac1c9d39",
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#3f463e",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page7_image1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page7_image1.jpg",
             "width": 220,
             "height": 330,
             "poster": "",
@@ -1490,22 +2761,51 @@
           "alt": "Close up of statue in 3 Kings Monument"
         },
         {
-          "x": 239,
-          "y": 257,
-          "width": 88,
-          "height": 88,
+          "x": 410,
+          "y": 555,
+          "width": 93,
+          "height": 93,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1528,14 +2828,23 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "FILL",
           "lineHeight": 1,
           "textAlign": "left",
-          "backgroundColor": { "color": { "r": 0, "g": 0, "b": 0 } },
+          "backgroundColor": {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            }
+          },
           "content": "<span style=\"font-weight: 500; color: #fff; text-transform: uppercase\">No. 3</span>",
-          "fontSize": 20,
+          "fontSize": 23,
           "padding": {
             "hasHiddenPadding": true,
             "locked": false,
@@ -1543,7 +2852,7 @@
             "vertical": 29
           },
           "lockAspectRatio": true,
-          "marginOffset": 0,
+          "marginOffset": -11.085999999999999,
           "basedOn": "3cf17fb8-a5ae-4f32-8e5f-d3a0513215de",
           "id": "b6dd7e92-0951-4581-9436-29393593c5d3"
         }
@@ -1552,7 +2861,9 @@
         {
           "id": "6cef7b08-36b0-47d2-b1e7-ac1212a09080",
           "type": "effect-fly-in",
-          "targets": ["3932eb5c-e456-43d8-988d-4aa01dd4a8bd"],
+          "targets": [
+            "3932eb5c-e456-43d8-988d-4aa01dd4a8bd"
+          ],
           "flyInDir": "leftToRight",
           "duration": 600,
           "delay": 650
@@ -1560,13 +2871,17 @@
         {
           "id": "5623af7f-e8ff-42f8-b823-f19e7e88f80b",
           "type": "effect-fly-in",
-          "targets": ["bc7d8800-b421-4a19-9db0-f594e9b0bd8d"],
+          "targets": [
+            "bc7d8800-b421-4a19-9db0-f594e9b0bd8d"
+          ],
           "flyInDir": "leftToRight",
           "duration": 600,
           "delay": 700
         },
         {
-          "targets": ["b6dd7e92-0951-4581-9436-29393593c5d3"],
+          "targets": [
+            "b6dd7e92-0951-4581-9436-29393593c5d3"
+          ],
           "id": "6c6db6d4-c0e6-479e-8442-e227a734af37",
           "type": "effect-fade-in",
           "duration": 600,
@@ -1575,8 +2890,33 @@
       ],
       "type": "page",
       "id": "7b7d7662-fb1f-46b5-94e0-b01029a666a5",
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "pageTemplateType": "steps"
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "pageTemplateType": "steps",
+      "defaultBackgroundElement": {
+        "x": 7,
+        "y": 62,
+        "width": 137,
+        "height": 137,
+        "type": "shape",
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "id": "dd7bd0bb-3b40-48ae-8179-e2912cc67a5e",
+        "isDefaultBackground": true
+      }
     },
     {
       "elements": [
@@ -1587,7 +2927,10 @@
           "height": 138,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "scale": 100,
           "focalX": 50,
@@ -1596,7 +2939,7 @@
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#37474e",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page8_bg.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page8_bg.jpg",
             "width": 220,
             "height": 147,
             "poster": "",
@@ -1617,37 +2960,76 @@
           "alt": "Boat with many passengers near island mountains"
         },
         {
-          "x": 0,
-          "y": -58,
-          "width": 324,
-          "height": 436,
+          "x": 131,
+          "y": 118,
+          "width": 360,
+          "height": 484,
           "type": "shape",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundColor": {
-            "color": { "r": 159, "g": 208, "b": 255, "a": 0.5 }
+            "color": {
+              "r": 159,
+              "g": 208,
+              "b": 255,
+              "a": 0.5
+            }
           },
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "f60ae332-db13-481f-ace7-107885b1c202"
         },
         {
-          "x": 40,
-          "y": 29,
-          "width": 195,
-          "height": 101,
+          "x": 175,
+          "y": 215,
+          "width": 216,
+          "height": 112,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1670,38 +3052,85 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "basedOn": "6258d646-a291-498f-81ab-3095f352bb26",
           "id": "30716193-c4ff-4619-b485-8108d250c8b8",
           "content": "<span style=\"text-transform: uppercase\">Island</span>\n<span style=\"text-transform: uppercase\">Hopping</span>",
-          "fontSize": 52,
-          "padding": { "horizontal": 0, "vertical": 0 },
-          "tagName": "h2"
+          "fontSize": 45,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "tagName": "h2",
+          "marginOffset": -21.689999999999998
         },
         {
-          "x": 41,
-          "y": 152,
-          "width": 250,
-          "height": 138,
+          "x": 176,
+          "y": 351,
+          "width": 278,
+          "height": 153,
           "font": {
             "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1724,35 +3153,77 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1.3,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "basedOn": "883808f1-b87b-4b35-b0f1-0945e0faef2e",
           "id": "41d3069f-61de-4998-8487-036ea86917a6",
           "content": "The main island hopping hubs are Phuket, Krabi, Koh Phi Phi, and Koh Lipe. Other favorites include Ko Tao, Ko Pha-Ngan, Ko Samui and Surat Thani.",
-          "fontSize": 18,
-          "padding": { "horizontal": 0, "vertical": 0 }
+          "fontSize": 19,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "marginOffset": 0.3999999999999986
         },
         {
-          "x": 236,
-          "y": 290,
-          "width": 88,
-          "height": 88,
+          "x": 393,
+          "y": 504,
+          "width": 98,
+          "height": 98,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1775,14 +3246,23 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "FILL",
           "lineHeight": 1,
           "textAlign": "left",
-          "backgroundColor": { "color": { "r": 0, "g": 0, "b": 0 } },
+          "backgroundColor": {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0
+            }
+          },
           "content": "<span style=\"font-weight: 500; color: #fff; text-transform: uppercase\">Learn</span>\n<span style=\"font-weight: 500; color: #fff; text-transform: uppercase\">More</span>",
-          "fontSize": 20,
+          "fontSize": 24,
           "padding": {
             "hasHiddenPadding": true,
             "locked": false,
@@ -1790,7 +3270,7 @@
             "vertical": 19
           },
           "lockAspectRatio": true,
-          "marginOffset": 0,
+          "marginOffset": -12.049999999999997,
           "basedOn": "3cf17fb8-a5ae-4f32-8e5f-d3a0513215de",
           "id": "88d486d7-a957-4c41-b4e9-11280585f13f"
         }
@@ -1799,7 +3279,9 @@
         {
           "id": "75b03916-f227-421c-957e-1681ff729d77",
           "type": "effect-fly-in",
-          "targets": ["30716193-c4ff-4619-b485-8108d250c8b8"],
+          "targets": [
+            "30716193-c4ff-4619-b485-8108d250c8b8"
+          ],
           "flyInDir": "leftToRight",
           "duration": 600,
           "delay": 600
@@ -1807,17 +3289,31 @@
         {
           "id": "d3c032d2-af08-4fa9-9997-e5e9cccb9e93",
           "type": "effect-fly-in",
-          "targets": ["41d3069f-61de-4998-8487-036ea86917a6"],
+          "targets": [
+            "41d3069f-61de-4998-8487-036ea86917a6"
+          ],
           "flyInDir": "leftToRight",
           "duration": 600,
           "delay": 600
         },
         {
-          "targets": ["88d486d7-a957-4c41-b4e9-11280585f13f"],
+          "targets": [
+            "88d486d7-a957-4c41-b4e9-11280585f13f"
+          ],
           "id": "c3ab8ee7-6ac1-4e73-b042-5ef7d43685a2",
           "type": "effect-fade-in",
           "duration": 600,
           "delay": 600
+        },
+        {
+          "id": "cc69e637-b438-43cc-91d5-a40a12e7e366",
+          "type": "effect-background-zoom",
+          "zoomDirection": "scaleOut",
+          "duration": 2000,
+          "delay": 0,
+          "targets": [
+            "3f23fce9-2fb5-4f17-acec-f0f6f524967d"
+          ]
         }
       ],
       "type": "page",
@@ -1829,91 +3325,194 @@
         "width": 1,
         "height": 1,
         "rotationAngle": 0,
-        "mask": { "type": "rectangle" },
+        "mask": {
+          "type": "rectangle"
+        },
         "backgroundColor": {
-          "color": { "r": 255, "g": 255, "b": 255, "a": 1 }
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255,
+            "a": 1
+          }
         },
         "isBackground": true,
         "isDefaultBackground": true,
         "id": "6f8d6dec-a10b-43d5-a74f-0bac45722dab"
       },
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255, "a": 1 } },
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255,
+          "a": 1
+        }
+      },
       "pageTemplateType": "editorial"
     },
     {
       "elements": [
         {
-          "x": 33,
-          "y": 97,
-          "width": 137,
-          "height": 137,
-          "type": "shape",
+          "x": 48,
+          "y": 0,
+          "width": 599,
+          "height": 400,
+          "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": true
+          },
           "rotationAngle": 0,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
           "id": "55fcd4fb-1af4-4540-ac57-a783f94f6864",
-          "isDefaultBackground": true
+          "scale": 141,
+          "focalX": 64.55052172495311,
+          "focalY": 60.79728521273494,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 5991,
+            "height": 3996,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:NHa-DQCKb7I",
+                "sourceUrl": "https://images.unsplash.com/photo-1608650190360-8918dff6fad5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzOXx8am91cm5leSUyMHRhYmxlfGVufDB8fHx8MTY4MjE3MDkyOA&ixlib=rb-4.0.3&fm=jpg&w=5991&h=3996&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 5991,
+                "height": 3996
+              },
+              "large": {
+                "file": "media/unsplash:NHa-DQCKb7I",
+                "sourceUrl": "https://images.unsplash.com/photo-1608650190360-8918dff6fad5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzOXx8am91cm5leSUyMHRhYmxlfGVufDB8fHx8MTY4MjE3MDkyOA&ixlib=rb-4.0.3&fm=jpg&w=4792&h=3196&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4792,
+                "height": 3196
+              },
+              "3594_2397": {
+                "file": "media/unsplash:NHa-DQCKb7I",
+                "sourceUrl": "https://images.unsplash.com/photo-1608650190360-8918dff6fad5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzOXx8am91cm5leSUyMHRhYmxlfGVufDB8fHx8MTY4MjE3MDkyOA&ixlib=rb-4.0.3&fm=jpg&w=3594&h=2397&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3594,
+                "height": 2397
+              },
+              "2396_1598": {
+                "file": "media/unsplash:NHa-DQCKb7I",
+                "sourceUrl": "https://images.unsplash.com/photo-1608650190360-8918dff6fad5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzOXx8am91cm5leSUyMHRhYmxlfGVufDB8fHx8MTY4MjE3MDkyOA&ixlib=rb-4.0.3&fm=jpg&w=2396&h=1598&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2396,
+                "height": 1598
+              },
+              "1198_799": {
+                "file": "media/unsplash:NHa-DQCKb7I",
+                "sourceUrl": "https://images.unsplash.com/photo-1608650190360-8918dff6fad5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzOXx8am91cm5leSUyMHRhYmxlfGVufDB8fHx8MTY4MjE3MDkyOA&ixlib=rb-4.0.3&fm=jpg&w=1198&h=799&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1198,
+                "height": 799
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:NHa-DQCKb7I",
+                "sourceUrl": "https://images.unsplash.com/photo-1608650190360-8918dff6fad5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzOXx8am91cm5leSUyMHRhYmxlfGVufDB8fHx8MTY4MjE3MDkyOA&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 227
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:NHa-DQCKb7I",
+            "baseColor": "#8cc0d9",
+            "blurHash": "LLHf;wR*kCbH1ToLRPaz}=ayofay",
+            "creationDate": "2020-12-22T15:41:51Z",
+            "src": "https://images.unsplash.com/photo-1608650190360-8918dff6fad5?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzOXx8am91cm5leSUyMHRhYmxlfGVufDB8fHx8MTY4MjE3MDkyOA&ixlib=rb-4.0.3&fm=jpg&w=5991&h=3996&fit=max",
+            "alt": "blue and white beach chair on beach during daytime",
+            "attribution": {
+              "author": {
+                "displayName": "engin akyurt",
+                "url": "https://unsplash.com/@enginakyurt?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfGk9tAka8q%2BK2etv0J16H3zjCE1jpOSL0uvOKGWfsWUXIBUZrXykgxAGveAvv7QKm%2BBy9RWfSrgPgxslINBICaE8lDa55DroDVK2tARvlQKbK97Uv%2BWiB/XIFD41q%2BMSwghp%2BrOxqy9WwXeXW3Y4aIeDdhAylggzMc/mpryTT6TGQalNYHaJDC1q9O3W8/P7m5LJ5qQrUSIzChxLIgrGWIFynSvxH6Z8glJ6hsZ08zkqXJu/PRNX1aZ4w%3D%3D"
+            }
+          },
+          "overlay": {
+            "type": "radial",
+            "size": {
+              "w": 0.67,
+              "h": 0.67
+            },
+            "stops": [
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0
+                },
+                "position": 0.4
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                },
+                "position": 1
+              }
+            ],
+            "alpha": 0.5
+          }
         },
         {
-          "x": -2.5,
-          "y": 162,
-          "width": 417,
-          "height": 1,
-          "type": "shape",
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 241, "g": 241, "b": 241 } },
-          "mask": { "type": "rectangle" },
-          "id": "d90985a8-8ba6-45b1-8e8a-ef2fa073dac9"
-        },
-        {
-          "x": -2.5,
-          "y": 309,
-          "width": 417,
-          "height": 1,
-          "type": "shape",
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 241, "g": 241, "b": 241 } },
-          "mask": { "type": "rectangle" },
-          "basedOn": "d90985a8-8ba6-45b1-8e8a-ef2fa073dac9",
-          "id": "359fca2c-a5ab-448c-b9e6-11dd47517650"
-        },
-        {
-          "x": -1,
-          "y": 454,
-          "width": 417,
-          "height": 1,
-          "type": "shape",
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 241, "g": 241, "b": 241 } },
-          "mask": { "type": "rectangle" },
-          "basedOn": "359fca2c-a5ab-448c-b9e6-11dd47517650",
-          "id": "2a391259-057a-4976-b90d-2c6140e2a222"
-        },
-        {
-          "x": 170,
-          "y": 59,
+          "x": 425,
+          "y": 110,
           "width": 206,
           "height": 20,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1936,38 +3535,363 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "basedOn": "3932eb5c-e456-43d8-988d-4aa01dd4a8bd",
           "id": "5cb07f8c-750f-437b-981f-cc3228cdeffd",
           "content": "<span style=\"color: rgba(9, 66, 40, 1); text-transform: uppercase\">1. Phuket</span>",
           "fontSize": 20,
-          "padding": { "horizontal": 0, "vertical": 0 },
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
           "groupId": "13341c17-f694-4c40-95d8-5058fa620c4e"
         },
         {
-          "x": 170,
-          "y": 89,
+          "x": 425,
+          "y": 256,
+          "width": 206,
+          "height": 20,
+          "font": {
+            "family": "Oswald",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1193,
+              "des": -289,
+              "tAsc": 1193,
+              "tDes": -289,
+              "tLGap": 0,
+              "wAsc": 1325,
+              "wDes": 377,
+              "xH": 578,
+              "capH": 810,
+              "yMin": -287,
+              "yMax": 1297,
+              "hAsc": 1193,
+              "hDes": -289,
+              "lGap": 0
+            }
+          },
+          "type": "text",
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "backgroundTextMode": "NONE",
+          "lineHeight": 1,
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "basedOn": "5cb07f8c-750f-437b-981f-cc3228cdeffd",
+          "id": "840cd415-bf08-4186-9649-932beb2e6778",
+          "content": "<span style=\"color: #094228; text-transform: uppercase\">2. Koh Phi Phi</span>",
+          "fontSize": 20,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "groupId": "6b41cd4a-107a-4648-a53a-ec4d1eda23cc"
+        },
+        {
+          "x": 425,
+          "y": 402,
+          "width": 206,
+          "height": 20,
+          "font": {
+            "family": "Oswald",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1193,
+              "des": -289,
+              "tAsc": 1193,
+              "tDes": -289,
+              "tLGap": 0,
+              "wAsc": 1325,
+              "wDes": 377,
+              "xH": 578,
+              "capH": 810,
+              "yMin": -287,
+              "yMax": 1297,
+              "hAsc": 1193,
+              "hDes": -289,
+              "lGap": 0
+            }
+          },
+          "type": "text",
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "backgroundTextMode": "NONE",
+          "lineHeight": 1,
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "basedOn": "5cb07f8c-750f-437b-981f-cc3228cdeffd",
+          "id": "bbe6302e-87c0-49d2-b16b-ff787059c187",
+          "content": "<span style=\"color: #094228; text-transform: uppercase\">3. Koh Lipe</span>",
+          "fontSize": 20,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "groupId": "09a92979-ba20-4a80-af42-f970ee2d2be1"
+        },
+        {
+          "x": 425,
+          "y": 548,
+          "width": 195,
+          "height": 20,
+          "font": {
+            "family": "Oswald",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1193,
+              "des": -289,
+              "tAsc": 1193,
+              "tDes": -289,
+              "tLGap": 0,
+              "wAsc": 1325,
+              "wDes": 377,
+              "xH": 578,
+              "capH": 810,
+              "yMin": -287,
+              "yMax": 1297,
+              "hAsc": 1193,
+              "hDes": -289,
+              "lGap": 0
+            }
+          },
+          "type": "text",
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "backgroundTextMode": "NONE",
+          "lineHeight": 1,
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "basedOn": "5cb07f8c-750f-437b-981f-cc3228cdeffd",
+          "id": "44db08e2-0900-40a6-9e52-3ab2325aeab2",
+          "content": "<span style=\"color: #094228; text-transform: uppercase\">4. Ko Samui</span>",
+          "fontSize": 20,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "groupId": "5b9a504d-46ff-4058-83e5-bbf6f78f648b"
+        },
+        {
+          "x": 425,
+          "y": 140,
           "width": 207,
           "height": 23,
           "font": {
             "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1990,39 +3914,436 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1.3,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "basedOn": "d773e2ce-05a7-4195-a815-cfd66e93f66a",
           "id": "adc642e3-a739-4349-9646-cb06d88f51a4",
           "content": "<span style=\"color: rgba(9, 66, 40, 1)\">Start your journey here</span>",
           "fontSize": 18,
-          "padding": { "horizontal": 0, "vertical": 0 },
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
           "groupId": "13341c17-f694-4c40-95d8-5058fa620c4e"
         },
         {
-          "x": 0,
-          "y": 17,
+          "x": 424,
+          "y": 286,
+          "width": 207,
+          "height": 23,
+          "font": {
+            "family": "Lora",
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1006,
+              "des": -274,
+              "tAsc": 1006,
+              "tDes": -274,
+              "tLGap": 0,
+              "wAsc": 1206,
+              "wDes": 294,
+              "xH": 500,
+              "capH": 700,
+              "yMin": -271,
+              "yMax": 1114,
+              "hAsc": 1006,
+              "hDes": -274,
+              "lGap": 0
+            }
+          },
+          "type": "text",
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "backgroundTextMode": "NONE",
+          "lineHeight": 1.3,
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "basedOn": "adc642e3-a739-4349-9646-cb06d88f51a4",
+          "id": "919e9a80-e851-49fe-9660-c67937a14e13",
+          "content": "<span style=\"color: rgba(9, 66, 40, 1)\">Scoot around the island</span>",
+          "fontSize": 18,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "groupId": "6b41cd4a-107a-4648-a53a-ec4d1eda23cc"
+        },
+        {
+          "x": 425,
+          "y": 432,
+          "width": 187,
+          "height": 23,
+          "font": {
+            "family": "Lora",
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1006,
+              "des": -274,
+              "tAsc": 1006,
+              "tDes": -274,
+              "tLGap": 0,
+              "wAsc": 1206,
+              "wDes": 294,
+              "xH": 500,
+              "capH": 700,
+              "yMin": -271,
+              "yMax": 1114,
+              "hAsc": 1006,
+              "hDes": -274,
+              "lGap": 0
+            }
+          },
+          "type": "text",
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "backgroundTextMode": "NONE",
+          "lineHeight": 1.3,
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "basedOn": "adc642e3-a739-4349-9646-cb06d88f51a4",
+          "id": "63b0bbbf-6ef4-42c1-b017-d7db0db07039",
+          "content": "<span style=\"color: rgba(9, 66, 40, 1)\">Best red curry</span>",
+          "fontSize": 18,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "groupId": "09a92979-ba20-4a80-af42-f970ee2d2be1"
+        },
+        {
+          "x": 426,
+          "y": 579,
+          "width": 187,
+          "height": 23,
+          "font": {
+            "family": "Lora",
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1006,
+              "des": -274,
+              "tAsc": 1006,
+              "tDes": -274,
+              "tLGap": 0,
+              "wAsc": 1206,
+              "wDes": 294,
+              "xH": 500,
+              "capH": 700,
+              "yMin": -271,
+              "yMax": 1114,
+              "hAsc": 1006,
+              "hDes": -274,
+              "lGap": 0
+            }
+          },
+          "type": "text",
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "backgroundTextMode": "NONE",
+          "lineHeight": 1.3,
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "basedOn": "adc642e3-a739-4349-9646-cb06d88f51a4",
+          "id": "300c43cc-b0b0-45de-97ba-1775028d50bb",
+          "content": "<span style=\"color: rgba(9, 66, 40, 1)\">Semi-secluded island</span>",
+          "fontSize": 18,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "groupId": "5b9a504d-46ff-4058-83e5-bbf6f78f648b"
+        },
+        {
+          "x": 252.5,
+          "y": 213,
+          "width": 417,
+          "height": 1,
+          "type": "shape",
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "backgroundColor": {
+            "color": {
+              "r": 241,
+              "g": 241,
+              "b": 241
+            }
+          },
+          "mask": {
+            "type": "rectangle"
+          },
+          "id": "d90985a8-8ba6-45b1-8e8a-ef2fa073dac9"
+        },
+        {
+          "x": 252.5,
+          "y": 360,
+          "width": 417,
+          "height": 1,
+          "type": "shape",
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "backgroundColor": {
+            "color": {
+              "r": 241,
+              "g": 241,
+              "b": 241
+            }
+          },
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "d90985a8-8ba6-45b1-8e8a-ef2fa073dac9",
+          "id": "359fca2c-a5ab-448c-b9e6-11dd47517650"
+        },
+        {
+          "x": 254,
+          "y": 505,
+          "width": 417,
+          "height": 1,
+          "type": "shape",
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "backgroundColor": {
+            "color": {
+              "r": 241,
+              "g": 241,
+              "b": 241
+            }
+          },
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "359fca2c-a5ab-448c-b9e6-11dd47517650",
+          "id": "2a391259-057a-4976-b90d-2c6140e2a222"
+        },
+        {
+          "x": 255,
+          "y": 68,
           "width": 140,
           "height": 146,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 51, "g": 51, "b": 51 } },
+          "backgroundColor": {
+            "color": {
+              "r": 51,
+              "g": 51,
+              "b": 51
+            }
+          },
           "scale": 210,
           "focalX": 71.09866593641652,
           "focalY": 42.12316471707116,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "43b28f35-fdc3-4b59-b3da-ad9581cbeb8c",
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#dbe1e0",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page9_image1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page9_image1.jpg",
             "width": 220,
             "height": 165,
             "poster": "",
@@ -2036,132 +4357,37 @@
           "groupId": "13341c17-f694-4c40-95d8-5058fa620c4e"
         },
         {
-          "x": 170,
-          "y": 205,
-          "width": 206,
-          "height": 20,
-          "font": {
-            "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
-            "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1193,
-              "des": -289,
-              "tAsc": 1193,
-              "tDes": -289,
-              "tLGap": 0,
-              "wAsc": 1325,
-              "wDes": 377,
-              "xH": 578,
-              "capH": 810,
-              "yMin": -287,
-              "yMax": 1297,
-              "hAsc": 1193,
-              "hDes": -289,
-              "lGap": 0
-            }
-          },
-          "type": "text",
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "backgroundTextMode": "NONE",
-          "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "basedOn": "5cb07f8c-750f-437b-981f-cc3228cdeffd",
-          "id": "840cd415-bf08-4186-9649-932beb2e6778",
-          "content": "<span style=\"color: #094228; text-transform: uppercase\">2. Koh Phi Phi</span>",
-          "fontSize": 20,
-          "padding": { "horizontal": 0, "vertical": 0 },
-          "groupId": "6b41cd4a-107a-4648-a53a-ec4d1eda23cc"
-        },
-        {
-          "x": 169,
-          "y": 235,
-          "width": 207,
-          "height": 23,
-          "font": {
-            "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
-            "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1006,
-              "des": -274,
-              "tAsc": 1006,
-              "tDes": -274,
-              "tLGap": 0,
-              "wAsc": 1206,
-              "wDes": 294,
-              "xH": 500,
-              "capH": 700,
-              "yMin": -271,
-              "yMax": 1114,
-              "hAsc": 1006,
-              "hDes": -274,
-              "lGap": 0
-            }
-          },
-          "type": "text",
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "backgroundTextMode": "NONE",
-          "lineHeight": 1.3,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "basedOn": "adc642e3-a739-4349-9646-cb06d88f51a4",
-          "id": "919e9a80-e851-49fe-9660-c67937a14e13",
-          "content": "<span style=\"color: rgba(9, 66, 40, 1)\">Scoot around the island</span>",
-          "fontSize": 18,
-          "padding": { "horizontal": 0, "vertical": 0 },
-          "groupId": "6b41cd4a-107a-4648-a53a-ec4d1eda23cc"
-        },
-        {
-          "x": 0,
-          "y": 164,
+          "x": 255,
+          "y": 215,
           "width": 140,
           "height": 146,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 51, "g": 51, "b": 51 } },
+          "backgroundColor": {
+            "color": {
+              "r": 51,
+              "g": 51,
+              "b": 51
+            }
+          },
           "scale": 130,
           "focalX": 38.57638552918454,
           "focalY": 50.00000000000002,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "basedOn": "43b28f35-fdc3-4b59-b3da-ad9581cbeb8c",
           "id": "d16ef169-d80c-4e70-817a-9e3bf66d1428",
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#091514",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page9_image2.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page9_image2.jpg",
             "width": 220,
             "height": 124,
             "poster": "",
@@ -2175,132 +4401,37 @@
           "groupId": "6b41cd4a-107a-4648-a53a-ec4d1eda23cc"
         },
         {
-          "x": 170,
-          "y": 351,
-          "width": 206,
-          "height": 20,
-          "font": {
-            "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
-            "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1193,
-              "des": -289,
-              "tAsc": 1193,
-              "tDes": -289,
-              "tLGap": 0,
-              "wAsc": 1325,
-              "wDes": 377,
-              "xH": 578,
-              "capH": 810,
-              "yMin": -287,
-              "yMax": 1297,
-              "hAsc": 1193,
-              "hDes": -289,
-              "lGap": 0
-            }
-          },
-          "type": "text",
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "backgroundTextMode": "NONE",
-          "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "basedOn": "5cb07f8c-750f-437b-981f-cc3228cdeffd",
-          "id": "bbe6302e-87c0-49d2-b16b-ff787059c187",
-          "content": "<span style=\"color: #094228; text-transform: uppercase\">3. Koh Lipe</span>",
-          "fontSize": 20,
-          "padding": { "horizontal": 0, "vertical": 0 },
-          "groupId": "09a92979-ba20-4a80-af42-f970ee2d2be1"
-        },
-        {
-          "x": 170,
-          "y": 381,
-          "width": 187,
-          "height": 23,
-          "font": {
-            "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
-            "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1006,
-              "des": -274,
-              "tAsc": 1006,
-              "tDes": -274,
-              "tLGap": 0,
-              "wAsc": 1206,
-              "wDes": 294,
-              "xH": 500,
-              "capH": 700,
-              "yMin": -271,
-              "yMax": 1114,
-              "hAsc": 1006,
-              "hDes": -274,
-              "lGap": 0
-            }
-          },
-          "type": "text",
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "backgroundTextMode": "NONE",
-          "lineHeight": 1.3,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "basedOn": "adc642e3-a739-4349-9646-cb06d88f51a4",
-          "id": "63b0bbbf-6ef4-42c1-b017-d7db0db07039",
-          "content": "<span style=\"color: rgba(9, 66, 40, 1)\">Best red curry</span>",
-          "fontSize": 18,
-          "padding": { "horizontal": 0, "vertical": 0 },
-          "groupId": "09a92979-ba20-4a80-af42-f970ee2d2be1"
-        },
-        {
-          "x": 0,
-          "y": 308,
+          "x": 255,
+          "y": 359,
           "width": 140,
           "height": 146,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 51, "g": 51, "b": 51 } },
+          "backgroundColor": {
+            "color": {
+              "r": 51,
+              "g": 51,
+              "b": 51
+            }
+          },
           "scale": 110,
           "focalX": 37.799042537992264,
           "focalY": 54.72610116975728,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "basedOn": "43b28f35-fdc3-4b59-b3da-ad9581cbeb8c",
           "id": "a7ca1ee4-5f88-45e3-aa3d-ea3cfda6b027",
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#314a47",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page9_image4.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page9_image4.jpg",
             "width": 220,
             "height": 147,
             "poster": "",
@@ -2314,132 +4445,37 @@
           "groupId": "09a92979-ba20-4a80-af42-f970ee2d2be1"
         },
         {
-          "x": 170,
-          "y": 497,
-          "width": 195,
-          "height": 20,
-          "font": {
-            "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
-            "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1193,
-              "des": -289,
-              "tAsc": 1193,
-              "tDes": -289,
-              "tLGap": 0,
-              "wAsc": 1325,
-              "wDes": 377,
-              "xH": 578,
-              "capH": 810,
-              "yMin": -287,
-              "yMax": 1297,
-              "hAsc": 1193,
-              "hDes": -289,
-              "lGap": 0
-            }
-          },
-          "type": "text",
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "backgroundTextMode": "NONE",
-          "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "basedOn": "5cb07f8c-750f-437b-981f-cc3228cdeffd",
-          "id": "44db08e2-0900-40a6-9e52-3ab2325aeab2",
-          "content": "<span style=\"color: #094228; text-transform: uppercase\">4. Ko Samui</span>",
-          "fontSize": 20,
-          "padding": { "horizontal": 0, "vertical": 0 },
-          "groupId": "5b9a504d-46ff-4058-83e5-bbf6f78f648b"
-        },
-        {
-          "x": 171,
-          "y": 528,
-          "width": 187,
-          "height": 23,
-          "font": {
-            "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
-            "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1006,
-              "des": -274,
-              "tAsc": 1006,
-              "tDes": -274,
-              "tLGap": 0,
-              "wAsc": 1206,
-              "wDes": 294,
-              "xH": 500,
-              "capH": 700,
-              "yMin": -271,
-              "yMax": 1114,
-              "hAsc": 1006,
-              "hDes": -274,
-              "lGap": 0
-            }
-          },
-          "type": "text",
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "backgroundTextMode": "NONE",
-          "lineHeight": 1.3,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "basedOn": "adc642e3-a739-4349-9646-cb06d88f51a4",
-          "id": "300c43cc-b0b0-45de-97ba-1775028d50bb",
-          "content": "<span style=\"color: rgba(9, 66, 40, 1)\">Semi-secluded island</span>",
-          "fontSize": 18,
-          "padding": { "horizontal": 0, "vertical": 0 },
-          "groupId": "5b9a504d-46ff-4058-83e5-bbf6f78f648b"
-        },
-        {
-          "x": 0,
-          "y": 454,
+          "x": 255,
+          "y": 505,
           "width": 140,
           "height": 146,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 51, "g": 51, "b": 51 } },
+          "backgroundColor": {
+            "color": {
+              "r": 51,
+              "g": 51,
+              "b": 51
+            }
+          },
           "scale": 160,
           "focalX": 68.9811217492273,
           "focalY": 60.54933296820826,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "basedOn": "43b28f35-fdc3-4b59-b3da-ad9581cbeb8c",
           "id": "07155f07-19d8-4eca-8817-9b512fd3303f",
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#242c17",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page9_image5.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page9_image5.jpg",
             "width": 220,
             "height": 330,
             "poster": "",
@@ -2457,7 +4493,9 @@
         {
           "id": "d4d4da64-b099-4201-aaa6-1164ae19a0c8",
           "type": "effect-whoosh-in",
-          "targets": ["43b28f35-fdc3-4b59-b3da-ad9581cbeb8c"],
+          "targets": [
+            "43b28f35-fdc3-4b59-b3da-ad9581cbeb8c"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 0
@@ -2465,7 +4503,9 @@
         {
           "id": "dc8b9d52-23ea-4a6e-8f19-8810dc8e6a96",
           "type": "effect-whoosh-in",
-          "targets": ["5cb07f8c-750f-437b-981f-cc3228cdeffd"],
+          "targets": [
+            "5cb07f8c-750f-437b-981f-cc3228cdeffd"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 0
@@ -2473,7 +4513,9 @@
         {
           "id": "1ccd4b89-b8a1-4379-ab33-0187c889a3b2",
           "type": "effect-whoosh-in",
-          "targets": ["adc642e3-a739-4349-9646-cb06d88f51a4"],
+          "targets": [
+            "adc642e3-a739-4349-9646-cb06d88f51a4"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 0
@@ -2481,7 +4523,9 @@
         {
           "id": "5f70813d-1ac8-4a05-8b18-248bb2386b02",
           "type": "effect-whoosh-in",
-          "targets": ["d16ef169-d80c-4e70-817a-9e3bf66d1428"],
+          "targets": [
+            "d16ef169-d80c-4e70-817a-9e3bf66d1428"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 200
@@ -2489,7 +4533,9 @@
         {
           "id": "451a8798-e690-46a7-8d3e-77d0c4a3b093",
           "type": "effect-whoosh-in",
-          "targets": ["840cd415-bf08-4186-9649-932beb2e6778"],
+          "targets": [
+            "840cd415-bf08-4186-9649-932beb2e6778"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 200
@@ -2497,7 +4543,9 @@
         {
           "id": "0dfe9906-9e95-4b5f-81ee-6989b9f27167",
           "type": "effect-whoosh-in",
-          "targets": ["919e9a80-e851-49fe-9660-c67937a14e13"],
+          "targets": [
+            "919e9a80-e851-49fe-9660-c67937a14e13"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 200
@@ -2505,7 +4553,9 @@
         {
           "id": "81df1d47-03a1-4fe2-94ae-d73d526f26bf",
           "type": "effect-whoosh-in",
-          "targets": ["a7ca1ee4-5f88-45e3-aa3d-ea3cfda6b027"],
+          "targets": [
+            "a7ca1ee4-5f88-45e3-aa3d-ea3cfda6b027"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 400
@@ -2513,7 +4563,9 @@
         {
           "id": "4b99e1fc-dfb3-4c0c-ba24-3d1d13be9550",
           "type": "effect-whoosh-in",
-          "targets": ["bbe6302e-87c0-49d2-b16b-ff787059c187"],
+          "targets": [
+            "bbe6302e-87c0-49d2-b16b-ff787059c187"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 400
@@ -2521,7 +4573,9 @@
         {
           "id": "0d0b8e35-ce1f-4755-8729-6f15f34ebf79",
           "type": "effect-whoosh-in",
-          "targets": ["63b0bbbf-6ef4-42c1-b017-d7db0db07039"],
+          "targets": [
+            "63b0bbbf-6ef4-42c1-b017-d7db0db07039"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 400
@@ -2529,7 +4583,9 @@
         {
           "id": "22490f0c-fcfa-49be-ad9b-b2980db6013a",
           "type": "effect-whoosh-in",
-          "targets": ["07155f07-19d8-4eca-8817-9b512fd3303f"],
+          "targets": [
+            "07155f07-19d8-4eca-8817-9b512fd3303f"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 600
@@ -2537,7 +4593,9 @@
         {
           "id": "60a1a95e-c800-4aa7-b62b-30255c4b9a21",
           "type": "effect-whoosh-in",
-          "targets": ["44db08e2-0900-40a6-9e52-3ab2325aeab2"],
+          "targets": [
+            "44db08e2-0900-40a6-9e52-3ab2325aeab2"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 600
@@ -2545,7 +4603,9 @@
         {
           "id": "97bc4870-6bae-4498-aa1e-19a1820e8b47",
           "type": "effect-whoosh-in",
-          "targets": ["300c43cc-b0b0-45de-97ba-1775028d50bb"],
+          "targets": [
+            "300c43cc-b0b0-45de-97ba-1775028d50bb"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 600
@@ -2553,7 +4613,13 @@
       ],
       "type": "page",
       "id": "78da0e6c-6bc7-4680-90a8-2b6bf6e98aaa",
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
       "pageTemplateType": "list",
       "groups": {
         "13341c17-f694-4c40-95d8-5058fa620c4e": {
@@ -2576,6 +4642,25 @@
           "isLocked": false,
           "isCollapsed": true
         }
+      },
+      "defaultBackgroundElement": {
+        "x": 33,
+        "y": 97,
+        "width": 137,
+        "height": 137,
+        "type": "shape",
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "id": "a104d1b9-f706-4bed-a22b-38e3b02ee757",
+        "isDefaultBackground": true
       }
     },
     {
@@ -2587,45 +4672,90 @@
           "height": 137,
           "type": "shape",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
           "id": "282588c3-fbc2-4b63-8260-2e58d0e63294",
           "isDefaultBackground": true
         },
         {
-          "x": 252,
-          "y": 158,
-          "width": 160,
-          "height": 120,
+          "x": 696,
+          "y": 170,
+          "width": 195,
+          "height": 146,
           "type": "shape",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 254, "g": 200, "b": 90 } },
-          "mask": { "type": "rectangle" },
+          "backgroundColor": {
+            "color": {
+              "r": 254,
+              "g": 200,
+              "b": 90
+            }
+          },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "b542beff-39c1-4787-a8ad-a2a061c51a60",
           "lockAspectRatio": true,
           "groupId": "af2d1be9-be5a-4f80-8d7f-508fb15ea9b2"
         },
         {
-          "x": 277,
-          "y": 199,
-          "width": 81,
-          "height": 40,
+          "x": 727,
+          "y": 220,
+          "width": 99,
+          "height": 49,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2648,40 +4778,64 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "basedOn": "840cd415-bf08-4186-9649-932beb2e6778",
           "id": "7ea7ab1b-9bcd-45d6-941d-2c1143cadf0f",
           "content": "<span style=\"color: rgba(9, 66, 40, 1); text-transform: uppercase\">5 Spiciest</span>\n<span style=\"color: rgba(9, 66, 40, 1); text-transform: uppercase\">Dishes</span>",
-          "fontSize": 20,
-          "padding": { "horizontal": 0, "vertical": 0 },
+          "fontSize": 19,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
           "groupId": "af2d1be9-be5a-4f80-8d7f-508fb15ea9b2",
-          "tagName": "h3"
+          "tagName": "h3",
+          "marginOffset": -9.64
         },
         {
-          "x": 0,
-          "y": 158,
-          "width": 252,
-          "height": 120,
+          "x": 389,
+          "y": 170,
+          "width": 307,
+          "height": 146,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 51, "g": 51, "b": 51 } },
+          "backgroundColor": {
+            "color": {
+              "r": 51,
+              "g": 51,
+              "b": 51
+            }
+          },
           "scale": 230,
           "focalX": 46.28668252718276,
           "focalY": 67.71403998512304,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "85439d79-2100-4dc8-9b20-e6e51d2064af",
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#868247",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page10_image1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page10_image1.jpg",
             "width": 220,
             "height": 112,
             "poster": "",
@@ -2695,38 +4849,78 @@
           "groupId": "af2d1be9-be5a-4f80-8d7f-508fb15ea9b2"
         },
         {
-          "x": 252,
-          "y": 396,
-          "width": 160,
-          "height": 120,
+          "x": 696,
+          "y": 460,
+          "width": 195,
+          "height": 146,
           "type": "shape",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 236, "g": 236, "b": 236 } },
-          "mask": { "type": "rectangle" },
+          "backgroundColor": {
+            "color": {
+              "r": 236,
+              "g": 236,
+              "b": 236
+            }
+          },
+          "mask": {
+            "type": "rectangle"
+          },
           "basedOn": "b542beff-39c1-4787-a8ad-a2a061c51a60",
           "id": "12b82d84-167c-49b1-8efd-afae77b857f0",
           "lockAspectRatio": true,
           "groupId": "84a09ec9-f5b8-4fd9-9095-4f5dec1a5db2"
         },
         {
-          "x": 277,
-          "y": 428,
-          "width": 88,
-          "height": 60,
+          "x": 727,
+          "y": 499,
+          "width": 107,
+          "height": 73,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2749,39 +4943,63 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "basedOn": "cb201d61-faec-476e-9d72-14caf813197b",
           "id": "fcdc8182-cfb1-4010-82cd-91b5f235f0fc",
           "content": "<span style=\"color: rgba(9, 66, 40, 1); text-transform: uppercase\">Catch The Swimming Monkeys</span>",
           "fontSize": 20,
-          "padding": { "horizontal": 0, "vertical": 0 },
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
           "groupId": "84a09ec9-f5b8-4fd9-9095-4f5dec1a5db2",
-          "tagName": "h3"
+          "tagName": "h3",
+          "marginOffset": -9.64
         },
         {
-          "x": 0,
-          "y": 397,
-          "width": 252,
-          "height": 120,
+          "x": 389,
+          "y": 461,
+          "width": 307,
+          "height": 146,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 51, "g": 51, "b": 51 } },
+          "backgroundColor": {
+            "color": {
+              "r": 51,
+              "g": 51,
+              "b": 51
+            }
+          },
           "scale": 110,
           "focalX": 54.65421808442616,
           "focalY": 38.31609851544505,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#0e8484",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page10_image3.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page10_image3.jpg",
             "width": 220,
             "height": 124,
             "poster": "",
@@ -2797,22 +5015,51 @@
           "groupId": "84a09ec9-f5b8-4fd9-9095-4f5dec1a5db2"
         },
         {
-          "x": 41,
-          "y": 18,
-          "width": 195,
-          "height": 104,
+          "x": 439,
+          "y": 0,
+          "width": 237,
+          "height": 127,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2835,36 +5082,78 @@
           },
           "type": "text",
           "opacity": 99,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "basedOn": "3932eb5c-e456-43d8-988d-4aa01dd4a8bd",
           "id": "e5272870-2b37-4bba-abcf-eab0ffc222a4",
           "content": "<span style=\"color: #094228; text-transform: uppercase\">More</span>\n<span style=\"color: #094228; text-transform: uppercase\">Stories</span>",
-          "fontSize": 52,
-          "padding": { "horizontal": 0, "vertical": 0 },
-          "tagName": "h2"
+          "fontSize": 51,
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "tagName": "h2",
+          "marginOffset": -24.581999999999994
         },
         {
-          "x": 278,
-          "y": 308,
-          "width": 89,
-          "height": 60,
+          "x": 728,
+          "y": 353,
+          "width": 108,
+          "height": 73,
           "font": {
             "family": "Oswald",
-            "fallbacks": ["sans-serif"],
-            "weights": [200, 300, 400, 500, 600, 700],
-            "styles": ["regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular"
+            ],
             "variants": [
-              [0, 200],
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700]
+              [
+                0,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2887,39 +5176,63 @@
           },
           "type": "text",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "backgroundTextMode": "NONE",
           "lineHeight": 1,
-          "textAlign": "left",
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "textAlign": "initial",
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "basedOn": "7ea7ab1b-9bcd-45d6-941d-2c1143cadf0f",
           "id": "cb201d61-faec-476e-9d72-14caf813197b",
           "content": "<span style=\"color: rgba(9, 66, 40, 1); text-transform: uppercase\">Hikes Off The Beaten\nTrail</span>",
           "fontSize": 20,
-          "padding": { "horizontal": 0, "vertical": 0 },
+          "padding": {
+            "horizontal": 0,
+            "vertical": 0
+          },
           "groupId": "b4c42e7f-223e-4460-a534-f464437321b0",
-          "tagName": "h3"
+          "tagName": "h3",
+          "marginOffset": -9.64
         },
         {
-          "x": 0,
-          "y": 278,
-          "width": 252,
-          "height": 120,
+          "x": 389,
+          "y": 316,
+          "width": 307,
+          "height": 146,
           "type": "image",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
-          "backgroundColor": { "color": { "r": 51, "g": 51, "b": 51 } },
+          "backgroundColor": {
+            "color": {
+              "r": 51,
+              "g": 51,
+              "b": 51
+            }
+          },
           "scale": 120,
           "focalX": 45.07590551296434,
           "focalY": 41.80970621298839,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "resource": {
             "type": "image",
             "mimeType": "image/jpeg",
             "baseColor": "#cd7963",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/experience-thailand/page10_image2.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/experience-thailand/page10_image2.jpg",
             "width": 220,
             "height": 83,
             "poster": "",
@@ -2936,57 +5249,77 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 77,
-          "y": 576,
-          "width": 13,
-          "height": 24,
-          "sticker": { "type": "travelFacebookIcon" },
+          "x": 483,
+          "y": 679,
+          "width": 20,
+          "height": 37,
+          "sticker": {
+            "type": "travelFacebookIcon"
+          },
           "id": "c6a706c8-7f36-4b04-bb5c-3d3d9d30498a",
           "groupId": "dc6f0dc5-613f-46b7-ad00-0c5e7e736f98"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 147,
-          "y": 576,
-          "width": 25,
-          "height": 25,
-          "sticker": { "type": "travelInstagramIcon" },
+          "x": 568,
+          "y": 679,
+          "width": 30,
+          "height": 30,
+          "sticker": {
+            "type": "travelInstagramIcon"
+          },
           "id": "3e52ff79-b15b-4f2c-ba7d-daba7f967904",
           "groupId": "dc6f0dc5-613f-46b7-ad00-0c5e7e736f98"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 229,
-          "y": 578,
-          "width": 30,
-          "height": 20,
-          "sticker": { "type": "travelYouTubeIcon" },
+          "x": 668,
+          "y": 681,
+          "width": 37,
+          "height": 24,
+          "sticker": {
+            "type": "travelYouTubeIcon"
+          },
           "id": "276d0d4c-e1d1-47c9-99bf-fe3ebc86615d",
           "groupId": "dc6f0dc5-613f-46b7-ad00-0c5e7e736f98"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 309,
-          "y": 579,
-          "width": 26,
-          "height": 21,
-          "sticker": { "type": "travelTwitterIcon" },
+          "x": 766,
+          "y": 683,
+          "width": 32,
+          "height": 26,
+          "sticker": {
+            "type": "travelTwitterIcon"
+          },
           "id": "ce560b5f-13b9-4a5e-85ff-cbc41ea982e8",
           "groupId": "dc6f0dc5-613f-46b7-ad00-0c5e7e736f98"
         }
@@ -2998,12 +5331,16 @@
           "flyInDir": "leftToRight",
           "duration": 600,
           "delay": 0,
-          "targets": ["e5272870-2b37-4bba-abcf-eab0ffc222a4"]
+          "targets": [
+            "e5272870-2b37-4bba-abcf-eab0ffc222a4"
+          ]
         },
         {
           "id": "47272274-438e-465e-964c-f8f4cd7a6888",
           "type": "effect-whoosh-in",
-          "targets": ["85439d79-2100-4dc8-9b20-e6e51d2064af"],
+          "targets": [
+            "85439d79-2100-4dc8-9b20-e6e51d2064af"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 0
@@ -3011,7 +5348,9 @@
         {
           "id": "c8ce65ee-7290-427a-921c-663281aaa49d",
           "type": "effect-whoosh-in",
-          "targets": ["7ea7ab1b-9bcd-45d6-941d-2c1143cadf0f"],
+          "targets": [
+            "7ea7ab1b-9bcd-45d6-941d-2c1143cadf0f"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 0
@@ -3019,7 +5358,9 @@
         {
           "id": "536d05b0-1c32-4152-ab73-299afce57a2f",
           "type": "effect-whoosh-in",
-          "targets": ["b542beff-39c1-4787-a8ad-a2a061c51a60"],
+          "targets": [
+            "b542beff-39c1-4787-a8ad-a2a061c51a60"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 0
@@ -3027,7 +5368,9 @@
         {
           "id": "58be93c8-f73c-4c69-ac9b-d0f0c7f669e6",
           "type": "effect-whoosh-in",
-          "targets": ["19fd443d-f580-436b-82b4-ef2938c55e89"],
+          "targets": [
+            "19fd443d-f580-436b-82b4-ef2938c55e89"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 700
@@ -3035,7 +5378,9 @@
         {
           "id": "eeaa124d-1fa5-40b5-af48-4730f5f59185",
           "type": "effect-whoosh-in",
-          "targets": ["cb201d61-faec-476e-9d72-14caf813197b"],
+          "targets": [
+            "cb201d61-faec-476e-9d72-14caf813197b"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 700
@@ -3043,7 +5388,9 @@
         {
           "id": "087fd1bc-10d2-4053-a742-402be6e8c059",
           "type": "effect-whoosh-in",
-          "targets": ["098c9143-7ca0-4b04-866f-02c5c48339d2"],
+          "targets": [
+            "098c9143-7ca0-4b04-866f-02c5c48339d2"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 900
@@ -3051,7 +5398,9 @@
         {
           "id": "46e98909-59fd-409e-a716-52342550e277",
           "type": "effect-whoosh-in",
-          "targets": ["fcdc8182-cfb1-4010-82cd-91b5f235f0fc"],
+          "targets": [
+            "fcdc8182-cfb1-4010-82cd-91b5f235f0fc"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 900
@@ -3059,7 +5408,9 @@
         {
           "id": "ce871997-549f-4166-96fe-49855a5200d0",
           "type": "effect-whoosh-in",
-          "targets": ["12b82d84-167c-49b1-8efd-afae77b857f0"],
+          "targets": [
+            "12b82d84-167c-49b1-8efd-afae77b857f0"
+          ],
           "whooshInDir": "leftToRight",
           "duration": 2000,
           "delay": 900
@@ -3067,7 +5418,13 @@
       ],
       "type": "page",
       "id": "9a45a0b2-0261-4298-aef7-c08b99771787",
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
       "pageTemplateType": "list",
       "groups": {
         "dc6f0dc5-613f-46b7-ad00-0c5e7e736f98": {
