@@ -1,18 +1,23 @@
 {
-  "version": 47,
+  "version": 46,
   "pages": [
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
           "isDefaultBackground": true,
           "type": "shape",
@@ -20,7 +25,10 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 100,
@@ -31,7 +39,7 @@
             "mimeType": "image/png",
             "creationDate": "2021-07-13T11:59:21",
             "baseColor": "#161716",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page01_image02.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page01_image02.jpg",
             "width": 1280,
             "height": 720,
             "id": 0,
@@ -42,10 +50,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": -59,
-          "y": 260,
-          "width": 628,
-          "height": 419,
+          "x": 640,
+          "y": 0,
+          "width": 869,
+          "height": 720,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -58,21 +66,35 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 222, "g": 222, "b": 222 } },
+          "backgroundColor": {
+            "color": {
+              "r": 222,
+              "g": 222,
+              "b": 222
+            }
+          },
           "type": "shape",
-          "x": 0,
-          "y": -58,
-          "width": 412,
-          "height": 473,
-          "mask": { "type": "rectangle" },
+          "x": 72,
+          "y": 25,
+          "width": 524,
+          "height": 601,
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "af56fe17-5bf9-4d4d-af77-79c7ff22337e"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 100,
@@ -81,7 +103,7 @@
           "resource": {
             "type": "image",
             "mimeType": "image/png",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page01_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page01_image01.jpg",
             "width": 480,
             "height": 720,
             "id": 0,
@@ -93,10 +115,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 243,
-          "y": 24,
-          "width": 99,
-          "height": 149,
+          "x": 382,
+          "y": 128,
+          "width": 126,
+          "height": 189,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -109,30 +131,88 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -153,11 +233,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 37,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 44,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.1,
           "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "type": "text",
           "content": "<span style=\"font-weight: 600; color: #1a1a1a\">Everything You Need For A Home Video Studio</span>",
           "borderRadius": {
@@ -167,43 +256,101 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 47,
-          "y": 207,
-          "width": 304,
-          "height": 123,
+          "x": 132,
+          "y": 362,
+          "width": 387,
+          "height": 156,
           "id": "93d8d962-f3c4-4d52-9301-cc609c08083c",
-          "marginOffset": 9.84375
+          "marginOffset": -8.999999999999993
         },
         {
-          "x": 47,
-          "y": 132,
+          "x": 132,
+          "y": 267,
           "id": "4c188b55-5c84-423a-8ba8-c3aeae17c101",
           "basedOn": "93d8d962-f3c4-4d52-9301-cc609c08083c",
           "opacity": 75,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -224,11 +371,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 15,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 18,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.1,
           "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "type": "text",
           "content": "<span style=\"color: #1a1a1a; letter-spacing: 0.02em; text-transform: uppercase\">Technology advice</span>",
           "borderRadius": {
@@ -238,13 +394,16 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 304,
-          "height": 19,
-          "marginOffset": 9.84375
+          "width": 387,
+          "height": 24,
+          "marginOffset": -3.6000000000000014
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": true },
+          "flip": {
+            "vertical": false,
+            "horizontal": true
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
@@ -252,36 +411,120 @@
           "y": 0,
           "width": 25,
           "height": 25,
-          "sticker": { "type": "studioGrayFrameCorner" },
+          "sticker": {
+            "type": "studioGrayFrameCorner"
+          },
           "id": "a81c8218-6495-4111-b088-b56753263e5c"
         }
       ],
-      "animations": [],
-      "backgroundColor": { "color": { "r": 222, "g": 222, "b": 222 } },
+      "backgroundColor": {
+        "color": {
+          "r": 222,
+          "g": 222,
+          "b": 222
+        }
+      },
       "type": "page",
       "id": "7739dc34-fa9c-4527-8556-56a3d20b255a",
+      "animations": [],
       "pageTemplateType": "cover"
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 446,
+          "height": 251,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
-          "type": "shape",
-          "id": "c386e333-c25e-4753-932b-becdee0151d8"
+          "type": "image",
+          "id": "c386e333-c25e-4753-932b-becdee0151d8",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 4459,
+            "height": 2508,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:aS4Duj2j7r4",
+                "sourceUrl": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=4459&h=2508&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4459,
+                "height": 2508
+              },
+              "large": {
+                "file": "media/unsplash:aS4Duj2j7r4",
+                "sourceUrl": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=3567&h=2006&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3567,
+                "height": 2006
+              },
+              "2675_1505": {
+                "file": "media/unsplash:aS4Duj2j7r4",
+                "sourceUrl": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=2675&h=1505&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2675,
+                "height": 1505
+              },
+              "1783_1003": {
+                "file": "media/unsplash:aS4Duj2j7r4",
+                "sourceUrl": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=1783&h=1003&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1783,
+                "height": 1003
+              },
+              "891_501": {
+                "file": "media/unsplash:aS4Duj2j7r4",
+                "sourceUrl": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=891&h=501&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 891,
+                "height": 501
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:aS4Duj2j7r4",
+                "sourceUrl": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=340&h=191&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 191
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:aS4Duj2j7r4",
+            "baseColor": "#262626",
+            "blurHash": "LaFFsyj]00t74nof%NazD%WAxuWB",
+            "creationDate": "2016-08-16T10:06:52Z",
+            "src": "https://images.unsplash.com/photo-1471341971476-ae15ff5dd4ea?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=4459&h=2508&fit=max",
+            "alt": "camera studio set up",
+            "attribution": {
+              "author": {
+                "displayName": "Alexander Dummer",
+                "url": "https://unsplash.com/de/@4dgraphic?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfH1Iqhgg87FWt1iyOtwreAbIpsnblyED1/eWA9MsK%2BLbw5X0HrzMRzILtgl5UNnJMS4E2VGlVMyD0hb5IjK91yOjrwm27DqskJ8dDOtfIEvjfv4yeFtKRTozlQ8XRuvX/yvHQDWli3zEM5fMTJG1nFvruY90iQDOuMvbhutS7hn%2BcCM7quxS1Z2wRlMu5dA4TdAe4JinigAXSmdjfn1FZf0DdDtQr6/7DNtCqx2DlBkzgrW"
+            }
+          }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 100,
@@ -291,10 +534,10 @@
             "type": "video",
             "mimeType": "video/mp4",
             "creationDate": "2021-07-13T11:59:34",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page02_bgvideo.mp4",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page02_bgvideo.mp4",
             "width": 1080,
             "height": 2048,
-            "poster": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page02_bgvideo-poster.jpg",
+            "poster": "https://wp.stories.google/static/19/images/templates/technology-advice/page02_bgvideo-poster.jpg",
             "posterId": 0,
             "id": 0,
             "length": 24,
@@ -312,10 +555,10 @@
           "autoPlay": true,
           "tracks": [],
           "type": "video",
-          "x": 0,
-          "y": -57,
-          "width": 412,
-          "height": 732,
+          "x": 409,
+          "y": -40,
+          "width": 461,
+          "height": 820,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -328,50 +571,121 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "backgroundColor": {
             "type": "linear",
             "stops": [
-              { "color": { "r": 0, "g": 0, "b": 0 }, "position": 0 },
-              { "color": { "r": 0, "g": 0, "b": 0, "a": 0 }, "position": 1 }
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                },
+                "position": 0
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0
+                },
+                "position": 1
+              }
             ],
             "rotation": 0.5,
             "alpha": 0.8
           },
           "type": "shape",
-          "x": 0,
-          "y": -57,
-          "width": 412,
-          "height": 732,
-          "mask": { "type": "rectangle" },
+          "x": 409,
+          "y": -40,
+          "width": 461,
+          "height": 820,
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "7aeec725-cd40-4045-b189-95c50df58f9f"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Open Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [300, 400, 500, 600, 700, 800],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              300,
+              400,
+              500,
+              600,
+              700,
+              800
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 300],
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [0, 800],
-              [1, 300],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700],
-              [1, 800]
+              [
+                0,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                0,
+                800
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ],
+              [
+                1,
+                800
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -392,11 +706,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 25,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 28,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.3,
           "textAlign": "center",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "type": "text",
           "content": "<span style=\"font-weight: 600; color: #fff\">Matthew Donner</span>",
           "borderRadius": {
@@ -406,395 +729,102 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 304,
-          "height": 34,
-          "marginOffset": 9.84375,
+          "width": 340,
+          "height": 38,
+          "marginOffset": -1.7308593750000014,
           "basedOn": "93d8d962-f3c4-4d52-9301-cc609c08083c",
           "id": "d0d7b713-8deb-4bfd-aaf2-1330979b1b41",
-          "x": 54,
-          "y": 491
+          "x": 469,
+          "y": 574
         },
         {
-          "x": 54,
-          "y": 534,
+          "x": 469,
+          "y": 622,
           "id": "caa32409-4e2b-42ed-a6a3-8396f9f8d5ff",
           "basedOn": "93d8d962-f3c4-4d52-9301-cc609c08083c",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1025,
-              "des": -275,
-              "tAsc": 780,
-              "tDes": -220,
-              "tLGap": 300,
-              "wAsc": 1025,
-              "wDes": 275,
-              "xH": 516,
-              "capH": 698,
-              "yMin": -245,
-              "yMax": 1119,
-              "hAsc": 1025,
-              "hDes": -275,
-              "lGap": 0
-            }
-          },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1,
-          "textAlign": "center",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "type": "text",
-          "content": "<span style=\"color: #fff\">Founder, Sky High Videos</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 304,
-          "height": 21,
-          "marginOffset": 9.84375
-        }
-      ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "type": "page",
-      "id": "4a96c637-97fc-49b8-93bc-693d24b3ed17",
-      "pageTemplateType": null
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-          "x": 0,
-          "y": -57,
-          "width": 412,
-          "height": 732,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "type": "image",
-          "id": "1b4ade05-ef35-4340-aff0-d65cb581a505",
-          "scale": 107,
-          "focalX": 50,
-          "focalY": 53.105420793064994,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/png",
-            "creationDate": "2021-07-13T11:59:35",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page03_bg.jpg",
-            "width": 1080,
-            "height": 1920,
-            "id": 0,
-            "alt": "Man standing on brown field carrying black recording camera during daytime photo",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": false,
-            "baseColor": "#a1a1a0",
-            "isExternal": true
-          }
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "backgroundColor": {
-            "type": "linear",
-            "stops": [
-              { "color": { "r": 0, "g": 0, "b": 0, "a": 0 }, "position": 0 },
-              {
-                "color": { "r": 0, "g": 0, "b": 0, "a": 0.13 },
-                "position": 0.27
-              },
-              {
-                "color": { "r": 0, "g": 0, "b": 0, "a": 0.26 },
-                "position": 0.51
-              },
-              { "color": { "r": 0, "g": 0, "b": 0 }, "position": 1 }
-            ],
-            "rotation": 0.5,
-            "alpha": 0.64
-          },
-          "type": "shape",
-          "width": 412,
-          "height": 732,
-          "mask": { "type": "rectangle" },
-          "basedOn": "7aeec725-cd40-4045-b189-95c50df58f9f",
-          "id": "3929da7d-33d4-4d67-a0ab-510f1a01411c",
-          "x": 0,
-          "y": -60
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
-            "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1025,
-              "des": -275,
-              "tAsc": 780,
-              "tDes": -220,
-              "tLGap": 300,
-              "wAsc": 1025,
-              "wDes": 275,
-              "xH": 516,
-              "capH": 698,
-              "yMin": -245,
-              "yMax": 1119,
-              "hAsc": 1025,
-              "hDes": -275,
-              "lGap": 0
-            }
-          },
-          "fontSize": 25,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.3,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "type": "text",
-          "content": "<span style=\"font-weight: 600; color: #fff\">What are you going to be filming? Will you be on the go? Or static in the studio?</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 318,
-          "height": 96,
-          "marginOffset": 0,
-          "basedOn": "d0d7b713-8deb-4bfd-aaf2-1330979b1b41",
-          "id": "75cfcda7-af7d-40dd-825f-5e6964ca40bd",
-          "x": 47,
-          "y": 0,
-          "tagName": "p"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": true, "horizontal": true },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "type": "sticker",
-          "x": 47,
-          "y": 598,
-          "width": 25,
-          "height": 25,
-          "sticker": { "type": "studioWhiteFrameCorner" },
-          "id": "80795641-48c8-4095-b28c-cc7c4beba29e"
-        }
-      ],
-      "animations": [
-        {
-          "id": "74843fe2-f1ed-482f-ac9c-faf29a4cc865",
-          "type": "effect-background-zoom",
-          "targets": ["1b4ade05-ef35-4340-aff0-d65cb581a505"],
-          "zoomDirection": "scaleOut",
-          "duration": 4000,
-          "delay": 0
-        }
-      ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "type": "page",
-      "id": "c546c742-c032-4cce-8f21-764b3a9c2ea2",
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": { "vertical": false, "horizontal": false },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": { "type": "rectangle" },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "type": "shape",
-        "id": "e6c25952-24f2-4508-8b50-a5fb4b34f03e"
-      },
-      "pageTemplateType": null
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "isDefaultBackground": true,
-          "type": "shape",
-          "id": "8fe1f528-32d9-418d-b834-a54f353ab756"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/png",
-            "creationDate": "2021-07-13T11:59:45",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page04_image01.jpg",
-            "width": 576,
-            "height": 720,
-            "id": 0,
-            "alt": "Flat lay photography of black Red TV camcorder set photo",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": false,
-            "baseColor": "#bfc0c2",
-            "isExternal": true
-          },
-          "type": "image",
-          "x": 0,
-          "y": -57,
-          "width": 412,
-          "height": 537,
-          "mask": {
-            "type": "rectangle",
-            "showInLibrary": true,
-            "name": "Rectangle",
-            "path": "M 0,0 1,0 1,1 0,1 0,0 Z",
-            "ratio": 1,
-            "supportsBorder": true
-          },
-          "id": "27740faa-0211-4168-8f69-142660333a6c"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "backgroundColor": {
-            "type": "linear",
-            "stops": [
-              { "color": { "r": 0, "g": 0, "b": 0, "a": 0 }, "position": 0 },
-              {
-                "color": { "r": 0, "g": 0, "b": 0, "a": 0.13 },
-                "position": 0.27
-              },
-              {
-                "color": { "r": 0, "g": 0, "b": 0, "a": 0.26 },
-                "position": 0.51
-              },
-              { "color": { "r": 0, "g": 0, "b": 0 }, "position": 1 }
-            ],
-            "rotation": 0.5,
-            "alpha": 0.64
-          },
-          "type": "shape",
-          "width": 412,
-          "height": 537,
-          "mask": { "type": "rectangle" },
-          "basedOn": "3929da7d-33d4-4d67-a0ab-510f1a01411c",
-          "id": "5f8b7c67-929d-4020-b89a-e2f8145ee478",
-          "x": 0,
-          "y": -57
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 68, "g": 72, "b": 73 } },
-          "type": "shape",
-          "x": 0,
-          "y": 480,
-          "width": 412,
-          "height": 195,
-          "mask": { "type": "rectangle" },
-          "id": "2d7caaa6-8c4c-4ea6-9d9c-1b651d76952c",
-          "groupId": "4a6f46b0-177c-4c44-9e5d-cd16f3f94826"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
-            "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -816,12 +846,21 @@
             }
           },
           "fontSize": 17,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1,
+          "textAlign": "center",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "type": "text",
-          "content": "<span style=\"color: #fff\">As a preferred choice, RED Camera offers unprecedented configurability and quality for outdoor and indoor shooting.</span>",
+          "content": "<span style=\"color: #fff\">Founder, Sky High Videos</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -829,44 +868,234 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 47,
-          "y": 522,
-          "width": 299,
-          "height": 90,
-          "id": "e42a76a2-a293-4bac-bf2e-4e9e74b2abeb",
-          "marginOffset": 9.84375,
-          "groupId": "4a6f46b0-177c-4c44-9e5d-cd16f3f94826"
+          "width": 340,
+          "height": 23,
+          "marginOffset": -5.100000000000001
+        }
+      ],
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "type": "page",
+      "id": "4a96c637-97fc-49b8-93bc-693d24b3ed17",
+      "pageTemplateType": null,
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "4e294e8f-0d12-467a-93fb-3f3b9df67a31"
+      },
+      "animations": []
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundColor": {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255
+            }
+          },
+          "x": 0,
+          "y": -57,
+          "width": 412,
+          "height": 732,
+          "mask": {
+            "type": "rectangle"
+          },
+          "isBackground": true,
+          "type": "image",
+          "id": "1b4ade05-ef35-4340-aff0-d65cb581a505",
+          "scale": 107,
+          "focalX": 50,
+          "focalY": 53.105420793064994,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/png",
+            "creationDate": "2021-07-13T11:59:35",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page03_bg.jpg",
+            "width": 1080,
+            "height": 1920,
+            "id": 0,
+            "alt": "Man standing on brown field carrying black recording camera during daytime photo",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": false,
+            "baseColor": "#a1a1a0",
+            "isExternal": true
+          }
         },
         {
-          "x": 344,
-          "y": 586,
-          "id": "161fc8d3-d042-461a-aae6-538368ba9287",
-          "basedOn": "e42a76a2-a293-4bac-bf2e-4e9e74b2abeb",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 90,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "backgroundColor": {
+            "type": "linear",
+            "stops": [
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0
+                },
+                "position": 0
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0.13
+                },
+                "position": 0.27
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0.26
+                },
+                "position": 0.51
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                },
+                "position": 1
+              }
+            ],
+            "rotation": 0.5,
+            "alpha": 0.64
+          },
+          "type": "shape",
+          "width": 513,
+          "height": 767,
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "7aeec725-cd40-4045-b189-95c50df58f9f",
+          "id": "3929da7d-33d4-4d67-a0ab-510f1a01411c",
+          "x": 0,
+          "y": -48
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -887,13 +1116,24 @@
               "lGap": 0
             }
           },
-          "fontSize": 12,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1,
+          "fontSize": 28,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.3,
           "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
           "type": "text",
-          "content": "<span style=\"color: rgba(171,171,171,0.5); letter-spacing: 0.01em\">0218</span>",
+          "content": "<span style=\"font-weight: 600; color: #fff\">What are you going to be filming? Will you be on the go? Or static in the studio?</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -901,41 +1141,440 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 30,
-          "height": 16,
-          "marginOffset": 0.19999999999999973,
+          "width": 343,
+          "height": 109,
+          "marginOffset": 0,
+          "basedOn": "d0d7b713-8deb-4bfd-aaf2-1330979b1b41",
+          "id": "75cfcda7-af7d-40dd-825f-5e6964ca40bd",
+          "x": 72,
+          "y": 36,
+          "tagName": "p"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": true,
+            "horizontal": true
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "type": "sticker",
+          "x": 47,
+          "y": 598,
+          "width": 25,
+          "height": 25,
+          "sticker": {
+            "type": "studioWhiteFrameCorner"
+          },
+          "id": "80795641-48c8-4095-b28c-cc7c4beba29e"
+        }
+      ],
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "type": "page",
+      "id": "c546c742-c032-4cce-8f21-764b3a9c2ea2",
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "backgroundColor": {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          }
+        },
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "e6c25952-24f2-4508-8b50-a5fb4b34f03e"
+      },
+      "animations": [
+        {
+          "id": "74843fe2-f1ed-482f-ac9c-faf29a4cc865",
+          "type": "effect-background-zoom",
+          "targets": [
+            "1b4ade05-ef35-4340-aff0-d65cb581a505"
+          ],
+          "zoomDirection": "scaleOut",
+          "duration": 4000,
+          "delay": 0
+        }
+      ],
+      "pageTemplateType": null
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/png",
+            "creationDate": "2021-07-13T11:59:45",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page04_image01.jpg",
+            "width": 576,
+            "height": 720,
+            "id": 0,
+            "alt": "Flat lay photography of black Red TV camcorder set photo",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": false,
+            "baseColor": "#bfc0c2",
+            "isExternal": true
+          },
+          "type": "image",
+          "x": 773,
+          "y": -28,
+          "width": 459,
+          "height": 598,
+          "mask": {
+            "type": "rectangle",
+            "showInLibrary": true,
+            "name": "Rectangle",
+            "path": "M 0,0 1,0 1,1 0,1 0,0 Z",
+            "ratio": 1,
+            "supportsBorder": true
+          },
+          "id": "27740faa-0211-4168-8f69-142660333a6c",
+          "isBackground": true
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "backgroundColor": {
+            "type": "linear",
+            "stops": [
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0
+                },
+                "position": 0
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0.13
+                },
+                "position": 0.27
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0.26
+                },
+                "position": 0.51
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                },
+                "position": 1
+              }
+            ],
+            "rotation": 0.5,
+            "alpha": 0.64
+          },
+          "type": "shape",
+          "width": 459,
+          "height": 719,
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "3929da7d-33d4-4d67-a0ab-510f1a01411c",
+          "id": "5f8b7c67-929d-4020-b89a-e2f8145ee478",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "backgroundColor": {
+            "color": {
+              "r": 68,
+              "g": 72,
+              "b": 73
+            }
+          },
+          "type": "shape",
+          "x": 758,
+          "y": 248,
+          "width": 561,
+          "height": 265,
+          "mask": {
+            "type": "rectangle"
+          },
+          "id": "2d7caaa6-8c4c-4ea6-9d9c-1b651d76952c",
           "groupId": "4a6f46b0-177c-4c44-9e5d-cd16f3f94826"
         },
         {
-          "x": 47,
-          "y": -4,
-          "id": "b1045094-f7d9-4926-8762-cdf600551d7c",
-          "basedOn": "e42a76a2-a293-4bac-bf2e-4e9e74b2abeb",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1025,
+              "des": -275,
+              "tAsc": 780,
+              "tDes": -220,
+              "tLGap": 300,
+              "wAsc": 1025,
+              "wDes": 275,
+              "xH": 516,
+              "capH": 698,
+              "yMin": -245,
+              "yMax": 1119,
+              "hAsc": 1025,
+              "hDes": -275,
+              "lGap": 0
+            }
+          },
+          "fontSize": 24,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.4,
+          "textAlign": "left",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
+          "type": "text",
+          "content": "<span style=\"color: #fff\">As a preferred choice, RED Camera offers unprecedented configurability and quality for outdoor and indoor shooting.</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "x": 823,
+          "y": 305,
+          "width": 432,
+          "height": 135,
+          "id": "e42a76a2-a293-4bac-bf2e-4e9e74b2abeb",
+          "marginOffset": 2.5,
+          "groupId": "4a6f46b0-177c-4c44-9e5d-cd16f3f94826"
+        },
+        {
+          "x": 1225,
+          "y": 369,
+          "id": "161fc8d3-d042-461a-aae6-538368ba9287",
+          "basedOn": "e42a76a2-a293-4bac-bf2e-4e9e74b2abeb",
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 90,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "IBM Plex Sans",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -957,12 +1596,23 @@
             }
           },
           "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1,
           "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
           "type": "text",
-          "content": "<span style=\"color: #fff\">My choice for best camera:</span>",
+          "content": "<span style=\"color: rgba(171,171,171,0.5); letter-spacing: 0.01em\">0218</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -970,37 +1620,99 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 299,
-          "height": 20,
-          "marginOffset": 9.84375,
-          "groupId": "1416f63c-6823-4f69-a8f7-38c3929526b5"
+          "width": 60,
+          "height": 22,
+          "marginOffset": -5.100000000000001,
+          "groupId": "4a6f46b0-177c-4c44-9e5d-cd16f3f94826"
         },
         {
+          "x": 48,
+          "y": 311,
+          "id": "b1045094-f7d9-4926-8762-cdf600551d7c",
+          "basedOn": "e42a76a2-a293-4bac-bf2e-4e9e74b2abeb",
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1022,10 +1734,155 @@
             }
           },
           "fontSize": 30,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1,
+          "textAlign": "left",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
+          "type": "text",
+          "content": "<span style=\"color: #fff\">My choice for best camera:</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 447,
+          "height": 39,
+          "marginOffset": -9.300000000000004,
+          "groupId": "1416f63c-6823-4f69-a8f7-38c3929526b5"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "IBM Plex Sans",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1025,
+              "des": -275,
+              "tAsc": 780,
+              "tDes": -220,
+              "tLGap": 300,
+              "wAsc": 1025,
+              "wDes": 275,
+              "xH": 516,
+              "capH": 698,
+              "yMin": -245,
+              "yMax": 1119,
+              "hAsc": 1025,
+              "hDes": -275,
+              "lGap": 0
+            }
+          },
+          "fontSize": 45,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.3,
           "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
           "type": "text",
           "content": "<span style=\"font-weight: 600; color: #fff; text-transform: uppercase\">RED</span><span style=\"font-weight: 600; color: #fff\"> Camera</span>",
           "borderRadius": {
@@ -1035,55 +1892,78 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 318,
-          "height": 39,
+          "width": 475,
+          "height": 59,
           "marginOffset": 0,
           "basedOn": "75cfcda7-af7d-40dd-825f-5e6964ca40bd",
           "id": "cca05235-7415-4377-9c94-cb45ec8cfe16",
-          "x": 47,
-          "y": 23,
+          "x": 48,
+          "y": 351,
           "groupId": "1416f63c-6823-4f69-a8f7-38c3929526b5"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "x": 340,
-          "y": 0,
-          "width": 25,
-          "height": 25,
-          "sticker": { "type": "studioWhiteFrameCorner" },
+          "x": 1179,
+          "y": 21,
+          "width": 28,
+          "height": 28,
+          "sticker": {
+            "type": "studioWhiteFrameCorner"
+          },
           "id": "384456cc-8695-47e0-ad9d-e833470b228b"
         },
         {
-          "x": 47,
-          "y": 424,
+          "x": 826,
+          "y": 508,
           "id": "cdeef913-10aa-452c-871f-64d0a5004ae3",
           "basedOn": "384456cc-8695-47e0-ad9d-e833470b228b",
           "opacity": 100,
-          "flip": { "vertical": true, "horizontal": true },
+          "flip": {
+            "vertical": true,
+            "horizontal": true
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "width": 25,
-          "height": 25,
-          "sticker": { "type": "studioWhiteFrameCorner" }
+          "width": 28,
+          "height": 28,
+          "sticker": {
+            "type": "studioWhiteFrameCorner"
+          }
         }
       ],
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "type": "page",
+      "id": "2a7ca89f-f3b8-4db3-9dd3-c87e6dc80ab8",
       "animations": [
         {
           "id": "177efa9c-e483-4d33-8c93-3f58f8d91dd0",
           "type": "effect-fade-in",
-          "targets": ["cca05235-7415-4377-9c94-cb45ec8cfe16"],
+          "targets": [
+            "cca05235-7415-4377-9c94-cb45ec8cfe16"
+          ],
           "duration": 1500,
           "delay": 250
         },
         {
           "id": "c3bbb8f8-45b0-404a-afad-44e4a7b1fcd7",
           "type": "effect-fade-in",
-          "targets": ["b1045094-f7d9-4926-8762-cdf600551d7c"],
+          "targets": [
+            "b1045094-f7d9-4926-8762-cdf600551d7c"
+          ],
           "duration": 1500,
           "delay": 250
         },
@@ -1093,68 +1973,184 @@
           "scaleDirection": "scaleOut",
           "duration": 4000,
           "delay": 0,
-          "targets": ["5f8b7c67-929d-4020-b89a-e2f8145ee478"]
-        },
-        {
-          "id": "38436653-e547-467c-ae11-9541d2004aad",
-          "type": "effect-zoom",
-          "targets": ["27740faa-0211-4168-8f69-142660333a6c"],
-          "scaleDirection": "scaleOut",
-          "duration": 4000,
-          "delay": 0
+          "targets": [
+            "5f8b7c67-929d-4020-b89a-e2f8145ee478"
+          ]
         },
         {
           "id": "5e975c9b-2b41-421c-ae69-0bd1d88a6a4c",
           "type": "effect-fade-in",
-          "targets": ["384456cc-8695-47e0-ad9d-e833470b228b"],
+          "targets": [
+            "384456cc-8695-47e0-ad9d-e833470b228b"
+          ],
           "duration": 1500,
           "delay": 350
         },
         {
           "id": "0d58df1a-c52c-4757-94ff-3b3d654d7939",
           "type": "effect-fade-in",
-          "targets": ["cdeef913-10aa-452c-871f-64d0a5004ae3"],
+          "targets": [
+            "cdeef913-10aa-452c-871f-64d0a5004ae3"
+          ],
           "duration": 1500,
           "delay": 350
         }
       ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "type": "page",
-      "id": "2a7ca89f-f3b8-4db3-9dd3-c87e6dc80ab8",
       "pageTemplateType": "section",
       "groups": {
         "4a6f46b0-177c-4c44-9e5d-cd16f3f94826": {
           "name": "Info",
           "isLocked": false,
-          "isCollapsed": true
+          "isCollapsed": false
         },
         "1416f63c-6823-4f69-a8f7-38c3929526b5": {
           "name": "Header",
           "isLocked": false,
-          "isCollapsed": true
+          "isCollapsed": false
         }
+      },
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "8fe1f528-32d9-418d-b834-a54f353ab756"
       }
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 600,
+          "height": 400,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
-          "type": "shape",
-          "id": "51907be0-9a08-471d-ba74-f6ae9641618a"
+          "type": "image",
+          "id": "51907be0-9a08-471d-ba74-f6ae9641618a",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 6000,
+            "height": 4000,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:WxM465oM4j4",
+                "sourceUrl": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=6000&h=4000&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 6000,
+                "height": 4000
+              },
+              "large": {
+                "file": "media/unsplash:WxM465oM4j4",
+                "sourceUrl": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=4800&h=3200&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4800,
+                "height": 3200
+              },
+              "3600_2400": {
+                "file": "media/unsplash:WxM465oM4j4",
+                "sourceUrl": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=3600&h=2400&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3600,
+                "height": 2400
+              },
+              "2400_1600": {
+                "file": "media/unsplash:WxM465oM4j4",
+                "sourceUrl": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=2400&h=1600&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2400,
+                "height": 1600
+              },
+              "1200_800": {
+                "file": "media/unsplash:WxM465oM4j4",
+                "sourceUrl": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=1200&h=800&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1200,
+                "height": 800
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:WxM465oM4j4",
+                "sourceUrl": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 227
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:WxM465oM4j4",
+            "baseColor": "#260c0c",
+            "blurHash": "LPExz|RPD$%1~WV@RjjZ-=niRjkX",
+            "creationDate": "2018-11-12T16:08:02Z",
+            "src": "https://images.unsplash.com/photo-1542038784456-1ea8e935640e?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=6000&h=4000&fit=max",
+            "alt": "black DSLR camera floating over man's hand at the woods",
+            "attribution": {
+              "author": {
+                "displayName": "Reinhart Julian",
+                "url": "https://unsplash.com/@reinhartjulian?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfEbEU7QH9v/KyfQGKvbVxKr7tQvpPXJ1UDU9BuymAT2EiwFLcuG9kPYRUF4b1r3EmYXCSNRKLILEg%2BR%2BIee0Oy3Cnf4H5jSNL64PX5oumOi/TodkXTrPdSlJIPulqWoJgiVPD%2Bqv/YsllqVsm/4regdYJxoVgRo1H4mWwKQul2uqXJxy99jR3M0%2BbE1y9sZQiNdD7QUj/nwcDUyUmgwBbF9vqz09z96u8ZnFLFl7WgJQTVg"
+            }
+          },
+          "overlay": {
+            "type": "linear",
+            "rotation": 0,
+            "stops": [
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0
+                },
+                "position": 0.4
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                },
+                "position": 1
+              }
+            ],
+            "alpha": 0.5
+          }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 100,
@@ -1164,10 +2160,10 @@
             "type": "video",
             "mimeType": "video/mp4",
             "creationDate": "2021-07-13T11:59:50",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page05_bgvideo.mp4",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page05_bgvideo.mp4",
             "width": 1080,
             "height": 2048,
-            "poster": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page05_bgvideo-poster.jpg",
+            "poster": "https://wp.stories.google/static/19/images/templates/technology-advice/page05_bgvideo-poster.jpg",
             "posterId": 0,
             "id": 0,
             "length": 5,
@@ -1185,10 +2181,10 @@
           "autoPlay": true,
           "tracks": [],
           "type": "video",
-          "x": 0,
-          "y": -57,
-          "width": 412,
-          "height": 732,
+          "x": 419,
+          "y": -1,
+          "width": 427,
+          "height": 720,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -1197,117 +2193,50 @@
             "ratio": 1,
             "supportsBorder": true
           },
-          "id": "d12e2f40-8ecd-4ead-8706-de24c77f792e"
+          "id": "d12e2f40-8ecd-4ead-8706-de24c77f792e",
+          "overlay": null
         }
       ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
       "type": "page",
       "id": "7060ff56-39f1-4790-80c2-06cb249369f3",
-      "pageTemplateType": null
+      "pageTemplateType": null,
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "163d37d6-3d92-40e8-b36a-87645595a153"
+      },
+      "animations": []
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "isDefaultBackground": true,
-          "type": "shape",
-          "id": "bd3e0933-b231-4c1e-ba8e-1beb2f89f923"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 68, "g": 72, "b": 73 } },
-          "type": "shape",
-          "width": 412,
-          "height": 460,
-          "mask": { "type": "rectangle" },
-          "basedOn": "2d7caaa6-8c4c-4ea6-9d9c-1b651d76952c",
-          "id": "59aed3b0-368a-4c68-9238-e4bb34000f8a",
-          "x": 0,
-          "y": 220
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
-            "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1025,
-              "des": -275,
-              "tAsc": 780,
-              "tDes": -220,
-              "tLGap": 300,
-              "wAsc": 1025,
-              "wDes": 275,
-              "xH": 516,
-              "capH": 698,
-              "yMin": -245,
-              "yMax": 1119,
-              "hAsc": 1025,
-              "hDes": -275,
-              "lGap": 0
-            }
+          "flip": {
+            "vertical": false,
+            "horizontal": false
           },
-          "fontSize": 17,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "type": "text",
-          "content": "<span style=\"color: #fff\">With the right base camera, you can experiment with more low-fi attachments like your phone.</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 299,
-          "height": 69,
-          "marginOffset": 9.84375,
-          "basedOn": "e42a76a2-a293-4bac-bf2e-4e9e74b2abeb",
-          "id": "6c1f57f0-a45d-4b1b-8a00-97e11c3e8ff5",
-          "x": 47,
-          "y": 546
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 100,
@@ -1317,7 +2246,7 @@
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-13T11:59:53",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page06_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page06_image01.jpg",
             "width": 720,
             "height": 481,
             "id": 0,
@@ -1329,9 +2258,9 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 47,
-          "y": -87,
-          "width": 713,
+          "x": 205,
+          "y": -64,
+          "width": 855,
           "height": 587,
           "mask": {
             "type": "rectangle",
@@ -1341,82 +2270,119 @@
             "ratio": 1,
             "supportsBorder": true
           },
-          "id": "f721c06b-077d-4471-a8e2-da9e30db2051"
-        }
-      ],
-      "animations": [
-        {
-          "id": "bb6f6288-23b7-4d84-87d3-aa29200d7c1b",
-          "type": "effect-fly-in",
-          "targets": ["f721c06b-077d-4471-a8e2-da9e30db2051"],
-          "flyInDir": "rightToLeft",
-          "duration": 2000,
-          "delay": 0
-        }
-      ],
-      "backgroundColor": { "color": { "r": 222, "g": 222, "b": 222 } },
-      "type": "page",
-      "id": "66fd2353-9565-4854-bbcd-bfe21e7f0c3c",
-      "pageTemplateType": null
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "isDefaultBackground": true,
-          "id": "7382f577-e6c1-40e1-80fc-2c84905d8cfa",
-          "type": "shape"
+          "id": "f721c06b-077d-4471-a8e2-da9e30db2051",
+          "isBackground": true
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 68, "g": 72, "b": 73 } },
-          "width": 412,
-          "height": 460,
-          "mask": { "type": "rectangle" },
+          "backgroundColor": {
+            "color": {
+              "r": 68,
+              "g": 72,
+              "b": 73
+            }
+          },
+          "type": "shape",
+          "width": 456,
+          "height": 136,
+          "mask": {
+            "type": "rectangle"
+          },
           "basedOn": "2d7caaa6-8c4c-4ea6-9d9c-1b651d76952c",
-          "id": "87d4460b-69fd-4326-bdc4-770a0f2d4561",
-          "x": 0,
-          "y": 220,
-          "type": "shape"
+          "id": "59aed3b0-368a-4c68-9238-e4bb34000f8a",
+          "x": 776,
+          "y": 583
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1437,11 +2403,240 @@
               "lGap": 0
             }
           },
-          "fontSize": 17,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 24,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.4,
+          "textAlign": "center",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "type": "text",
+          "content": "<span style=\"color: #fff\">With the right base camera, you can experiment with more low-fi attachments like your phone.</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 384,
+          "height": 98,
+          "marginOffset": 9.84375,
+          "basedOn": "e42a76a2-a293-4bac-bf2e-4e9e74b2abeb",
+          "id": "6c1f57f0-a45d-4b1b-8a00-97e11c3e8ff5",
+          "x": 812,
+          "y": 601
+        }
+      ],
+      "backgroundColor": {
+        "color": {
+          "r": 222,
+          "g": 222,
+          "b": 222
+        }
+      },
+      "type": "page",
+      "id": "66fd2353-9565-4854-bbcd-bfe21e7f0c3c",
+      "animations": [],
+      "pageTemplateType": null,
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "bd3e0933-b231-4c1e-ba8e-1beb2f89f923"
+      }
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "x": 1,
+          "y": 1,
+          "width": 1,
+          "height": 1,
+          "mask": {
+            "type": "rectangle"
+          },
+          "isBackground": true,
+          "isDefaultBackground": true,
+          "id": "7382f577-e6c1-40e1-80fc-2c84905d8cfa",
+          "type": "shape"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "backgroundColor": {
+            "color": {
+              "r": 68,
+              "g": 72,
+              "b": 73
+            }
+          },
+          "width": 667,
+          "height": 647,
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "2d7caaa6-8c4c-4ea6-9d9c-1b651d76952c",
+          "id": "87d4460b-69fd-4326-bdc4-770a0f2d4561",
+          "x": 564,
+          "y": 35,
+          "type": "shape"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "IBM Plex Sans",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1025,
+              "des": -275,
+              "tAsc": 780,
+              "tDes": -220,
+              "tLGap": 300,
+              "wAsc": 1025,
+              "wDes": 275,
+              "xH": 516,
+              "capH": 698,
+              "yMin": -245,
+              "yMax": 1119,
+              "hAsc": 1025,
+              "hDes": -275,
+              "lGap": 0
+            }
+          },
+          "fontSize": 30,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
           "content": "<span style=\"color: #fff\">For more details check out specs and compare cameras at </span><span style=\"color: #fff\">Camera Culture</span><span style=\"color: #fff\">.</span>",
           "borderRadius": {
             "locked": true,
@@ -1450,18 +2645,21 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 299,
-          "height": 46,
-          "marginOffset": 9.84375,
+          "width": 522,
+          "height": 82,
+          "marginOffset": 3.0999999999999943,
           "basedOn": "e42a76a2-a293-4bac-bf2e-4e9e74b2abeb",
           "id": "e44ba583-e67e-41ac-a293-6cc6b2b71673",
-          "x": 47,
-          "y": 570,
+          "x": 657,
+          "y": 516,
           "type": "text"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 100,
@@ -1471,7 +2669,7 @@
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-13T11:59:17",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page01_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page01_image01.jpg",
             "width": 480,
             "height": 720,
             "id": 0,
@@ -1483,10 +2681,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 47,
-          "y": -57,
-          "width": 228,
-          "height": 342,
+          "x": 167,
+          "y": 70,
+          "width": 397,
+          "height": 577,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -1499,7 +2697,10 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 100,
@@ -1509,7 +2710,7 @@
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-13T11:59:53",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page06_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page06_image01.jpg",
             "width": 720,
             "height": 481,
             "id": 0,
@@ -1521,10 +2722,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 133,
-          "y": 347,
-          "width": 232,
-          "height": 154,
+          "x": 744,
+          "y": 165,
+          "width": 435,
+          "height": 252,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -1537,299 +2738,88 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
-            "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+            "fallbacks": [
+              "sans-serif"
             ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1025,
-              "des": -275,
-              "tAsc": 780,
-              "tDes": -220,
-              "tLGap": 300,
-              "wAsc": 1025,
-              "wDes": 275,
-              "xH": 516,
-              "capH": 698,
-              "yMin": -245,
-              "yMax": 1119,
-              "hAsc": 1025,
-              "hDes": -275,
-              "lGap": 0
-            }
-          },
-          "fontSize": 12,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "type": "text",
-          "content": "<span style=\"color: rgba(171,171,171,0.75); letter-spacing: 0.01em\">0218</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 30,
-          "height": 16,
-          "marginOffset": 0.19999999999999973,
-          "basedOn": "161fc8d3-d042-461a-aae6-538368ba9287",
-          "id": "3b746604-bbe3-41c8-aeac-554739f6f151",
-          "x": 335,
-          "y": 187
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "type": "sticker",
-          "x": 347,
-          "y": 0,
-          "width": 25,
-          "height": 25,
-          "sticker": { "type": "studioGrayFrameCorner" },
-          "id": "05cb2254-ea62-455b-933c-aaf8008518b7"
-        },
-        {
-          "x": 47,
-          "y": 500,
-          "id": "4a7d5042-7310-4287-9197-76b88123b4f5",
-          "basedOn": "05cb2254-ea62-455b-933c-aaf8008518b7",
-          "opacity": 100,
-          "flip": { "vertical": true, "horizontal": true },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "type": "sticker",
-          "width": 25,
-          "height": 25,
-          "sticker": { "type": "studioGrayFrameCorner" }
-        }
-      ],
-      "animations": [],
-      "backgroundColor": { "color": { "r": 222, "g": 222, "b": 222 } },
-      "type": "page",
-      "id": "135b6ea2-25f1-42fd-87a2-72c84d5181e4",
-      "pageTemplateType": null
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "isDefaultBackground": true,
-          "id": "0bb87a54-45fa-4faa-800b-1d400617947c",
-          "type": "shape"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/png",
-            "creationDate": "2021-07-13T11:59:59",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page08_image01.jpg",
-            "width": 1280,
-            "height": 720,
-            "id": 0,
-            "alt": "Person holding black macro lens photo",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": false,
-            "baseColor": "#d8cfcd",
-            "isExternal": true
-          },
-          "type": "image",
-          "x": -222,
-          "y": -57,
-          "width": 858,
-          "height": 537,
-          "mask": {
-            "type": "rectangle",
-            "showInLibrary": true,
-            "name": "Rectangle",
-            "path": "M 0,0 1,0 1,1 0,1 0,0 Z",
-            "ratio": 1,
-            "supportsBorder": true
-          },
-          "id": "9314f495-b5dd-40c1-bc09-05d9ac9b8e17"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "backgroundColor": {
-            "type": "linear",
-            "stops": [
-              { "color": { "r": 0, "g": 0, "b": 0, "a": 0 }, "position": 0 },
-              {
-                "color": { "r": 0, "g": 0, "b": 0, "a": 0.13 },
-                "position": 0.27
-              },
-              {
-                "color": { "r": 0, "g": 0, "b": 0, "a": 0.26 },
-                "position": 0.51
-              },
-              { "color": { "r": 0, "g": 0, "b": 0 }, "position": 1 }
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
             ],
-            "rotation": 0.5,
-            "alpha": 0.64
-          },
-          "width": 412,
-          "height": 270,
-          "mask": { "type": "rectangle" },
-          "basedOn": "3929da7d-33d4-4d67-a0ab-510f1a01411c",
-          "id": "ce4e63f4-e7a5-4782-8d9d-6a154d2f1fdd",
-          "x": 0,
-          "y": -57,
-          "type": "shape"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 68, "g": 72, "b": 73 } },
-          "x": 0,
-          "y": 480,
-          "width": 412,
-          "height": 195,
-          "mask": { "type": "rectangle" },
-          "id": "7ef9f439-332b-4ab4-8745-d24381a4b1e3",
-          "type": "shape"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
-            "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+            "styles": [
+              "italic",
+              "regular"
             ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1025,
-              "des": -275,
-              "tAsc": 780,
-              "tDes": -220,
-              "tLGap": 300,
-              "wAsc": 1025,
-              "wDes": 275,
-              "xH": 516,
-              "capH": 698,
-              "yMin": -245,
-              "yMax": 1119,
-              "hAsc": 1025,
-              "hDes": -275,
-              "lGap": 0
-            }
-          },
-          "fontSize": 17,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"color: #fff\">A good lens is likely to outlive your camera body because good optics are not prone to obsolescence like your fast advancing electronic hardware.</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "x": 47,
-          "y": 522,
-          "width": 299,
-          "height": 93,
-          "id": "65519768-c923-4437-b950-fa74c9691aef",
-          "marginOffset": 9.84375,
-          "type": "text"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1851,12 +2841,497 @@
             }
           },
           "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1,
           "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "x": 47,
-          "y": -4,
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
+          "type": "text",
+          "content": "<span style=\"color: rgba(171,171,171,0.75); letter-spacing: 0.01em\">0218</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 70,
+          "height": 21,
+          "marginOffset": -5.100000000000001,
+          "basedOn": "161fc8d3-d042-461a-aae6-538368ba9287",
+          "id": "3b746604-bbe3-41c8-aeac-554739f6f151",
+          "x": 1111,
+          "y": 121
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "type": "sticker",
+          "x": 347,
+          "y": 0,
+          "width": 25,
+          "height": 25,
+          "sticker": {
+            "type": "studioGrayFrameCorner"
+          },
+          "id": "05cb2254-ea62-455b-933c-aaf8008518b7"
+        },
+        {
+          "x": 609,
+          "y": 454,
+          "id": "4a7d5042-7310-4287-9197-76b88123b4f5",
+          "basedOn": "05cb2254-ea62-455b-933c-aaf8008518b7",
+          "opacity": 100,
+          "flip": {
+            "vertical": true,
+            "horizontal": true
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "type": "sticker",
+          "width": 40,
+          "height": 40,
+          "sticker": {
+            "type": "studioGrayFrameCorner"
+          }
+        }
+      ],
+      "animations": [
+        {
+          "id": "f4babbe9-c9c5-486b-b180-6459887c5eab",
+          "type": "effect-fly-in",
+          "flyInDir": "leftToRight",
+          "duration": 600,
+          "delay": 0,
+          "targets": [
+            "255f30a2-5fdb-48fa-af78-7294f82e738f"
+          ]
+        },
+        {
+          "id": "9a48880d-8779-47dc-b75f-2f1acf9d1da6",
+          "type": "effect-fly-in",
+          "flyInDir": "rightToLeft",
+          "duration": 600,
+          "delay": 0,
+          "targets": [
+            "391690f9-a982-4b25-ab58-c5727e4354f2"
+          ]
+        }
+      ],
+      "backgroundColor": {
+        "color": {
+          "r": 222,
+          "g": 222,
+          "b": 222
+        }
+      },
+      "type": "page",
+      "id": "135b6ea2-25f1-42fd-87a2-72c84d5181e4",
+      "pageTemplateType": null
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/png",
+            "creationDate": "2021-07-13T11:59:59",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page08_image01.jpg",
+            "width": 1280,
+            "height": 720,
+            "id": 0,
+            "alt": "Person holding black macro lens photo",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": false,
+            "baseColor": "#d8cfcd",
+            "isExternal": true
+          },
+          "type": "image",
+          "x": 210,
+          "y": -7,
+          "width": 858,
+          "height": 537,
+          "mask": {
+            "type": "rectangle",
+            "showInLibrary": true,
+            "name": "Rectangle",
+            "path": "M 0,0 1,0 1,1 0,1 0,0 Z",
+            "ratio": 1,
+            "supportsBorder": true
+          },
+          "id": "9314f495-b5dd-40c1-bc09-05d9ac9b8e17",
+          "isBackground": true
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "backgroundColor": {
+            "type": "linear",
+            "stops": [
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0
+                },
+                "position": 0
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0.13
+                },
+                "position": 0.27
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0.26
+                },
+                "position": 0.51
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                },
+                "position": 1
+              }
+            ],
+            "rotation": 0.5,
+            "alpha": 0.64
+          },
+          "width": 677,
+          "height": 441,
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "3929da7d-33d4-4d67-a0ab-510f1a01411c",
+          "id": "ce4e63f4-e7a5-4782-8d9d-6a154d2f1fdd",
+          "x": -38,
+          "y": -27,
+          "type": "shape"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "backgroundColor": {
+            "color": {
+              "r": 68,
+              "g": 72,
+              "b": 73
+            }
+          },
+          "x": 761,
+          "y": 523,
+          "width": 519,
+          "height": 195,
+          "mask": {
+            "type": "rectangle"
+          },
+          "id": "7ef9f439-332b-4ab4-8745-d24381a4b1e3",
+          "type": "shape"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "IBM Plex Sans",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1025,
+              "des": -275,
+              "tAsc": 780,
+              "tDes": -220,
+              "tLGap": 300,
+              "wAsc": 1025,
+              "wDes": 275,
+              "xH": 516,
+              "capH": 698,
+              "yMin": -245,
+              "yMax": 1119,
+              "hAsc": 1025,
+              "hDes": -275,
+              "lGap": 0
+            }
+          },
+          "fontSize": 22,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.4,
+          "textAlign": "center",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
+          "content": "<span style=\"color: #fff\">A good lens is likely to outlive your camera body because good optics are not prone to obsolescence like your fast advancing electronic hardware.</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "x": 820,
+          "y": 561,
+          "width": 400,
+          "height": 120,
+          "id": "65519768-c923-4437-b950-fa74c9691aef",
+          "marginOffset": 9.84375,
+          "type": "text"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "IBM Plex Sans",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1025,
+              "des": -275,
+              "tAsc": 780,
+              "tDes": -220,
+              "tLGap": 300,
+              "wAsc": 1025,
+              "wDes": 275,
+              "xH": 516,
+              "capH": 698,
+              "yMin": -245,
+              "yMax": 1119,
+              "hAsc": 1025,
+              "hDes": -275,
+              "lGap": 0
+            }
+          },
+          "fontSize": 31,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1,
+          "textAlign": "left",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
+          "x": 70,
+          "y": 60,
           "id": "9f62b4a4-a397-4329-8019-83d1c0dcdaab",
           "basedOn": "e42a76a2-a293-4bac-bf2e-4e9e74b2abeb",
           "content": "<span style=\"color: #fff\">My go to lenses:</span>",
@@ -1867,37 +3342,695 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 299,
-          "height": 20,
-          "marginOffset": 9.84375,
+          "width": 487,
+          "height": 41,
+          "marginOffset": -9.300000000000004,
           "type": "text"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1025,
+              "des": -275,
+              "tAsc": 780,
+              "tDes": -220,
+              "tLGap": 300,
+              "wAsc": 1025,
+              "wDes": 275,
+              "xH": 516,
+              "capH": 698,
+              "yMin": -245,
+              "yMax": 1119,
+              "hAsc": 1025,
+              "hDes": -275,
+              "lGap": 0
+            }
+          },
+          "fontSize": 45,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.3,
+          "textAlign": "left",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
+          "content": "<span style=\"font-weight: 600; color: #fff\">Nikon </span><span style=\"font-weight: 600; color: #fff; text-transform: uppercase\">HB</span><span style=\"font-weight: 600; color: #fff\">-47 50mm lens</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 518,
+          "height": 59,
+          "marginOffset": 0,
+          "basedOn": "75cfcda7-af7d-40dd-825f-5e6964ca40bd",
+          "id": "1bb35d70-a29d-40c0-ad08-1ece8faad539",
+          "x": 70,
+          "y": 103,
+          "type": "text",
+          "tagName": "h2"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "type": "sticker",
+          "width": 41,
+          "height": 41,
+          "sticker": {
+            "type": "studioWhiteFrameCorner"
+          },
+          "basedOn": "384456cc-8695-47e0-ad9d-e833470b228b",
+          "id": "1622f4ff-ce5f-4f3f-8820-d2161b844cc4",
+          "x": 547,
+          "y": 66
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": true,
+            "horizontal": true
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "type": "sticker",
+          "width": 25,
+          "height": 25,
+          "sticker": {
+            "type": "studioWhiteFrameCorner"
+          },
+          "basedOn": "cdeef913-10aa-452c-871f-64d0a5004ae3",
+          "id": "a40f82f4-b994-4a62-9984-0e4aad859e02",
+          "x": 479,
+          "y": 474
+        }
+      ],
+      "animations": [
+        {
+          "id": "cd561412-4d8e-41f6-b49a-e29622bc2e1c",
+          "type": "effect-fade-in",
+          "targets": [
+            "1bb35d70-a29d-40c0-ad08-1ece8faad539"
+          ],
+          "duration": 1500,
+          "delay": 250
+        },
+        {
+          "id": "0cb53a7e-d5a7-4b79-9e32-e027475aa51f",
+          "type": "effect-fade-in",
+          "targets": [
+            "9f62b4a4-a397-4329-8019-83d1c0dcdaab"
+          ],
+          "duration": 1500,
+          "delay": 250
+        },
+        {
+          "id": "be4223fa-adb7-43d3-817c-785d14643f30",
+          "type": "effect-zoom",
+          "targets": [
+            "ce4e63f4-e7a5-4782-8d9d-6a154d2f1fdd"
+          ],
+          "scaleDirection": "scaleOut",
+          "duration": 4000,
+          "delay": 0
+        },
+        {
+          "id": "811efee0-05a8-459e-a6d5-4a819c6f9202",
+          "type": "effect-fade-in",
+          "targets": [
+            "1622f4ff-ce5f-4f3f-8820-d2161b844cc4"
+          ],
+          "duration": 1500,
+          "delay": 350
+        },
+        {
+          "id": "153abd28-e2d9-407d-8f86-446b70ef9f33",
+          "type": "effect-fade-in",
+          "targets": [
+            "a40f82f4-b994-4a62-9984-0e4aad859e02"
+          ],
+          "duration": 1500,
+          "delay": 350
+        }
+      ],
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "type": "page",
+      "id": "84f3b909-152c-478a-b545-64d3fa55e86d",
+      "pageTemplateType": null,
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "0bb87a54-45fa-4faa-800b-1d400617947c",
+        "type": "shape"
+      }
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "x": 48,
+          "y": 0,
+          "width": 398,
+          "height": 597,
+          "mask": {
+            "type": "rectangle"
+          },
+          "isBackground": true,
+          "id": "fc06767a-6144-46c2-91d7-34d429083aea",
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 3979,
+            "height": 5968,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:2b6K4uy0Hbc",
+                "sourceUrl": "https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=3979&h=5968&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3979,
+                "height": 5968
+              },
+              "large": {
+                "file": "media/unsplash:2b6K4uy0Hbc",
+                "sourceUrl": "https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=3183&h=4774&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3183,
+                "height": 4774
+              },
+              "2387_3580": {
+                "file": "media/unsplash:2b6K4uy0Hbc",
+                "sourceUrl": "https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=2387&h=3580&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2387,
+                "height": 3580
+              },
+              "1591_2386": {
+                "file": "media/unsplash:2b6K4uy0Hbc",
+                "sourceUrl": "https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=1591&h=2386&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1591,
+                "height": 2386
+              },
+              "795_1192": {
+                "file": "media/unsplash:2b6K4uy0Hbc",
+                "sourceUrl": "https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=795&h=1192&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 795,
+                "height": 1192
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:2b6K4uy0Hbc",
+                "sourceUrl": "https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=340&h=510&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 510
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:2b6K4uy0Hbc",
+            "baseColor": "#402626",
+            "blurHash": "LfGutF?b$$oz?wxuRjkC58M{Ioju",
+            "creationDate": "2020-05-26T09:59:17Z",
+            "src": "https://images.unsplash.com/photo-1590486803833-1c5dc8ddd4c8?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw1fHxwaG90b2dyYXBoeXxlbnwwfHx8fDE2ODI0MjY4MjY&ixlib=rb-4.0.3&fm=jpg&w=3979&h=5968&fit=max",
+            "alt": "person holding black dslr camera",
+            "attribution": {
+              "author": {
+                "displayName": "BAILEY MAHON",
+                "url": "https://unsplash.com/@baileymahon?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfGvVvK8ySNo/k3r3zE07zPwJFwfvtp6U%2BonurvevCM0w/gyi1zxMakOMRwWZC%2BbC1lRZVsFjn/fxM7oeF0X9RdcWH2LPfC5Q/BXQiayebTaB7OZxg6iWsaVxZYR1v5A65IIqbqU1IapnaEa/M3La7DRDEObeMQd2MK7OGERpguqCYF6minEzUiegVa8zicZ9ezj8HF8AxF2PBMPDTejuHc4BPVLnSQPgKBf2DFMd0OzSrVE"
+            }
+          }
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "video",
+            "mimeType": "video/mp4",
+            "creationDate": "2021-07-13T12:00:09",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page09_bgvideo.mp4",
+            "width": 1080,
+            "height": 2048,
+            "poster": "https://wp.stories.google/static/19/images/templates/technology-advice/page09_bgvideo-poster.jpg",
+            "posterId": 0,
+            "id": 0,
+            "length": 8,
+            "lengthFormatted": "0:08",
+            "alt": "A Male Model Goofing Around With A Spinning Chair",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": true,
+            "isMuted": true,
+            "baseColor": "#7c6850",
+            "isExternal": true
+          },
+          "controls": false,
+          "loop": true,
+          "autoPlay": true,
+          "tracks": [],
+          "x": 434,
+          "y": -6,
+          "width": 412,
+          "height": 732,
+          "mask": {
+            "type": "rectangle",
+            "showInLibrary": true,
+            "name": "Rectangle",
+            "path": "M 0,0 1,0 1,1 0,1 0,0 Z",
+            "ratio": 1,
+            "supportsBorder": true
+          },
+          "id": "86642aff-f227-4c18-b7c4-0ddc6aa2dfdc",
+          "type": "video"
+        }
+      ],
+      "animations": [],
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "type": "page",
+      "id": "49b56d4c-d55c-40d6-b5f6-9749e034fa55",
+      "pageTemplateType": null,
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "0d4b0f3c-4efc-4a2f-9d7d-8168e59e3082",
+        "type": "shape"
+      }
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 4764,
+            "height": 3176,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:7KLa-xLbSXA",
+                "sourceUrl": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxjYW1lcmElMjBsZW5zfGVufDB8fHx8MTY4MjQyNzUxMw&ixlib=rb-4.0.3&fm=jpg&w=4764&h=3176&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4764,
+                "height": 3176
+              },
+              "large": {
+                "file": "media/unsplash:7KLa-xLbSXA",
+                "sourceUrl": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxjYW1lcmElMjBsZW5zfGVufDB8fHx8MTY4MjQyNzUxMw&ixlib=rb-4.0.3&fm=jpg&w=3811&h=2541&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3811,
+                "height": 2541
+              },
+              "2858_1905": {
+                "file": "media/unsplash:7KLa-xLbSXA",
+                "sourceUrl": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxjYW1lcmElMjBsZW5zfGVufDB8fHx8MTY4MjQyNzUxMw&ixlib=rb-4.0.3&fm=jpg&w=2858&h=1905&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2858,
+                "height": 1905
+              },
+              "1905_1270": {
+                "file": "media/unsplash:7KLa-xLbSXA",
+                "sourceUrl": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxjYW1lcmElMjBsZW5zfGVufDB8fHx8MTY4MjQyNzUxMw&ixlib=rb-4.0.3&fm=jpg&w=1905&h=1270&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1905,
+                "height": 1270
+              },
+              "952_635": {
+                "file": "media/unsplash:7KLa-xLbSXA",
+                "sourceUrl": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxjYW1lcmElMjBsZW5zfGVufDB8fHx8MTY4MjQyNzUxMw&ixlib=rb-4.0.3&fm=jpg&w=952&h=635&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 952,
+                "height": 635
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:7KLa-xLbSXA",
+                "sourceUrl": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxjYW1lcmElMjBsZW5zfGVufDB8fHx8MTY4MjQyNzUxMw&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 227
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:7KLa-xLbSXA",
+            "baseColor": "#268cc0",
+            "blurHash": "LP98V$#PMdI?T#M_R5s,gjWBs8s,",
+            "creationDate": "2016-01-25T13:21:30Z",
+            "src": "https://images.unsplash.com/photo-1453728013993-6d66e9c9123a?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxjYW1lcmElMjBsZW5zfGVufDB8fHx8MTY4MjQyNzUxMw&ixlib=rb-4.0.3&fm=jpg&w=4764&h=3176&fit=max",
+            "alt": "person holding camera lens",
+            "attribution": {
+              "author": {
+                "displayName": "Paul Skorupskas",
+                "url": "https://unsplash.com/pt-br/@pawelskor?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfHOFGMW2QZPfjLurNDv%2B4gaK2fB3DYQt3H1gweZlJC3b7ZqNHrtXvwVogFiICCe7cqyj%2Bo1BpLHF6VRhv/YrtqqLzt759Yld72zsugTGLRBUKQHHPkNkvtPnwM2o8UWnji6QXjsPN78cUubrNHQkd%2Bgnum0JkX/xMvj5fkKqrSd%2BrC4fHHOxsGXzxq/o0pxhf7SNP8Z0abxVUcOSWu0lylFxXan/piHTn4EaDFWiLw6ttJzQK3h"
+            }
+          },
+          "type": "image",
+          "x": 48,
+          "y": 0,
+          "width": 476,
+          "height": 318,
+          "mask": {
+            "type": "rectangle",
+            "showInLibrary": true,
+            "name": "Rectangle",
+            "path": "M 0,0 1,0 1,1 0,1 0,0 Z",
+            "ratio": 1,
+            "supportsBorder": true
+          },
+          "id": "be78e079-a6a5-4b83-8423-a3da76b8697e",
+          "isBackground": true,
+          "overlay": {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0.5
+            }
+          }
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "scale": 155,
+          "focalX": 50.14080377243331,
+          "focalY": 58.357189424167046,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/png",
+            "creationDate": "2021-07-13T12:00:10",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page10_image01.jpg",
+            "width": 720,
+            "height": 1280,
+            "id": 0,
+            "alt": "Person holding camera lens photo",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": false,
+            "baseColor": "#0a1415",
+            "isExternal": true
+          },
+          "type": "image",
+          "x": 640,
+          "y": 0,
+          "width": 557,
+          "height": 719,
+          "mask": {
+            "type": "rectangle",
+            "showInLibrary": true,
+            "name": "Rectangle",
+            "path": "M 0,0 1,0 1,1 0,1 0,0 Z",
+            "ratio": 1,
+            "supportsBorder": true
+          },
+          "id": "7db3309e-4d03-42ab-8400-4b4917588fa0",
+          "overlay": null
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "backgroundColor": {
+            "color": {
+              "r": 68,
+              "g": 72,
+              "b": 73
+            }
+          },
+          "width": 544,
+          "height": 460,
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "2d7caaa6-8c4c-4ea6-9d9c-1b651d76952c",
+          "id": "77f4691b-ba18-4b12-9cfb-36ceb24e61b1",
+          "x": 48,
+          "y": 130,
+          "type": "shape"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "IBM Plex Sans",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1919,262 +4052,21 @@
             }
           },
           "fontSize": 25,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.3,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"font-weight: 600; color: #fff\">Nikon </span><span style=\"font-weight: 600; color: #fff; text-transform: uppercase\">HB</span><span style=\"font-weight: 600; color: #fff\">-47 50mm lens</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 318,
-          "height": 32,
-          "marginOffset": 0,
-          "basedOn": "75cfcda7-af7d-40dd-825f-5e6964ca40bd",
-          "id": "1bb35d70-a29d-40c0-ad08-1ece8faad539",
-          "x": 47,
-          "y": 23,
-          "type": "text",
-          "tagName": "h2"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "type": "sticker",
-          "width": 25,
-          "height": 25,
-          "sticker": { "type": "studioWhiteFrameCorner" },
-          "basedOn": "384456cc-8695-47e0-ad9d-e833470b228b",
-          "id": "1622f4ff-ce5f-4f3f-8820-d2161b844cc4",
-          "x": 340,
-          "y": 0
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": true, "horizontal": true },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "type": "sticker",
-          "width": 25,
-          "height": 25,
-          "sticker": { "type": "studioWhiteFrameCorner" },
-          "basedOn": "cdeef913-10aa-452c-871f-64d0a5004ae3",
-          "id": "a40f82f4-b994-4a62-9984-0e4aad859e02",
-          "x": 47,
-          "y": 424
-        }
-      ],
-      "animations": [
-        {
-          "id": "cd561412-4d8e-41f6-b49a-e29622bc2e1c",
-          "type": "effect-fade-in",
-          "targets": ["1bb35d70-a29d-40c0-ad08-1ece8faad539"],
-          "duration": 1500,
-          "delay": 250
-        },
-        {
-          "id": "0cb53a7e-d5a7-4b79-9e32-e027475aa51f",
-          "type": "effect-fade-in",
-          "targets": ["9f62b4a4-a397-4329-8019-83d1c0dcdaab"],
-          "duration": 1500,
-          "delay": 250
-        },
-        {
-          "id": "6a8c455e-9d33-4d40-99d9-b959c9cf41d0",
-          "type": "effect-zoom",
-          "targets": ["9314f495-b5dd-40c1-bc09-05d9ac9b8e17"],
-          "scaleDirection": "scaleOut",
-          "duration": 4000,
-          "delay": 0
-        },
-        {
-          "id": "be4223fa-adb7-43d3-817c-785d14643f30",
-          "type": "effect-zoom",
-          "targets": ["ce4e63f4-e7a5-4782-8d9d-6a154d2f1fdd"],
-          "scaleDirection": "scaleOut",
-          "duration": 4000,
-          "delay": 0
-        },
-        {
-          "id": "811efee0-05a8-459e-a6d5-4a819c6f9202",
-          "type": "effect-fade-in",
-          "targets": ["1622f4ff-ce5f-4f3f-8820-d2161b844cc4"],
-          "duration": 1500,
-          "delay": 350
-        },
-        {
-          "id": "153abd28-e2d9-407d-8f86-446b70ef9f33",
-          "type": "effect-fade-in",
-          "targets": ["a40f82f4-b994-4a62-9984-0e4aad859e02"],
-          "duration": 1500,
-          "delay": 350
-        }
-      ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "type": "page",
-      "id": "84f3b909-152c-478a-b545-64d3fa55e86d",
-      "pageTemplateType": null
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "isDefaultBackground": true,
-          "id": "fc06767a-6144-46c2-91d7-34d429083aea",
-          "type": "shape"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "resource": {
-            "type": "video",
-            "mimeType": "video/mp4",
-            "creationDate": "2021-07-13T12:00:09",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page09_bgvideo.mp4",
-            "width": 1080,
-            "height": 2048,
-            "poster": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page09_bgvideo-poster.jpg",
-            "posterId": 0,
-            "id": 0,
-            "length": 8,
-            "lengthFormatted": "0:08",
-            "alt": "A Male Model Goofing Around With A Spinning Chair",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": true,
-            "isMuted": true,
-            "baseColor": "#7c6850",
-            "isExternal": true
-          },
-          "controls": false,
-          "loop": true,
-          "autoPlay": true,
-          "tracks": [],
-          "x": 0,
-          "y": -57,
-          "width": 412,
-          "height": 732,
-          "mask": {
-            "type": "rectangle",
-            "showInLibrary": true,
-            "name": "Rectangle",
-            "path": "M 0,0 1,0 1,1 0,1 0,0 Z",
-            "ratio": 1,
-            "supportsBorder": true
-          },
-          "id": "86642aff-f227-4c18-b7c4-0ddc6aa2dfdc",
-          "type": "video"
-        }
-      ],
-      "animations": [],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "type": "page",
-      "id": "49b56d4c-d55c-40d6-b5f6-9749e034fa55",
-      "pageTemplateType": null
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "isDefaultBackground": true,
-          "id": "12c13f1b-73ea-41cc-b9db-bb299ae853f1",
-          "type": "shape"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 68, "g": 72, "b": 73 } },
-          "width": 412,
-          "height": 460,
-          "mask": { "type": "rectangle" },
-          "basedOn": "2d7caaa6-8c4c-4ea6-9d9c-1b651d76952c",
-          "id": "77f4691b-ba18-4b12-9cfb-36ceb24e61b1",
-          "x": 0,
-          "y": 220,
-          "type": "shape"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
-            "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1025,
-              "des": -275,
-              "tAsc": 780,
-              "tDes": -220,
-              "tLGap": 300,
-              "wAsc": 1025,
-              "wDes": 275,
-              "xH": 516,
-              "capH": 698,
-              "yMin": -245,
-              "yMax": 1119,
-              "hAsc": 1025,
-              "hDes": -275,
-              "lGap": 0
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
             }
           },
-          "fontSize": 17,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "center",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
           "content": "<span style=\"color: #fff\">Depending on your subject matter and your location, you may want to consider at least 2 lenses.</span>",
           "borderRadius": {
             "locked": true,
@@ -2183,81 +4075,65 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 318,
-          "height": 67,
-          "marginOffset": 9.84375,
+          "width": 479,
+          "height": 104,
+          "marginOffset": 2.5,
           "basedOn": "e42a76a2-a293-4bac-bf2e-4e9e74b2abeb",
           "id": "8e574d10-cce1-4e7d-8e59-fedea3fe53a6",
-          "x": 47,
-          "y": 546,
+          "x": 81,
+          "y": 308,
           "type": "text"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "scale": 155,
-          "focalX": 50.14080377243331,
-          "focalY": 58.357189424167046,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/png",
-            "creationDate": "2021-07-13T12:00:10",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page10_image01.jpg",
-            "width": 720,
-            "height": 1280,
-            "id": 0,
-            "alt": "Person holding camera lens photo",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": false,
-            "baseColor": "#0a1415",
-            "isExternal": true
-          },
-          "type": "image",
-          "x": 0,
-          "y": -57,
-          "width": 364,
-          "height": 557,
-          "mask": {
-            "type": "rectangle",
-            "showInLibrary": true,
-            "name": "Rectangle",
-            "path": "M 0,0 1,0 1,1 0,1 0,0 Z",
-            "ratio": 1,
-            "supportsBorder": true
-          },
-          "id": "7db3309e-4d03-42ab-8400-4b4917588fa0"
         }
       ],
-      "animations": [
-        {
-          "id": "26049170-c61f-4677-8693-432f8bc4a742",
-          "type": "effect-fly-in",
-          "targets": ["7db3309e-4d03-42ab-8400-4b4917588fa0"],
-          "flyInDir": "leftToRight",
-          "duration": 4000,
-          "delay": 0
+      "animations": [],
+      "backgroundColor": {
+        "color": {
+          "r": 222,
+          "g": 222,
+          "b": 222
         }
-      ],
-      "backgroundColor": { "color": { "r": 222, "g": 222, "b": 222 } },
+      },
       "type": "page",
       "id": "0462c838-d0dd-4e51-a0f3-d034bfb26f62",
-      "pageTemplateType": null
+      "pageTemplateType": null,
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "12c13f1b-73ea-41cc-b9db-bb299ae853f1",
+        "type": "shape"
+      }
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "x": 1,
           "y": 1,
           "width": 1,
           "height": 1,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
           "isDefaultBackground": true,
           "id": "215ddab3-8c1c-423a-b2de-2f3454ddb560",
@@ -2265,45 +4141,114 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 68, "g": 72, "b": 73 } },
-          "width": 412,
-          "height": 460,
-          "mask": { "type": "rectangle" },
+          "backgroundColor": {
+            "color": {
+              "r": 68,
+              "g": 72,
+              "b": 73
+            }
+          },
+          "width": 683,
+          "height": 719,
+          "mask": {
+            "type": "rectangle"
+          },
           "basedOn": "2d7caaa6-8c4c-4ea6-9d9c-1b651d76952c",
           "id": "bb9b4977-31f6-461e-b758-046acc42002b",
-          "x": 0,
-          "y": 220,
+          "x": 639,
+          "y": 0,
           "type": "shape"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2324,12 +4269,23 @@
               "lGap": 0
             }
           },
-          "fontSize": 17,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 30,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"color: #fff\">For more details check out lenses and compare at </span><span style=\"color: #fff\">Lens Louis</span><span style=\"color: #fff\">.&nbsp;</span>",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
+          "content": "<span style=\"color: #fff\">For more details check out lenses and compare at Lens Louis.&nbsp;</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -2337,18 +4293,21 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 318,
-          "height": 46,
-          "marginOffset": 9.84375,
+          "width": 465,
+          "height": 82,
+          "marginOffset": 3.0999999999999943,
           "basedOn": "e42a76a2-a293-4bac-bf2e-4e9e74b2abeb",
           "id": "78f0ec9b-9306-4765-940c-b133e2be200e",
-          "x": 47,
-          "y": 570,
+          "x": 746,
+          "y": 524,
           "type": "text"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 100,
@@ -2358,7 +4317,7 @@
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-13T12:00:19",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page11_image02.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page11_image02.jpg",
             "width": 720,
             "height": 480,
             "id": 0,
@@ -2370,10 +4329,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 48,
-          "y": 260,
-          "width": 318,
-          "height": 242,
+          "x": 705,
+          "y": 82,
+          "width": 548,
+          "height": 353,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -2386,7 +4345,10 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 100,
@@ -2396,7 +4358,7 @@
             "type": "image",
             "mimeType": "image/png",
             "creationDate": "2021-07-13T12:00:16",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page11_image01.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page11_image01.jpg",
             "width": 721,
             "height": 488,
             "id": 0,
@@ -2408,10 +4370,10 @@
             "isExternal": true
           },
           "type": "image",
-          "x": 94,
-          "y": 0,
-          "width": 272,
-          "height": 184,
+          "x": 195,
+          "y": 220,
+          "width": 403,
+          "height": 281,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -2424,30 +4386,88 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2468,11 +4488,22 @@
               "lGap": 0
             }
           },
-          "fontSize": 12,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 18,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1,
           "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
           "type": "text",
           "content": "<span style=\"color: rgba(171,171,171,0.75); letter-spacing: 0.01em\">0218</span>",
           "borderRadius": {
@@ -2482,23 +4513,28 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 30,
-          "height": 16,
-          "marginOffset": 0.19999999999999973,
+          "width": 68,
+          "height": 24,
+          "marginOffset": -5.400000000000002,
           "basedOn": "3b746604-bbe3-41c8-aeac-554739f6f151",
           "id": "43eb7433-d734-4c06-a8c3-ae02a2eba248",
-          "x": 47,
-          "y": 176
+          "x": 48,
+          "y": 465
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": true },
+          "flip": {
+            "vertical": false,
+            "horizontal": true
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
           "width": 25,
           "height": 25,
-          "sticker": { "type": "studioGrayFrameCorner" },
+          "sticker": {
+            "type": "studioGrayFrameCorner"
+          },
           "basedOn": "05cb2254-ea62-455b-933c-aaf8008518b7",
           "id": "e6ee7254-584c-45e1-85e9-d1f1df2c74db",
           "x": 47,
@@ -2506,7 +4542,13 @@
         }
       ],
       "animations": [],
-      "backgroundColor": { "color": { "r": 222, "g": 222, "b": 222 } },
+      "backgroundColor": {
+        "color": {
+          "r": 222,
+          "g": 222,
+          "b": 222
+        }
+      },
       "type": "page",
       "id": "fb04d360-0102-4043-a029-60bbc3785e6e",
       "pageTemplateType": null
@@ -2515,22 +4557,99 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 660,
+          "height": 440,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
-          "type": "shape",
-          "id": "521fdf1c-953b-4b38-a71d-38b723c6dca0"
+          "type": "image",
+          "id": "521fdf1c-953b-4b38-a71d-38b723c6dca0",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 6602,
+            "height": 4401,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:LM8O6HIgnRE",
+                "sourceUrl": "https://images.unsplash.com/photo-1582994542461-6891da8ceb1d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8Y2FtZXJhJTIwbGVuc3xlbnwwfHx8fDE2ODI0Mjc1MTM&ixlib=rb-4.0.3&fm=jpg&w=6602&h=4401&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 6602,
+                "height": 4401
+              },
+              "large": {
+                "file": "media/unsplash:LM8O6HIgnRE",
+                "sourceUrl": "https://images.unsplash.com/photo-1582994542461-6891da8ceb1d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8Y2FtZXJhJTIwbGVuc3xlbnwwfHx8fDE2ODI0Mjc1MTM&ixlib=rb-4.0.3&fm=jpg&w=5281&h=3520&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 5281,
+                "height": 3520
+              },
+              "3961_2640": {
+                "file": "media/unsplash:LM8O6HIgnRE",
+                "sourceUrl": "https://images.unsplash.com/photo-1582994542461-6891da8ceb1d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8Y2FtZXJhJTIwbGVuc3xlbnwwfHx8fDE2ODI0Mjc1MTM&ixlib=rb-4.0.3&fm=jpg&w=3961&h=2640&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3961,
+                "height": 2640
+              },
+              "2640_1760": {
+                "file": "media/unsplash:LM8O6HIgnRE",
+                "sourceUrl": "https://images.unsplash.com/photo-1582994542461-6891da8ceb1d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8Y2FtZXJhJTIwbGVuc3xlbnwwfHx8fDE2ODI0Mjc1MTM&ixlib=rb-4.0.3&fm=jpg&w=2640&h=1760&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2640,
+                "height": 1760
+              },
+              "1320_880": {
+                "file": "media/unsplash:LM8O6HIgnRE",
+                "sourceUrl": "https://images.unsplash.com/photo-1582994542461-6891da8ceb1d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8Y2FtZXJhJTIwbGVuc3xlbnwwfHx8fDE2ODI0Mjc1MTM&ixlib=rb-4.0.3&fm=jpg&w=1320&h=880&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1320,
+                "height": 880
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:LM8O6HIgnRE",
+                "sourceUrl": "https://images.unsplash.com/photo-1582994542461-6891da8ceb1d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8Y2FtZXJhJTIwbGVuc3xlbnwwfHx8fDE2ODI0Mjc1MTM&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 227
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:LM8O6HIgnRE",
+            "baseColor": "#260c26",
+            "blurHash": "L53*}ix9M]RzEGNin#oLw}s#o*j{",
+            "creationDate": "2020-02-29T16:42:28Z",
+            "src": "https://images.unsplash.com/photo-1582994542461-6891da8ceb1d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxMHx8Y2FtZXJhJTIwbGVuc3xlbnwwfHx8fDE2ODI0Mjc1MTM&ixlib=rb-4.0.3&fm=jpg&w=6602&h=4401&fit=max",
+            "alt": "black camera lens on blue surface",
+            "attribution": {
+              "author": {
+                "displayName": "Jason Leung",
+                "url": "https://unsplash.com/@ninjason?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfEIjOZJ2LxoU9GHkO103sffAfnSdOymFG1zEcYCvoK2P24lutWRItid9G9k3NeGh7%2BP9DpLi56H%2B71Is0GF1S184gt2fMAIxeCsH5xpZH3slya3VEen6IFVQwi//V9wuTZuIJgIp0y3ykXqNgh2RSDcI/0Hh6LGcx8sXNWVTy64OPwbJrE9ltSrg5/A9sGiauVscqeFnOJAQ2uG2uOhGVpDd2n%2BBvOTAIagxeILHts%2BucoHG6q/Tw%3D%3D"
+            }
+          },
+          "overlay": null
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 100,
@@ -2540,10 +4659,10 @@
             "type": "video",
             "mimeType": "video/mp4",
             "creationDate": "2021-07-13T12:00:23",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page12_bgvideo.mp4",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page12_bgvideo.mp4",
             "width": 1080,
             "height": 2048,
-            "poster": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page12_bgvideo-poster.jpg",
+            "poster": "https://wp.stories.google/static/19/images/templates/technology-advice/page12_bgvideo-poster.jpg",
             "posterId": 0,
             "id": 0,
             "length": 15,
@@ -2561,8 +4680,8 @@
           "autoPlay": true,
           "tracks": [],
           "type": "video",
-          "x": 0,
-          "y": -57,
+          "x": 434,
+          "y": -6,
           "width": 412,
           "height": 732,
           "mask": {
@@ -2576,69 +4695,231 @@
           "id": "def0eed6-6da1-40e2-83fb-d7647d257037"
         }
       ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
       "type": "page",
       "id": "4e1d84fa-97e1-4ecb-9697-74d3b6ab8cac",
-      "pageTemplateType": null
+      "pageTemplateType": null,
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "26990004-cf41-4f53-9472-ce6ab77c62d7"
+      },
+      "animations": []
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 164,
+          "height": 205,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
-          "type": "shape",
-          "id": "d1f89005-0dbd-4d4c-bab7-35184f65d8b8"
+          "type": "image",
+          "id": "d1f89005-0dbd-4d4c-bab7-35184f65d8b8",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 1638,
+            "height": 2048,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:IVaKksEZmZA",
+                "sourceUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxjYW1lcmF8ZW58MHx8fHwxNjgyNDI3NzQy&ixlib=rb-4.0.3&fm=jpg&w=1638&h=2048&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1638,
+                "height": 2048
+              },
+              "large": {
+                "file": "media/unsplash:IVaKksEZmZA",
+                "sourceUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxjYW1lcmF8ZW58MHx8fHwxNjgyNDI3NzQy&ixlib=rb-4.0.3&fm=jpg&w=1310&h=1638&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1310,
+                "height": 1638
+              },
+              "982_1228": {
+                "file": "media/unsplash:IVaKksEZmZA",
+                "sourceUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxjYW1lcmF8ZW58MHx8fHwxNjgyNDI3NzQy&ixlib=rb-4.0.3&fm=jpg&w=982&h=1228&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 982,
+                "height": 1228
+              },
+              "655_819": {
+                "file": "media/unsplash:IVaKksEZmZA",
+                "sourceUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxjYW1lcmF8ZW58MHx8fHwxNjgyNDI3NzQy&ixlib=rb-4.0.3&fm=jpg&w=655&h=819&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 655,
+                "height": 819
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:IVaKksEZmZA",
+                "sourceUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxjYW1lcmF8ZW58MHx8fHwxNjgyNDI3NzQy&ixlib=rb-4.0.3&fm=jpg&w=340&h=425&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 425
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:IVaKksEZmZA",
+            "baseColor": "#262626",
+            "blurHash": "L15E$@-;9FM{?HofM{t74nIUxvxa",
+            "creationDate": "2018-01-15T16:53:28Z",
+            "src": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxfHxjYW1lcmF8ZW58MHx8fHwxNjgyNDI3NzQy&ixlib=rb-4.0.3&fm=jpg&w=1638&h=2048&fit=max",
+            "alt": "flat lay photography of black Sony DSLR camera on black surface",
+            "attribution": {
+              "author": {
+                "displayName": "Conor Luddy",
+                "url": "https://unsplash.com/@opticonor?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfE1muuCNAo%2Bp2CTfCebouwbEVTHAuXgCG2UuyhbmGfGLpMN57hmKi68c7siiFY1DUdtVbiG/LSZjQ4m9zfaQUnOrgQpKz2BIGCWQiGUt/u4h/9lZzo1rfUHvrsTpLHjf9QhGC/XK2K7N3J/gqSegzP%2B/nktEmQMulUGzEcSxT8l07T5rWfh63HnvaGbs/biZorqplVF4RGIhZkVUaTgBcRcuUvjnX2XhcYgTUQ%3D"
+            }
+          }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
-          "backgroundColor": { "color": { "r": 68, "g": 72, "b": 73 } },
-          "width": 412,
-          "height": 309,
-          "mask": { "type": "rectangle" },
+          "backgroundColor": {
+            "color": {
+              "r": 68,
+              "g": 72,
+              "b": 73
+            }
+          },
+          "width": 461,
+          "height": 329,
+          "mask": {
+            "type": "rectangle"
+          },
           "type": "shape",
           "basedOn": "bb9b4977-31f6-461e-b758-046acc42002b",
           "id": "3e5372a9-096a-4f3b-a30a-6415a88f225f",
-          "x": 0,
-          "y": -57
+          "x": 48,
+          "y": 14
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2659,11 +4940,22 @@
               "lGap": 0
             }
           },
-          "fontSize": 25,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 28,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.3,
           "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
           "type": "text",
           "content": "<span style=\"font-weight: 600; color: #fff\">Book a tutorial</span>\n<span style=\"font-weight: 600; color: #fff\">with Matt</span>",
           "borderRadius": {
@@ -2673,40 +4965,98 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 47,
-          "y": -6,
-          "width": 277,
-          "height": 64,
+          "x": 60,
+          "y": 30,
+          "width": 492,
+          "height": 73,
           "id": "3b2403d6-25f2-4ca8-8b96-9137f83f968d",
           "marginOffset": 0,
           "tagName": "h2"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2727,12 +5077,23 @@
               "lGap": 0
             }
           },
-          "fontSize": 17,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 30,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.2,
           "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"font-weight: 600; color: #1a1a1a\">Book a video tutorial</span><span style=\"color: #1a1a1a\"> class with Matthew Donner.&nbsp;</span>\n\n<span style=\"color: #1a1a1a\">You’ll cover the basics in more depth with 1:1 time.</span>",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
+          "content": "<span style=\"font-weight: 600; color: #fff\">Book a video tutorial</span><span style=\"color: #fff\"> class with Matthew Donner.&nbsp;</span>\n\n<span style=\"color: #fff\">You’ll cover the basics in more depth with 1:1 time.</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -2740,18 +5101,21 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 252,
-          "height": 98,
-          "marginOffset": -1.7000000000000028,
+          "width": 499,
+          "height": 183,
+          "marginOffset": -3.1000000000000085,
           "type": "text",
           "basedOn": "78f0ec9b-9306-4765-940c-b133e2be200e",
           "id": "22dd9901-8656-4a30-8230-6cb4cdb1b263",
-          "x": 47,
-          "y": 518
+          "x": 715,
+          "y": 267
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 100,
@@ -2761,10 +5125,10 @@
             "type": "video",
             "mimeType": "video/mp4",
             "creationDate": "2021-07-13T11:59:34",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page02_bgvideo.mp4",
+            "src": "https://wp.stories.google/static/19/images/templates/technology-advice/page02_bgvideo.mp4",
             "width": 1080,
             "height": 2048,
-            "poster": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/technology-advice/page02_bgvideo-poster.jpg",
+            "poster": "https://wp.stories.google/static/19/images/templates/technology-advice/page02_bgvideo-poster.jpg",
             "posterId": 0,
             "id": 0,
             "length": 24,
@@ -2782,10 +5146,10 @@
           "autoPlay": true,
           "tracks": [],
           "type": "video",
-          "x": 47,
-          "y": 89,
-          "width": 277,
-          "height": 398,
+          "x": 61,
+          "y": 115,
+          "width": 449,
+          "height": 613,
           "mask": {
             "type": "rectangle",
             "showInLibrary": true,
@@ -2798,44 +5162,107 @@
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "type": "sticker",
-          "width": 25,
-          "height": 25,
-          "sticker": { "type": "studioGrayFrameCorner" },
+          "width": 27,
+          "height": 27,
+          "sticker": {
+            "type": "studioGrayFrameCorner"
+          },
           "basedOn": "e6ee7254-584c-45e1-85e9-d1f1df2c74db",
           "id": "9d2acdcb-7d37-4272-a8fb-895ca8340668",
-          "x": 339,
-          "y": 0
+          "x": 483,
+          "y": 66
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 270,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "IBM Plex Sans",
-            "fallbacks": ["sans-serif"],
-            "weights": [100, 200, 300, 400, 500, 600, 700],
-            "styles": ["italic", "regular"],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              100,
+              200,
+              300,
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "italic",
+              "regular"
+            ],
             "variants": [
-              [0, 100],
-              [1, 100],
-              [0, 200],
-              [1, 200],
-              [0, 300],
-              [1, 300],
-              [0, 400],
-              [1, 400],
-              [0, 500],
-              [1, 500],
-              [0, 600],
-              [1, 600],
-              [0, 700],
-              [1, 700]
+              [
+                0,
+                100
+              ],
+              [
+                1,
+                100
+              ],
+              [
+                0,
+                200
+              ],
+              [
+                1,
+                200
+              ],
+              [
+                0,
+                300
+              ],
+              [
+                1,
+                300
+              ],
+              [
+                0,
+                400
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -2856,11 +5283,22 @@
               "lGap": 0
             }
           },
-          "fontSize": 12,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 15,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1,
           "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
           "type": "text",
           "content": "<span style=\"color: rgba(171,171,171,0.75); letter-spacing: 0.01em\">0218</span>",
           "borderRadius": {
@@ -2870,20 +5308,46 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 30,
-          "height": 16,
-          "marginOffset": 0.19999999999999973,
+          "width": 55,
+          "height": 19,
+          "marginOffset": -4.199999999999999,
           "basedOn": "43eb7433-d734-4c06-a8c3-ae02a2eba248",
           "id": "5c1510c7-a939-478a-8539-9b77683bf30b",
-          "x": 353,
-          "y": 454
+          "x": 794,
+          "y": 534
         }
       ],
-      "animations": [],
-      "backgroundColor": { "color": { "r": 222, "g": 222, "b": 222 } },
+      "backgroundColor": {
+        "color": {
+          "r": 222,
+          "g": 222,
+          "b": 222
+        }
+      },
       "type": "page",
       "id": "9568115b-d78e-4e46-b279-904672989a96",
-      "pageTemplateType": "editorial"
+      "animations": [],
+      "pageTemplateType": "editorial",
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "e579c9b8-0590-4a16-9a3a-86a9fdfeccff"
+      }
     }
   ],
   "current": null,

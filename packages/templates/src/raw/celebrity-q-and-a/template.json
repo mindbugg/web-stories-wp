@@ -1,26 +1,127 @@
 {
-  "version": 47,
+  "version": 46,
   "pages": [
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 437,
+          "height": 291,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
           "id": "8292711e-a84b-46fc-9a01-06d14c221166",
-          "type": "shape"
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 4368,
+            "height": 2912,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:B8qIaoeKcfU",
+                "sourceUrl": "https://images.unsplash.com/photo-1564247556387-6e97f44aa0cd?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4MHx8em9lJTIwdHJhdmlzfGVufDB8fHx8MTY4MjE2MDA0Mw&ixlib=rb-4.0.3&fm=jpg&w=4368&h=2912&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4368,
+                "height": 2912
+              },
+              "large": {
+                "file": "media/unsplash:B8qIaoeKcfU",
+                "sourceUrl": "https://images.unsplash.com/photo-1564247556387-6e97f44aa0cd?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4MHx8em9lJTIwdHJhdmlzfGVufDB8fHx8MTY4MjE2MDA0Mw&ixlib=rb-4.0.3&fm=jpg&w=3494&h=2329&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3494,
+                "height": 2329
+              },
+              "2620_1747": {
+                "file": "media/unsplash:B8qIaoeKcfU",
+                "sourceUrl": "https://images.unsplash.com/photo-1564247556387-6e97f44aa0cd?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4MHx8em9lJTIwdHJhdmlzfGVufDB8fHx8MTY4MjE2MDA0Mw&ixlib=rb-4.0.3&fm=jpg&w=2620&h=1747&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2620,
+                "height": 1747
+              },
+              "1747_1165": {
+                "file": "media/unsplash:B8qIaoeKcfU",
+                "sourceUrl": "https://images.unsplash.com/photo-1564247556387-6e97f44aa0cd?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4MHx8em9lJTIwdHJhdmlzfGVufDB8fHx8MTY4MjE2MDA0Mw&ixlib=rb-4.0.3&fm=jpg&w=1747&h=1165&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1747,
+                "height": 1165
+              },
+              "873_582": {
+                "file": "media/unsplash:B8qIaoeKcfU",
+                "sourceUrl": "https://images.unsplash.com/photo-1564247556387-6e97f44aa0cd?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4MHx8em9lJTIwdHJhdmlzfGVufDB8fHx8MTY4MjE2MDA0Mw&ixlib=rb-4.0.3&fm=jpg&w=873&h=582&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 873,
+                "height": 582
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:B8qIaoeKcfU",
+                "sourceUrl": "https://images.unsplash.com/photo-1564247556387-6e97f44aa0cd?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4MHx8em9lJTIwdHJhdmlzfGVufDB8fHx8MTY4MjE2MDA0Mw&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 227
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:B8qIaoeKcfU",
+            "baseColor": "#d9d9d9",
+            "blurHash": "LUHB#pIp00xusSX8IURjIUt7%MMx",
+            "creationDate": "2019-07-27T17:15:12Z",
+            "src": "https://images.unsplash.com/photo-1564247556387-6e97f44aa0cd?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4MHx8em9lJTIwdHJhdmlzfGVufDB8fHx8MTY4MjE2MDA0Mw&ixlib=rb-4.0.3&fm=jpg&w=4368&h=2912&fit=max",
+            "alt": "woman wearing brown leather jacket",
+            "attribution": {
+              "author": {
+                "displayName": "Joel Muniz",
+                "url": "https://unsplash.com/fr/@jmuniz?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfFKb%2BmT2PlW9OgknudFOO2IoXuNZhYY3a3BoROUPLZ9vZCJurE98eQ%2BJoJaqQtTfbV3PUsoGI0EPAVLkgPK7mlzj8mu86sQVMjYyfwv2XqzDs9BD1NcEP6SYYJx41DjV9cNJKKFkikBjE5bgeAHlOcvUGGKCHs8pSkSfzfYSeeakBvcoB1GalEa9lu1SPu1kvcThCWAMnIXJU5td7cYstyGe5tkOMn%2BlL3TEXulbvXrxosveWnF"
+            }
+          },
+          "overlay": {
+            "type": "linear",
+            "rotation": 0,
+            "stops": [
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0
+                },
+                "position": 0.4
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                },
+                "position": 1
+              }
+            ],
+            "alpha": 0.5
+          }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 400,
@@ -30,7 +131,7 @@
             "type": "image",
             "mimeType": "image/jpeg",
             "creationDate": "2021-07-21T10:59:56",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page1_img1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page1_img1.jpg",
             "width": 1080,
             "height": 1350,
             "id": 0,
@@ -42,27 +143,49 @@
             "baseColor": "#28221c",
             "isExternal": true
           },
-          "backgroundColor": { "color": { "r": 254, "g": 49, "b": 49 } },
-          "x": 210,
-          "y": -57,
-          "width": 202,
-          "height": 299,
-          "mask": { "type": "rectangle" },
+          "backgroundColor": {
+            "color": {
+              "r": 254,
+              "g": 49,
+              "b": 49
+            }
+          },
+          "x": 396,
+          "y": 18,
+          "width": 231,
+          "height": 342,
+          "mask": {
+            "type": "rectangle"
+          },
           "id": "34f04d90-ba21-4036-abc6-363af1d12bc7",
           "type": "image"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Six Caps",
-            "fallbacks": ["sans-serif"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
             "service": "fonts.google.com",
             "metrics": {
               "upm": 2048,
@@ -80,12 +203,21 @@
               "lGap": 0
             }
           },
-          "fontSize": 230,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 262,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 0.88,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"text-transform: uppercase\">Zoe</span>\n<span style=\"text-transform: uppercase\">Travis</span>",
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
+          "content": "<span style=\"color: #fff; text-transform: uppercase\">Zoe</span>\n<span style=\"color: #fff; text-transform: uppercase\">Travis</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -93,25 +225,40 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 48,
-          "y": -13,
-          "width": 299,
-          "height": 504,
+          "x": 211,
+          "y": 68,
+          "width": 342,
+          "height": 576,
           "id": "18d5d604-babb-4348-9987-8e4d6a1da97c",
-          "type": "text"
+          "type": "text",
+          "marginOffset": -114.2105078125
         },
         {
           "opacity": 85,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 18,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Covered By Your Grace",
-            "fallbacks": ["cursive"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
+            "fallbacks": [
+              "cursive"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
             "service": "fonts.google.com",
             "metrics": {
               "upm": 1024,
@@ -131,11 +278,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 160,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 182,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #ff2d2d\">Q&amp;A</span>",
           "borderRadius": {
             "locked": true,
@@ -144,34 +300,72 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 167,
-          "y": 356,
-          "width": 217,
-          "height": 215,
+          "x": 347,
+          "y": 490,
+          "width": 248,
+          "height": 246,
           "id": "5e174cb2-a3f1-4a21-a08d-de3b1af4b54a",
           "type": "text",
-          "tagName": "p"
+          "tagName": "p",
+          "marginOffset": 9.704296874999983
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -192,12 +386,23 @@
               "lGap": 0
             }
           },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 18,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.2,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "By <span style=\"font-weight: 700\">Nicole Newman</span> 9/13/20",
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false,
+            "horizontal": null,
+            "vertical": null
+          },
+          "content": "<span style=\"color: #fff\">By </span><span style=\"font-weight: 700; color: #fff\">Nicole Newman</span><span style=\"color: #fff\"> 9/13/20</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -205,33 +410,91 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 48,
-          "y": 599,
+          "x": 891,
+          "y": 644,
           "width": 274,
-          "height": 20,
+          "height": 23,
           "id": "c99005c7-776e-46db-8bbf-53099c00b6ee",
           "type": "text"
         }
       ],
-      "animations": [],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      "animations": [
+        {
+          "id": "82d605d2-5069-41be-ad86-d3c8f20d54c2",
+          "type": "effect-fly-in",
+          "targets": [
+            "18d5d604-babb-4348-9987-8e4d6a1da97c"
+          ],
+          "flyInDir": "leftToRight",
+          "duration": 1600,
+          "delay": 0
+        },
+        {
+          "id": "22724c2f-a1e0-4b7f-8351-989fa45fd66d",
+          "type": "effect-fly-in",
+          "targets": [
+            "5e174cb2-a3f1-4a21-a08d-de3b1af4b54a"
+          ],
+          "flyInDir": "rightToLeft",
+          "duration": 1600,
+          "delay": 0
+        }
+      ],
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
       "type": "page",
       "id": "911c9de4-8b85-4779-aa58-321b4b7e3388",
-      "pageTemplateType": "cover"
+      "pageTemplateType": "cover",
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "2be15aef-c83f-413f-b338-262b7b96d4e9",
+        "type": "shape"
+      }
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+          "backgroundColor": {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255
+            }
+          },
           "x": 48,
           "y": 0,
           "width": 330,
           "height": 494,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
           "type": "image",
           "id": "d7149945-c3b3-4672-a1e4-1101caf606df",
@@ -243,7 +506,7 @@
             "mimeType": "image/jpeg",
             "creationDate": "2021-07-21T11:00:52",
             "baseColor": "#ceb4b5",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page2_img1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page2_img1.jpg",
             "width": 1080,
             "height": 1620,
             "id": 0,
@@ -257,35 +520,2548 @@
           "overlay": {
             "type": "linear",
             "stops": [
-              { "color": { "r": 0, "g": 0, "b": 0, "a": 0.31 }, "position": 0 },
               {
-                "color": { "r": 0, "g": 0, "b": 0, "a": 0.31 },
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0.31
+                },
+                "position": 0
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0.31
+                },
                 "position": 0.7
               },
-              { "color": { "r": 0, "g": 0, "b": 0 }, "position": 1 }
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0
+                },
+                "position": 1
+              }
             ]
           }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1006,
+              "des": -274,
+              "tAsc": 1006,
+              "tDes": -274,
+              "tLGap": 0,
+              "wAsc": 1206,
+              "wDes": 294,
+              "xH": 500,
+              "capH": 700,
+              "yMin": -271,
+              "yMax": 1114,
+              "hAsc": 1006,
+              "hDes": -274,
+              "lGap": 0
+            }
+          },
+          "fontSize": 28,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.4,
+          "textAlign": "left",
+          "padding": {
+            "vertical": 0,
+            "horizontal": 0,
+            "locked": true
+          },
+          "content": "<span style=\"color: #fff\">Style icon and actress best known for her roles in Big Lies and Lo-Fidelity joins us for an edition of our rapid-fire Q &amp; A.</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "x": 745,
+          "y": 85,
+          "width": 365,
+          "height": 193,
+          "id": "e472d3eb-4679-46ab-882d-bc3c50bccca0",
+          "type": "text",
+          "marginOffset": 3.3599999999999923
+        }
+      ],
+      "animations": [
+        {
+          "id": "af9baedc-0d75-4340-ad6c-ade749699558",
+          "type": "effect-background-pan",
+          "targets": [
+            "d7149945-c3b3-4672-a1e4-1101caf606df"
+          ],
+          "panDir": "topToBottom",
+          "duration": 7000,
+          "delay": 0
+        }
+      ],
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "type": "page",
+      "id": "f9324df0-5145-4972-b8a2-fea346d97858",
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "backgroundColor": {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          }
+        },
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "bdb388e5-37e3-4e3e-9389-197ec24f9b87"
+      },
+      "pageTemplateType": null
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "x": 48,
+          "y": 0,
+          "width": 551,
+          "height": 367,
+          "mask": {
+            "type": "rectangle"
+          },
+          "isBackground": true,
+          "id": "1774bba0-9b0d-4a74-b200-90533c54da09",
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 5511,
+            "height": 3674,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:tHEeUqxzv3w",
+                "sourceUrl": "https://images.unsplash.com/photo-1564087622874-1f21213b7aac?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIzMg&ixlib=rb-4.0.3&fm=jpg&w=5511&h=3674&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 5511,
+                "height": 3674
+              },
+              "large": {
+                "file": "media/unsplash:tHEeUqxzv3w",
+                "sourceUrl": "https://images.unsplash.com/photo-1564087622874-1f21213b7aac?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIzMg&ixlib=rb-4.0.3&fm=jpg&w=4408&h=2939&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4408,
+                "height": 2939
+              },
+              "3306_2204": {
+                "file": "media/unsplash:tHEeUqxzv3w",
+                "sourceUrl": "https://images.unsplash.com/photo-1564087622874-1f21213b7aac?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIzMg&ixlib=rb-4.0.3&fm=jpg&w=3306&h=2204&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3306,
+                "height": 2204
+              },
+              "2204_1469": {
+                "file": "media/unsplash:tHEeUqxzv3w",
+                "sourceUrl": "https://images.unsplash.com/photo-1564087622874-1f21213b7aac?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIzMg&ixlib=rb-4.0.3&fm=jpg&w=2204&h=1469&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2204,
+                "height": 1469
+              },
+              "1102_735": {
+                "file": "media/unsplash:tHEeUqxzv3w",
+                "sourceUrl": "https://images.unsplash.com/photo-1564087622874-1f21213b7aac?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIzMg&ixlib=rb-4.0.3&fm=jpg&w=1102&h=735&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1102,
+                "height": 735
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:tHEeUqxzv3w",
+                "sourceUrl": "https://images.unsplash.com/photo-1564087622874-1f21213b7aac?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIzMg&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 227
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:tHEeUqxzv3w",
+            "baseColor": "#f3f3d9",
+            "blurHash": "LsLgFN%MaeWV~pNGRjof.7jZoLoz",
+            "creationDate": "2019-07-25T20:51:59Z",
+            "src": "https://images.unsplash.com/photo-1564087622874-1f21213b7aac?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyNnx8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIzMg&ixlib=rb-4.0.3&fm=jpg&w=5511&h=3674&fit=max",
+            "alt": "person's left hand",
+            "attribution": {
+              "author": {
+                "displayName": "Bohdan Pyryn",
+                "url": "https://unsplash.com/@bohdanpyryn?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfHwxIjc/uVswRft4TpZCGlZHw7J0oUx6au/QtaGVwHDlxbtsTZpPKmZkDhdi8Hrs0TaWyQI2aTzX/GtgJ6NkzEXD%2BbqyGSOrR4ovKeuwj03ST7T6yGZ4HnTY6wnqEAF%2Bsw6XDxs6WfAHSuM3gVmGMVeD1XnAcPP6NX4lEfcKgC4k0dux2yMg/ep0xkEuNpOwXLqrZxVJDQFyDmOCqhRBMEsllv1Fef%2BnaLZOVVQrKPwJhc%3D"
+            }
+          }
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "scale": 160,
+          "focalX": 49.947406045107094,
+          "focalY": 27.735225762005765,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "creationDate": "2021-07-21T11:02:31",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page3_img1.jpg",
+            "width": 720,
+            "height": 1080,
+            "id": 0,
+            "alt": "Free stock photo of a woman with afro in an appartment",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": false,
+            "isMuted": false,
+            "baseColor": "#33251e",
+            "isExternal": true
+          },
+          "backgroundColor": {
+            "color": {
+              "r": 254,
+              "g": 49,
+              "b": 49
+            }
+          },
+          "width": 300,
+          "height": 276,
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "8b8afbf4-fc93-4683-bc23-3e14e260f83c",
+          "id": "decfcaeb-a56a-46a7-bae6-48c0d86fa253",
+          "x": 737,
+          "y": 390,
+          "overlay": {
+            "type": "linear",
+            "stops": [
+              {
+                "color": {
+                  "r": 255,
+                  "g": 255,
+                  "b": 255
+                },
+                "position": 0
+              },
+              {
+                "color": {
+                  "r": 255,
+                  "g": 255,
+                  "b": 255,
+                  "a": 0
+                },
+                "position": 1
+              }
+            ],
+            "alpha": 0.28
+          },
+          "type": "image"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Six Caps",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 2048,
+              "asc": 2263,
+              "des": -432,
+              "tAsc": 2263,
+              "tDes": -432,
+              "tLGap": 0,
+              "wAsc": 2263,
+              "wDes": 432,
+              "yMin": -506,
+              "yMax": 2281,
+              "hAsc": 2263,
+              "hDes": -432,
+              "lGap": 0
+            }
+          },
+          "fontSize": 160,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 0.9,
+          "textAlign": "left",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
+          "content": "<span style=\"text-transform: uppercase\">Where</span>\n<span style=\"text-transform: uppercase\">did you</span>\n<span style=\"text-transform: uppercase\">grow up</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 313,
+          "height": 501,
+          "basedOn": "9e37d4b1-e772-4788-b803-efd5383eca40",
+          "id": "cbcde42e-1c7f-45da-99f1-6f5569e3c9f5",
+          "x": 201,
+          "y": 28,
+          "type": "text",
+          "marginOffset": -66.546875
+        },
+        {
+          "opacity": 85,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 10,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Covered By Your Grace",
+            "fallbacks": [
+              "cursive"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1024,
+              "asc": 995,
+              "des": -384,
+              "tAsc": 995,
+              "tDes": -384,
+              "tLGap": 0,
+              "wAsc": 995,
+              "wDes": 384,
+              "xH": 500,
+              "capH": 795,
+              "yMin": -384,
+              "yMax": 1021,
+              "hAsc": 995,
+              "hDes": -384,
+              "lGap": 0
+            }
+          },
+          "fontSize": 209,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.4,
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
+          "content": "<span style=\"color: #ff2d2d\">\"</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 96,
+          "height": 282,
+          "basedOn": "f17d02a2-108f-435e-969b-f1660af14d66",
+          "id": "c3941ca7-3cfe-4fd9-8409-096a20f70785",
+          "x": 164,
+          "y": -37,
+          "type": "text",
+          "marginOffset": 11.143945312499966
+        },
+        {
+          "opacity": 85,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 26,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Covered By Your Grace",
+            "fallbacks": [
+              "cursive"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1024,
+              "asc": 995,
+              "des": -384,
+              "tAsc": 995,
+              "tDes": -384,
+              "tLGap": 0,
+              "wAsc": 995,
+              "wDes": 384,
+              "xH": 500,
+              "capH": 795,
+              "yMin": -384,
+              "yMax": 1021,
+              "hAsc": 995,
+              "hDes": -384,
+              "lGap": 0
+            }
+          },
+          "fontSize": 228,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.4,
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
+          "content": "<span style=\"color: #ff2d2d\">?</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 96,
+          "height": 307,
+          "basedOn": "9b5f4749-dba1-4555-b667-a2112436d98c",
+          "id": "ee1d45cd-54d0-44a2-b651-09ebe1812154",
+          "x": 436,
+          "y": 296,
+          "type": "text",
+          "marginOffset": 12.157031249999989
+        }
+      ],
+      "animations": [
+        {
+          "id": "e7579782-eeb3-41b0-9737-8b6d57f6bc3b",
+          "type": "effect-fly-in",
+          "targets": [
+            "decfcaeb-a56a-46a7-bae6-48c0d86fa253"
+          ],
+          "flyInDir": "rightToLeft",
+          "duration": 2000,
+          "delay": 0
+        }
+      ],
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "type": "page",
+      "id": "117e9a48-d7a6-48bf-8980-997cfcda6362",
+      "pageTemplateType": null,
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "f44a29cc-4454-4029-bc8b-5a9dd89d6d92",
+        "type": "shape"
+      }
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundColor": {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255
+            }
+          },
+          "x": 48,
+          "y": 0,
+          "width": 330,
+          "height": 625,
+          "mask": {
+            "type": "rectangle"
+          },
+          "isBackground": true,
+          "type": "video",
+          "id": "abc7c465-20d3-45f6-acc6-d5fa9303f1a8",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 36.95665724734042,
+          "resource": {
+            "type": "video",
+            "mimeType": "video/mp4",
+            "creationDate": "2021-07-22T09:42:13",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page4_vid1.mp4",
+            "width": 1080,
+            "height": 2048,
+            "poster": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page4_vid1-poster.jpg",
+            "posterId": 0,
+            "id": 0,
+            "length": 15,
+            "lengthFormatted": "0:15",
+            "alt": "A woman checking her clothes fit in front of a mirror",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": true,
+            "isMuted": true,
+            "provider": "local",
+            "baseColor": "#5f5f60",
+            "isExternal": true
+          },
+          "tracks": [],
+          "loop": true
+        }
+      ],
+      "animations": [
+        {
+          "id": "0d18d34e-aea1-4fa5-80ba-a1aec7ebb03b",
+          "type": "effect-background-pan",
+          "panDir": "topToBottom",
+          "duration": 2000,
+          "delay": 0,
+          "targets": [
+            "abc7c465-20d3-45f6-acc6-d5fa9303f1a8"
+          ]
+        }
+      ],
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "type": "page",
+      "id": "376eaf69-859a-4911-b177-e9527ae4f44e",
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "backgroundColor": {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          }
+        },
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "f484a700-b391-44ff-9471-65a980cae7b7"
+      },
+      "pageTemplateType": null
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "x": 48,
+          "y": 0,
+          "width": 602,
+          "height": 402,
+          "mask": {
+            "type": "rectangle"
+          },
+          "isBackground": true,
+          "id": "84e8f574-948f-4337-a7d1-6c48a0f3b24f",
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 6016,
+            "height": 4016,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:e_5NhSomvS4",
+                "sourceUrl": "https://images.unsplash.com/photo-1535640555174-c836c799d250?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxM3x8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIyMA&ixlib=rb-4.0.3&fm=jpg&w=6016&h=4016&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 6016,
+                "height": 4016
+              },
+              "large": {
+                "file": "media/unsplash:e_5NhSomvS4",
+                "sourceUrl": "https://images.unsplash.com/photo-1535640555174-c836c799d250?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxM3x8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIyMA&ixlib=rb-4.0.3&fm=jpg&w=4812&h=3212&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4812,
+                "height": 3212
+              },
+              "3609_2409": {
+                "file": "media/unsplash:e_5NhSomvS4",
+                "sourceUrl": "https://images.unsplash.com/photo-1535640555174-c836c799d250?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxM3x8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIyMA&ixlib=rb-4.0.3&fm=jpg&w=3609&h=2409&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3609,
+                "height": 2409
+              },
+              "2406_1606": {
+                "file": "media/unsplash:e_5NhSomvS4",
+                "sourceUrl": "https://images.unsplash.com/photo-1535640555174-c836c799d250?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxM3x8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIyMA&ixlib=rb-4.0.3&fm=jpg&w=2406&h=1606&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2406,
+                "height": 1606
+              },
+              "1203_803": {
+                "file": "media/unsplash:e_5NhSomvS4",
+                "sourceUrl": "https://images.unsplash.com/photo-1535640555174-c836c799d250?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxM3x8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIyMA&ixlib=rb-4.0.3&fm=jpg&w=1203&h=803&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1203,
+                "height": 803
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:e_5NhSomvS4",
+                "sourceUrl": "https://images.unsplash.com/photo-1535640555174-c836c799d250?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxM3x8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIyMA&ixlib=rb-4.0.3&fm=jpg&w=340&h=227&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 227
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:e_5NhSomvS4",
+            "baseColor": "#262626",
+            "blurHash": "LFCGcDWA8^ozkWayt7ayDhfRx^ae",
+            "creationDate": "2018-08-30T14:52:53Z",
+            "src": "https://images.unsplash.com/photo-1535640555174-c836c799d250?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwxM3x8Z3JvdyUyMHVwfGVufDB8fHx8MTY4MjE2MDIyMA&ixlib=rb-4.0.3&fm=jpg&w=6016&h=4016&fit=max",
+            "alt": "low-angle photography gray building",
+            "attribution": {
+              "author": {
+                "displayName": "Chor Tsang",
+                "url": "https://unsplash.com/@chortsang?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfGWLeW21Nlm9xz%2BvIU84Be3UpQ2O9WEmOaDVG9GDk7WFlcWPbN7bizUFJyJ0aykkRs7isIsqxErnrZPoxWDI12CVWZ2Tfxo/YQ6FSX1ZtgeECeR2mA/NJlAMMcrESweZwSYXK1bQWpr3DIY%2BRjQkAmKVAIY2cnKIQczD8ebbkVuKsfryfR7TXb1LUX44kUkUgi8eFQm1cSNluyCM8b6w%2BwYSW%2BJqFClO/Ocg6pJyNl7bIw%3D"
+            }
+          }
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Six Caps",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 2048,
+              "asc": 2263,
+              "des": -432,
+              "tAsc": 2263,
+              "tDes": -432,
+              "tLGap": 0,
+              "wAsc": 2263,
+              "wDes": 432,
+              "yMin": -506,
+              "yMax": 2281,
+              "hAsc": 2263,
+              "hDes": -432,
+              "lGap": 0
+            }
+          },
+          "fontSize": 400,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.5,
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
+          "content": "<span style=\"color: #f2f2f2; text-transform: uppercase\">Brooklyn</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 759,
+          "height": 526,
+          "basedOn": "9e37d4b1-e772-4788-b803-efd5383eca40",
+          "id": "8aec9776-cdcf-44d3-b68c-ce981dca68dc",
+          "x": 254,
+          "y": 99,
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0,
+            "lockedWidth": true,
+            "color": {
+              "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+              }
+            }
+          },
+          "type": "text"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "scale": 150,
+          "focalX": 53.68888888888888,
+          "focalY": 41.7037037037037,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "creationDate": "2021-07-21T11:03:19",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page5_img1.jpg",
+            "width": 720,
+            "height": 1080,
+            "id": 0,
+            "alt": "Free stock photo of a woman sitting on a chair with a dog",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": false,
+            "isMuted": false,
+            "baseColor": "#cfc2be",
+            "isExternal": true
+          },
+          "backgroundColor": {
+            "color": {
+              "r": 254,
+              "g": 49,
+              "b": 49
+            }
+          },
+          "width": 315,
+          "height": 515,
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "d38aa0d7-f3a8-409f-aaae-e9181d57ce41",
+          "id": "27ae4af9-cf9d-424e-81fe-872391371fac",
+          "x": 474,
+          "y": 0,
+          "type": "image"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Lora",
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1006,
+              "des": -274,
+              "tAsc": 1006,
+              "tDes": -274,
+              "tLGap": 0,
+              "wAsc": 1206,
+              "wDes": 294,
+              "xH": 500,
+              "capH": 700,
+              "yMin": -271,
+              "yMax": 1114,
+              "hAsc": 1006,
+              "hDes": -274,
+              "lGap": 0
+            }
+          },
+          "fontSize": 18,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.4,
+          "textAlign": "left",
+          "padding": {
+            "locked": true,
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "content": "<span style=\"font-weight: 700\">It feels like Travis, 30, has always been famous — an indelible screen presence and iconic parents will do that.</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 276,
+          "height": 99,
+          "basedOn": "58774c14-c31f-4e32-806b-934673a36908",
+          "id": "c8c7c040-9a15-4729-8e33-5a768c1cef2f",
+          "x": 502,
+          "y": 575,
+          "type": "text"
+        }
+      ],
+      "animations": [
+        {
+          "id": "c3fd3bad-e53d-4177-be24-b6ed7a2f9919",
+          "type": "effect-fly-in",
+          "targets": [
+            "8aec9776-cdcf-44d3-b68c-ce981dca68dc"
+          ],
+          "flyInDir": "rightToLeft",
+          "duration": 7000,
+          "delay": 0
+        }
+      ],
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "type": "page",
+      "id": "9d76fa95-d6d3-4e1b-acc9-7c6b6bc5bbd1",
+      "pageTemplateType": null,
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "59b68d98-d8ac-4151-8e5b-fe9d762735a5",
+        "type": "shape"
+      }
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "x": 48,
+          "y": 0,
+          "width": 403,
+          "height": 302,
+          "mask": {
+            "type": "rectangle"
+          },
+          "isBackground": true,
+          "id": "53c94040-b94c-4c29-9bb2-0d3f3aa78dba",
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 4032,
+            "height": 3024,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:tSlvoSZK77c",
+                "sourceUrl": "https://images.unsplash.com/photo-1524601500432-1e1a4c71d692?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4fHxncm93JTIwdXB8ZW58MHx8fHwxNjgyMTYwMjE5&ixlib=rb-4.0.3&fm=jpg&w=4032&h=3024&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4032,
+                "height": 3024
+              },
+              "large": {
+                "file": "media/unsplash:tSlvoSZK77c",
+                "sourceUrl": "https://images.unsplash.com/photo-1524601500432-1e1a4c71d692?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4fHxncm93JTIwdXB8ZW58MHx8fHwxNjgyMTYwMjE5&ixlib=rb-4.0.3&fm=jpg&w=3225&h=2419&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3225,
+                "height": 2419
+              },
+              "2419_1814": {
+                "file": "media/unsplash:tSlvoSZK77c",
+                "sourceUrl": "https://images.unsplash.com/photo-1524601500432-1e1a4c71d692?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4fHxncm93JTIwdXB8ZW58MHx8fHwxNjgyMTYwMjE5&ixlib=rb-4.0.3&fm=jpg&w=2419&h=1814&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2419,
+                "height": 1814
+              },
+              "1612_1209": {
+                "file": "media/unsplash:tSlvoSZK77c",
+                "sourceUrl": "https://images.unsplash.com/photo-1524601500432-1e1a4c71d692?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4fHxncm93JTIwdXB8ZW58MHx8fHwxNjgyMTYwMjE5&ixlib=rb-4.0.3&fm=jpg&w=1612&h=1209&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1612,
+                "height": 1209
+              },
+              "806_605": {
+                "file": "media/unsplash:tSlvoSZK77c",
+                "sourceUrl": "https://images.unsplash.com/photo-1524601500432-1e1a4c71d692?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4fHxncm93JTIwdXB8ZW58MHx8fHwxNjgyMTYwMjE5&ixlib=rb-4.0.3&fm=jpg&w=806&h=605&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 806,
+                "height": 605
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:tSlvoSZK77c",
+                "sourceUrl": "https://images.unsplash.com/photo-1524601500432-1e1a4c71d692?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4fHxncm93JTIwdXB8ZW58MHx8fHwxNjgyMTYwMjE5&ixlib=rb-4.0.3&fm=jpg&w=340&h=255&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 255
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:tSlvoSZK77c",
+            "baseColor": "#0c2626",
+            "blurHash": "L;G+~:ayxtof?wWCoLj[bxofV[WC",
+            "creationDate": "2018-04-24T20:26:31Z",
+            "src": "https://images.unsplash.com/photo-1524601500432-1e1a4c71d692?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw4fHxncm93JTIwdXB8ZW58MHx8fHwxNjgyMTYwMjE5&ixlib=rb-4.0.3&fm=jpg&w=4032&h=3024&fit=max",
+            "alt": "women forming heart gestures during daytime",
+            "attribution": {
+              "author": {
+                "displayName": "Melissa Askew",
+                "url": "https://unsplash.com/@melissaaskew?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfHa1ZCFl/rjlo54PpSkbJncFgYVNL3QyVjAMXOhmI/T71M5px/6uZ6HyozMBQKAiGBsc4MXl5MFbUB9t%2Bgk90PSNGMrX3vneCGcEtuo1zmC8c2pISnBM9rWCVTx5/16hNN5swUPrmIYiLKh1u3qWNr%2BnNcjP3TgkXX9HLOpGC5FUcxrndbbOffUVVilX7YNR2SnsEmdz98kldjCt7UzsB%2Bb6S91ECnmw5P385FyDk%2Bs"
+            }
+          }
+        },
+        {
+          "opacity": 85,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 10,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Covered By Your Grace",
+            "fallbacks": [
+              "cursive"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1024,
+              "asc": 995,
+              "des": -384,
+              "tAsc": 995,
+              "tDes": -384,
+              "tLGap": 0,
+              "wAsc": 995,
+              "wDes": 384,
+              "xH": 500,
+              "capH": 795,
+              "yMin": -384,
+              "yMax": 1021,
+              "hAsc": 995,
+              "hDes": -384,
+              "lGap": 0
+            }
+          },
+          "fontSize": 255,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.4,
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
+          "content": "<span style=\"color: #ff2d2d\">\"</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 118,
+          "height": 344,
+          "basedOn": "9b5f4749-dba1-4555-b667-a2112436d98c",
+          "id": "cd89deb5-663b-452a-81a5-c5a05bcd6c4f",
+          "x": 304,
+          "y": 250,
+          "type": "text",
+          "marginOffset": 13.649999999999977
+        },
+        {
+          "opacity": 85,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 10,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Covered By Your Grace",
+            "fallbacks": [
+              "cursive"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1024,
+              "asc": 995,
+              "des": -384,
+              "tAsc": 995,
+              "tDes": -384,
+              "tLGap": 0,
+              "wAsc": 995,
+              "wDes": 384,
+              "xH": 500,
+              "capH": 795,
+              "yMin": -384,
+              "yMax": 1021,
+              "hAsc": 995,
+              "hDes": -384,
+              "lGap": 0
+            }
+          },
+          "fontSize": 254,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.4,
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
+          "content": "<span style=\"color: #ff2d2d\">\"</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 118,
+          "height": 343,
+          "basedOn": "9b5f4749-dba1-4555-b667-a2112436d98c",
+          "id": "6b459de4-a092-4a90-ac45-7bd6acc30aed",
+          "x": 648,
+          "y": 513,
+          "type": "text",
+          "marginOffset": 13.543359374999966
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Lora",
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1000,
+              "asc": 1006,
+              "des": -274,
+              "tAsc": 1006,
+              "tDes": -274,
+              "tLGap": 0,
+              "wAsc": 1206,
+              "wDes": 294,
+              "xH": 500,
+              "capH": 700,
+              "yMin": -271,
+              "yMax": 1114,
+              "hAsc": 1006,
+              "hDes": -274,
+              "lGap": 0
+            }
+          },
+          "fontSize": 30,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.3,
+          "textAlign": "left",
+          "padding": {
+            "vertical": 0,
+            "horizontal": 0,
+            "locked": true
+          },
+          "content": "<span style=\"color: #fff\">That was what I liked growing up. And also, that was what I thought I was suited for. I didn’t see a lot of people who looked like me in big movies.</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 365,
+          "height": 278,
+          "basedOn": "ca5c3747-ca26-43bf-829f-11ac96e4daba",
+          "id": "3f010d5c-2816-473f-8bd3-5c66b2fac1d9",
+          "x": 350,
+          "y": 361,
+          "type": "text",
+          "marginOffset": 0.6200000000000045
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "scale": 200,
+          "focalX": 55.81163195453408,
+          "focalY": 45.67853008509004,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "creationDate": "2021-07-21T11:03:58",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page6_img1.jpg",
+            "width": 720,
+            "height": 1080,
+            "id": 0,
+            "alt": "Woman's Face",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": false,
+            "isMuted": false,
+            "baseColor": "#3a2113",
+            "isExternal": true
+          },
+          "backgroundColor": {
+            "color": {
+              "r": 254,
+              "g": 49,
+              "b": 49
+            }
+          },
+          "width": 256,
+          "height": 366,
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "8f4e9c36-4c28-47b7-aeba-5999630343c0",
+          "id": "d89ed844-8f84-4c6f-aab6-d4c5d76bd533",
+          "x": 739,
+          "y": 14,
+          "type": "image"
+        }
+      ],
+      "animations": [
+        {
+          "id": "3bfd391f-c305-44d6-adf8-41efd93c182c",
+          "type": "effect-fly-in",
+          "targets": [
+            "d89ed844-8f84-4c6f-aab6-d4c5d76bd533"
+          ],
+          "flyInDir": "rightToLeft",
+          "duration": 2000,
+          "delay": 0
+        },
+        {
+          "id": "88c0b37e-4509-44ce-90b9-8cb95aee74a6",
+          "type": "effect-fade-in",
+          "targets": [
+            "6b459de4-a092-4a90-ac45-7bd6acc30aed"
+          ],
+          "duration": 600,
+          "delay": 100
+        },
+        {
+          "id": "9e646ba3-8e9c-49c1-bf69-e6b14de6f2e4",
+          "type": "effect-fade-in",
+          "targets": [
+            "cd89deb5-663b-452a-81a5-c5a05bcd6c4f"
+          ],
+          "duration": 2000,
+          "delay": 0
+        }
+      ],
+      "backgroundColor": {
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      "type": "page",
+      "id": "83de9e27-6ff8-46cc-8555-5a61aa1f64e0",
+      "pageTemplateType": "quote",
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "69c9d30d-e07b-4276-941c-5686678df90e",
+        "type": "shape"
+      }
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "x": 48,
+          "y": 0,
+          "width": 400,
+          "height": 600,
+          "mask": {
+            "type": "rectangle"
+          },
+          "isBackground": true,
+          "id": "428cb4ac-7928-4315-96a9-b1917ecd38a0",
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 4000,
+            "height": 6000,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:ILL3G4bMp38",
+                "sourceUrl": "https://images.unsplash.com/photo-1559782035-4d0ba89c0540?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=4000&h=6000&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 4000,
+                "height": 6000
+              },
+              "large": {
+                "file": "media/unsplash:ILL3G4bMp38",
+                "sourceUrl": "https://images.unsplash.com/photo-1559782035-4d0ba89c0540?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=3200&h=4800&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3200,
+                "height": 4800
+              },
+              "2400_3600": {
+                "file": "media/unsplash:ILL3G4bMp38",
+                "sourceUrl": "https://images.unsplash.com/photo-1559782035-4d0ba89c0540?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=2400&h=3600&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2400,
+                "height": 3600
+              },
+              "1600_2400": {
+                "file": "media/unsplash:ILL3G4bMp38",
+                "sourceUrl": "https://images.unsplash.com/photo-1559782035-4d0ba89c0540?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=1600&h=2400&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1600,
+                "height": 2400
+              },
+              "800_1200": {
+                "file": "media/unsplash:ILL3G4bMp38",
+                "sourceUrl": "https://images.unsplash.com/photo-1559782035-4d0ba89c0540?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=800&h=1200&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 800,
+                "height": 1200
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:ILL3G4bMp38",
+                "sourceUrl": "https://images.unsplash.com/photo-1559782035-4d0ba89c0540?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=340&h=510&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 510
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:ILL3G4bMp38",
+            "baseColor": "#262626",
+            "blurHash": "LZEMRWoz00M{~qfQD%axxuWBWBof",
+            "creationDate": "2019-06-06T00:47:51Z",
+            "src": "https://images.unsplash.com/photo-1559782035-4d0ba89c0540?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwzfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=4000&h=6000&fit=max",
+            "alt": "group of people near bridge",
+            "attribution": {
+              "author": {
+                "displayName": "Lerone Pieters",
+                "url": "https://unsplash.com/@thevantagepoint718?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfEaz2d4CQXuTe3ZaK%2Bl4IxcgeApkpilABpWIecRjwmRaUsfd98giOdb1/ZoCS6u/mK7MFTC4HGT/mt52T7BCo2V9v6/Qsfvpkbu6r1fk6iCyp8/bfn0NSc61ZwW/TU%2BxPG0NacHSpZLX6hXaADqZ9P8xgyeJnQA%2BW64YeSgAF6i2t2wyO1iT8jSgq6TMFNuPaZ4wnro8BLPmkhuDk4uE%2BjMEE4rbrqmm4J15qZlX/A%3D"
+            }
+          },
+          "overlay": {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0.5
+            }
+          }
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "scale": 230,
+          "focalX": 52.523750996858595,
+          "focalY": 71.64356837044049,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "creationDate": "2021-07-21T11:04:35",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page7_img1.jpg",
+            "width": 1086,
+            "height": 720,
+            "id": 0,
+            "alt": "People walking on bridge during daytime",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": false,
+            "isMuted": false,
+            "baseColor": "#d8d9d4",
+            "isExternal": true
+          },
+          "backgroundColor": {
+            "color": {
+              "r": 254,
+              "g": 49,
+              "b": 49
+            }
+          },
+          "width": 265,
+          "height": 183,
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "79efeb10-da8f-43b2-bac4-5eaf1a49b75c",
+          "id": "4a6f6ac1-7a58-466e-b972-c0ee339808bf",
+          "x": 192,
+          "y": 0,
+          "type": "image"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "scale": 180,
+          "focalX": 48.616985560983515,
+          "focalY": 33.736774652306025,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "creationDate": "2021-07-21T11:05:22",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page7_img2.jpg",
+            "width": 720,
+            "height": 1080,
+            "id": 0,
+            "alt": "City Street",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": false,
+            "isMuted": false,
+            "baseColor": "#3c3336",
+            "isExternal": true
+          },
+          "backgroundColor": {
+            "color": {
+              "r": 254,
+              "g": 49,
+              "b": 49
+            }
+          },
+          "width": 331,
+          "height": 220,
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "79efeb10-da8f-43b2-bac4-5eaf1a49b75c",
+          "id": "685975e0-431f-4c4b-8e93-5a829d15b08b",
+          "x": 795,
+          "y": 468,
+          "type": "image"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Six Caps",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 2048,
+              "asc": 2263,
+              "des": -432,
+              "tAsc": 2263,
+              "tDes": -432,
+              "tLGap": 0,
+              "wAsc": 2263,
+              "wDes": 432,
+              "yMin": -506,
+              "yMax": 2281,
+              "hAsc": 2263,
+              "hDes": -432,
+              "lGap": 0
+            }
+          },
+          "fontSize": 159,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 0.88,
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
+          "content": "<span style=\"color: #fff; text-transform: uppercase\">Brooklyn</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 344,
+          "height": 208,
+          "basedOn": "9e37d4b1-e772-4788-b803-efd5383eca40",
+          "id": "b64babea-33f3-4264-8af4-3fdeadaab637",
+          "x": 458,
+          "y": 141,
+          "type": "text",
+          "tagName": "h2"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Six Caps",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 2048,
+              "asc": 2263,
+              "des": -432,
+              "tAsc": 2263,
+              "tDes": -432,
+              "tLGap": 0,
+              "wAsc": 2263,
+              "wDes": 432,
+              "yMin": -506,
+              "yMax": 2281,
+              "hAsc": 2263,
+              "hDes": -432,
+              "lGap": 0
+            }
+          },
+          "fontSize": 159,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 0.88,
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
+          "content": "<span style=\"color: #fff; text-transform: uppercase\">Manhattan</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 344,
+          "height": 208,
+          "basedOn": "9e46a676-8045-4183-aeb3-9c49f54a7edd",
+          "id": "99ed2b90-9c62-4155-9b62-c80eda6ac022",
+          "x": 458,
+          "y": 294,
+          "type": "text"
+        },
+        {
+          "opacity": 85,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 2,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Covered By Your Grace",
+            "fallbacks": [
+              "cursive"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1024,
+              "asc": 995,
+              "des": -384,
+              "tAsc": 995,
+              "tDes": -384,
+              "tLGap": 0,
+              "wAsc": 995,
+              "wDes": 384,
+              "xH": 500,
+              "capH": 795,
+              "yMin": -384,
+              "yMax": 1021,
+              "hAsc": 995,
+              "hDes": -384,
+              "lGap": 0
+            }
+          },
+          "fontSize": 116,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.4,
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
+          "content": "<span style=\"color: #ff2d2d\">or</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 137,
+          "height": 156,
+          "basedOn": "3e8e1a21-6960-4f0f-9873-6792e4a28182",
+          "id": "ca68969a-9b92-4ef2-bea4-e04d195b2b2c",
+          "x": 437,
+          "y": 234,
+          "type": "text",
+          "tagName": "h2"
+        },
+        {
+          "opacity": 85,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Covered By Your Grace",
+            "fallbacks": [
+              "cursive"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 1024,
+              "asc": 995,
+              "des": -384,
+              "tAsc": 995,
+              "tDes": -384,
+              "tLGap": 0,
+              "wAsc": 995,
+              "wDes": 384,
+              "xH": 500,
+              "capH": 795,
+              "yMin": -384,
+              "yMax": 1021,
+              "hAsc": 995,
+              "hDes": -384,
+              "lGap": 0
+            }
+          },
+          "fontSize": 160,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.4,
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
+          "content": "<span style=\"color: #ff2d2d\">?</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 63,
+          "height": 215,
+          "basedOn": "bdf51273-db12-44a2-a28b-32fa7626ebaf",
+          "id": "27029d5c-cb10-4400-92b6-6f3aa651b30d",
+          "x": 764,
+          "y": 253,
+          "type": "text"
+        }
+      ],
+      "animations": [
+        {
+          "id": "31a49106-2f25-45e6-ab5e-baa112fcac8d",
+          "type": "effect-fly-in",
+          "targets": [
+            "4a6f6ac1-7a58-466e-b972-c0ee339808bf"
+          ],
+          "flyInDir": "rightToLeft",
+          "duration": 2000,
+          "delay": 0
+        },
+        {
+          "id": "33867d52-f3e4-4638-a2d5-229d00ca1a7c",
+          "type": "effect-fly-in",
+          "targets": [
+            "b64babea-33f3-4264-8af4-3fdeadaab637"
+          ],
+          "flyInDir": "leftToRight",
+          "duration": 2000,
+          "delay": 0
+        },
+        {
+          "id": "c2ae724d-d845-4503-9b58-0be2343ef098",
+          "type": "effect-fade-in",
+          "targets": [
+            "ca68969a-9b92-4ef2-bea4-e04d195b2b2c"
+          ],
+          "duration": 600,
+          "delay": 500
+        },
+        {
+          "id": "b699e121-7b13-4759-8f19-474fe71c7704",
+          "type": "effect-fly-in",
+          "targets": [
+            "99ed2b90-9c62-4155-9b62-c80eda6ac022"
+          ],
+          "flyInDir": "rightToLeft",
+          "duration": 2000,
+          "delay": 300
+        },
+        {
+          "id": "3e575c80-91bd-43b8-b67b-c2800d4ffd24",
+          "type": "effect-fly-in",
+          "targets": [
+            "685975e0-431f-4c4b-8e93-5a829d15b08b"
+          ],
+          "flyInDir": "leftToRight",
+          "duration": 2000,
+          "delay": 300
+        },
+        {
+          "id": "7e03bc23-59a5-4a41-9c2f-1affa9f92606",
+          "type": "effect-fade-in",
+          "targets": [
+            "27029d5c-cb10-4400-92b6-6f3aa651b30d"
+          ],
+          "duration": 600,
+          "delay": 800
+        }
+      ],
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "type": "page",
+      "id": "0e0e880b-1817-4bae-892d-3d49fe25b34d",
+      "pageTemplateType": null,
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "9e444706-e40d-4e62-838d-429062b8f097",
+        "type": "shape"
+      }
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundColor": {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255
+            }
+          },
+          "x": 48,
+          "y": 0,
+          "width": 330,
+          "height": 625,
+          "mask": {
+            "type": "rectangle"
+          },
+          "isBackground": true,
+          "type": "video",
+          "id": "6fdcc6c8-1d7d-4749-9469-658bd3b5ea7a",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "video",
+            "mimeType": "video/mp4",
+            "creationDate": "2021-06-02T10:57:12",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page8_vid1.mp4",
+            "width": 1080,
+            "height": 2048,
+            "poster": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page8_vid1-poster.jpg",
+            "posterId": 0,
+            "id": 0,
+            "length": 9,
+            "lengthFormatted": "0:09",
+            "alt": "A Woman Lying On Bed",
+            "sizes": [],
+            "isOptimized": true,
+            "isMuted": true,
+            "provider": "local",
+            "baseColor": "#393939",
+            "isExternal": true
+          },
+          "tracks": [],
+          "loop": true
+        }
+      ],
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
+      "type": "page",
+      "id": "c5d0dc2a-59bc-4fe5-82c5-4e2dd8ea2373",
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "backgroundColor": {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          }
+        },
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "type": "shape",
+        "id": "b3631c7e-3b25-4581-8301-07019c59001d"
+      },
+      "animations": [
+        {
+          "id": "cf7ba052-f1ed-4c5d-a84c-1fa89763ce71",
+          "type": "effect-background-zoom",
+          "zoomDirection": "scaleOut",
+          "duration": 2000,
+          "delay": 0,
+          "targets": [
+            "6fdcc6c8-1d7d-4749-9469-658bd3b5ea7a"
+          ]
+        }
+      ],
+      "pageTemplateType": null
+    },
+    {
+      "elements": [
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "x": 48,
+          "y": 0,
+          "width": 302,
+          "height": 403,
+          "mask": {
+            "type": "rectangle"
+          },
+          "isBackground": true,
+          "id": "06a5fd42-8759-4527-839d-e6db322ba611",
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 3024,
+            "height": 4032,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:60qA6VQGeyA",
+                "sourceUrl": "https://images.unsplash.com/photo-1587093393031-9ac56c6a0d70?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=3024&h=4032&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3024,
+                "height": 4032
+              },
+              "large": {
+                "file": "media/unsplash:60qA6VQGeyA",
+                "sourceUrl": "https://images.unsplash.com/photo-1587093393031-9ac56c6a0d70?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=2419&h=3225&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2419,
+                "height": 3225
+              },
+              "1814_2419": {
+                "file": "media/unsplash:60qA6VQGeyA",
+                "sourceUrl": "https://images.unsplash.com/photo-1587093393031-9ac56c6a0d70?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=1814&h=2419&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1814,
+                "height": 2419
+              },
+              "1209_1612": {
+                "file": "media/unsplash:60qA6VQGeyA",
+                "sourceUrl": "https://images.unsplash.com/photo-1587093393031-9ac56c6a0d70?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=1209&h=1612&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1209,
+                "height": 1612
+              },
+              "604_805": {
+                "file": "media/unsplash:60qA6VQGeyA",
+                "sourceUrl": "https://images.unsplash.com/photo-1587093393031-9ac56c6a0d70?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=604&h=805&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 604,
+                "height": 805
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:60qA6VQGeyA",
+                "sourceUrl": "https://images.unsplash.com/photo-1587093393031-9ac56c6a0d70?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=340&h=453&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 453
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:60qA6VQGeyA",
+            "baseColor": "#8ca6d9",
+            "blurHash": "LrG[$#oefioL.Tjsoej[OHs:a#j[",
+            "creationDate": "2020-04-17T03:16:43Z",
+            "src": "https://images.unsplash.com/photo-1587093393031-9ac56c6a0d70?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHwyfHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=3024&h=4032&fit=max",
+            "alt": "brown and gray concrete buildings during daytime",
+            "attribution": {
+              "author": {
+                "displayName": "Linmiao Xu",
+                "url": "https://unsplash.com/@linrock?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfEgldspUwg0vcRdcec53XOoR0G9HPuuDQn%2BaAtMikdYatWbLhRzAaPzBc/vSDLBqE8eXnvN79bgrj8kpADkeeUH5EWXvamcMbvhqUC8cwnjlZWtAbvSwlFDVPUk59v/fvogZik4J5Ws%2BB3kZBb7LZuai7MGx3%2BjUiKZFMhU3kVmT41GEsCgZl98qZ1DQPIzjz2fAVHRq2N2LAbLnHvyGRaki6Pb9uNnEqCZOOF0K2k%3D"
+            }
+          },
+          "overlay": {
+            "type": "radial",
+            "size": {
+              "w": 0.67,
+              "h": 0.67
+            },
+            "stops": [
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0
+                },
+                "position": 0.4
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                },
+                "position": 1
+              }
+            ],
+            "alpha": 0.5
+          }
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Six Caps",
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
+            "service": "fonts.google.com",
+            "metrics": {
+              "upm": 2048,
+              "asc": 2263,
+              "des": -432,
+              "tAsc": 2263,
+              "tDes": -432,
+              "tLGap": 0,
+              "wAsc": 2263,
+              "wDes": 432,
+              "yMin": -506,
+              "yMax": 2281,
+              "hAsc": 2263,
+              "hDes": -432,
+              "lGap": 0
+            }
+          },
+          "fontSize": 400,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
+          "lineHeight": 1.5,
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
+          "content": "<span style=\"color: #f2f2f2; text-transform: uppercase\">Brooklyn</span>",
+          "borderRadius": {
+            "locked": true,
+            "topLeft": 2,
+            "topRight": 2,
+            "bottomRight": 2,
+            "bottomLeft": 2
+          },
+          "width": 759,
+          "height": 526,
+          "basedOn": "9e37d4b1-e772-4788-b803-efd5383eca40",
+          "id": "5a747c42-7d9b-4e26-9adb-29f86fccddcf",
+          "x": 368,
+          "y": 166,
+          "border": {
+            "left": 0,
+            "right": 0,
+            "top": 0,
+            "bottom": 0,
+            "lockedWidth": true,
+            "color": {
+              "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+              }
+            }
+          },
+          "type": "text"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "scale": 156,
+          "focalX": 57.963618922231554,
+          "focalY": 50.016088119034805,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "creationDate": "2021-07-21T11:06:17",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page9_img1.jpg",
+            "width": 720,
+            "height": 1080,
+            "id": 0,
+            "alt": "Free stock photo of a woman reading newspaper",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": false,
+            "isMuted": false,
+            "baseColor": "#c0b8b3",
+            "isExternal": true
+          },
+          "backgroundColor": {
+            "color": {
+              "r": 254,
+              "g": 49,
+              "b": 49
+            }
+          },
+          "width": 304,
+          "height": 448,
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "d38aa0d7-f3a8-409f-aaae-e9181d57ce41",
+          "id": "c499efe0-85f5-45b7-adc5-8b958ae32ca6",
+          "x": 595,
+          "y": 70,
+          "type": "image"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": true,
+          "backgroundTextMode": "NONE",
+          "font": {
+            "family": "Lora",
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -307,11 +3083,21 @@
             }
           },
           "fontSize": 20,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
           "textAlign": "left",
-          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
-          "content": "<span style=\"color: #fff\">Style icon and actress best known for her roles in Big Lies and Lo-Fidelity joins us for an edition of our rapid-fire Q &amp; A.</span>",
+          "padding": {
+            "locked": true,
+            "horizontal": 0,
+            "vertical": 0
+          },
+          "content": "<span style=\"font-weight: 700\">There is so much diverse energy in Brooklyn. You can take a turn down a lovely neighborhood street, or get that lively nightlife if you want.</span>",
           "borderRadius": {
             "locked": true,
             "topLeft": 2,
@@ -319,1353 +3105,12 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "x": 79,
-          "y": 484,
-          "width": 256,
-          "height": 135,
-          "id": "e472d3eb-4679-46ab-882d-bc3c50bccca0",
-          "type": "text"
-        }
-      ],
-      "animations": [
-        {
-          "id": "af9baedc-0d75-4340-ad6c-ade749699558",
-          "type": "effect-background-pan",
-          "targets": ["d7149945-c3b3-4672-a1e4-1101caf606df"],
-          "panDir": "topToBottom",
-          "duration": 7000,
-          "delay": 0
-        }
-      ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "type": "page",
-      "id": "f9324df0-5145-4972-b8a2-fea346d97858",
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": { "vertical": false, "horizontal": false },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": { "type": "rectangle" },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "type": "shape",
-        "id": "bdb388e5-37e3-4e3e-9389-197ec24f9b87"
-      },
-      "pageTemplateType": null
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "isDefaultBackground": true,
-          "id": "1774bba0-9b0d-4a74-b200-90533c54da09",
-          "type": "shape"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "scale": 160,
-          "focalX": 49.947406045107094,
-          "focalY": 27.735225762005765,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "creationDate": "2021-07-21T11:02:31",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page3_img1.jpg",
-            "width": 720,
-            "height": 1080,
-            "id": 0,
-            "alt": "Free stock photo of a woman with afro in an appartment",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": false,
-            "isMuted": false,
-            "baseColor": "#33251e",
-            "isExternal": true
-          },
-          "backgroundColor": { "color": { "r": 254, "g": 49, "b": 49 } },
-          "width": 272,
-          "height": 253,
-          "mask": { "type": "rectangle" },
-          "basedOn": "8b8afbf4-fc93-4683-bc23-3e14e260f83c",
-          "id": "decfcaeb-a56a-46a7-bae6-48c0d86fa253",
-          "x": 140,
-          "y": 422,
-          "overlay": {
-            "type": "linear",
-            "stops": [
-              { "color": { "r": 255, "g": 255, "b": 255 }, "position": 0 },
-              {
-                "color": { "r": 255, "g": 255, "b": 255, "a": 0 },
-                "position": 1
-              }
-            ],
-            "alpha": 0.28
-          },
-          "type": "image"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Six Caps",
-            "fallbacks": ["sans-serif"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 2048,
-              "asc": 2263,
-              "des": -432,
-              "tAsc": 2263,
-              "tDes": -432,
-              "tLGap": 0,
-              "wAsc": 2263,
-              "wDes": 432,
-              "yMin": -506,
-              "yMax": 2281,
-              "hAsc": 2263,
-              "hDes": -432,
-              "lGap": 0
-            }
-          },
-          "fontSize": 154,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 0.9,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"text-transform: uppercase\">Where</span>\n<span style=\"text-transform: uppercase\">did you</span>\n<span style=\"text-transform: uppercase\">grow up</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 299,
-          "height": 478,
-          "basedOn": "9e37d4b1-e772-4788-b803-efd5383eca40",
-          "id": "cbcde42e-1c7f-45da-99f1-6f5569e3c9f5",
-          "x": 47,
-          "y": -2,
-          "type": "text"
-        },
-        {
-          "opacity": 85,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 10,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Covered By Your Grace",
-            "fallbacks": ["cursive"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1024,
-              "asc": 995,
-              "des": -384,
-              "tAsc": 995,
-              "tDes": -384,
-              "tLGap": 0,
-              "wAsc": 995,
-              "wDes": 384,
-              "xH": 500,
-              "capH": 795,
-              "yMin": -384,
-              "yMax": 1021,
-              "hAsc": 995,
-              "hDes": -384,
-              "lGap": 0
-            }
-          },
-          "fontSize": 200,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"color: #ff2d2d\">\"</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 92,
-          "height": 269,
-          "basedOn": "f17d02a2-108f-435e-969b-f1660af14d66",
-          "id": "c3941ca7-3cfe-4fd9-8409-096a20f70785",
-          "x": 12,
-          "y": -64,
-          "type": "text"
-        },
-        {
-          "opacity": 85,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 26,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Covered By Your Grace",
-            "fallbacks": ["cursive"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1024,
-              "asc": 995,
-              "des": -384,
-              "tAsc": 995,
-              "tDes": -384,
-              "tLGap": 0,
-              "wAsc": 995,
-              "wDes": 384,
-              "xH": 500,
-              "capH": 795,
-              "yMin": -384,
-              "yMax": 1021,
-              "hAsc": 995,
-              "hDes": -384,
-              "lGap": 0
-            }
-          },
-          "fontSize": 218,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"color: #ff2d2d\">?</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 92,
-          "height": 293,
-          "basedOn": "9b5f4749-dba1-4555-b667-a2112436d98c",
-          "id": "ee1d45cd-54d0-44a2-b651-09ebe1812154",
-          "x": 271,
-          "y": 253,
-          "type": "text"
-        }
-      ],
-      "animations": [
-        {
-          "id": "e7579782-eeb3-41b0-9737-8b6d57f6bc3b",
-          "type": "effect-fly-in",
-          "targets": ["decfcaeb-a56a-46a7-bae6-48c0d86fa253"],
-          "flyInDir": "rightToLeft",
-          "duration": 2000,
-          "delay": 0
-        }
-      ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "type": "page",
-      "id": "117e9a48-d7a6-48bf-8980-997cfcda6362",
-      "pageTemplateType": null
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-          "x": 48,
-          "y": 0,
-          "width": 330,
-          "height": 625,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "type": "video",
-          "id": "abc7c465-20d3-45f6-acc6-d5fa9303f1a8",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "resource": {
-            "type": "video",
-            "mimeType": "video/mp4",
-            "creationDate": "2021-07-22T09:42:13",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page4_vid1.mp4",
-            "width": 1080,
-            "height": 2048,
-            "poster": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page4_vid1-poster.jpg",
-            "posterId": 0,
-            "id": 0,
-            "length": 15,
-            "lengthFormatted": "0:15",
-            "alt": "A woman checking her clothes fit in front of a mirror",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": true,
-            "isMuted": true,
-            "provider": "local",
-            "baseColor": "#5f5f60",
-            "isExternal": true
-          },
-          "tracks": [],
-          "loop": true
-        }
-      ],
-      "animations": [],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "type": "page",
-      "id": "376eaf69-859a-4911-b177-e9527ae4f44e",
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": { "vertical": false, "horizontal": false },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": { "type": "rectangle" },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "type": "shape",
-        "id": "f484a700-b391-44ff-9471-65a980cae7b7"
-      },
-      "pageTemplateType": null
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "isDefaultBackground": true,
-          "id": "84e8f574-948f-4337-a7d1-6c48a0f3b24f",
-          "type": "shape"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Six Caps",
-            "fallbacks": ["sans-serif"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 2048,
-              "asc": 2263,
-              "des": -432,
-              "tAsc": 2263,
-              "tDes": -432,
-              "tLGap": 0,
-              "wAsc": 2263,
-              "wDes": 432,
-              "yMin": -506,
-              "yMax": 2281,
-              "hAsc": 2263,
-              "hDes": -432,
-              "lGap": 0
-            }
-          },
-          "fontSize": 400,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.5,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"color: #f2f2f2; text-transform: uppercase\">Brooklyn</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 759,
-          "height": 526,
-          "basedOn": "9e37d4b1-e772-4788-b803-efd5383eca40",
-          "id": "8aec9776-cdcf-44d3-b68c-ce981dca68dc",
-          "x": -123,
-          "y": 42,
-          "border": {
-            "left": 0,
-            "right": 0,
-            "top": 0,
-            "bottom": 0,
-            "lockedWidth": true,
-            "color": { "color": { "r": 0, "g": 0, "b": 0 } }
-          },
-          "type": "text"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "scale": 150,
-          "focalX": 53.68888888888888,
-          "focalY": 41.7037037037037,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "creationDate": "2021-07-21T11:03:19",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page5_img1.jpg",
-            "width": 720,
-            "height": 1080,
-            "id": 0,
-            "alt": "Free stock photo of a woman sitting on a chair with a dog",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": false,
-            "isMuted": false,
-            "baseColor": "#cfc2be",
-            "isExternal": true
-          },
-          "backgroundColor": { "color": { "r": 254, "g": 49, "b": 49 } },
-          "width": 315,
-          "height": 515,
-          "mask": { "type": "rectangle" },
-          "basedOn": "d38aa0d7-f3a8-409f-aaae-e9181d57ce41",
-          "id": "27ae4af9-cf9d-424e-81fe-872391371fac",
-          "x": 97,
-          "y": -57,
-          "type": "image"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
-            "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1006,
-              "des": -274,
-              "tAsc": 1006,
-              "tDes": -274,
-              "tLGap": 0,
-              "wAsc": 1206,
-              "wDes": 294,
-              "xH": 500,
-              "capH": 700,
-              "yMin": -271,
-              "yMax": 1114,
-              "hAsc": 1006,
-              "hDes": -274,
-              "lGap": 0
-            }
-          },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
-          "content": "It feels like Travis, 30, has always been famous — an indelible screen presence and iconic parents will do that.",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 223,
-          "height": 85,
-          "basedOn": "58774c14-c31f-4e32-806b-934673a36908",
-          "id": "c8c7c040-9a15-4729-8e33-5a768c1cef2f",
-          "x": 97,
-          "y": 513,
-          "type": "text"
-        }
-      ],
-      "animations": [
-        {
-          "id": "c3fd3bad-e53d-4177-be24-b6ed7a2f9919",
-          "type": "effect-fly-in",
-          "targets": ["8aec9776-cdcf-44d3-b68c-ce981dca68dc"],
-          "flyInDir": "rightToLeft",
-          "duration": 7000,
-          "delay": 0
-        }
-      ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "type": "page",
-      "id": "9d76fa95-d6d3-4e1b-acc9-7c6b6bc5bbd1",
-      "pageTemplateType": null
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "isDefaultBackground": true,
-          "id": "53c94040-b94c-4c29-9bb2-0d3f3aa78dba",
-          "type": "shape"
-        },
-        {
-          "opacity": 85,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 10,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Covered By Your Grace",
-            "fallbacks": ["cursive"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1024,
-              "asc": 995,
-              "des": -384,
-              "tAsc": 995,
-              "tDes": -384,
-              "tLGap": 0,
-              "wAsc": 995,
-              "wDes": 384,
-              "xH": 500,
-              "capH": 795,
-              "yMin": -384,
-              "yMax": 1021,
-              "hAsc": 995,
-              "hDes": -384,
-              "lGap": 0
-            }
-          },
-          "fontSize": 200,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"color: #ff2d2d\">\"</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 92,
-          "height": 269,
-          "basedOn": "9b5f4749-dba1-4555-b667-a2112436d98c",
-          "id": "cd89deb5-663b-452a-81a5-c5a05bcd6c4f",
-          "x": 11,
-          "y": 243,
-          "type": "text"
-        },
-        {
-          "opacity": 85,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 10,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Covered By Your Grace",
-            "fallbacks": ["cursive"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1024,
-              "asc": 995,
-              "des": -384,
-              "tAsc": 995,
-              "tDes": -384,
-              "tLGap": 0,
-              "wAsc": 995,
-              "wDes": 384,
-              "xH": 500,
-              "capH": 795,
-              "yMin": -384,
-              "yMax": 1021,
-              "hAsc": 995,
-              "hDes": -384,
-              "lGap": 0
-            }
-          },
-          "fontSize": 200,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"color: #ff2d2d\">\"</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 92,
-          "height": 268,
-          "basedOn": "9b5f4749-dba1-4555-b667-a2112436d98c",
-          "id": "6b459de4-a092-4a90-ac45-7bd6acc30aed",
-          "x": 279,
-          "y": 449,
-          "type": "text"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
-            "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1006,
-              "des": -274,
-              "tAsc": 1006,
-              "tDes": -274,
-              "tLGap": 0,
-              "wAsc": 1206,
-              "wDes": 294,
-              "xH": 500,
-              "capH": 700,
-              "yMin": -271,
-              "yMax": 1114,
-              "hAsc": 1006,
-              "hDes": -274,
-              "lGap": 0
-            }
-          },
-          "fontSize": 24,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.3,
-          "textAlign": "left",
-          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
-          "content": "<span style=\"color: #fff\">That was what I liked growing up. And also, that was what I thought I was suited for. I didn’t see a lot of people who looked like me in big movies.</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 285,
-          "height": 217,
-          "basedOn": "ca5c3747-ca26-43bf-829f-11ac96e4daba",
-          "id": "3f010d5c-2816-473f-8bd3-5c66b2fac1d9",
-          "x": 47,
-          "y": 330,
-          "type": "text"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "scale": 200,
-          "focalX": 55.81163195453408,
-          "focalY": 45.67853008509004,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "creationDate": "2021-07-21T11:03:58",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page6_img1.jpg",
-            "width": 720,
-            "height": 1080,
-            "id": 0,
-            "alt": "Woman's Face",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": false,
-            "isMuted": false,
-            "baseColor": "#3a2113",
-            "isExternal": true
-          },
-          "backgroundColor": { "color": { "r": 254, "g": 49, "b": 49 } },
-          "width": 256,
-          "height": 366,
-          "mask": { "type": "rectangle" },
-          "basedOn": "8f4e9c36-4c28-47b7-aeba-5999630343c0",
-          "id": "d89ed844-8f84-4c6f-aab6-d4c5d76bd533",
-          "x": 157,
-          "y": -57,
-          "type": "image"
-        }
-      ],
-      "animations": [
-        {
-          "id": "3bfd391f-c305-44d6-adf8-41efd93c182c",
-          "type": "effect-fly-in",
-          "targets": ["d89ed844-8f84-4c6f-aab6-d4c5d76bd533"],
-          "flyInDir": "rightToLeft",
-          "duration": 2000,
-          "delay": 0
-        },
-        {
-          "id": "88c0b37e-4509-44ce-90b9-8cb95aee74a6",
-          "type": "effect-fade-in",
-          "targets": ["6b459de4-a092-4a90-ac45-7bd6acc30aed"],
-          "duration": 600,
-          "delay": 100
-        },
-        {
-          "id": "9e646ba3-8e9c-49c1-bf69-e6b14de6f2e4",
-          "type": "effect-fade-in",
-          "targets": ["cd89deb5-663b-452a-81a5-c5a05bcd6c4f"],
-          "duration": 2000,
-          "delay": 0
-        }
-      ],
-      "backgroundColor": { "color": { "r": 0, "g": 0, "b": 0 } },
-      "type": "page",
-      "id": "83de9e27-6ff8-46cc-8555-5a61aa1f64e0",
-      "pageTemplateType": "quote"
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "isDefaultBackground": true,
-          "id": "428cb4ac-7928-4315-96a9-b1917ecd38a0",
-          "type": "shape"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "scale": 230,
-          "focalX": 52.523750996858595,
-          "focalY": 71.64356837044049,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "creationDate": "2021-07-21T11:04:35",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page7_img1.jpg",
-            "width": 1086,
-            "height": 720,
-            "id": 0,
-            "alt": "People walking on bridge during daytime",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": false,
-            "isMuted": false,
-            "baseColor": "#d8d9d4",
-            "isExternal": true
-          },
-          "backgroundColor": { "color": { "r": 254, "g": 49, "b": 49 } },
-          "width": 265,
-          "height": 183,
-          "mask": { "type": "rectangle" },
-          "basedOn": "79efeb10-da8f-43b2-bac4-5eaf1a49b75c",
-          "id": "4a6f6ac1-7a58-466e-b972-c0ee339808bf",
-          "x": 147,
-          "y": -57,
-          "type": "image"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "scale": 180,
-          "focalX": 48.616985560983515,
-          "focalY": 33.736774652306025,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "creationDate": "2021-07-21T11:05:22",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page7_img2.jpg",
-            "width": 720,
-            "height": 1080,
-            "id": 0,
-            "alt": "City Street",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": false,
-            "isMuted": false,
-            "baseColor": "#3c3336",
-            "isExternal": true
-          },
-          "backgroundColor": { "color": { "r": 254, "g": 49, "b": 49 } },
-          "width": 331,
-          "height": 220,
-          "mask": { "type": "rectangle" },
-          "basedOn": "79efeb10-da8f-43b2-bac4-5eaf1a49b75c",
-          "id": "685975e0-431f-4c4b-8e93-5a829d15b08b",
-          "x": 0,
-          "y": 455,
-          "type": "image"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Six Caps",
-            "fallbacks": ["sans-serif"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 2048,
-              "asc": 2263,
-              "des": -432,
-              "tAsc": 2263,
-              "tDes": -432,
-              "tLGap": 0,
-              "wAsc": 2263,
-              "wDes": 432,
-              "yMin": -506,
-              "yMax": 2281,
-              "hAsc": 2263,
-              "hDes": -432,
-              "lGap": 0
-            }
-          },
-          "fontSize": 159,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 0.88,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"text-transform: uppercase\">Brooklyn</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 344,
-          "height": 208,
-          "basedOn": "9e37d4b1-e772-4788-b803-efd5383eca40",
-          "id": "b64babea-33f3-4264-8af4-3fdeadaab637",
-          "x": 35,
-          "y": 142,
-          "type": "text",
-          "tagName": "h2"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Six Caps",
-            "fallbacks": ["sans-serif"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 2048,
-              "asc": 2263,
-              "des": -432,
-              "tAsc": 2263,
-              "tDes": -432,
-              "tLGap": 0,
-              "wAsc": 2263,
-              "wDes": 432,
-              "yMin": -506,
-              "yMax": 2281,
-              "hAsc": 2263,
-              "hDes": -432,
-              "lGap": 0
-            }
-          },
-          "fontSize": 159,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 0.88,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"text-transform: uppercase\">Manhattan</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 344,
-          "height": 208,
-          "basedOn": "9e46a676-8045-4183-aeb3-9c49f54a7edd",
-          "id": "99ed2b90-9c62-4155-9b62-c80eda6ac022",
-          "x": 35,
-          "y": 295,
-          "type": "text"
-        },
-        {
-          "opacity": 85,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 2,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Covered By Your Grace",
-            "fallbacks": ["cursive"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1024,
-              "asc": 995,
-              "des": -384,
-              "tAsc": 995,
-              "tDes": -384,
-              "tLGap": 0,
-              "wAsc": 995,
-              "wDes": 384,
-              "xH": 500,
-              "capH": 795,
-              "yMin": -384,
-              "yMax": 1021,
-              "hAsc": 995,
-              "hDes": -384,
-              "lGap": 0
-            }
-          },
-          "fontSize": 116,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"color: #ff2d2d\">or</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 137,
-          "height": 156,
-          "basedOn": "3e8e1a21-6960-4f0f-9873-6792e4a28182",
-          "id": "ca68969a-9b92-4ef2-bea4-e04d195b2b2c",
-          "x": 14,
-          "y": 235,
-          "type": "text",
-          "tagName": "h2"
-        },
-        {
-          "opacity": 85,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Covered By Your Grace",
-            "fallbacks": ["cursive"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1024,
-              "asc": 995,
-              "des": -384,
-              "tAsc": 995,
-              "tDes": -384,
-              "tLGap": 0,
-              "wAsc": 995,
-              "wDes": 384,
-              "xH": 500,
-              "capH": 795,
-              "yMin": -384,
-              "yMax": 1021,
-              "hAsc": 995,
-              "hDes": -384,
-              "lGap": 0
-            }
-          },
-          "fontSize": 160,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"color: #ff2d2d\">?</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 63,
-          "height": 215,
-          "basedOn": "bdf51273-db12-44a2-a28b-32fa7626ebaf",
-          "id": "27029d5c-cb10-4400-92b6-6f3aa651b30d",
-          "x": 341,
-          "y": 254,
-          "type": "text"
-        }
-      ],
-      "animations": [
-        {
-          "id": "31a49106-2f25-45e6-ab5e-baa112fcac8d",
-          "type": "effect-fly-in",
-          "targets": ["4a6f6ac1-7a58-466e-b972-c0ee339808bf"],
-          "flyInDir": "rightToLeft",
-          "duration": 2000,
-          "delay": 0
-        },
-        {
-          "id": "33867d52-f3e4-4638-a2d5-229d00ca1a7c",
-          "type": "effect-fly-in",
-          "targets": ["b64babea-33f3-4264-8af4-3fdeadaab637"],
-          "flyInDir": "leftToRight",
-          "duration": 2000,
-          "delay": 0
-        },
-        {
-          "id": "c2ae724d-d845-4503-9b58-0be2343ef098",
-          "type": "effect-fade-in",
-          "targets": ["ca68969a-9b92-4ef2-bea4-e04d195b2b2c"],
-          "duration": 600,
-          "delay": 500
-        },
-        {
-          "id": "b699e121-7b13-4759-8f19-474fe71c7704",
-          "type": "effect-fly-in",
-          "targets": ["99ed2b90-9c62-4155-9b62-c80eda6ac022"],
-          "flyInDir": "rightToLeft",
-          "duration": 2000,
-          "delay": 300
-        },
-        {
-          "id": "3e575c80-91bd-43b8-b67b-c2800d4ffd24",
-          "type": "effect-fly-in",
-          "targets": ["685975e0-431f-4c4b-8e93-5a829d15b08b"],
-          "flyInDir": "leftToRight",
-          "duration": 2000,
-          "delay": 300
-        },
-        {
-          "id": "7e03bc23-59a5-4a41-9c2f-1affa9f92606",
-          "type": "effect-fade-in",
-          "targets": ["27029d5c-cb10-4400-92b6-6f3aa651b30d"],
-          "duration": 600,
-          "delay": 800
-        }
-      ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "type": "page",
-      "id": "0e0e880b-1817-4bae-892d-3d49fe25b34d",
-      "pageTemplateType": null
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-          "x": 48,
-          "y": 0,
-          "width": 330,
-          "height": 625,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "type": "video",
-          "id": "6fdcc6c8-1d7d-4749-9469-658bd3b5ea7a",
-          "scale": 100,
-          "focalX": 50,
-          "focalY": 50,
-          "resource": {
-            "type": "video",
-            "mimeType": "video/mp4",
-            "creationDate": "2021-06-02T10:57:12",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page8_vid1.mp4",
-            "width": 1080,
-            "height": 2048,
-            "poster": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page8_vid1-poster.jpg",
-            "posterId": 0,
-            "id": 0,
-            "length": 9,
-            "lengthFormatted": "0:09",
-            "alt": "A Woman Lying On Bed",
-            "sizes": [],
-            "isOptimized": true,
-            "isMuted": true,
-            "provider": "local",
-            "baseColor": "#393939",
-            "isExternal": true
-          },
-          "tracks": [],
-          "loop": true
-        }
-      ],
-      "animations": [],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-      "type": "page",
-      "id": "c5d0dc2a-59bc-4fe5-82c5-4e2dd8ea2373",
-      "defaultBackgroundElement": {
-        "opacity": 100,
-        "flip": { "vertical": false, "horizontal": false },
-        "rotationAngle": 0,
-        "lockAspectRatio": true,
-        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
-        "x": 1,
-        "y": 1,
-        "width": 1,
-        "height": 1,
-        "mask": { "type": "rectangle" },
-        "isBackground": true,
-        "isDefaultBackground": true,
-        "type": "shape",
-        "id": "b3631c7e-3b25-4581-8301-07019c59001d"
-      },
-      "pageTemplateType": null
-    },
-    {
-      "elements": [
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
-          "isBackground": true,
-          "isDefaultBackground": true,
-          "id": "06a5fd42-8759-4527-839d-e6db322ba611",
-          "type": "shape"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Six Caps",
-            "fallbacks": ["sans-serif"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 2048,
-              "asc": 2263,
-              "des": -432,
-              "tAsc": 2263,
-              "tDes": -432,
-              "tLGap": 0,
-              "wAsc": 2263,
-              "wDes": 432,
-              "yMin": -506,
-              "yMax": 2281,
-              "hAsc": 2263,
-              "hDes": -432,
-              "lGap": 0
-            }
-          },
-          "fontSize": 400,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.5,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
-          "content": "<span style=\"color: #f2f2f2; text-transform: uppercase\">Brooklyn</span>",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 759,
-          "height": 526,
-          "basedOn": "9e37d4b1-e772-4788-b803-efd5383eca40",
-          "id": "5a747c42-7d9b-4e26-9adb-29f86fccddcf",
-          "x": -123,
-          "y": 42,
-          "border": {
-            "left": 0,
-            "right": 0,
-            "top": 0,
-            "bottom": 0,
-            "lockedWidth": true,
-            "color": { "color": { "r": 0, "g": 0, "b": 0 } }
-          },
-          "type": "text"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "scale": 156,
-          "focalX": 57.963618922231554,
-          "focalY": 50.016088119034805,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "creationDate": "2021-07-21T11:06:17",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page9_img1.jpg",
-            "width": 720,
-            "height": 1080,
-            "id": 0,
-            "alt": "Free stock photo of a woman reading newspaper",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": false,
-            "isMuted": false,
-            "baseColor": "#c0b8b3",
-            "isExternal": true
-          },
-          "backgroundColor": { "color": { "r": 254, "g": 49, "b": 49 } },
-          "width": 304,
-          "height": 448,
-          "mask": { "type": "rectangle" },
-          "basedOn": "d38aa0d7-f3a8-409f-aaae-e9181d57ce41",
-          "id": "c499efe0-85f5-45b7-adc5-8b958ae32ca6",
-          "x": 0,
-          "y": -57,
-          "type": "image"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": true,
-          "backgroundTextMode": "NONE",
-          "font": {
-            "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
-            "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
-            ],
-            "service": "fonts.google.com",
-            "metrics": {
-              "upm": 1000,
-              "asc": 1006,
-              "des": -274,
-              "tAsc": 1006,
-              "tDes": -274,
-              "tLGap": 0,
-              "wAsc": 1206,
-              "wDes": 294,
-              "xH": 500,
-              "capH": 700,
-              "yMin": -271,
-              "yMax": 1114,
-              "hAsc": 1006,
-              "hDes": -274,
-              "lGap": 0
-            }
-          },
-          "fontSize": 16,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
-          "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
-          "content": "There is so much diverse energy in Brooklyn. You can take a turn down a lovely neighborhood street, or get that lively nightlife if you want.",
-          "borderRadius": {
-            "locked": true,
-            "topLeft": 2,
-            "topRight": 2,
-            "bottomRight": 2,
-            "bottomLeft": 2
-          },
-          "width": 223,
-          "height": 129,
+          "width": 376,
+          "height": 138,
           "basedOn": "58774c14-c31f-4e32-806b-934673a36908",
           "id": "032c2609-dcf6-4f9e-b5ba-e68180af13f0",
-          "x": 97,
-          "y": 479,
+          "x": 172,
+          "y": 120,
           "type": "text"
         }
       ],
@@ -1673,46 +3118,169 @@
         {
           "id": "7208af67-7511-4d09-a42e-f3bab2c5dd0a",
           "type": "effect-fly-in",
-          "targets": ["5a747c42-7d9b-4e26-9adb-29f86fccddcf"],
+          "targets": [
+            "5a747c42-7d9b-4e26-9adb-29f86fccddcf"
+          ],
           "flyInDir": "rightToLeft",
           "duration": 7000,
           "delay": 0
         }
       ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
       "type": "page",
       "id": "36b691c7-6c88-4af4-a2d4-8e8fafe57659",
-      "pageTemplateType": "editorial"
+      "pageTemplateType": "editorial",
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "850006e1-f6cd-4b16-8d74-b8fb64069b43",
+        "type": "shape"
+      }
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 326,
+          "height": 490,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
           "id": "9bd1ce1d-a481-4bf1-addb-d5db72633a8f",
-          "type": "shape"
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 3264,
+            "height": 4896,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:t_apIvhl_jg",
+                "sourceUrl": "https://images.unsplash.com/photo-1517871096864-bf03ad78489d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=3264&h=4896&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3264,
+                "height": 4896
+              },
+              "large": {
+                "file": "media/unsplash:t_apIvhl_jg",
+                "sourceUrl": "https://images.unsplash.com/photo-1517871096864-bf03ad78489d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=2611&h=3917&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2611,
+                "height": 3917
+              },
+              "1958_2937": {
+                "file": "media/unsplash:t_apIvhl_jg",
+                "sourceUrl": "https://images.unsplash.com/photo-1517871096864-bf03ad78489d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=1958&h=2937&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1958,
+                "height": 2937
+              },
+              "1305_1958": {
+                "file": "media/unsplash:t_apIvhl_jg",
+                "sourceUrl": "https://images.unsplash.com/photo-1517871096864-bf03ad78489d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=1305&h=1958&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1305,
+                "height": 1958
+              },
+              "652_978": {
+                "file": "media/unsplash:t_apIvhl_jg",
+                "sourceUrl": "https://images.unsplash.com/photo-1517871096864-bf03ad78489d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=652&h=978&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 652,
+                "height": 978
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:t_apIvhl_jg",
+                "sourceUrl": "https://images.unsplash.com/photo-1517871096864-bf03ad78489d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=340&h=510&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 510
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:t_apIvhl_jg",
+            "baseColor": "#262626",
+            "blurHash": "LJCP;Sf600WBRoofxtWBx[a#Rkof",
+            "creationDate": "2018-02-05T22:57:18Z",
+            "src": "https://images.unsplash.com/photo-1517871096864-bf03ad78489d?ixid=MnwxMzcxOTN8MHwxfHNlYXJjaHw2fHxicm9va2x5bnxlbnwwfHx8fDE2ODIxNjA1MTM&ixlib=rb-4.0.3&fm=jpg&w=3264&h=4896&fit=max",
+            "alt": "people walking at train station",
+            "attribution": {
+              "author": {
+                "displayName": "Mitchell Trotter",
+                "url": "https://unsplash.com/@tromj?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfGJJg5K733QS7pUlebFoZBWrn9VDjCA0kuxG%2Bm68LIeXYA6CACd3SFhL%2BBFmOZGgULih4O4Wu%2BeZhBvBUiMCGxKUCDz0Hy0fsv1ti0Dgg2yW1x1KR1X4v5rqtxCJ86GnbGx80m2warim4vj8JwEF18/oIZNImhwOrI2Z1iPzOE9zYSyJ%2Brw3aH3CUEn%2BVn3a5IoWVAfovvr%2BQibcdMlR4DxCbdYNH7AXncA78bWyLI%3D"
+            }
+          },
+          "overlay": {
+            "color": {
+              "r": 0,
+              "g": 0,
+              "b": 0,
+              "a": 0.5
+            }
+          }
         },
         {
           "opacity": 85,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 10,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Covered By Your Grace",
-            "fallbacks": ["cursive"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
+            "fallbacks": [
+              "cursive"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
             "service": "fonts.google.com",
             "metrics": {
               "upm": 1024,
@@ -1732,11 +3300,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 200,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 236,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #ff2d2d\">\"</span>",
           "borderRadius": {
             "locked": true,
@@ -1745,26 +3322,41 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 92,
-          "height": 269,
+          "width": 109,
+          "height": 318,
           "basedOn": "9b5f4749-dba1-4555-b667-a2112436d98c",
           "id": "71853bb0-e683-4df4-afc9-6378607039e3",
-          "x": 11,
-          "y": 243,
-          "type": "text"
+          "x": 187,
+          "y": 129,
+          "type": "text",
+          "marginOffset": 12.583593749999977
         },
         {
           "opacity": 85,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 10,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Covered By Your Grace",
-            "fallbacks": ["cursive"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
+            "fallbacks": [
+              "cursive"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
             "service": "fonts.google.com",
             "metrics": {
               "upm": 1024,
@@ -1784,11 +3376,20 @@
               "lGap": 0
             }
           },
-          "fontSize": 200,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 236,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #ff2d2d\">\"</span>",
           "borderRadius": {
             "locked": true,
@@ -1797,34 +3398,72 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 92,
-          "height": 269,
+          "width": 109,
+          "height": 318,
           "basedOn": "9b5f4749-dba1-4555-b667-a2112436d98c",
           "id": "b209ce60-b077-4423-bdbe-bbaf46e74cbf",
-          "x": 279,
-          "y": 449,
-          "type": "text"
+          "x": 504,
+          "y": 372,
+          "type": "text",
+          "marginOffset": 12.583593749999977
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Lora",
-            "fallbacks": ["serif"],
-            "weights": [400, 500, 600, 700],
-            "styles": ["regular", "italic"],
+            "fallbacks": [
+              "serif"
+            ],
+            "weights": [
+              400,
+              500,
+              600,
+              700
+            ],
+            "styles": [
+              "regular",
+              "italic"
+            ],
             "variants": [
-              [0, 400],
-              [0, 500],
-              [0, 600],
-              [0, 700],
-              [1, 400],
-              [1, 500],
-              [1, 600],
-              [1, 700]
+              [
+                0,
+                400
+              ],
+              [
+                0,
+                500
+              ],
+              [
+                0,
+                600
+              ],
+              [
+                0,
+                700
+              ],
+              [
+                1,
+                400
+              ],
+              [
+                1,
+                500
+              ],
+              [
+                1,
+                600
+              ],
+              [
+                1,
+                700
+              ]
             ],
             "service": "fonts.google.com",
             "metrics": {
@@ -1845,11 +3484,21 @@
               "lGap": 0
             }
           },
-          "fontSize": 24,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "fontSize": 28,
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.3,
           "textAlign": "left",
-          "padding": { "vertical": 0, "horizontal": 0, "locked": true },
+          "padding": {
+            "vertical": 0,
+            "horizontal": 0,
+            "locked": true
+          },
           "content": "<span style=\"color: #fff\">A lot of what inspires me is rooted in Brooklyn. I love to be at home whenever I can and I really fill my place with treasures from people near and dear to me.</span>",
           "borderRadius": {
             "locked": true,
@@ -1858,17 +3507,21 @@
             "bottomRight": 2,
             "bottomLeft": 2
           },
-          "width": 285,
-          "height": 216,
+          "width": 337,
+          "height": 255,
           "basedOn": "ca5c3747-ca26-43bf-829f-11ac96e4daba",
           "id": "33558267-f6af-4466-9933-6b4673dd6b26",
-          "x": 47,
-          "y": 330,
-          "type": "text"
+          "x": 230,
+          "y": 232,
+          "type": "text",
+          "marginOffset": 0.5599999999999952
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 160,
@@ -1878,7 +3531,7 @@
             "type": "image",
             "mimeType": "image/jpeg",
             "creationDate": "2021-07-21T11:07:00",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page10_img1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page10_img1.jpg",
             "width": 1080,
             "height": 720,
             "id": 0,
@@ -1890,14 +3543,22 @@
             "baseColor": "#342420",
             "isExternal": true
           },
-          "backgroundColor": { "color": { "r": 254, "g": 49, "b": 49 } },
+          "backgroundColor": {
+            "color": {
+              "r": 254,
+              "g": 49,
+              "b": 49
+            }
+          },
           "width": 256,
           "height": 366,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "basedOn": "8f4e9c36-4c28-47b7-aeba-5999630343c0",
           "id": "cbf1acf8-1862-4b25-8730-f18c60359851",
-          "x": 157,
-          "y": -57,
+          "x": 735,
+          "y": 156,
           "type": "image"
         }
       ],
@@ -1905,7 +3566,9 @@
         {
           "id": "5cb72c19-8b4d-4334-8266-4fcadf162a06",
           "type": "effect-fly-in",
-          "targets": ["cbf1acf8-1862-4b25-8730-f18c60359851"],
+          "targets": [
+            "cbf1acf8-1862-4b25-8730-f18c60359851"
+          ],
           "flyInDir": "rightToLeft",
           "duration": 2000,
           "delay": 0
@@ -1913,50 +3576,91 @@
         {
           "id": "9cb9da9d-490b-4276-adbb-0858bf95db3c",
           "type": "effect-fade-in",
-          "targets": ["71853bb0-e683-4df4-afc9-6378607039e3"],
+          "targets": [
+            "71853bb0-e683-4df4-afc9-6378607039e3"
+          ],
           "duration": 2000,
           "delay": 0
         },
         {
           "id": "970c6e97-8507-42a4-bbfe-48b28ed1b575",
           "type": "effect-fade-in",
-          "targets": ["b209ce60-b077-4423-bdbe-bbaf46e74cbf"],
+          "targets": [
+            "b209ce60-b077-4423-bdbe-bbaf46e74cbf"
+          ],
           "duration": 600,
           "delay": 600
         }
       ],
-      "backgroundColor": { "color": { "r": 0, "g": 0, "b": 0 } },
+      "backgroundColor": {
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
       "type": "page",
       "id": "8763dc13-eb60-4ff7-b17f-f8f8388d0978",
-      "pageTemplateType": null
+      "pageTemplateType": null,
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "e7441b18-5719-408c-baa8-589fde1a4d81",
+        "type": "shape"
+      }
     },
     {
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+          "backgroundColor": {
+            "color": {
+              "r": 255,
+              "g": 255,
+              "b": 255
+            }
+          },
           "x": 48,
           "y": 0,
           "width": 330,
           "height": 625,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
           "type": "video",
           "id": "378e5de8-25ed-4f1a-8f0c-9a90240fcd43",
           "scale": 100,
           "focalX": 50,
-          "focalY": 50,
+          "focalY": 31.954371675531917,
           "resource": {
             "type": "video",
             "mimeType": "video/mp4",
             "creationDate": "2021-07-22T09:42:26",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page11_vid1.mp4",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page11_vid1.mp4",
             "width": 1080,
             "height": 2048,
-            "poster": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page11_vid1-poster.jpg",
+            "poster": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page11_vid1-poster.jpg",
             "posterId": 0,
             "id": 0,
             "length": 15,
@@ -1975,7 +3679,13 @@
         }
       ],
       "animations": [],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
       "type": "page",
       "id": "00330383-ed24-4e3a-96c9-9fb40d7c0eb5",
       "pageAttachment": {
@@ -1985,15 +3695,26 @@
       },
       "defaultBackgroundElement": {
         "opacity": 100,
-        "flip": { "vertical": false, "horizontal": false },
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
         "rotationAngle": 0,
         "lockAspectRatio": true,
-        "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+        "backgroundColor": {
+          "color": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+          }
+        },
         "x": 1,
         "y": 1,
         "width": 1,
         "height": 1,
-        "mask": { "type": "rectangle" },
+        "mask": {
+          "type": "rectangle"
+        },
         "isBackground": true,
         "isDefaultBackground": true,
         "type": "shape",
@@ -2005,31 +3726,146 @@
       "elements": [
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
-          "x": 1,
-          "y": 1,
-          "width": 1,
-          "height": 1,
-          "mask": { "type": "rectangle" },
+          "x": 48,
+          "y": 0,
+          "width": 307,
+          "height": 410,
+          "mask": {
+            "type": "rectangle"
+          },
           "isBackground": true,
-          "isDefaultBackground": true,
           "id": "c36f0cfe-d15f-4b37-8c02-de3bf7b7c8e5",
-          "type": "shape"
+          "type": "image",
+          "scale": 100,
+          "focalX": 50,
+          "focalY": 50,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "width": 3072,
+            "height": 4098,
+            "sizes": {
+              "full": {
+                "file": "media/unsplash:MObehp959c0",
+                "sourceUrl": "https://images.unsplash.com/photo-1679679195912-29d0190805ad?ixid=MnwxMzcxOTN8MXwxfHNlYXJjaHwxfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjE0NDA4MQ&ixlib=rb-4.0.3&fm=jpg&w=3072&h=4098&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 3072,
+                "height": 4098
+              },
+              "large": {
+                "file": "media/unsplash:MObehp959c0",
+                "sourceUrl": "https://images.unsplash.com/photo-1679679195912-29d0190805ad?ixid=MnwxMzcxOTN8MXwxfHNlYXJjaHwxfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjE0NDA4MQ&ixlib=rb-4.0.3&fm=jpg&w=2457&h=3278&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 2457,
+                "height": 3278
+              },
+              "1843_2459": {
+                "file": "media/unsplash:MObehp959c0",
+                "sourceUrl": "https://images.unsplash.com/photo-1679679195912-29d0190805ad?ixid=MnwxMzcxOTN8MXwxfHNlYXJjaHwxfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjE0NDA4MQ&ixlib=rb-4.0.3&fm=jpg&w=1843&h=2459&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1843,
+                "height": 2459
+              },
+              "1228_1638": {
+                "file": "media/unsplash:MObehp959c0",
+                "sourceUrl": "https://images.unsplash.com/photo-1679679195912-29d0190805ad?ixid=MnwxMzcxOTN8MXwxfHNlYXJjaHwxfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjE0NDA4MQ&ixlib=rb-4.0.3&fm=jpg&w=1228&h=1638&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 1228,
+                "height": 1638
+              },
+              "614_819": {
+                "file": "media/unsplash:MObehp959c0",
+                "sourceUrl": "https://images.unsplash.com/photo-1679679195912-29d0190805ad?ixid=MnwxMzcxOTN8MXwxfHNlYXJjaHwxfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjE0NDA4MQ&ixlib=rb-4.0.3&fm=jpg&w=614&h=819&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 614,
+                "height": 819
+              },
+              "web_stories_thumbnail": {
+                "file": "media/unsplash:MObehp959c0",
+                "sourceUrl": "https://images.unsplash.com/photo-1679679195912-29d0190805ad?ixid=MnwxMzcxOTN8MXwxfHNlYXJjaHwxfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjE0NDA4MQ&ixlib=rb-4.0.3&fm=jpg&w=340&h=454&fit=max",
+                "mimeType": "image/jpeg",
+                "width": 340,
+                "height": 454
+              }
+            },
+            "isPlaceholder": false,
+            "isExternal": true,
+            "needsProxy": false,
+            "id": "media/unsplash:MObehp959c0",
+            "baseColor": "#c0d9d9",
+            "blurHash": "LLKBUW-qU[-OiGx]%gRk%2R%RjWa",
+            "creationDate": "2023-03-24T17:33:19Z",
+            "src": "https://images.unsplash.com/photo-1679679195912-29d0190805ad?ixid=MnwxMzcxOTN8MXwxfHNlYXJjaHwxfHxiYWNrZ3JvdW5kfGVufDB8fHx8MTY4MjE0NDA4MQ&ixlib=rb-4.0.3&fm=jpg&w=3072&h=4098&fit=max",
+            "alt": "a person holding an umbrella in front of a colorful wall",
+            "attribution": {
+              "author": {
+                "displayName": "Boxed Water Is Better",
+                "url": "https://unsplash.com/@boxedwater?utm_source=web_stories_wordpress&utm_medium=referral"
+              },
+              "registerUsageUrl": "https://media3p.googleapis.com/v1/media:registerUsage?token=Aeo1mfEtL0xz/m5zVMY9%2BhANa7f4a07qHnO5pRXIC8bndOceGVb%2BG3umxwVokpLYcgHl2UKnfWPRCzlrc9zFY2H2fAbcVmOtV/0zU7LmIjkXjs/040eMS2SbqApi/q4CR3xljGR1POxSQMWSUdHJ6drA3BavnkEDP1e6zzFvRKVtMkCf1ctRmjPUj7bgSlQEay/iU3bRpvf3Idi6aIsd6I2uMbqN5D1utBZF4Lfga7qwVtA0sfw%3D"
+            }
+          },
+          "overlay": {
+            "type": "radial",
+            "size": {
+              "w": 0.67,
+              "h": 0.67
+            },
+            "stops": [
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 0
+                },
+                "position": 0.4
+              },
+              {
+                "color": {
+                  "r": 0,
+                  "g": 0,
+                  "b": 0,
+                  "a": 1
+                },
+                "position": 1
+              }
+            ],
+            "alpha": 0.5
+          }
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Six Caps",
-            "fallbacks": ["sans-serif"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
             "service": "fonts.google.com",
             "metrics": {
               "upm": 2048,
@@ -2048,10 +3884,19 @@
             }
           },
           "fontSize": 271,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.5,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #f2f2f2; text-transform: uppercase\">More videos</span>",
           "borderRadius": {
             "locked": true,
@@ -2064,30 +3909,50 @@
           "height": 356,
           "basedOn": "9e37d4b1-e772-4788-b803-efd5383eca40",
           "id": "bb66915e-fbea-4a6a-b883-31fcc3476910",
-          "x": -115,
-          "y": 122,
+          "x": 324,
+          "y": 179,
           "border": {
             "left": 0,
             "right": 0,
             "top": 0,
             "bottom": 0,
             "lockedWidth": true,
-            "color": { "color": { "r": 0, "g": 0, "b": 0 } }
+            "color": {
+              "color": {
+                "r": 0,
+                "g": 0,
+                "b": 0
+              }
+            }
           },
           "type": "text"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Six Caps",
-            "fallbacks": ["sans-serif"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
             "service": "fonts.google.com",
             "metrics": {
               "upm": 2048,
@@ -2106,10 +3971,19 @@
             }
           },
           "fontSize": 120,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 0.9,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"text-transform: uppercase\">Javier</span>\n<span style=\"text-transform: uppercase\">Dardem</span>",
           "borderRadius": {
             "locked": true,
@@ -2122,14 +3996,17 @@
           "height": 265,
           "basedOn": "9e46a676-8045-4183-aeb3-9c49f54a7edd",
           "id": "2184c995-419b-4bbc-b56f-e7736ad376eb",
-          "x": 56,
-          "y": 21,
+          "x": 495,
+          "y": 78,
           "type": "text",
           "groupId": "3ebd0057-d737-46f7-8c87-e6ff33636366"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 0,
           "lockAspectRatio": false,
           "scale": 120,
@@ -2139,7 +4016,7 @@
             "type": "image",
             "mimeType": "image/jpeg",
             "creationDate": "2021-07-21T11:07:45",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page12_img1.jpg",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page12_img1.jpg",
             "width": 720,
             "height": 1080,
             "id": 0,
@@ -2151,29 +4028,97 @@
             "baseColor": "#33211f",
             "isExternal": true
           },
-          "backgroundColor": { "color": { "r": 254, "g": 49, "b": 49 } },
+          "backgroundColor": {
+            "color": {
+              "r": 254,
+              "g": 49,
+              "b": 49
+            }
+          },
           "width": 200,
           "height": 250,
-          "mask": { "type": "rectangle" },
+          "mask": {
+            "type": "rectangle"
+          },
           "basedOn": "d38aa0d7-f3a8-409f-aaae-e9181d57ce41",
           "id": "1e0f3868-24d5-4f1b-aab3-dd539ce372bf",
-          "x": 212,
-          "y": -57,
+          "x": 651,
+          "y": 0,
           "type": "image",
           "groupId": "3ebd0057-d737-46f7-8c87-e6ff33636366"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
+          "rotationAngle": 0,
+          "lockAspectRatio": false,
+          "scale": 238,
+          "focalX": 44.35726663090819,
+          "focalY": 35.77049846055113,
+          "resource": {
+            "type": "image",
+            "mimeType": "image/jpeg",
+            "creationDate": "2021-07-21T11:08:10",
+            "src": "https://wp.stories.google/static/19/images/templates/celebrity-q-and-a/page12_img2.jpg",
+            "width": 720,
+            "height": 1080,
+            "id": 0,
+            "alt": "Woman in Black Double Breasted Long-sleeved Dress",
+            "sizes": [],
+            "isPlaceholder": false,
+            "isOptimized": false,
+            "isMuted": false,
+            "baseColor": "#dac4ae",
+            "isExternal": true
+          },
+          "backgroundColor": {
+            "color": {
+              "r": 254,
+              "g": 49,
+              "b": 49
+            }
+          },
+          "width": 168,
+          "height": 294,
+          "mask": {
+            "type": "rectangle"
+          },
+          "basedOn": "b4920a69-bf49-415c-9496-97e3ad6adc81",
+          "id": "4b3c1c28-6607-4fc2-a4b5-ab606572f279",
+          "x": 439,
+          "y": 438,
+          "type": "image",
+          "groupId": "0d44408c-9f4e-4d01-bdd8-073a8dcd419b"
+        },
+        {
+          "opacity": 100,
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": 16,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Covered By Your Grace",
-            "fallbacks": ["cursive"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
+            "fallbacks": [
+              "cursive"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
             "service": "fonts.google.com",
             "metrics": {
               "upm": 1024,
@@ -2194,10 +4139,19 @@
             }
           },
           "fontSize": 66,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #ff2d2d\">Q&amp;A</span>",
           "borderRadius": {
             "locked": true,
@@ -2210,58 +4164,37 @@
           "height": 89,
           "basedOn": "334d73e5-3559-45a7-93d2-e97f41287616",
           "id": "03d45231-d0e1-4389-b51f-d7457f38d448",
-          "x": 27,
-          "y": -2,
+          "x": 466,
+          "y": 55,
           "type": "text",
           "groupId": "3ebd0057-d737-46f7-8c87-e6ff33636366"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
-          "rotationAngle": 0,
-          "lockAspectRatio": false,
-          "scale": 238,
-          "focalX": 44.35726663090819,
-          "focalY": 35.77049846055113,
-          "resource": {
-            "type": "image",
-            "mimeType": "image/jpeg",
-            "creationDate": "2021-07-21T11:08:10",
-            "src": "__WEB_STORIES_TEMPLATE_BASE_URL__/images/templates/celebrity-q-and-a/page12_img2.jpg",
-            "width": 720,
-            "height": 1080,
-            "id": 0,
-            "alt": "Woman in Black Double Breasted Long-sleeved Dress",
-            "sizes": [],
-            "isPlaceholder": false,
-            "isOptimized": false,
-            "isMuted": false,
-            "baseColor": "#dac4ae",
-            "isExternal": true
+          "flip": {
+            "vertical": false,
+            "horizontal": false
           },
-          "backgroundColor": { "color": { "r": 254, "g": 49, "b": 49 } },
-          "width": 168,
-          "height": 294,
-          "mask": { "type": "rectangle" },
-          "basedOn": "b4920a69-bf49-415c-9496-97e3ad6adc81",
-          "id": "4b3c1c28-6607-4fc2-a4b5-ab606572f279",
-          "x": 0,
-          "y": 381,
-          "type": "image",
-          "groupId": "0d44408c-9f4e-4d01-bdd8-073a8dcd419b"
-        },
-        {
-          "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
           "rotationAngle": 0,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Six Caps",
-            "fallbacks": ["sans-serif"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
+            "fallbacks": [
+              "sans-serif"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
             "service": "fonts.google.com",
             "metrics": {
               "upm": 2048,
@@ -2280,10 +4213,19 @@
             }
           },
           "fontSize": 120,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 0.9,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"text-transform: uppercase\">Dree</span>\n<span style=\"text-transform: uppercase\">Larson</span>",
           "borderRadius": {
             "locked": true,
@@ -2296,23 +4238,37 @@
           "height": 266,
           "basedOn": "97e47161-4a06-4d47-8b16-88fcaf2d1763",
           "id": "b0c805a0-3f15-4fe8-aff9-140d6a1d7def",
-          "x": 181,
-          "y": 346,
+          "x": 620,
+          "y": 403,
           "type": "text",
           "groupId": "0d44408c-9f4e-4d01-bdd8-073a8dcd419b"
         },
         {
           "opacity": 100,
-          "flip": { "vertical": false, "horizontal": false },
+          "flip": {
+            "vertical": false,
+            "horizontal": false
+          },
           "rotationAngle": -10,
           "lockAspectRatio": true,
           "backgroundTextMode": "NONE",
           "font": {
             "family": "Covered By Your Grace",
-            "fallbacks": ["cursive"],
-            "weights": [400],
-            "styles": ["regular"],
-            "variants": [[0, 400]],
+            "fallbacks": [
+              "cursive"
+            ],
+            "weights": [
+              400
+            ],
+            "styles": [
+              "regular"
+            ],
+            "variants": [
+              [
+                0,
+                400
+              ]
+            ],
             "service": "fonts.google.com",
             "metrics": {
               "upm": 1024,
@@ -2333,10 +4289,19 @@
             }
           },
           "fontSize": 66,
-          "backgroundColor": { "color": { "r": 196, "g": 196, "b": 196 } },
+          "backgroundColor": {
+            "color": {
+              "r": 196,
+              "g": 196,
+              "b": 196
+            }
+          },
           "lineHeight": 1.4,
-          "textAlign": "left",
-          "padding": { "locked": true, "hasHiddenPadding": false },
+          "textAlign": "initial",
+          "padding": {
+            "locked": true,
+            "hasHiddenPadding": false
+          },
           "content": "<span style=\"color: #ff2d2d\">Q&amp;A</span>",
           "borderRadius": {
             "locked": true,
@@ -2349,8 +4314,8 @@
           "height": 89,
           "basedOn": "c57c4d4a-4347-46d3-8232-b0403f098014",
           "id": "c6d5c39d-d54a-4748-b071-603b17e88bf7",
-          "x": 275,
-          "y": 543,
+          "x": 714,
+          "y": 600,
           "type": "text",
           "groupId": "0d44408c-9f4e-4d01-bdd8-073a8dcd419b"
         }
@@ -2359,7 +4324,9 @@
         {
           "id": "a30ff780-af50-41bb-8a2a-586d586a8150",
           "type": "effect-fly-in",
-          "targets": ["1e0f3868-24d5-4f1b-aab3-dd539ce372bf"],
+          "targets": [
+            "1e0f3868-24d5-4f1b-aab3-dd539ce372bf"
+          ],
           "flyInDir": "rightToLeft",
           "duration": 2000,
           "delay": 0
@@ -2367,7 +4334,9 @@
         {
           "id": "03ef823c-b842-4814-9419-8adfabd45c30",
           "type": "effect-fly-in",
-          "targets": ["2184c995-419b-4bbc-b56f-e7736ad376eb"],
+          "targets": [
+            "2184c995-419b-4bbc-b56f-e7736ad376eb"
+          ],
           "flyInDir": "leftToRight",
           "duration": 2000,
           "delay": 0
@@ -2375,14 +4344,18 @@
         {
           "id": "6b718c7e-99f5-49f1-8b5b-9633818d879d",
           "type": "effect-fade-in",
-          "targets": ["03d45231-d0e1-4389-b51f-d7457f38d448"],
+          "targets": [
+            "03d45231-d0e1-4389-b51f-d7457f38d448"
+          ],
           "duration": 2000,
           "delay": 200
         },
         {
           "id": "00fdcc6d-22b5-4179-bcd7-a05c226dd79c",
           "type": "effect-fly-in",
-          "targets": ["4b3c1c28-6607-4fc2-a4b5-ab606572f279"],
+          "targets": [
+            "4b3c1c28-6607-4fc2-a4b5-ab606572f279"
+          ],
           "flyInDir": "leftToRight",
           "duration": 2000,
           "delay": 200
@@ -2390,7 +4363,9 @@
         {
           "id": "bb6aa27c-9627-4ea2-a697-b64c77711d37",
           "type": "effect-fly-in",
-          "targets": ["b0c805a0-3f15-4fe8-aff9-140d6a1d7def"],
+          "targets": [
+            "b0c805a0-3f15-4fe8-aff9-140d6a1d7def"
+          ],
           "flyInDir": "rightToLeft",
           "duration": 2000,
           "delay": 200
@@ -2398,12 +4373,20 @@
         {
           "id": "2becce85-c134-4c91-9414-3da6ecbc53e4",
           "type": "effect-fade-in",
-          "targets": ["c6d5c39d-d54a-4748-b071-603b17e88bf7"],
+          "targets": [
+            "c6d5c39d-d54a-4748-b071-603b17e88bf7"
+          ],
           "duration": 2000,
           "delay": 300
         }
       ],
-      "backgroundColor": { "color": { "r": 255, "g": 255, "b": 255 } },
+      "backgroundColor": {
+        "color": {
+          "r": 255,
+          "g": 255,
+          "b": 255
+        }
+      },
       "type": "page",
       "id": "2a32f8e5-db1b-4e1c-95b9-534caadfdbe1",
       "pageTemplateType": "list",
@@ -2418,6 +4401,26 @@
           "isLocked": false,
           "isCollapsed": true
         }
+      },
+      "defaultBackgroundElement": {
+        "opacity": 100,
+        "flip": {
+          "vertical": false,
+          "horizontal": false
+        },
+        "rotationAngle": 0,
+        "lockAspectRatio": true,
+        "x": 1,
+        "y": 1,
+        "width": 1,
+        "height": 1,
+        "mask": {
+          "type": "rectangle"
+        },
+        "isBackground": true,
+        "isDefaultBackground": true,
+        "id": "b6c79e82-5da5-4603-a86b-36ca142e3548",
+        "type": "shape"
       }
     }
   ],
