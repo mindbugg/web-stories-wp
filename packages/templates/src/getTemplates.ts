@@ -83,7 +83,7 @@ async function loadTemplate(
     })),
 
     postersByPage: data.default.pages.map((_, i) => {
-      const srcPath = `${imageBaseUrl}images/templates/${
+      const srcPath = `https://du5pctsxx75is.cloudfront.net/images/templates/${
         data.default.slug
       }/posters/${i + 1}`;
       return {
