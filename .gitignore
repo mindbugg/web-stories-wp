@@ -16,7 +16,7 @@ bin/local-env/docker-compose.override.yml
 /includes/vendor
 /includes/composer.json
 /plugin-assets
-/public
+
 /static
 /third-party
 /vendor
